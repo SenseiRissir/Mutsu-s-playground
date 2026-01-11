@@ -3,13 +3,15 @@
  * Built by MUTSU~♡
  */
 
-const CACHE_NAME = 'sensei-fitness-v1';
+const CACHE_NAME = 'sensei-fitness-v2';
 const ASSETS_TO_CACHE = [
-    '/',
-    '/index.html',
-    '/styles.css',
-    '/app.js',
-    '/manifest.json'
+    './',
+    './index.html',
+    './styles.css',
+    './app.js',
+    './manifest.json',
+    './icons/icon-192.png',
+    './icons/icon-512.png'
 ];
 
 // Install event - cache assets
