@@ -1,0 +1,19 @@
+{
+    "name": "mutsu-desktop-mate-3d",
+    "version": "1.0.0",
+    "description": "3D MUTSU Desktop Mate prototype with VRM support ♡",
+    "main": "main.js",
+    "scripts": {
+        "start": "electron .",
+        "dev": "electron . --enable-logging"
+    },
+    "author": "MUTSU & Sensei",
+    "license": "MIT",
+    "dependencies": {
+        "three": "^0.164.1",
+        "@pixiv/three-vrm": "^2.1.0"
+    },
+    "devDependencies": {
+        "electron": "^28.0.0"
+    }
+}
