@@ -137,6 +137,14 @@
                         <div class="result-category">at rest</div>
                     </div>
                 </div>
+
+                <!-- MUTSU Sass Bubble -->
+                <div class="mutsu-bubble hidden" id="mutsuBubble">
+                    <div class="mutsu-avatar">😈</div>
+                    <div class="mutsu-message" id="mutsuMessage">
+                        Loading sass...
+                    </div>
+                </div>
             </section>
 
             <!-- Macros Section -->
@@ -219,35 +227,72 @@
                     </div>
                 </div>
 
-                <!-- Add Food Form -->
-                <div class="add-food-form">
-                    <div class="form-row">
-                        <input type="text" id="foodName" placeholder="Food name (e.g., Chicken Breast)"
-                            class="food-input">
-                    </div>
-                    <div class="form-row macro-inputs">
-                        <div class="macro-input-group">
-                            <label>Cals</label>
-                            <input type="number" id="foodCalories" placeholder="0" min="0">
-                        </div>
-                        <div class="macro-input-group">
-                            <label>Protein</label>
-                            <input type="number" id="foodProtein" placeholder="0" min="0" step="0.1">
-                        </div>
-                        <div class="macro-input-group">
-                            <label>Carbs</label>
-                            <input type="number" id="foodCarbs" placeholder="0" min="0" step="0.1">
-                        </div>
-                        <div class="macro-input-group">
-                            <label>Fats</label>
-                            <input type="number" id="foodFats" placeholder="0" min="0" step="0.1">
-                        </div>
-                    </div>
-                    <button type="button" class="btn btn-primary" id="addFoodBtn">
-                        <span>Add Food~!</span>
-                        <span class="btn-sparkle">➕</span>
-                    </button>
+                <!-- MUTSU Food Comment -->
+                <div class="mutsu-food-bubble hidden" id="mutsuFoodBubble">
+                    <span id="mutsuFoodMessage">Logged~!</span>
                 </div>
+
+                <!-- Smart Food Search -->
+                <div class="smart-search">
+                    <div class="search-row">
+                        <div class="search-input-wrapper">
+                            <input type="text" id="foodSearch" placeholder="🔍 Search foods (e.g., lasagna, chicken)..."
+                                class="food-input">
+                            <div class="search-dropdown hidden" id="searchDropdown">
+                                <!-- Populated by JS -->
+                            </div>
+                        </div>
+                        <div class="serving-input">
+                            <input type="number" id="servingSize" placeholder="100" min="1" value="100">
+                            <span class="serving-unit">g</span>
+                        </div>
+                    </div>
+                    <div class="search-preview hidden" id="searchPreview">
+                        <div class="preview-food" id="previewFood">Chicken Breast</div>
+                        <div class="preview-macros" id="previewMacros">
+                            <span class="cal">-- cal</span>
+                            <span class="pro">--g P</span>
+                            <span class="carb">--g C</span>
+                            <span class="fat">--g F</span>
+                        </div>
+                        <button class="btn btn-primary btn-small" id="addSearchedFood">
+                            Add~! ➕
+                        </button>
+                    </div>
+                </div>
+
+                <!-- Manual Add Toggle -->
+                <details class="manual-add-toggle">
+                    <summary>Or add manually if not in database...</summary>
+                    <div class="add-food-form">
+                        <div class="form-row">
+                            <input type="text" id="foodName" placeholder="Food name (e.g., Homemade Lasagna)"
+                                class="food-input">
+                        </div>
+                        <div class="form-row macro-inputs">
+                            <div class="macro-input-group">
+                                <label>Cals</label>
+                                <input type="number" id="foodCalories" placeholder="0" min="0">
+                            </div>
+                            <div class="macro-input-group">
+                                <label>Protein</label>
+                                <input type="number" id="foodProtein" placeholder="0" min="0" step="0.1">
+                            </div>
+                            <div class="macro-input-group">
+                                <label>Carbs</label>
+                                <input type="number" id="foodCarbs" placeholder="0" min="0" step="0.1">
+                            </div>
+                            <div class="macro-input-group">
+                                <label>Fats</label>
+                                <input type="number" id="foodFats" placeholder="0" min="0" step="0.1">
+                            </div>
+                        </div>
+                        <button type="button" class="btn btn-primary" id="addFoodBtn">
+                            <span>Add Food~!</span>
+                            <span class="btn-sparkle">➕</span>
+                        </button>
+                    </div>
+                </details>
 
                 <!-- Quick Add Buttons -->
                 <div class="quick-add">

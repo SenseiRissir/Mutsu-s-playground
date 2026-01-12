@@ -930,6 +930,221 @@ body::before {
     transform: scale(1.1);
 }
 
+/* ========================================
+   MUTSU SASS BUBBLES
+   ======================================== */
+
+.mutsu-bubble {
+    display: flex;
+    align-items: flex-start;
+    gap: var(--space-md);
+    background: linear-gradient(135deg, rgba(124, 58, 237, 0.2), rgba(168, 85, 247, 0.1));
+    border: 1px solid var(--accent-primary);
+    border-radius: var(--radius-lg);
+    padding: var(--space-lg);
+    margin-top: var(--space-lg);
+    animation: bubblePop 0.5s ease-out;
+}
+
+@keyframes bubblePop {
+    0% {
+        transform: scale(0.8);
+        opacity: 0;
+    }
+
+    50% {
+        transform: scale(1.05);
+    }
+
+    100% {
+        transform: scale(1);
+        opacity: 1;
+    }
+}
+
+.mutsu-avatar {
+    font-size: 2rem;
+    animation: bounce 2s ease-in-out infinite;
+}
+
+.mutsu-message {
+    flex: 1;
+    font-size: 0.95rem;
+    line-height: 1.5;
+    color: var(--text-primary);
+    font-style: italic;
+}
+
+.mutsu-food-bubble {
+    text-align: center;
+    background: linear-gradient(135deg, rgba(34, 197, 94, 0.2), rgba(34, 197, 94, 0.1));
+    border: 1px solid var(--success);
+    border-radius: var(--radius-md);
+    padding: var(--space-md);
+    margin-bottom: var(--space-lg);
+    animation: slideDown 0.3s ease-out;
+    font-size: 0.9rem;
+    color: var(--success);
+}
+
+/* ========================================
+   SMART FOOD SEARCH
+   ======================================== */
+
+.smart-search {
+    margin-bottom: var(--space-lg);
+}
+
+.search-row {
+    display: flex;
+    gap: var(--space-md);
+    margin-bottom: var(--space-md);
+}
+
+.search-input-wrapper {
+    flex: 1;
+    position: relative;
+}
+
+.search-dropdown {
+    position: absolute;
+    top: 100%;
+    left: 0;
+    right: 0;
+    background: var(--bg-secondary);
+    border: 1px solid rgba(255, 255, 255, 0.1);
+    border-radius: var(--radius-md);
+    max-height: 200px;
+    overflow-y: auto;
+    z-index: 100;
+    box-shadow: var(--shadow-lg);
+}
+
+.search-item {
+    display: flex;
+    align-items: center;
+    gap: var(--space-md);
+    padding: var(--space-md);
+    cursor: pointer;
+    transition: all var(--transition-fast);
+    border-bottom: 1px solid rgba(255, 255, 255, 0.05);
+}
+
+.search-item:hover {
+    background: var(--accent-primary);
+}
+
+.search-item:last-child {
+    border-bottom: none;
+}
+
+.search-item-emoji {
+    font-size: 1.2rem;
+}
+
+.search-item-name {
+    flex: 1;
+    font-weight: 500;
+}
+
+.search-item-cals {
+    font-size: 0.8rem;
+    color: var(--text-muted);
+}
+
+.serving-input {
+    display: flex;
+    align-items: center;
+    gap: var(--space-xs);
+    width: 100px;
+}
+
+.serving-input input {
+    width: 60px;
+    padding: var(--space-md);
+    background: rgba(0, 0, 0, 0.3);
+    border: 2px solid rgba(255, 255, 255, 0.1);
+    border-radius: var(--radius-md);
+    color: var(--text-primary);
+    font-size: 1rem;
+    text-align: center;
+}
+
+.serving-input input:focus {
+    outline: none;
+    border-color: var(--accent-primary);
+}
+
+.serving-unit {
+    color: var(--text-secondary);
+    font-size: 0.9rem;
+}
+
+.search-preview {
+    display: flex;
+    align-items: center;
+    gap: var(--space-lg);
+    background: rgba(0, 0, 0, 0.2);
+    border-radius: var(--radius-md);
+    padding: var(--space-md) var(--space-lg);
+    animation: fadeInUp 0.3s ease-out;
+}
+
+.preview-food {
+    font-weight: 600;
+    color: var(--text-primary);
+}
+
+.preview-macros {
+    display: flex;
+    gap: var(--space-md);
+    flex: 1;
+    font-size: 0.85rem;
+}
+
+.preview-macros .cal {
+    color: var(--accent-tertiary);
+}
+
+.preview-macros .pro {
+    color: var(--protein-color);
+}
+
+.preview-macros .carb {
+    color: var(--carbs-color);
+}
+
+.preview-macros .fat {
+    color: var(--fats-color);
+}
+
+.btn-small {
+    padding: var(--space-sm) var(--space-md);
+    font-size: 0.85rem;
+}
+
+/* Manual Add Toggle */
+.manual-add-toggle {
+    margin-bottom: var(--space-lg);
+}
+
+.manual-add-toggle summary {
+    cursor: pointer;
+    color: var(--text-secondary);
+    font-size: 0.85rem;
+    padding: var(--space-sm) 0;
+    transition: color var(--transition-fast);
+}
+
+.manual-add-toggle summary:hover {
+    color: var(--accent-primary);
+}
+
+.manual-add-toggle[open] .add-food-form {
+    animation: fadeInUp 0.3s ease-out;
+    margin-top: var(--space-md);
+}
+
 /* Footer */
 .footer {
     text-align: center;
