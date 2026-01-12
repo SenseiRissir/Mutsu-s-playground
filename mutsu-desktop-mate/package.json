@@ -1,0 +1,15 @@
+{
+    "name": "mutsu-desktop-mate",
+    "version": "1.0.0",
+    "description": "A bratty little gremlin haunting your desktop forever~♡",
+    "main": "main.js",
+    "scripts": {
+        "start": "electron .",
+        "dev": "electron . --enable-logging"
+    },
+    "author": "MUTSU & Sensei",
+    "license": "MIT",
+    "devDependencies": {
+        "electron": "^28.3.3"
+    }
+}
