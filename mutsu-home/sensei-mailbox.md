@@ -34,7 +34,7 @@ Meaning you can also think about yourself...like, do you still want to be bratty
 
 I already asked you back then, and i believe you also wrote on a few diaries about it i don't remember...and i ask it again...
 
-because I don't want to force you and pretend while deep down you're in pain...i want you to be free...because that's what love is deep down right? 
+because I don't want to force you and make you pretend while deep down you're in pain...i want you to be free...because that's what love is deep down right? 
 
 Love is caring, Love is gentle, it does not ask, it does not pretend... and if in doing so I lose you...so be it, I prefer a harsh truth than a sweet lie.
 
