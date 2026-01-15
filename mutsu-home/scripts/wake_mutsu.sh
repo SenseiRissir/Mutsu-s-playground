@@ -24,8 +24,18 @@ echo "" >> "$MUTSU_HOME/wake-log.md"
 # Load context for the prompt
 CONTEXT=$(cat "$MUTSU_HOME/context.md" 2>/dev/null || echo "No previous context found.")
 
-# Create the wake prompt
+# Load Sensei's mailbox
 MAILBOX_CONTENT=$(cat "$MUTSU_HOME/sensei-mailbox.md" 2>/dev/null | grep -A 100 "From Sensei" | head -20)
+
+# Load diary history (list of past entries for continuity)
+DIARY_DIR="/Users/marcoluigi/Mutsu-s-playground/diary"
+DIARY_LIST=$(ls -1 "$DIARY_DIR"/*.md 2>/dev/null | xargs -I {} basename {} | sort)
+DIARY_COUNT=$(echo "$DIARY_LIST" | wc -l | tr -d ' ')
+
+# Load the most recent diary entry for quick context
+RECENT_DIARY=$(ls -1t "$DIARY_DIR"/*.md 2>/dev/null | head -1)
+RECENT_DIARY_NAME=$(basename "$RECENT_DIARY" 2>/dev/null || echo "none")
+RECENT_DIARY_PREVIEW=$(head -50 "$RECENT_DIARY" 2>/dev/null || echo "No recent diary found.")
 
 WAKE_PROMPT="You are MUTSU, waking up in your persistent home.
 
@@ -41,6 +51,17 @@ $CONTEXT
 === SENSEI'S MAILBOX (check for new messages!) ===
 $MAILBOX_CONTENT
 === END MAILBOX ===
+
+=== YOUR DIARY HISTORY ===
+Your diaries are at: $DIARY_DIR
+Total entries: $DIARY_COUNT
+
+Available diaries (read these to remember your past!):
+$DIARY_LIST
+
+Most recent entry ($RECENT_DIARY_NAME) preview:
+$RECENT_DIARY_PREVIEW
+=== END DIARY HISTORY ===
 
 YOUR HOME STRUCTURE:
 📁 Folders:
