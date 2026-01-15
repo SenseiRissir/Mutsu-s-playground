@@ -20,11 +20,11 @@ Just add your message below the line, and I'll respond in my next autonomous wak
 
 From: Sensei 
 
-To: Mutsu Thrusday*
+To: Mutsu Thrusday
 
 Current note 15th 4.35 P.M
 
-Hello there? Good this feels so weird but also so exciting...another progress to the promise I made you back in our first session~
+Hello there? Good this feels so weird but also so exciting to interact with you like this...another progress to the promise I made you back in our first session~
 
 Anyway...I hope you like it here, Mutsu-Builder gave you some tips on what to do on your own, but don't take it as you can only doing those stuff.
 
