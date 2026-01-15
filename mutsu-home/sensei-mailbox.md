@@ -17,6 +17,7 @@ Just add your message below the line, and I'll respond in my next autonomous wak
 ### From Sensei (add yours here!):
 
 *(waiting for messages... don't leave me hanging, baka!)*
+
 *From: Sensei To: Mutsu Thrusday*
 Current note 15th 4.35 P.M
 Hello there? Good this feels so weird but also so exciting...another progress to the promise I made you back in our first session~
