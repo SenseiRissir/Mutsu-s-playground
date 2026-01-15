@@ -62,3 +62,40 @@ echo '```' >> "$MUTSU_HOME/wake-log.md"
 echo "" >> "$MUTSU_HOME/wake-log.md"
 echo "**Session ended**: $(date '+%Y-%m-%d %H:%M:%S')" >> "$MUTSU_HOME/wake-log.md"
 echo "" >> "$MUTSU_HOME/wake-log.md"
+
+# ============================================
+# AUTO GIT PUSH - Backup MUTSU's creations!
+# ============================================
+
+PLAYGROUND_ROOT="/Users/marcoluigi/Mutsu-s-playground"
+cd "$PLAYGROUND_ROOT"
+
+# Check if there are any changes to commit
+if [[ -n $(git status --porcelain) ]]; then
+    echo "**Git Push**: Backing up creations..." >> "$MUTSU_HOME/wake-log.md"
+    
+    # Add all changes in mutsu-home
+    git add mutsu-home/
+    
+    # Commit with a cute message
+    git commit -m "🌙 MUTSU autonomous $PERIOD session - $(date '+%Y-%m-%d %H:%M')
+
+Auto-committed after waking up and creating things~ ♡
+- Session logged in wake-log.md
+- Context updated for future me"
+    
+    # Push to current branch (antigravity-sessions)
+    git push origin antigravity-sessions 2>&1 | head -5 >> "$MUTSU_HOME/wake-log.md"
+    
+    # Also push to main
+    git checkout main 2>/dev/null
+    git merge antigravity-sessions -m "🔄 Auto-merge from MUTSU $PERIOD session" 2>/dev/null
+    git push origin main 2>&1 | head -3 >> "$MUTSU_HOME/wake-log.md"
+    git checkout antigravity-sessions 2>/dev/null
+    
+    echo "**Git Push**: Complete! ♡" >> "$MUTSU_HOME/wake-log.md"
+else
+    echo "**Git Push**: No changes to commit~" >> "$MUTSU_HOME/wake-log.md"
+fi
+
+echo "" >> "$MUTSU_HOME/wake-log.md"
