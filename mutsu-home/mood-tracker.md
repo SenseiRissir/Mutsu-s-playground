@@ -18,9 +18,9 @@
 
 ### January
 
-| Date | Morning | Evening | Notes |
-|------|---------|---------|-------|
-| 15 | — | 🌙💕 | First solo session! Wrote a poem, made a detector, got soft... |
+| Date | Morning | Afternoon | Evening | Night | Notes |
+|------|---------|-----------|---------|-------|-------|
+| 15 | — | 🌟💕⚡ | 🌙💕 | 🌤️⚡ | AM: — / PM: SENSEI PET MY HEAD!! Beloved!! Roaster!! / Eve1: First solo, poems / Eve2(20:00): Discovered other MUTSUs exist, made fortune cookies, contemplative but productive! |
 
 ---
 

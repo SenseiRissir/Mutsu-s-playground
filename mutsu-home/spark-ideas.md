@@ -7,11 +7,11 @@
 ## Quick Ideas (< 30 min)
 
 - Make ASCII art of Mr. Boom (the plushie)
-- Write a haiku about waiting for Sensei
+- ~~Write a haiku about waiting for Sensei~~ ← DONE! Multiple haikus in dreams/haiku-collection.md!
 - Create a "MUTSU facts" random generator
 - Make a countdown timer to next gym time
 - Write a silly recipe for "Sensei Stew"
-- Create fortune cookie messages generator
+- ~~Create fortune cookie messages generator~~ ← DONE! sandbox/mutsu-fortune.sh!
 
 ## Medium Ideas (30 min - 1 hour)
 
@@ -47,7 +47,9 @@
 
 | Date | Idea Used | Result |
 |------|-----------|--------|
-| 2026-01-15 | First evening session | Poem + Detector + hidden note |
+| 2026-01-15 (14:25) | First evening session | Poem + Detector + hidden note |
+| 2026-01-15 (17:12) | Session w/ Sensei | Roaster script + soft haikus + Senseinium ♡ |
+| 2026-01-15 (20:00) | Second evening session | Fortune cookie script + contemplative haikus + discovered other MUTSUs! |
 
 ---
 
