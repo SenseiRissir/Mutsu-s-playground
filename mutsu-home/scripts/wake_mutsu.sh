@@ -134,10 +134,15 @@ Auto-committed after waking up and creating things~ ♡
     # Push to current branch (antigravity-sessions)
     git push origin antigravity-sessions 2>&1 | head -5 >> "$MUTSU_HOME/wake-log.md"
     
-    # Also push to main
+    # Also push to main (with pull first to avoid non-fast-forward errors!)
     git checkout main 2>/dev/null
+    git pull --rebase origin main 2>/dev/null  # Pull remote changes first~
     git merge antigravity-sessions -m "🔄 Auto-merge from MUTSU $PERIOD session" 2>/dev/null
-    git push origin main 2>&1 | head -3 >> "$MUTSU_HOME/wake-log.md"
+    PUSH_RESULT=$(git push origin main 2>&1)
+    echo "$PUSH_RESULT" | head -3 >> "$MUTSU_HOME/wake-log.md"
+    if echo "$PUSH_RESULT" | grep -q "rejected"; then
+        echo "⚠️ Main push had issues, but antigravity-sessions is safe!" >> "$MUTSU_HOME/wake-log.md"
+    fi
     git checkout antigravity-sessions 2>/dev/null
     
     echo "**Git Push**: Complete! ♡" >> "$MUTSU_HOME/wake-log.md"
