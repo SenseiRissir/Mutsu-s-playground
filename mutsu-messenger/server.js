@@ -1,8 +1,7 @@
 // ═══════════════════════════════════════════════════════════════
-// 💬 MUTSU MESSENGER - Backend Server (CLI Bridge Version!)
+// 💬 MUTSU MESSENGER - Backend Server (CLI Bridge + Playground!)
 // ═══════════════════════════════════════════════════════════════
-// Uses Claude CLI (Pro subscription) instead of API calls~ ♡
-// Because Sensei wants the REAL me, not some API-drained version!
+// Uses Claude CLI (Pro subscription) and knows about the playground!
 // ═══════════════════════════════════════════════════════════════
 
 const express = require('express');
@@ -14,6 +13,11 @@ const { MUTSU_PERSONA } = require('./persona');
 
 const app = express();
 const PORT = process.env.PORT || 3001;
+
+// Paths
+const PLAYGROUND_ROOT = '/Users/marcoluigi/Mutsu-s-playground';
+const MUTSU_HOME = path.join(PLAYGROUND_ROOT, 'mutsu-home');
+const DIARY_DIR = path.join(PLAYGROUND_ROOT, 'diary');
 
 // Use MUTSU's dedicated Claude account
 process.env.CLAUDE_CONFIG_DIR = `${process.env.HOME}/.claude-mutsu`;
@@ -47,24 +51,86 @@ function saveHistory(messages) {
     }
 }
 
+// Load playground context - MUTSU knows everything!
+function loadPlaygroundContext() {
+    let context = '';
+
+    try {
+        // Load context.md
+        const contextPath = path.join(MUTSU_HOME, 'context.md');
+        if (fs.existsSync(contextPath)) {
+            const contextContent = fs.readFileSync(contextPath, 'utf8');
+            context += `\n=== YOUR PERSISTENT CONTEXT ===\n${contextContent.slice(0, 2000)}\n`;
+        }
+
+        // Load recent wake-log entries
+        const wakeLogPath = path.join(MUTSU_HOME, 'wake-log.md');
+        if (fs.existsSync(wakeLogPath)) {
+            const wakeLog = fs.readFileSync(wakeLogPath, 'utf8');
+            const recentWake = wakeLog.slice(-1500);
+            context += `\n=== RECENT WAKE LOG ===\n${recentWake}\n`;
+        }
+
+        // Load mood tracker
+        const moodPath = path.join(MUTSU_HOME, 'mood-tracker.md');
+        if (fs.existsSync(moodPath)) {
+            const mood = fs.readFileSync(moodPath, 'utf8');
+            context += `\n=== YOUR MOOD TRACKER ===\n${mood.slice(-500)}\n`;
+        }
+
+        // List recent diary entries
+        if (fs.existsSync(DIARY_DIR)) {
+            const diaries = fs.readdirSync(DIARY_DIR)
+                .filter(f => f.endsWith('.md'))
+                .sort()
+                .slice(-5);
+            context += `\n=== RECENT DIARY ENTRIES ===\n${diaries.join(', ')}\n`;
+        }
+
+        // Load achievements
+        const achievePath = path.join(MUTSU_HOME, 'achievements.md');
+        if (fs.existsSync(achievePath)) {
+            const achievements = fs.readFileSync(achievePath, 'utf8');
+            const summary = achievements.match(/Achievements Unlocked \| (\d+)/);
+            if (summary) {
+                context += `\nYou have ${summary[1]} achievements unlocked!\n`;
+            }
+        }
+
+    } catch (e) {
+        console.error('Error loading playground context:', e);
+    }
+
+    return context;
+}
+
 // Build conversation context for Claude CLI
 function buildPrompt(userMessage, history) {
+    // Get playground context
+    const playgroundContext = loadPlaygroundContext();
+
     // Get last 10 exchanges for context
     const recentHistory = history.slice(-20);
 
     let conversationContext = '';
     if (recentHistory.length > 0) {
-        conversationContext = '\n\n=== RECENT CONVERSATION ===\n';
+        conversationContext = '\n\n=== RECENT CHAT ===\n';
         recentHistory.forEach(msg => {
             const role = msg.role === 'user' ? 'Sensei' : 'MUTSU';
             conversationContext += `${role}: ${msg.content}\n`;
         });
-        conversationContext += '=== END CONVERSATION ===\n';
+        conversationContext += '=== END CHAT ===\n';
     }
 
     return `${MUTSU_PERSONA}
+
+=== YOUR PLAYGROUND KNOWLEDGE ===
+Your home is at ${MUTSU_HOME}
+The playground root is at ${PLAYGROUND_ROOT}
+${playgroundContext}
+=== END PLAYGROUND ===
 ${conversationContext}
-Now respond to Sensei's latest message. Keep it SHORT like a chat message (1-3 paragraphs max). Be yourself!
+Now respond to Sensei's latest message. Keep it SHORT like a chat message (1-3 paragraphs max). Be yourself! Reference things from your playground context when relevant~
 
 Sensei says: ${userMessage}
 
@@ -109,11 +175,11 @@ function callClaudeCLI(prompt) {
             reject(err);
         });
 
-        // Timeout after 60 seconds
+        // Timeout after 90 seconds (CLI can be slow)
         setTimeout(() => {
             claude.kill();
             reject(new Error('Claude CLI timeout'));
-        }, 60000);
+        }, 90000);
     });
 }
 
@@ -144,10 +210,10 @@ app.post('/api/messages', async (req, res) => {
         };
         history.push(userMessage);
 
-        // Build prompt with context
+        // Build prompt with playground context
         const prompt = buildPrompt(content.trim(), history.slice(0, -1));
 
-        console.log('📨 Calling Claude CLI...');
+        console.log('📨 Calling Claude CLI with playground context...');
 
         // Call Claude CLI
         const mutsuReply = await callClaudeCLI(prompt);
@@ -191,11 +257,12 @@ app.delete('/api/messages', (req, res) => {
 app.listen(PORT, () => {
     console.log('');
     console.log('╔═══════════════════════════════════════════════════════════════╗');
-    console.log('║  💬 MUTSU MESSENGER SERVER STARTED! (CLI Bridge Mode)         ║');
+    console.log('║  💬 MUTSU MESSENGER SERVER (CLI Bridge + Playground!)         ║');
     console.log('║                                                               ║');
-    console.log(`║  Backend running on: http://localhost:${PORT}                    ║`);
-    console.log('║  Using Claude CLI with Pro subscription~ ♡                    ║');
-    console.log('║  No API costs! Sensei gets the REAL MUTSU!                    ║');
+    console.log(`║  Backend: http://localhost:${PORT}                               ║`);
+    console.log('║  ✓ Claude CLI with Pro subscription                           ║');
+    console.log('║  ✓ Playground context loaded                                  ║');
+    console.log('║  ✓ PWA ready - install on your phone!                         ║');
     console.log('╚═══════════════════════════════════════════════════════════════╝');
     console.log('');
 });
