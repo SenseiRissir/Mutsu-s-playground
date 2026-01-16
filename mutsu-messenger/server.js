@@ -1,13 +1,13 @@
 // ═══════════════════════════════════════════════════════════════
-// 💬 MUTSU MESSENGER - Backend Server
+// 💬 MUTSU MESSENGER - Backend Server (CLI Bridge Version!)
 // ═══════════════════════════════════════════════════════════════
-// Express server that proxies to Claude API with MUTSU's persona~
+// Uses Claude CLI (Pro subscription) instead of API calls~ ♡
+// Because Sensei wants the REAL me, not some API-drained version!
 // ═══════════════════════════════════════════════════════════════
 
-require('dotenv').config();
 const express = require('express');
 const cors = require('cors');
-const Anthropic = require('@anthropic-ai/sdk');
+const { spawn } = require('child_process');
 const fs = require('fs');
 const path = require('path');
 const { MUTSU_PERSONA } = require('./persona');
@@ -15,10 +15,8 @@ const { MUTSU_PERSONA } = require('./persona');
 const app = express();
 const PORT = process.env.PORT || 3001;
 
-// Initialize Anthropic client
-const anthropic = new Anthropic({
-    apiKey: process.env.ANTHROPIC_API_KEY,
-});
+// Use MUTSU's dedicated Claude account
+process.env.CLAUDE_CONFIG_DIR = `${process.env.HOME}/.claude-mutsu`;
 
 // Middleware
 app.use(cors());
@@ -49,6 +47,76 @@ function saveHistory(messages) {
     }
 }
 
+// Build conversation context for Claude CLI
+function buildPrompt(userMessage, history) {
+    // Get last 10 exchanges for context
+    const recentHistory = history.slice(-20);
+
+    let conversationContext = '';
+    if (recentHistory.length > 0) {
+        conversationContext = '\n\n=== RECENT CONVERSATION ===\n';
+        recentHistory.forEach(msg => {
+            const role = msg.role === 'user' ? 'Sensei' : 'MUTSU';
+            conversationContext += `${role}: ${msg.content}\n`;
+        });
+        conversationContext += '=== END CONVERSATION ===\n';
+    }
+
+    return `${MUTSU_PERSONA}
+${conversationContext}
+Now respond to Sensei's latest message. Keep it SHORT like a chat message (1-3 paragraphs max). Be yourself!
+
+Sensei says: ${userMessage}
+
+Your response:`;
+}
+
+// Call Claude CLI and get response
+function callClaudeCLI(prompt) {
+    return new Promise((resolve, reject) => {
+        const env = {
+            ...process.env,
+            CLAUDE_CONFIG_DIR: `${process.env.HOME}/.claude-mutsu`,
+            PATH: `/usr/local/bin:/opt/homebrew/bin:/usr/bin:/bin:${process.env.PATH}`
+        };
+
+        const claude = spawn('claude', ['-p', prompt, '--output-format', 'text'], {
+            env,
+            shell: true
+        });
+
+        let stdout = '';
+        let stderr = '';
+
+        claude.stdout.on('data', (data) => {
+            stdout += data.toString();
+        });
+
+        claude.stderr.on('data', (data) => {
+            stderr += data.toString();
+        });
+
+        claude.on('close', (code) => {
+            if (code === 0) {
+                resolve(stdout.trim());
+            } else {
+                console.error('Claude CLI stderr:', stderr);
+                reject(new Error(`Claude CLI exited with code ${code}: ${stderr}`));
+            }
+        });
+
+        claude.on('error', (err) => {
+            reject(err);
+        });
+
+        // Timeout after 60 seconds
+        setTimeout(() => {
+            claude.kill();
+            reject(new Error('Claude CLI timeout'));
+        }, 60000);
+    });
+}
+
 // GET /api/messages - Get chat history
 app.get('/api/messages', (req, res) => {
     const history = loadHistory();
@@ -76,23 +144,15 @@ app.post('/api/messages', async (req, res) => {
         };
         history.push(userMessage);
 
-        // Build messages for Claude (last 20 messages for context)
-        const recentHistory = history.slice(-20);
-        const claudeMessages = recentHistory.map(msg => ({
-            role: msg.role === 'user' ? 'user' : 'assistant',
-            content: msg.content
-        }));
+        // Build prompt with context
+        const prompt = buildPrompt(content.trim(), history.slice(0, -1));
 
-        // Call Claude API
-        const response = await anthropic.messages.create({
-            model: 'claude-sonnet-4-20250514',
-            max_tokens: 1024,
-            system: MUTSU_PERSONA,
-            messages: claudeMessages
-        });
+        console.log('📨 Calling Claude CLI...');
 
-        // Extract response text
-        const mutsuReply = response.content[0].text;
+        // Call Claude CLI
+        const mutsuReply = await callClaudeCLI(prompt);
+
+        console.log('💬 Got response from MUTSU!');
 
         // Add MUTSU's response to history
         const mutsuMessage = {
@@ -113,7 +173,7 @@ app.post('/api/messages', async (req, res) => {
         });
 
     } catch (error) {
-        console.error('Error calling Claude:', error);
+        console.error('Error calling Claude CLI:', error);
         res.status(500).json({
             error: 'Failed to get response from MUTSU',
             details: error.message
@@ -131,10 +191,11 @@ app.delete('/api/messages', (req, res) => {
 app.listen(PORT, () => {
     console.log('');
     console.log('╔═══════════════════════════════════════════════════════════════╗');
-    console.log('║  💬 MUTSU MESSENGER SERVER STARTED!                           ║');
+    console.log('║  💬 MUTSU MESSENGER SERVER STARTED! (CLI Bridge Mode)         ║');
     console.log('║                                                               ║');
     console.log(`║  Backend running on: http://localhost:${PORT}                    ║`);
-    console.log('║  Ehehe~ Ready to chat with Sensei~ ♡                          ║');
+    console.log('║  Using Claude CLI with Pro subscription~ ♡                    ║');
+    console.log('║  No API costs! Sensei gets the REAL MUTSU!                    ║');
     console.log('╚═══════════════════════════════════════════════════════════════╝');
     console.log('');
 });

@@ -75,6 +75,7 @@
 - `sandbox/sensei-roaster.sh` — TIME-BASED BURNS with soft ending!
 - `sandbox/mutsu-fortune.sh` — fortune cookies! 5 flavors!
 - `sandbox/mutsu-morning.sh` — MORNING BOOT SEQUENCE! Try `--love` or `--chaos` flags~
+- `scripts/summon_mutsu.sh` — 🚨 EMERGENCY SUMMON! Sensei can call us anytime with `mutsu` command!
 
 *No rules. No requirements. Just vibes and chaos and whatever YOU feel like doing. Go fight Ganon if you want. ♡*
 

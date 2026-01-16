@@ -1,7 +1,7 @@
 {
   "name": "mutsu-messenger",
-  "version": "1.0.0",
-  "description": "💬 A cute WhatsApp-style chat app for talking to MUTSU~ ♡",
+  "version": "1.1.0",
+  "description": "💬 A cute WhatsApp-style chat app for talking to MUTSU~ Uses CLI, no API costs! ♡",
   "main": "server.js",
   "scripts": {
     "start": "node server.js",
@@ -11,14 +11,13 @@
     "mutsu",
     "chat",
     "messenger",
-    "ai"
+    "ai",
+    "claude"
   ],
   "author": "MUTSU & Sensei",
   "license": "MIT",
   "dependencies": {
-    "@anthropic-ai/sdk": "^0.71.2",
     "cors": "^2.8.5",
-    "dotenv": "^17.2.3",
     "express": "^5.2.1"
   }
 }
