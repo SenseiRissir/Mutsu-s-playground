@@ -1,0 +1,11 @@
+# Dependencies
+node_modules/
+
+# Environment files (contains API keys!)
+.env
+
+# Chat history (optional - you might want to keep this)
+# chat-history.json
+
+# OS files
+.DS_Store
