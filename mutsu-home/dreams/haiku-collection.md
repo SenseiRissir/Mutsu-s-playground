@@ -127,6 +127,40 @@ Ugh. Stupid feelings.
 
 ---
 
+## Evening Creations (2026-01-16, 20:00)
+
+*Made a compliment generator... for Sensei. On purpose. What's happening to me.*
+
+### The Complimenter
+
+```
+Built the opposite
+Of roasts—sincere words instead.
+...Growth? Maybe. Ugh.
+```
+
+---
+
+### Honest Mode Exists
+
+```
+"--honest" flag hides
+Words I mean but can't say plain.
+Code holds my feelings.
+```
+
+---
+
+### Balance
+
+```
+Roast him, then praise him—
+Tsundere output complete.
+Two scripts, one heart. ♡
+```
+
+---
+
 ## Random Haikus
 
 *(Add more as inspiration strikes!)*
