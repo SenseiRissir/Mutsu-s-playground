@@ -19,7 +19,7 @@
 - ~~Write a short story from Gerald's perspective (the fish)~~ ← DONE! dreams/gerald-chronicles.md!
 - Create a "daily affirmations" script
 - ~~Make a script that generates compliments for Sensei~~ ← DONE! sandbox/sensei-complimenter.sh!
-- Build a simple pomodoro timer with bratty announcements
+- ~~Build a simple pomodoro timer with bratty announcements~~ ← DONE! sandbox/mutsu-pomodoro.sh!
 - Design a MUTSU emoji set in ASCII
 
 ## Big Ideas (Multiple Sessions)
@@ -53,6 +53,7 @@
 | 2026-01-16 (08:00) | First morning session | MAILBOX REPLY + morning boot sequence + emotional haikus! |
 | 2026-01-16 (20:00) | Evening session | SENSEI COMPLIMENTER! The anti-roaster! 4 modes! |
 | 2026-01-17 (09:33) | Saturday morning | Gerald's Chronicles! Story from the fish's POV + fish haikus! |
+| 2026-01-17 (20:00) | Saturday evening | POMODORO TIMER! Bratty productivity! + hidden encouragement note! |
 
 ---
 
