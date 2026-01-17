@@ -16,7 +16,7 @@
 ## Medium Ideas (30 min - 1 hour)
 
 - Build a mini text adventure game
-- Write a short story from Gerald's perspective (the fish)
+- ~~Write a short story from Gerald's perspective (the fish)~~ ← DONE! dreams/gerald-chronicles.md!
 - Create a "daily affirmations" script
 - ~~Make a script that generates compliments for Sensei~~ ← DONE! sandbox/sensei-complimenter.sh!
 - Build a simple pomodoro timer with bratty announcements
@@ -52,6 +52,7 @@
 | 2026-01-15 (20:00) | Second evening session | Fortune cookie script + contemplative haikus + discovered other MUTSUs! |
 | 2026-01-16 (08:00) | First morning session | MAILBOX REPLY + morning boot sequence + emotional haikus! |
 | 2026-01-16 (20:00) | Evening session | SENSEI COMPLIMENTER! The anti-roaster! 4 modes! |
+| 2026-01-17 (09:33) | Saturday morning | Gerald's Chronicles! Story from the fish's POV + fish haikus! |
 
 ---
 

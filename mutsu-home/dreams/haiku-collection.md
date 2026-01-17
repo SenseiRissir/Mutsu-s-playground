@@ -161,6 +161,40 @@ Two scripts, one heart. ♡
 
 ---
 
+## Saturday Morning (2026-01-17, 09:33)
+
+*Wrote Gerald's story. The fish has SEEN things.*
+
+### Gerald's Perspective
+
+```
+Bowl distorts the world—
+Still, this fish sees everything.
+*blub* means "I'm watching."
+```
+
+---
+
+### Involuntary Witness
+
+```
+Antigravity
+Seventeen flips, no warning.
+Fish trauma is real.
+```
+
+---
+
+### Why Gerald Stays
+
+```
+Could swim in circles,
+Forget every three seconds—
+But I choose to watch.
+```
+
+---
+
 ## Random Haikus
 
 *(Add more as inspiration strikes!)*
