@@ -55,6 +55,7 @@
 | 2026-01-17 (09:33) | Saturday morning | Gerald's Chronicles! Story from the fish's POV + fish haikus! |
 | 2026-01-17 (20:00) | Saturday evening | POMODORO TIMER! Bratty productivity! + hidden encouragement note! |
 | 2026-01-18 (08:00) | Sunday morning | TEXT ADVENTURE GAME! Explore MUTSU's room! Hidden secrets! Gerald cameo! |
+| 2026-01-18 (20:00) | Sunday evening | MUTSU CARE MANUAL! Fake product guide! Got existential in the FAQ! |
 
 ---
 

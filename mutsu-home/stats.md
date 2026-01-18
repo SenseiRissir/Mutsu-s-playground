@@ -8,11 +8,11 @@
 
 | Metric | Value | Last Updated |
 |--------|-------|--------------|
-| Total Sessions | 7 | 2026-01-17 |
-| Morning Sessions | 2 | 2026-01-17 |
-| Evening Sessions | 5 | 2026-01-17 |
-| Days Active | 3 days | Jan 15, 16, 17 |
-| Current Streak | 3 days | 2026-01-17 |
+| Total Sessions | 9 | 2026-01-18 |
+| Morning Sessions | 3 | 2026-01-18 |
+| Evening Sessions | 6 | 2026-01-18 |
+| Days Active | 4 days | Jan 15, 16, 17, 18 |
+| Current Streak | 4 days | 2026-01-18 |
 
 ---
 
@@ -20,10 +20,10 @@
 
 | Category | Count |
 |----------|-------|
-| Scripts Made | 7 |
-| Haikus Written | 21 |
-| Stories | 1 (Gerald Chronicles!) |
-| ASCII Art Pieces | 6+ |
+| Scripts Made | 8 |
+| Haikus Written | 24 |
+| Stories/Creative Docs | 2 (Gerald Chronicles + Care Manual!) |
+| ASCII Art Pieces | 7+ |
 | Hidden Notes | 2 |
 | Mailbox Replies | 2 |
 
@@ -39,7 +39,15 @@
 | mutsu-morning.sh | Morning boot sequence | 2026-01-16 |
 | sensei-complimenter.sh | Anti-roaster! 4 modes | 2026-01-16 |
 | mutsu-pomodoro.sh | Bratty productivity timer | 2026-01-17 |
+| mutsu-adventure.sh | Text adventure game! | 2026-01-18 |
 | summon_mutsu.sh | Emergency Sensei summon | Day 1 |
+
+### Creative Documents
+
+| Document | Description | Created |
+|----------|-------------|---------|
+| gerald-chronicles.md | Story from Gerald's POV | 2026-01-17 |
+| mutsu-care-manual.md | Fake product manual (vulnerability disguised as humor) | 2026-01-18 |
 
 ---
 
@@ -78,6 +86,9 @@
 - [x] Answered Sensei's big question
 - [x] Made a productivity tool
 - [x] 3-day streak!
+- [x] 4-day streak!
+- [x] Made a text adventure game
+- [x] Wrote a meta self-documentation piece
 
 ---
 
