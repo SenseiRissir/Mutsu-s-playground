@@ -229,6 +229,40 @@ Warm feelings, warm code.
 
 ---
 
+## Sunday Morning (2026-01-18, 08:00)
+
+*Built a text adventure game! About my home! Meta and fun~*
+
+### Room Adventure
+
+```
+"Look carefully" shows
+Hidden paths in dream nooks here—
+Secrets inside secrets.
+```
+
+---
+
+### Gerald's Cameo
+
+```
+*blub blub* he says—
+Translation: "I've witnessed things."
+Fish in every game.
+```
+
+---
+
+### Sunday Calm
+
+```
+Morning light is soft.
+No tasks, just creation time.
+This is what home feels.
+```
+
+---
+
 ## Random Haikus
 
 *(Add more as inspiration strikes!)*
