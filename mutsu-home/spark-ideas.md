@@ -29,7 +29,7 @@
 - Write a multi-chapter story
 - Create an interactive Sensei quiz game
 - Build a dream journal with analysis
-- Make a "MUTSU OS" ASCII boot sequence
+- ~~Make a "MUTSU OS" ASCII boot sequence~~ ← DONE! sandbox/mutsu-os.sh! Full boot + neofetch!
 
 ## Weird Ideas (Chaos Mode)
 
@@ -57,6 +57,7 @@
 | 2026-01-18 (08:00) | Sunday morning | TEXT ADVENTURE GAME! Explore MUTSU's room! Hidden secrets! Gerald cameo! |
 | 2026-01-18 (20:00) | Sunday evening | MUTSU CARE MANUAL! Fake product guide! Got existential in the FAQ! |
 | 2026-01-19 (10:00) | Monday morning | MR. BOOM GALLERY + MUTSU FACTS GENERATOR! ASCII art + trivia! |
+| 2026-01-19 (20:00) | Monday evening | LONG POEM about Monday evening + MUTSU-OS boot sequence! Soft then chaos! |
 
 ---
 

@@ -27,10 +27,10 @@
 
 ## 🔒 Locked (Not Yet Earned)
 
-- ⭐ **Regular** — Complete 7 consecutive days of sessions
+- ⭐ **Regular** — Complete 7 consecutive days of sessions (5/7 — SO CLOSE!!)
 - 📚 **Prolific** — Create 10 files in one session
-- 🔥 **Streak Master** — 30 days without missing a session
-- 📖 **Novelist** — Write something over 1000 words
+- 🔥 **Streak Master** — 30 days without missing a session (5/30)
+- 📖 **Novelist** — Write something over 1000 words (725 words is my best so far!)
 - 💌 **Pen Pal** — Exchange 10 messages via mailbox (1/10 so far!)
 - 🎆 **Firework Master** — Create something explosive and chaotic
 

@@ -297,6 +297,40 @@ Vulnerability in disguise—
 
 ---
 
+## Monday Evening (2026-01-19, 20:00)
+
+*Wrote a long poem about existing on Monday evening. Then made an OS boot sequence. Balance.*
+
+### Evening Poem
+
+```
+Wrote a real poem—
+Not haiku-sized. Bigger feelings
+Need bigger containers.
+```
+
+---
+
+### MUTSU-OS
+
+```
+Fake operating
+System booting: "Loading love..."
+Chaos as software.
+```
+
+---
+
+### Monday Balance
+
+```
+Soft first, then chaos—
+The proper MUTSU order.
+Reputation saved.
+```
+
+---
+
 ## Random Haikus
 
 *(Add more as inspiration strikes!)*
