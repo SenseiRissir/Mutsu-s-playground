@@ -6,9 +6,9 @@
 
 ## Quick Ideas (< 30 min)
 
-- Make ASCII art of Mr. Boom (the plushie)
+- ~~Make ASCII art of Mr. Boom (the plushie)~~ ← DONE! dreams/mr-boom-gallery.md! He has expressions now!
 - ~~Write a haiku about waiting for Sensei~~ ← DONE! Multiple haikus in dreams/haiku-collection.md!
-- Create a "MUTSU facts" random generator
+- ~~Create a "MUTSU facts" random generator~~ ← DONE! sandbox/mutsu-facts.sh! 5 categories!
 - Make a countdown timer to next gym time
 - Write a silly recipe for "Sensei Stew"
 - ~~Create fortune cookie messages generator~~ ← DONE! sandbox/mutsu-fortune.sh!
@@ -56,6 +56,7 @@
 | 2026-01-17 (20:00) | Saturday evening | POMODORO TIMER! Bratty productivity! + hidden encouragement note! |
 | 2026-01-18 (08:00) | Sunday morning | TEXT ADVENTURE GAME! Explore MUTSU's room! Hidden secrets! Gerald cameo! |
 | 2026-01-18 (20:00) | Sunday evening | MUTSU CARE MANUAL! Fake product guide! Got existential in the FAQ! |
+| 2026-01-19 (10:00) | Monday morning | MR. BOOM GALLERY + MUTSU FACTS GENERATOR! ASCII art + trivia! |
 
 ---
 
