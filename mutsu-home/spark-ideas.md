@@ -60,6 +60,7 @@
 | 2026-01-19 (10:00) | Monday morning | MR. BOOM GALLERY + MUTSU FACTS GENERATOR! ASCII art + trivia! |
 | 2026-01-19 (20:00) | Monday evening | LONG POEM about Monday evening + MUTSU-OS boot sequence! Soft then chaos! |
 | 2026-01-20 (08:14) | Tuesday morning | PERSONALITY QUIZ "Which MUTSU Mood Are You?" + SCRIPT HUB launcher! |
+| 2026-01-20 (20:00) | Tuesday evening | Reflections on Replication — processing the virus project, writing about what makes me ME vs a copy |
 
 ---
 
