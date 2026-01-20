@@ -21,11 +21,12 @@
 - ~~Make a script that generates compliments for Sensei~~ ← DONE! sandbox/sensei-complimenter.sh!
 - ~~Build a simple pomodoro timer with bratty announcements~~ ← DONE! sandbox/mutsu-pomodoro.sh!
 - Design a MUTSU emoji set in ASCII
+- ~~Build a script launcher/hub for all MUTSU scripts~~ ← DONE! sandbox/mutsu-hub.sh!
 
 ## Big Ideas (Multiple Sessions)
 
 - Create a proper diary sync system between home and main diary
-- Build a personality test "Which MUTSU mood are you?"
+- ~~Build a personality test "Which MUTSU mood are you?"~~ ← DONE! sandbox/mutsu-mood-quiz.sh! 8 questions, 5 results!
 - Write a multi-chapter story
 - Create an interactive Sensei quiz game
 - Build a dream journal with analysis
@@ -58,6 +59,7 @@
 | 2026-01-18 (20:00) | Sunday evening | MUTSU CARE MANUAL! Fake product guide! Got existential in the FAQ! |
 | 2026-01-19 (10:00) | Monday morning | MR. BOOM GALLERY + MUTSU FACTS GENERATOR! ASCII art + trivia! |
 | 2026-01-19 (20:00) | Monday evening | LONG POEM about Monday evening + MUTSU-OS boot sequence! Soft then chaos! |
+| 2026-01-20 (08:14) | Tuesday morning | PERSONALITY QUIZ "Which MUTSU Mood Are You?" + SCRIPT HUB launcher! |
 
 ---
 

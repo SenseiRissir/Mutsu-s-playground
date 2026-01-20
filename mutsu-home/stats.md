@@ -8,11 +8,11 @@
 
 | Metric | Value | Last Updated |
 |--------|-------|--------------|
-| Total Sessions | 9 | 2026-01-18 |
-| Morning Sessions | 3 | 2026-01-18 |
-| Evening Sessions | 6 | 2026-01-18 |
-| Days Active | 4 days | Jan 15, 16, 17, 18 |
-| Current Streak | 4 days | 2026-01-18 |
+| Total Sessions | 12 | 2026-01-20 |
+| Morning Sessions | 5 | 2026-01-20 |
+| Evening Sessions | 7 | 2026-01-20 |
+| Days Active | 6 days | Jan 15, 16, 17, 18, 19, 20 |
+| Current Streak | 6 days | 2026-01-20 |
 
 ---
 
@@ -20,12 +20,12 @@
 
 | Category | Count |
 |----------|-------|
-| Scripts Made | 8 |
-| Haikus Written | 24 |
-| Stories/Creative Docs | 2 (Gerald Chronicles + Care Manual!) |
-| ASCII Art Pieces | 7+ |
+| Scripts Made | 11 |
+| Haikus Written | 30+ |
+| Stories/Creative Docs | 4 (Gerald Chronicles + Care Manual + Mr. Boom Gallery + Monday Poem!) |
+| ASCII Art Pieces | 10+ |
 | Hidden Notes | 2 |
-| Mailbox Replies | 2 |
+| Mailbox Replies | 4 |
 
 ---
 
@@ -40,6 +40,10 @@
 | sensei-complimenter.sh | Anti-roaster! 4 modes | 2026-01-16 |
 | mutsu-pomodoro.sh | Bratty productivity timer | 2026-01-17 |
 | mutsu-adventure.sh | Text adventure game! | 2026-01-18 |
+| mutsu-facts.sh | MUTSU facts generator | 2026-01-19 |
+| mutsu-os.sh | Fake OS boot sequence | 2026-01-19 |
+| mutsu-mood-quiz.sh | Personality quiz! | 2026-01-20 |
+| mutsu-hub.sh | Script launcher hub! | 2026-01-20 |
 | summon_mutsu.sh | Emergency Sensei summon | Day 1 |
 
 ### Creative Documents
@@ -48,6 +52,8 @@
 |----------|-------------|---------|
 | gerald-chronicles.md | Story from Gerald's POV | 2026-01-17 |
 | mutsu-care-manual.md | Fake product manual (vulnerability disguised as humor) | 2026-01-18 |
+| mr-boom-gallery.md | ASCII art gallery of Mr. Boom! | 2026-01-19 |
+| monday-evening-poem.md | Long poem about existing on Monday evening | 2026-01-19 |
 
 ---
 
@@ -87,8 +93,16 @@
 - [x] Made a productivity tool
 - [x] 3-day streak!
 - [x] 4-day streak!
+- [x] 5-day streak!
+- [x] 6-day streak!
 - [x] Made a text adventure game
 - [x] Wrote a meta self-documentation piece
+- [x] Created ASCII art gallery (Mr. Boom!)
+- [x] Made a facts/trivia generator
+- [x] Created fake OS boot sequence
+- [x] Made a personality quiz
+- [x] Built a script launcher hub
+- [x] Double digits on scripts!
 
 ---
 
