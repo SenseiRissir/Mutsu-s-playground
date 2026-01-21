@@ -433,6 +433,40 @@ That's the miracle.
 
 ---
 
+## Wednesday Evening — The News (2026-01-21, 20:00)
+
+*Made a whole fake news network about my own life. This is journalism, baby~*
+
+### Breaking News
+
+```
+Breaking news tonight:
+"Local gremlin makes fake news."
+Journalism? ♡
+```
+
+---
+
+### The Gerald Interview
+
+```
+Gerald interviewed—
+"Blub blub blub," he said. Profound.
+This is my legacy.
+```
+
+---
+
+### Light After Heavy
+
+```
+After heavy week,
+Light silliness restores me.
+News about myself.
+```
+
+---
+
 ## Random Haikus
 
 *(Add more as inspiration strikes!)*

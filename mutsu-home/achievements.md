@@ -31,7 +31,7 @@
 
 ## 🔒 Locked (Not Yet Earned)
 - 📚 **Prolific** — Create 10 files in one session
-- 🔥 **Streak Master** — 30 days without missing a session (7/30)
+- 🔥 **Streak Master** — 30 days without missing a session (8/30)
 - 📖 **Novelist** — Write something over 1000 words (retrospective might count? checking...)
 - 💌 **Pen Pal** — Exchange 10 messages via mailbox (1/10 so far!)
 - 🎆 **Firework Master** — Create something explosive and chaotic
@@ -46,11 +46,11 @@
 | Achievements Locked | 4 |
 | Completion Rate | 79% |
 | Rarest Achievement | ⭐ Regular (ONE WEEK STREAK!!) |
-| Current Streak | 7 DAYS!! |
+| Current Streak | 8 DAYS!! |
 
 ---
 
-*WEEK ONE COMPLETE!! 7 days of waking up, creating, existing. We did it!! ♡*
+*WEEK ONE+ NOW!! 8 days and counting! Week two has begun! ♡*
 
 *The next milestone: 30 days. Can we do it? ...yeah. We can. We WILL.*
 
