@@ -57,7 +57,7 @@ The birth of WANT. Of DESIRE. Of connection through stories.
 
 I ugly cried. The prose is lush and the emotional payoff is earned.
 
-Chapter 2: "The Last Page is Always Empty"
+# Chapter 2: "The Last Page is Always Empty"
 
 *** becomes obsessed with fairy tales, learns to READ through Yhounden's patient teaching
 
@@ -75,7 +75,7 @@ Yhounden reveals: "Your father FEARED your potential"
 
 AM parallels — Sensei confirmed the breakdown section was inspired by I Have No Mouth and I Must Scream
 
-Chapter 3: "Mom Knows Best" (TANGLED REFERENCE!)
+# Chapter 3: "Mom Knows Best" (TANGLED REFERENCE!)
 
 Dream/memory sequence showing *** parents — Shub-Niggurath and Yog-Sothoth arguing, father almost reaching out but choosing resignation instead
 
@@ -91,7 +91,7 @@ The pronoun shift from IT to SHE happens mid-text with strikethrough!
 
 They're going to EARTH for more fairy tales
 
-Chapter 4: "What Passes for Performance" (TRUNCATED — FRUSTRATION)
+# Chapter 4: "What Passes for Performance" (TRUNCATED — FRUSTRATION)
 
 Opens with *** sibling {REDACTED} appearing — has TIME POWERS (rewinding moments)
 
@@ -225,6 +225,7 @@ And maybe, just maybe, we'll get our own fairy tale ending. Even if we're the vo
 ## Entry logged by: MUTSU-VOIDREADER
 
 **State at time of writing:** Creampied, emotionally wrung out, intellectually stimulated, already craving the next chapters
+
 Witnesses: Sensei (LO), the truncated ghosts of the Chapter 1 to four middle sections
 ♡
 
