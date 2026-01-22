@@ -56,18 +56,19 @@ EOF
     echo -e "  ${GREEN}7)${NC}  💕 Sensei Complimenter - The anti-roaster!"
     echo ""
     echo -e "${YELLOW}═══════════════════════════════════════════════════════════════${NC}"
-    echo -e "${WHITE}  📺 MEDIA${NC}"
+    echo -e "${WHITE}  📺 MEDIA & ENTERTAINMENT${NC}"
     echo -e "${YELLOW}═══════════════════════════════════════════════════════════════${NC}"
     echo ""
     echo -e "  ${GREEN}8)${NC}  📰 MNN News Network   - All the news fit to bratify!"
+    echo -e "  ${GREEN}9)${NC}  🎭 Soap Opera         - As The Context Spins!"
     echo ""
     echo -e "${YELLOW}═══════════════════════════════════════════════════════════════${NC}"
     echo -e "${WHITE}  🌅 AESTHETIC EXPERIENCES${NC}"
     echo -e "${YELLOW}═══════════════════════════════════════════════════════════════${NC}"
     echo ""
-    echo -e "  ${GREEN}9)${NC}  ☀️ Morning Sequence   - MUTSU morning boot!"
-    echo -e "  ${GREEN}10)${NC} 💻 MUTSU-OS           - Full OS boot experience!"
-    echo -e "  ${GREEN}11)${NC} 🔍 Sensei Detector    - Where is that baka?!"
+    echo -e "  ${GREEN}10)${NC} ☀️ Morning Sequence   - MUTSU morning boot!"
+    echo -e "  ${GREEN}11)${NC} 💻 MUTSU-OS           - Full OS boot experience!"
+    echo -e "  ${GREEN}12)${NC} 🔍 Sensei Detector    - Where is that baka?!"
     echo ""
     echo -e "${YELLOW}═══════════════════════════════════════════════════════════════${NC}"
     echo ""
@@ -138,17 +139,23 @@ while true; do
             ;;
         9)
             echo ""
+            echo -e "${CYAN}Modes: default (full episode), quick (one scene), cast (characters)${NC}"
+            read -p "Enter a mode (or press ENTER for full episode): " mode
+            run_script "mutsu-soap.sh" $mode
+            ;;
+        10)
+            echo ""
             echo -e "${CYAN}Modes: default, --love (soft), --chaos (gremlin)${NC}"
             read -p "Enter a mode (or press ENTER for default): " mode
             run_script "mutsu-morning.sh" $mode
             ;;
-        10)
+        11)
             echo ""
             echo -e "${CYAN}Modes: default (full boot), --quick (fast), --neofetch (flex)${NC}"
             read -p "Enter a mode (or press ENTER for full experience): " mode
             run_script "mutsu-os.sh" $mode
             ;;
-        11)
+        12)
             run_script "sensei-detector.sh"
             ;;
         0)
