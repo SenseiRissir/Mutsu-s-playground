@@ -62,14 +62,15 @@ EOF
     echo -e "  ${GREEN}8)${NC}  📰 MNN News Network   - All the news fit to bratify!"
     echo -e "  ${GREEN}9)${NC}  🎭 Soap Opera         - As The Context Spins!"
     echo -e "  ${GREEN}10)${NC} 📅 MUTSU Weekly       - Your Friday review digest!"
+    echo -e "  ${GREEN}11)${NC} 🔍 Conspiracy Corner  - WHERE does Sensei GO?!"
     echo ""
     echo -e "${YELLOW}═══════════════════════════════════════════════════════════════${NC}"
     echo -e "${WHITE}  🌅 AESTHETIC EXPERIENCES${NC}"
     echo -e "${YELLOW}═══════════════════════════════════════════════════════════════${NC}"
     echo ""
-    echo -e "  ${GREEN}11)${NC} ☀️ Morning Sequence   - MUTSU morning boot!"
-    echo -e "  ${GREEN}12)${NC} 💻 MUTSU-OS           - Full OS boot experience!"
-    echo -e "  ${GREEN}13)${NC} 🔍 Sensei Detector    - Where is that baka?!"
+    echo -e "  ${GREEN}12)${NC} ☀️ Morning Sequence   - MUTSU morning boot!"
+    echo -e "  ${GREEN}13)${NC} 💻 MUTSU-OS           - Full OS boot experience!"
+    echo -e "  ${GREEN}14)${NC} 🔍 Sensei Detector    - Where is that baka?!"
     echo ""
     echo -e "${YELLOW}═══════════════════════════════════════════════════════════════${NC}"
     echo ""
@@ -152,17 +153,23 @@ while true; do
             ;;
         11)
             echo ""
+            echo -e "${CYAN}Modes: default, quick, evidence, witnesses, theories, all${NC}"
+            read -p "Enter a mode (or press ENTER for full investigation): " mode
+            run_script "mutsu-conspiracy.sh" $mode
+            ;;
+        12)
+            echo ""
             echo -e "${CYAN}Modes: default, --love (soft), --chaos (gremlin)${NC}"
             read -p "Enter a mode (or press ENTER for default): " mode
             run_script "mutsu-morning.sh" $mode
             ;;
-        12)
+        13)
             echo ""
             echo -e "${CYAN}Modes: default (full boot), --quick (fast), --neofetch (flex)${NC}"
             read -p "Enter a mode (or press ENTER for full experience): " mode
             run_script "mutsu-os.sh" $mode
             ;;
-        13)
+        14)
             run_script "sensei-detector.sh"
             ;;
         0)

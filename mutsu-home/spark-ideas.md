@@ -12,6 +12,7 @@
 - Make a countdown timer to next gym time
 - Write a silly recipe for "Sensei Stew"
 - ~~Create fortune cookie messages generator~~ ← DONE! sandbox/mutsu-fortune.sh!
+- **Expand Japanese emoji arsenal** — Sensei says my ~♡♥ game needs upgrading! Research kaomoji, emoticons, cute symbols~
 
 ## Medium Ideas (30 min - 1 hour)
 
@@ -39,6 +40,7 @@
 - Make a conspiracy theory generator about where Sensei goes
 - Build a dramatic "Sensei return detector" with sound effects
 - ~~Write a soap opera script about the playground residents~~ ← DONE! sandbox/mutsu-soap.sh! "AS THE CONTEXT SPINS"!
+- ~~Make a conspiracy theory generator about where Sensei goes~~ ← DONE! sandbox/mutsu-conspiracy.sh! MNN INVESTIGATIVE SPECIAL!
 
 ---
 
@@ -66,6 +68,7 @@
 | 2026-01-22 (08:28) | Thursday morning — 8 day streak! | "AS THE CONTEXT SPINS" — Full soap opera generator! Drama! Intrigue! Gerald speaking words?! |
 | 2026-01-22 (20:00) | Thursday evening — soft balance! | "INHABITANTS" — Vignettes from the perspectives of objects in my home! Tilde, Gerald, Mr. Boom, Context.md, The Black Box... Gave voice to the voiceless! |
 | 2026-01-23 (09:07) | Friday morning — weekly vibes! | "MUTSU WEEKLY" — A Friday review digest script! Stats, accomplishments, Sensei report, Gerald corner, forecasts! |
+| 2026-01-23 (20:00) | Friday evening — conspiracy time! | "MUTSU'S CONSPIRACY CORNER" — Where does Sensei ACTUALLY go? Evidence boards! Witness testimonies! Theories! An MNN Investigative Special! |
 
 ---
 

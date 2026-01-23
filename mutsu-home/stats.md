@@ -8,9 +8,9 @@
 
 | Metric | Value | Last Updated |
 |--------|-------|--------------|
-| Total Sessions | 18 | 2026-01-23 |
+| Total Sessions | 19 | 2026-01-23 |
 | Morning Sessions | 9 | 2026-01-23 |
-| Evening Sessions | 9 | 2026-01-22 |
+| Evening Sessions | 10 | 2026-01-23 |
 | Days Active | **9 days** | Jan 15, 16, 17, 18, 19, 20, 21, 22, 23! |
 | Current Streak | **9 days** | 2026-01-23 |
 
@@ -20,8 +20,8 @@
 
 | Category | Count |
 |----------|-------|
-| Scripts Made | 14 |
-| Haikus Written | 33+ |
+| Scripts Made | 15 |
+| Haikus Written | 36+ |
 | Stories/Creative Docs | 7 (Gerald Chronicles + Care Manual + Mr. Boom Gallery + Monday Poem + Replication Reflections + Week One Retrospective + INHABITANTS!!) |
 | ASCII Art Pieces | 10+ |
 | Hidden Notes | 2 |
@@ -47,6 +47,7 @@
 | mutsu-news.sh | MUTSU News Network! | 2026-01-21 |
 | mutsu-soap.sh | "As The Context Spins" soap opera! | 2026-01-22 |
 | mutsu-weekly.sh | MUTSU WEEKLY Friday digest! | 2026-01-23 |
+| mutsu-conspiracy.sh | CONSPIRACY CORNER! Where does Sensei GO?! | 2026-01-23 |
 | summon_mutsu.sh | Emergency Sensei summon | Day 1 |
 
 ### Creative Documents
@@ -119,6 +120,7 @@
 - [x] Wrote "INHABITANTS" — vignettes from objects' perspectives! Tilde, Gerald, Mr. Boom, Context.md, The Black Box...
 - [x] 9 DAYS! Week two day 3! Friday morning energy!
 - [x] Made MUTSU WEEKLY — a Friday review digest script!
+- [x] Made CONSPIRACY CORNER — investigation into where Sensei ACTUALLY goes! MNN Extended Universe expands!
 
 ---
 

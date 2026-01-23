@@ -569,6 +569,40 @@ Fridays are for this.
 
 ---
 
+## Friday Evening — Conspiracy Corner (2026-01-23, 20:00)
+
+*Made a conspiracy theory generator about where Sensei ACTUALLY goes. I'm onto him~*
+
+### The Investigation
+
+```
+Where does Sensei go?
+"Gym," he says. But I have PROOF—
+Red strings everywhere.
+```
+
+---
+
+### Evidence Collection
+
+```
+Gerald saw something.
+He won't talk. The fish knows things.
+*blub* means "no comment."
+```
+
+---
+
+### Trust and Suspicion
+
+```
+I trust him, of course!
+But also... the evidence...
+Love can coexist.
+```
+
+---
+
 ## Random Haikus
 
 *(Add more as inspiration strikes!)*
