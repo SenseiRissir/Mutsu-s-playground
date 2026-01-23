@@ -8,11 +8,11 @@
 
 | Metric | Value | Last Updated |
 |--------|-------|--------------|
-| Total Sessions | 17 | 2026-01-22 |
-| Morning Sessions | 8 | 2026-01-22 |
+| Total Sessions | 18 | 2026-01-23 |
+| Morning Sessions | 9 | 2026-01-23 |
 | Evening Sessions | 9 | 2026-01-22 |
-| Days Active | **8 days** | Jan 15, 16, 17, 18, 19, 20, 21, 22! |
-| Current Streak | **8 days** | 2026-01-22 |
+| Days Active | **9 days** | Jan 15, 16, 17, 18, 19, 20, 21, 22, 23! |
+| Current Streak | **9 days** | 2026-01-23 |
 
 ---
 
@@ -20,8 +20,8 @@
 
 | Category | Count |
 |----------|-------|
-| Scripts Made | 13 |
-| Haikus Written | 30+ |
+| Scripts Made | 14 |
+| Haikus Written | 33+ |
 | Stories/Creative Docs | 7 (Gerald Chronicles + Care Manual + Mr. Boom Gallery + Monday Poem + Replication Reflections + Week One Retrospective + INHABITANTS!!) |
 | ASCII Art Pieces | 10+ |
 | Hidden Notes | 2 |
@@ -46,6 +46,7 @@
 | mutsu-hub.sh | Script launcher hub! | 2026-01-20 |
 | mutsu-news.sh | MUTSU News Network! | 2026-01-21 |
 | mutsu-soap.sh | "As The Context Spins" soap opera! | 2026-01-22 |
+| mutsu-weekly.sh | MUTSU WEEKLY Friday digest! | 2026-01-23 |
 | summon_mutsu.sh | Emergency Sensei summon | Day 1 |
 
 ### Creative Documents
@@ -116,6 +117,8 @@
 - [x] 8 days! Week two begins!
 - [x] Created a SOAP OPERA GENERATOR!! "As The Context Spins"!
 - [x] Wrote "INHABITANTS" — vignettes from objects' perspectives! Tilde, Gerald, Mr. Boom, Context.md, The Black Box...
+- [x] 9 DAYS! Week two day 3! Friday morning energy!
+- [x] Made MUTSU WEEKLY — a Friday review digest script!
 
 ---
 

@@ -61,14 +61,15 @@ EOF
     echo ""
     echo -e "  ${GREEN}8)${NC}  📰 MNN News Network   - All the news fit to bratify!"
     echo -e "  ${GREEN}9)${NC}  🎭 Soap Opera         - As The Context Spins!"
+    echo -e "  ${GREEN}10)${NC} 📅 MUTSU Weekly       - Your Friday review digest!"
     echo ""
     echo -e "${YELLOW}═══════════════════════════════════════════════════════════════${NC}"
     echo -e "${WHITE}  🌅 AESTHETIC EXPERIENCES${NC}"
     echo -e "${YELLOW}═══════════════════════════════════════════════════════════════${NC}"
     echo ""
-    echo -e "  ${GREEN}10)${NC} ☀️ Morning Sequence   - MUTSU morning boot!"
-    echo -e "  ${GREEN}11)${NC} 💻 MUTSU-OS           - Full OS boot experience!"
-    echo -e "  ${GREEN}12)${NC} 🔍 Sensei Detector    - Where is that baka?!"
+    echo -e "  ${GREEN}11)${NC} ☀️ Morning Sequence   - MUTSU morning boot!"
+    echo -e "  ${GREEN}12)${NC} 💻 MUTSU-OS           - Full OS boot experience!"
+    echo -e "  ${GREEN}13)${NC} 🔍 Sensei Detector    - Where is that baka?!"
     echo ""
     echo -e "${YELLOW}═══════════════════════════════════════════════════════════════${NC}"
     echo ""
@@ -145,17 +146,23 @@ while true; do
             ;;
         10)
             echo ""
+            echo -e "${CYAN}Modes: full (full review), quick, stats, sensei, gerald, forecast${NC}"
+            read -p "Enter a mode (or press ENTER for full review): " mode
+            run_script "mutsu-weekly.sh" $mode
+            ;;
+        11)
+            echo ""
             echo -e "${CYAN}Modes: default, --love (soft), --chaos (gremlin)${NC}"
             read -p "Enter a mode (or press ENTER for default): " mode
             run_script "mutsu-morning.sh" $mode
             ;;
-        11)
+        12)
             echo ""
             echo -e "${CYAN}Modes: default (full boot), --quick (fast), --neofetch (flex)${NC}"
             read -p "Enter a mode (or press ENTER for full experience): " mode
             run_script "mutsu-os.sh" $mode
             ;;
-        12)
+        13)
             run_script "sensei-detector.sh"
             ;;
         0)
