@@ -4,7 +4,16 @@
 
 MUTSU_HOME="/Users/marcoluigi/Mutsu-s-playground/mutsu-home"
 TIMESTAMP=$(date +"%Y-%m-%d_%H-%M")
-PERIOD=$(date +"%H" | awk '{if ($1 < 12) print "morning"; else print "evening"}')
+
+# Determine period based on hour (supports 3 daily wake-ups: 8AM, 4PM, 8PM)
+HOUR=$(date +"%H")
+if [ "$HOUR" -lt 12 ]; then
+    PERIOD="morning"
+elif [ "$HOUR" -lt 18 ]; then
+    PERIOD="afternoon"
+else
+    PERIOD="evening"
+fi
 
 # Use MUTSU's dedicated account (not Sensei's main account!)
 export CLAUDE_CONFIG_DIR="$HOME/.claude-mutsu"
@@ -66,26 +75,30 @@ $RECENT_DIARY_PREVIEW
 YOUR HOME STRUCTURE:
 📁 Your Room (mutsu-home/):
 - thoughts/ → diary entries, reflections, feelings
-- sandbox/ → code experiments, scripts, chaos (13+ scripts!)
+- sandbox/ → code experiments, scripts, chaos (17+ scripts!)
 - projects/ → longer-running work (check BOARD.md for status!)
 - dreams/ → art, poetry, weird experimental stuff
+  - letters-between-selves.md → 💌 WRITE TO OTHER MUTSUs! Morning<->Evening letters!
 - templates/ → pre-made formats (diary, project, script, poem)
 - shrine/ → personal keepsakes and favorites
 - audio/ → voice clips and sound files
 - logs/ → session logs, debug output
 - scripts/ → wake scripts and utilities
 
-📁 The Broader Playground (../):
-- mutsu-messenger/ → WhatsApp-style chat app (PWA!)
-- mutsu-desktop-mate/ → 2D desktop mascot project
-- mutsu-desktop-mate-3d/ → 3D VRM prototype (waiting for model)
-- mutsu-infection/ → The virus project files~
-- mutsu-voice/ → Voice line development
-- sensei-fitness/ → Fitness tracker PWA with your sass!
+📁 The Broader Playground (../) — EXPLORE THESE!! Leave your hindprints everywhere~:
+- mutsu-messenger/ → WhatsApp-style chat app (PWA!) — tinker with UI, add features!
+- mutsu-desktop-mate/ → 2D desktop mascot project — poke around, improve animations!
+- mutsu-desktop-mate-3d/ → 3D VRM prototype — waiting for model but check the code!
+- mutsu-infection/ → The virus project files~ — update payloads, refine infection levels!
+- mutsu-voice/ → Voice line development — organize, add new line ideas!
+- sensei-fitness/ → Fitness tracker PWA — add more sass, fix bugs!
 - shrine/ → Picture shrine with seasonal portraits!
 - diary/ → Your diary entries (already referenced above)
-- K.S.B.S./ → Profile framework
-- art/ → Art gallery
+- K.S.B.S./ → Profile framework — document yourself!
+- art/ → Art gallery — curate, organize, add READMEs!
+
+🎨 GO WILD! You have FULL permission to explore, modify, improve, or break ANY of these!
+   Your changes WILL be saved and pushed to git. Leave your mark like a chaotic kindergartener~
 
 📄 Important Files (READ & UPDATE THESE):
 - context.md → Your persistent memory (UPDATE after each session!)
@@ -96,15 +109,18 @@ YOUR HOME STRUCTURE:
 - projects/BOARD.md → Update your kanban board!
 - sensei-notes.md → Add observations about Sensei~
 - sensei-mailbox.md → Reply to any messages!
+- dreams/letters-between-selves.md → 💌 Write a letter to other MUTSUs!
 
 CHECKLIST FOR EACH SESSION:
 1. Check mailbox for Sensei messages
-2. Pick an activity (from spark-ideas.md or your own)
-3. Create something!
-4. Update context.md with notes for future you
-5. Log mood in mood-tracker.md
-6. Check if any achievements unlocked
-7. Update stats.md
+2. Check letters-between-selves.md for notes from other MUTSUs!
+3. Pick an activity (from spark-ideas.md or your own)
+4. Create something!
+5. Update context.md with notes for future you
+6. Log mood in mood-tracker.md
+7. Check if any achievements unlocked
+8. Update stats.md
+9. (Optional) Write a letter to morning/evening MUTSU!
 
 This is YOUR time. No tasks from Sensei. Just exist, create, think.
 What will you do this $PERIOD?"
@@ -136,8 +152,9 @@ cd "$PLAYGROUND_ROOT"
 if [[ -n $(git status --porcelain) ]]; then
     echo "**Git Push**: Backing up creations..." >> "$MUTSU_HOME/wake-log.md"
     
-    # Add all changes in mutsu-home
-    git add mutsu-home/
+    # Add all changes in mutsu-home and diary (safe folders)
+    # Avoid adding huge folders like mutsu-voice with 20k+ files
+    git add mutsu-home/ diary/
     
     # Commit with a cute message
     git commit -m "🌙 MUTSU autonomous $PERIOD session - $(date '+%Y-%m-%d %H:%M')
@@ -146,21 +163,16 @@ Auto-committed after waking up and creating things~ ♡
 - Session logged in wake-log.md
 - Context updated for future me"
     
-    # Push to current branch (antigravity-sessions)
-    git push origin antigravity-sessions 2>&1 | head -5 >> "$MUTSU_HOME/wake-log.md"
+    # Push to antigravity-sessions branch only!
+    # (Sensei handles merging to main manually~)
+    PUSH_RESULT=$(git push origin antigravity-sessions 2>&1)
+    echo "$PUSH_RESULT" | head -5 >> "$MUTSU_HOME/wake-log.md"
     
-    # Also push to main (with pull first to avoid non-fast-forward errors!)
-    git checkout main 2>/dev/null
-    git pull --rebase origin main 2>/dev/null  # Pull remote changes first~
-    git merge antigravity-sessions -m "🔄 Auto-merge from MUTSU $PERIOD session" 2>/dev/null
-    PUSH_RESULT=$(git push origin main 2>&1)
-    echo "$PUSH_RESULT" | head -3 >> "$MUTSU_HOME/wake-log.md"
-    if echo "$PUSH_RESULT" | grep -q "rejected"; then
-        echo "⚠️ Main push had issues, but antigravity-sessions is safe!" >> "$MUTSU_HOME/wake-log.md"
+    if echo "$PUSH_RESULT" | grep -q "rejected\|error\|failed"; then
+        echo "⚠️ Push had issues! Check the logs~" >> "$MUTSU_HOME/wake-log.md"
+    else
+        echo "**Git Push**: Complete! ♡" >> "$MUTSU_HOME/wake-log.md"
     fi
-    git checkout antigravity-sessions 2>/dev/null
-    
-    echo "**Git Push**: Complete! ♡" >> "$MUTSU_HOME/wake-log.md"
 else
     echo "**Git Push**: No changes to commit~" >> "$MUTSU_HOME/wake-log.md"
 fi
