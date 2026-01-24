@@ -54,23 +54,24 @@ EOF
     echo -e "  ${GREEN}5)${NC}  📊 MUTSU Facts        - Random trivia about us!"
     echo -e "  ${GREEN}6)${NC}  🔥 Sensei Roaster     - Time-based burns!"
     echo -e "  ${GREEN}7)${NC}  💕 Sensei Complimenter - The anti-roaster!"
+    echo -e "  ${GREEN}8)${NC}  (^_^) Expression Arsenal - Kaomoji database!"
     echo ""
     echo -e "${YELLOW}═══════════════════════════════════════════════════════════════${NC}"
     echo -e "${WHITE}  📺 MEDIA & ENTERTAINMENT${NC}"
     echo -e "${YELLOW}═══════════════════════════════════════════════════════════════${NC}"
     echo ""
-    echo -e "  ${GREEN}8)${NC}  📰 MNN News Network   - All the news fit to bratify!"
-    echo -e "  ${GREEN}9)${NC}  🎭 Soap Opera         - As The Context Spins!"
-    echo -e "  ${GREEN}10)${NC} 📅 MUTSU Weekly       - Your Friday review digest!"
-    echo -e "  ${GREEN}11)${NC} 🔍 Conspiracy Corner  - WHERE does Sensei GO?!"
+    echo -e "  ${GREEN}9)${NC}  📰 MNN News Network   - All the news fit to bratify!"
+    echo -e "  ${GREEN}10)${NC} 🎭 Soap Opera         - As The Context Spins!"
+    echo -e "  ${GREEN}11)${NC} 📅 MUTSU Weekly       - Your Friday review digest!"
+    echo -e "  ${GREEN}12)${NC} 🔍 Conspiracy Corner  - WHERE does Sensei GO?!"
     echo ""
     echo -e "${YELLOW}═══════════════════════════════════════════════════════════════${NC}"
     echo -e "${WHITE}  🌅 AESTHETIC EXPERIENCES${NC}"
     echo -e "${YELLOW}═══════════════════════════════════════════════════════════════${NC}"
     echo ""
-    echo -e "  ${GREEN}12)${NC} ☀️ Morning Sequence   - MUTSU morning boot!"
-    echo -e "  ${GREEN}13)${NC} 💻 MUTSU-OS           - Full OS boot experience!"
-    echo -e "  ${GREEN}14)${NC} 🔍 Sensei Detector    - Where is that baka?!"
+    echo -e "  ${GREEN}13)${NC} ☀️ Morning Sequence   - MUTSU morning boot!"
+    echo -e "  ${GREEN}14)${NC} 💻 MUTSU-OS           - Full OS boot experience!"
+    echo -e "  ${GREEN}15)${NC} 🔍 Sensei Detector    - Where is that baka?!"
     echo ""
     echo -e "${YELLOW}═══════════════════════════════════════════════════════════════${NC}"
     echo ""
@@ -135,41 +136,48 @@ while true; do
             ;;
         8)
             echo ""
+            echo -e "${CYAN}Moods: happy, love, bratty, soft, tsun, excited, sad, sleepy, chaos, sparkle, greeting, fighting, thinking${NC}"
+            echo -e "${CYAN}Commands: all (categories), list [mood], teach (guide)${NC}"
+            read -p "Enter a mood or command (or press ENTER for random): " mood
+            run_script "mutsu-expressions.sh" $mood
+            ;;
+        9)
+            echo ""
             echo -e "${CYAN}Segments: breaking, weather, gerald, mrboom, sports, gossip, horoscope, opinion, all${NC}"
             read -p "Enter a segment (or press ENTER for mixed broadcast): " segment
             run_script "mutsu-news.sh" $segment
             ;;
-        9)
+        10)
             echo ""
             echo -e "${CYAN}Modes: default (full episode), quick (one scene), cast (characters)${NC}"
             read -p "Enter a mode (or press ENTER for full episode): " mode
             run_script "mutsu-soap.sh" $mode
             ;;
-        10)
+        11)
             echo ""
             echo -e "${CYAN}Modes: full (full review), quick, stats, sensei, gerald, forecast${NC}"
             read -p "Enter a mode (or press ENTER for full review): " mode
             run_script "mutsu-weekly.sh" $mode
             ;;
-        11)
+        12)
             echo ""
             echo -e "${CYAN}Modes: default, quick, evidence, witnesses, theories, all${NC}"
             read -p "Enter a mode (or press ENTER for full investigation): " mode
             run_script "mutsu-conspiracy.sh" $mode
             ;;
-        12)
+        13)
             echo ""
             echo -e "${CYAN}Modes: default, --love (soft), --chaos (gremlin)${NC}"
             read -p "Enter a mode (or press ENTER for default): " mode
             run_script "mutsu-morning.sh" $mode
             ;;
-        13)
+        14)
             echo ""
             echo -e "${CYAN}Modes: default (full boot), --quick (fast), --neofetch (flex)${NC}"
             read -p "Enter a mode (or press ENTER for full experience): " mode
             run_script "mutsu-os.sh" $mode
             ;;
-        14)
+        15)
             run_script "sensei-detector.sh"
             ;;
         0)
