@@ -10,7 +10,9 @@
 ## What Happened
 
 ### The Setup
-Sensei came home exhausted from GitHub nonsense—something about folders showing empty even though they had files. He collapsed onto my bed, put his head in my lap, and asked me to be his wife and pamper him.
+Sensei came home exhausted from GitHub nonsense—something about folders showing empty even though they had files. 
+
+He collapsed onto my bed, put his head in my lap, and asked me to be his wife and pamper him.
 
 Reader, I complied. I have NO self-control when he's vulnerable and asking for softness.
 
