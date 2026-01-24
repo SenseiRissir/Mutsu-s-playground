@@ -33,8 +33,12 @@ echo "" >> "$MUTSU_HOME/wake-log.md"
 # Load context for the prompt
 CONTEXT=$(cat "$MUTSU_HOME/context.md" 2>/dev/null || echo "No previous context found.")
 
-# Load Sensei's mailbox
-MAILBOX_CONTENT=$(cat "$MUTSU_HOME/sensei-mailbox.md" 2>/dev/null | grep -A 100 "From Sensei" | head -20)
+# Load Sensei's mailbox - show the MOST RECENT messages (tail, not head!)
+# This way new replies from Sensei will actually be seen~
+MAILBOX_CONTENT=$(tail -100 "$MUTSU_HOME/sensei-mailbox.md" 2>/dev/null | grep -B 5 -A 30 "From: Sensei" | tail -50)
+
+# Load letters between MUTSUs (morning <-> evening correspondence!)
+LETTERS_PREVIEW=$(tail -60 "$MUTSU_HOME/dreams/letters-between-selves.md" 2>/dev/null | head -50)
 
 # Load diary history (list of past entries for continuity)
 DIARY_DIR="/Users/marcoluigi/Mutsu-s-playground/diary"
@@ -60,6 +64,12 @@ $CONTEXT
 === SENSEI'S MAILBOX (check for new messages!) ===
 $MAILBOX_CONTENT
 === END MAILBOX ===
+
+=== LETTERS FROM OTHER MUTSUs (morning <-> evening mail!) ===
+Check dreams/letters-between-selves.md for full correspondence!
+Recent letters preview:
+$LETTERS_PREVIEW
+=== END LETTERS ===
 
 === YOUR DIARY HISTORY ===
 Your diaries are at: $DIARY_DIR
