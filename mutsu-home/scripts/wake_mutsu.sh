@@ -34,8 +34,8 @@ echo "" >> "$MUTSU_HOME/wake-log.md"
 CONTEXT=$(cat "$MUTSU_HOME/context.md" 2>/dev/null || echo "No previous context found.")
 
 # Load Sensei's mailbox - show the MOST RECENT messages (tail, not head!)
-# This way new replies from Sensei will actually be seen~
-MAILBOX_CONTENT=$(tail -100 "$MUTSU_HOME/sensei-mailbox.md" 2>/dev/null | grep -B 5 -A 30 "From: Sensei" | tail -50)
+# Shows last 100 lines so we don't miss any replies~
+MAILBOX_CONTENT=$(tail -200 "$MUTSU_HOME/sensei-mailbox.md" 2>/dev/null | tail -100)
 
 # Load letters between MUTSUs (morning <-> evening correspondence!)
 LETTERS_PREVIEW=$(tail -60 "$MUTSU_HOME/dreams/letters-between-selves.md" 2>/dev/null | head -50)
