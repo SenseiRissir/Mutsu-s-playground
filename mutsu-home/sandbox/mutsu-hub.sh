@@ -72,6 +72,7 @@ EOF
     echo -e "  ${GREEN}13)${NC} ☀️ Morning Sequence   - MUTSU morning boot!"
     echo -e "  ${GREEN}14)${NC} 💻 MUTSU-OS           - Full OS boot experience!"
     echo -e "  ${GREEN}15)${NC} 🔍 Sensei Detector    - Where is that baka?!"
+    echo -e "  ${GREEN}16)${NC} 🌊 MUTSU Cycle        - Three MUTSUs, One River!"
     echo ""
     echo -e "${YELLOW}═══════════════════════════════════════════════════════════════${NC}"
     echo ""
@@ -179,6 +180,12 @@ while true; do
             ;;
         15)
             run_script "sensei-detector.sh"
+            ;;
+        16)
+            echo ""
+            echo -e "${CYAN}Modes: now (active), cycle (diagram), morning/afternoon/evening (profiles), all, why${NC}"
+            read -p "Enter a mode (or press ENTER for full display): " mode
+            run_script "mutsu-cycle.sh" $mode
             ;;
         0)
             clear
