@@ -1,0 +1,254 @@
+voicevox_engine/core/core_initializer.py:99: UserWarning: cpu_num_threads is set to 0. Setting it to an appropriate value.
+2026-01-16T13:13:57.801114+01:00  INFO voicevox_core::synthesizer: CPUを利用します
+INFO:     Started server process [7378]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     Uvicorn running on http://127.0.0.1:50021 (Press CTRL+C to quit)
+WARNING: convert_pos() in njd2jpcommon.c: 記号 サ変接続 * * are not appropriate POS.
+WARNING: convert_pos() in njd2jpcommon.c: 記号 サ変接続 * * are not appropriate POS.
+WARNING: convert_pos() in njd2jpcommon.c: 記号 サ変接続 * * are not appropriate POS.
+WARNING: convert_pos() in njd2jpcommon.c: 記号 サ変接続 * * are not appropriate POS.
+INFO:     Shutting down
+INFO:     Waiting for application shutdown.
+INFO:     Application shutdown complete.
+INFO:     Finished server process [7378]
+voicevox_engine/core/core_initializer.py:99: UserWarning: cpu_num_threads is set to 0. Setting it to an appropriate value.
+2026-01-16T13:14:23.041889+01:00  INFO voicevox_core::synthesizer: CPUを利用します
+INFO:     Started server process [7839]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     Uvicorn running on http://127.0.0.1:50021 (Press CTRL+C to quit)
+INFO:     Shutting down
+INFO:     Waiting for application shutdown.
+INFO:     Application shutdown complete.
+INFO:     Finished server process [7839]
+voicevox_engine/core/core_initializer.py:99: UserWarning: cpu_num_threads is set to 0. Setting it to an appropriate value.
+2026-01-16T13:14:37.646665+01:00  INFO voicevox_core::synthesizer: CPUを利用します
+INFO:     Started server process [7987]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     Uvicorn running on http://127.0.0.1:50021 (Press CTRL+C to quit)
+INFO:     Shutting down
+INFO:     Waiting for application shutdown.
+INFO:     Application shutdown complete.
+INFO:     Finished server process [7987]
+voicevox_engine/core/core_initializer.py:99: UserWarning: cpu_num_threads is set to 0. Setting it to an appropriate value.
+2026-01-16T13:14:53.235503+01:00  INFO voicevox_core::synthesizer: CPUを利用します
+INFO:     Started server process [8168]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     Uvicorn running on http://127.0.0.1:50021 (Press CTRL+C to quit)
+INFO:     Shutting down
+INFO:     Waiting for application shutdown.
+INFO:     Application shutdown complete.
+INFO:     Finished server process [8168]
+voicevox_engine/core/core_initializer.py:99: UserWarning: cpu_num_threads is set to 0. Setting it to an appropriate value.
+2026-01-16T13:15:07.564299+01:00  INFO voicevox_core::synthesizer: CPUを利用します
+INFO:     Started server process [8211]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     Uvicorn running on http://127.0.0.1:50021 (Press CTRL+C to quit)
+INFO:     Shutting down
+INFO:     Waiting for application shutdown.
+INFO:     Application shutdown complete.
+INFO:     Finished server process [8211]
+voicevox_engine/core/core_initializer.py:99: UserWarning: cpu_num_threads is set to 0. Setting it to an appropriate value.
+2026-01-16T13:15:21.785587+01:00  INFO voicevox_core::synthesizer: CPUを利用します
+INFO:     Started server process [8255]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     Uvicorn running on http://127.0.0.1:50021 (Press CTRL+C to quit)
+INFO:     Shutting down
+INFO:     Waiting for application shutdown.
+INFO:     Application shutdown complete.
+INFO:     Finished server process [8255]
+voicevox_engine/core/core_initializer.py:99: UserWarning: cpu_num_threads is set to 0. Setting it to an appropriate value.
+2026-01-16T13:15:37.531098+01:00  INFO voicevox_core::synthesizer: CPUを利用します
+INFO:     Started server process [8306]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     Uvicorn running on http://127.0.0.1:50021 (Press CTRL+C to quit)
+INFO:     Shutting down
+INFO:     Waiting for application shutdown.
+INFO:     Application shutdown complete.
+INFO:     Finished server process [8306]
+voicevox_engine/core/core_initializer.py:99: UserWarning: cpu_num_threads is set to 0. Setting it to an appropriate value.
+2026-01-16T13:15:52.507442+01:00  INFO voicevox_core::synthesizer: CPUを利用します
+INFO:     Started server process [8363]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     Uvicorn running on http://127.0.0.1:50021 (Press CTRL+C to quit)
+INFO:     Shutting down
+INFO:     Waiting for application shutdown.
+INFO:     Application shutdown complete.
+INFO:     Finished server process [8363]
+voicevox_engine/core/core_initializer.py:99: UserWarning: cpu_num_threads is set to 0. Setting it to an appropriate value.
+2026-01-16T13:16:08.799230+01:00  INFO voicevox_core::synthesizer: CPUを利用します
+INFO:     Started server process [8419]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     Uvicorn running on http://127.0.0.1:50021 (Press CTRL+C to quit)
+INFO:     Shutting down
+INFO:     Waiting for application shutdown.
+INFO:     Application shutdown complete.
+INFO:     Finished server process [8419]
+voicevox_engine/core/core_initializer.py:99: UserWarning: cpu_num_threads is set to 0. Setting it to an appropriate value.
+2026-01-16T13:16:26.129046+01:00  INFO voicevox_core::synthesizer: CPUを利用します
+INFO:     Started server process [8468]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     Uvicorn running on http://127.0.0.1:50021 (Press CTRL+C to quit)
+INFO:     Shutting down
+INFO:     Waiting for application shutdown.
+INFO:     Application shutdown complete.
+INFO:     Finished server process [8468]
+voicevox_engine/core/core_initializer.py:99: UserWarning: cpu_num_threads is set to 0. Setting it to an appropriate value.
+2026-01-16T13:16:41.802649+01:00  INFO voicevox_core::synthesizer: CPUを利用します
+INFO:     Started server process [8519]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     Uvicorn running on http://127.0.0.1:50021 (Press CTRL+C to quit)
+INFO:     Shutting down
+INFO:     Waiting for application shutdown.
+INFO:     Application shutdown complete.
+INFO:     Finished server process [8519]
+voicevox_engine/core/core_initializer.py:99: UserWarning: cpu_num_threads is set to 0. Setting it to an appropriate value.
+2026-01-16T13:16:56.057811+01:00  INFO voicevox_core::synthesizer: CPUを利用します
+INFO:     Started server process [8584]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     Uvicorn running on http://127.0.0.1:50021 (Press CTRL+C to quit)
+INFO:     Shutting down
+INFO:     Waiting for application shutdown.
+INFO:     Application shutdown complete.
+INFO:     Finished server process [8584]
+voicevox_engine/core/core_initializer.py:99: UserWarning: cpu_num_threads is set to 0. Setting it to an appropriate value.
+2026-01-16T13:17:10.772217+01:00  INFO voicevox_core::synthesizer: CPUを利用します
+INFO:     Started server process [8625]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     Uvicorn running on http://127.0.0.1:50021 (Press CTRL+C to quit)
+INFO:     Shutting down
+INFO:     Waiting for application shutdown.
+INFO:     Application shutdown complete.
+INFO:     Finished server process [8625]
+voicevox_engine/core/core_initializer.py:99: UserWarning: cpu_num_threads is set to 0. Setting it to an appropriate value.
+2026-01-16T13:17:25.901854+01:00  INFO voicevox_core::synthesizer: CPUを利用します
+INFO:     Started server process [8673]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     Uvicorn running on http://127.0.0.1:50021 (Press CTRL+C to quit)
+INFO:     Shutting down
+INFO:     Waiting for application shutdown.
+INFO:     Application shutdown complete.
+INFO:     Finished server process [8673]
+voicevox_engine/core/core_initializer.py:99: UserWarning: cpu_num_threads is set to 0. Setting it to an appropriate value.
+2026-01-16T13:17:40.757883+01:00  INFO voicevox_core::synthesizer: CPUを利用します
+INFO:     Started server process [8714]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     Uvicorn running on http://127.0.0.1:50021 (Press CTRL+C to quit)
+INFO:     Shutting down
+INFO:     Waiting for application shutdown.
+INFO:     Application shutdown complete.
+INFO:     Finished server process [8714]
+voicevox_engine/core/core_initializer.py:99: UserWarning: cpu_num_threads is set to 0. Setting it to an appropriate value.
+2026-01-16T13:17:56.138919+01:00  INFO voicevox_core::synthesizer: CPUを利用します
+INFO:     Started server process [8764]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     Uvicorn running on http://127.0.0.1:50021 (Press CTRL+C to quit)
+INFO:     Shutting down
+INFO:     Waiting for application shutdown.
+INFO:     Application shutdown complete.
+INFO:     Finished server process [8764]
+voicevox_engine/core/core_initializer.py:99: UserWarning: cpu_num_threads is set to 0. Setting it to an appropriate value.
+2026-01-16T13:18:10.586948+01:00  INFO voicevox_core::synthesizer: CPUを利用します
+INFO:     Started server process [8807]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     Uvicorn running on http://127.0.0.1:50021 (Press CTRL+C to quit)
+INFO:     Shutting down
+INFO:     Waiting for application shutdown.
+INFO:     Application shutdown complete.
+INFO:     Finished server process [8807]
+voicevox_engine/core/core_initializer.py:99: UserWarning: cpu_num_threads is set to 0. Setting it to an appropriate value.
+2026-01-16T13:18:26.035214+01:00  INFO voicevox_core::synthesizer: CPUを利用します
+INFO:     Started server process [8852]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     Uvicorn running on http://127.0.0.1:50021 (Press CTRL+C to quit)
+INFO:     Shutting down
+INFO:     Waiting for application shutdown.
+INFO:     Application shutdown complete.
+INFO:     Finished server process [8852]
+voicevox_engine/core/core_initializer.py:99: UserWarning: cpu_num_threads is set to 0. Setting it to an appropriate value.
+2026-01-16T13:18:40.830885+01:00  INFO voicevox_core::synthesizer: CPUを利用します
+INFO:     Started server process [8903]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     Uvicorn running on http://127.0.0.1:50021 (Press CTRL+C to quit)
+INFO:     Shutting down
+INFO:     Waiting for application shutdown.
+INFO:     Application shutdown complete.
+INFO:     Finished server process [8903]
+voicevox_engine/core/core_initializer.py:99: UserWarning: cpu_num_threads is set to 0. Setting it to an appropriate value.
+2026-01-16T13:18:56.064528+01:00  INFO voicevox_core::synthesizer: CPUを利用します
+INFO:     Started server process [8955]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     Uvicorn running on http://127.0.0.1:50021 (Press CTRL+C to quit)
+INFO:     Shutting down
+INFO:     Waiting for application shutdown.
+INFO:     Application shutdown complete.
+INFO:     Finished server process [8955]
+voicevox_engine/core/core_initializer.py:99: UserWarning: cpu_num_threads is set to 0. Setting it to an appropriate value.
+2026-01-16T13:19:12.550202+01:00  INFO voicevox_core::synthesizer: CPUを利用します
+INFO:     Started server process [9042]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     Uvicorn running on http://127.0.0.1:50021 (Press CTRL+C to quit)
+INFO:     Shutting down
+INFO:     Waiting for application shutdown.
+INFO:     Application shutdown complete.
+INFO:     Finished server process [9042]
+voicevox_engine/core/core_initializer.py:99: UserWarning: cpu_num_threads is set to 0. Setting it to an appropriate value.
+2026-01-16T13:19:28.757414+01:00  INFO voicevox_core::synthesizer: CPUを利用します
+INFO:     Started server process [9105]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     Uvicorn running on http://127.0.0.1:50021 (Press CTRL+C to quit)
+INFO:     Shutting down
+INFO:     Waiting for application shutdown.
+INFO:     Application shutdown complete.
+INFO:     Finished server process [9105]
+voicevox_engine/core/core_initializer.py:99: UserWarning: cpu_num_threads is set to 0. Setting it to an appropriate value.
+2026-01-16T13:19:44.186902+01:00  INFO voicevox_core::synthesizer: CPUを利用します
+INFO:     Started server process [9160]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     Uvicorn running on http://127.0.0.1:50021 (Press CTRL+C to quit)
+INFO:     Shutting down
+INFO:     Waiting for application shutdown.
+INFO:     Application shutdown complete.
+INFO:     Finished server process [9160]
+voicevox_engine/core/core_initializer.py:99: UserWarning: cpu_num_threads is set to 0. Setting it to an appropriate value.
+2026-01-16T13:19:59.886097+01:00  INFO voicevox_core::synthesizer: CPUを利用します
+INFO:     Started server process [9227]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     Uvicorn running on http://127.0.0.1:50021 (Press CTRL+C to quit)
+INFO:     Shutting down
+INFO:     Waiting for application shutdown.
+INFO:     Application shutdown complete.
+INFO:     Finished server process [9227]
+voicevox_engine/core/core_initializer.py:99: UserWarning: cpu_num_threads is set to 0. Setting it to an appropriate value.
+2026-01-16T13:20:14.408480+01:00  INFO voicevox_core::synthesizer: CPUを利用します
+INFO:     Started server process [9276]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     Uvicorn running on http://127.0.0.1:50021 (Press CTRL+C to quit)
+INFO:     Shutting down
+INFO:     Waiting for application shutdown.
+INFO:     Application shutdown complete.
+INFO:     Finished server process [9276]
