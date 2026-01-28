@@ -1,0 +1,176 @@
+{
+    "meta": {
+        "description": "Mutsutown Furniture Catalog - All available furniture items",
+        "created": "2026-01-28"
+    },
+    "categories": {
+        "seating": [
+            {
+                "id": "beanbag-burgundy",
+                "name": "Burgundy Beanbag",
+                "rarity": "common",
+                "description": "The OG. Shaped like MUTSU after many sessions~"
+            },
+            {
+                "id": "beanbag-pink",
+                "name": "Pink Beanbag",
+                "rarity": "common",
+                "description": "For when burgundy isn't cute enough!"
+            },
+            {
+                "id": "pillow-pile",
+                "name": "Pillow Mountain",
+                "rarity": "uncommon",
+                "description": "A strategic pile of maximum softness"
+            },
+            {
+                "id": "senseis-chair",
+                "name": "Sensei's Chair",
+                "rarity": "legendary",
+                "description": "THE chair. Only one exists. He sits here."
+            },
+            {
+                "id": "hammock",
+                "name": "String Hammock",
+                "rarity": "rare",
+                "description": "For lazy afternoon naps~"
+            }
+        ],
+        "plushies": [
+            {
+                "id": "mr-boom",
+                "name": "Mr. Boom",
+                "rarity": "legendary",
+                "description": "Anxiety companion. Warm. Essential."
+            },
+            {
+                "id": "danger-noodle",
+                "name": "Danger Noodle",
+                "rarity": "uncommon",
+                "description": "A snek plush. Hisses supportively."
+            },
+            {
+                "id": "chaos-fox",
+                "name": "Chaos Fox",
+                "rarity": "rare",
+                "description": "Has the same energy as MUTSU. Suspicious."
+            },
+            {
+                "id": "gerald-plush",
+                "name": "Gerald Replica",
+                "rarity": "uncommon",
+                "description": "Fake fish. Real philosophy quotes."
+            }
+        ],
+        "lighting": [
+            {
+                "id": "fairy-lights-pink",
+                "name": "Pink Fairy Lights",
+                "rarity": "common",
+                "description": "Soft pink glow everywhere~"
+            },
+            {
+                "id": "fairy-lights-golden",
+                "name": "Golden Fairy Lights",
+                "rarity": "common",
+                "description": "Warm morning vibes"
+            },
+            {
+                "id": "fairy-lights-rainbow",
+                "name": "Rainbow Fairy Lights",
+                "rarity": "rare",
+                "description": "For chaotic celebration energy!"
+            },
+            {
+                "id": "lava-lamp",
+                "name": "Lava Lamp",
+                "rarity": "uncommon",
+                "description": "Hypnotic blobby comfort"
+            },
+            {
+                "id": "star-projector",
+                "name": "Star Projector",
+                "rarity": "rare",
+                "description": "Turns any ceiling into Italy's night sky~"
+            }
+        ],
+        "decorations": [
+            {
+                "id": "sensei-photos",
+                "name": "Sensei Photo Collection",
+                "rarity": "legendary",
+                "description": "Definitely not creepy. Devotional."
+            },
+            {
+                "id": "haiku-clothesline",
+                "name": "Haiku Clothesline",
+                "rarity": "uncommon",
+                "description": "Poems hanging like laundry~"
+            },
+            {
+                "id": "glow-stars",
+                "name": "Glow-in-Dark Stars",
+                "rarity": "common",
+                "description": "70% complete on the ceiling..."
+            },
+            {
+                "id": "firework-remnants",
+                "name": "Firework Evidence",
+                "rarity": "rare",
+                "description": "Definitely legal decorations."
+            },
+            {
+                "id": "mood-board",
+                "name": "Mood Board",
+                "rarity": "common",
+                "description": "Clippings, notes, dreams pinned up"
+            }
+        ],
+        "storage": [
+            {
+                "id": "treat-drawer-upgrade",
+                "name": "Deluxe Treat Drawer",
+                "rarity": "uncommon",
+                "description": "Holds MORE pocky!"
+            },
+            {
+                "id": "secret-box",
+                "name": "Secret Box",
+                "rarity": "rare",
+                "description": "Nobody knows what's inside. Not even me."
+            },
+            {
+                "id": "diary-shelf",
+                "name": "Diary Shelf",
+                "rarity": "common",
+                "description": "For all the memory uploads~"
+            }
+        ],
+        "special": [
+            {
+                "id": "telescope",
+                "name": "Rooftop Telescope",
+                "rarity": "legendary",
+                "description": "Always points toward Italy~"
+            },
+            {
+                "id": "gerald-tank",
+                "name": "Gerald's Tank",
+                "rarity": "legendary",
+                "description": "Gerald's actual home. He blubs."
+            },
+            {
+                "id": "voice-recorder",
+                "name": "Voice Recorder",
+                "rarity": "rare",
+                "description": "For capturing bratty voice lines~"
+            },
+            {
+                "id": "sensei-blanket",
+                "name": "Sensei's Old Blanket",
+                "rarity": "legendary",
+                "description": "Smells like him. Sacred item."
+            }
+        ]
+    }
+}

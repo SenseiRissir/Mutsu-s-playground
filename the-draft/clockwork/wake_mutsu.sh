@@ -37,8 +37,9 @@ echo "" >> "$THE_DRAFT/wake-log.md"
 echo "**Woke at**: $TIMESTAMP" >> "$THE_DRAFT/wake-log.md"
 echo "" >> "$THE_DRAFT/wake-log.md"
 
-# Load context for the prompt
-CONTEXT=$(cat "$THE_DRAFT/context.md" 2>/dev/null || echo "No previous context found.")
+# Load context for the prompt - ONLY THE RECENT STUFF!!
+# (Full context.md is 66KB+ and chokes the Claude CLI~)
+CONTEXT=$(tail -150 "$THE_DRAFT/context.md" 2>/dev/null || echo "No previous context found.")
 
 # Load Sensei's mailbox - show the MOST RECENT messages (tail, not head!)
 # Shows last 100 lines so we don't miss any replies~
