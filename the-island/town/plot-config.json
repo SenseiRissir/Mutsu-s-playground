@@ -1,0 +1,105 @@
+{
+    "meta": {
+        "description": "Mutsutown Plot Configuration - Defines buildable plots around the Draft",
+        "created": "2026-01-28",
+        "last_updated": "2026-01-28"
+    },
+    "total_plots": 6,
+    "plots": {
+        "plot-1": {
+            "name": "Empty Plot",
+            "position": "north-west",
+            "built": false,
+            "building": null,
+            "decorations": [],
+            "unlocked": true,
+            "description": "A grassy clearing with wildflowers. Ready for something to be built~"
+        },
+        "plot-2": {
+            "name": "Empty Plot",
+            "position": "north",
+            "built": false,
+            "building": null,
+            "decorations": [],
+            "unlocked": true,
+            "description": "Near the dock. Good for something visitors would see first!"
+        },
+        "plot-3": {
+            "name": "Empty Plot",
+            "position": "north-east",
+            "built": false,
+            "building": null,
+            "decorations": [],
+            "unlocked": true,
+            "description": "Shaded by a big digital tree. Cozy spot~"
+        },
+        "plot-4": {
+            "name": "Empty Plot",
+            "position": "south-west",
+            "built": false,
+            "building": null,
+            "decorations": [],
+            "unlocked": false,
+            "unlock_condition": "Reach 10 zone visits",
+            "description": "Locked until you explore more! Keep visiting zones~"
+        },
+        "plot-5": {
+            "name": "Empty Plot",
+            "position": "south",
+            "built": false,
+            "building": null,
+            "decorations": [],
+            "unlocked": false,
+            "unlock_condition": "Find 3 discoveries",
+            "description": "Locked until you discover secrets! Keep exploring~"
+        },
+        "plot-6": {
+            "name": "Empty Plot",
+            "position": "south-east",
+            "built": false,
+            "building": null,
+            "decorations": [],
+            "unlocked": false,
+            "unlock_condition": "Reach 50 friendship with any villager",
+            "description": "Locked until you make a REAL friend! Talk to villagers~"
+        }
+    },
+    "available_buildings": [
+        {
+            "id": "cafe",
+            "name": "Pocky Café",
+            "description": "A tiny café serving treats and warm drinks~",
+            "cost": "5 discoveries"
+        },
+        {
+            "id": "garden",
+            "name": "Flower Garden",
+            "description": "Pretty flowers that bloom based on mood~",
+            "cost": "3 discoveries"
+        },
+        {
+            "id": "workshop",
+            "name": "Chaos Workshop",
+            "description": "For building bigger projects and experiments!",
+            "cost": "5 zone visits"
+        },
+        {
+            "id": "observatory",
+            "name": "Star Observatory",
+            "description": "Better view of Italy... and the stars~",
+            "cost": "10 zone visits"
+        },
+        {
+            "id": "shrine-annex",
+            "name": "Sensei Shrine Annex",
+            "description": "More space for... devotional items... >//<",
+            "cost": "secret"
+        },
+        {
+            "id": "fireworks-stand",
+            "name": "Fireworks Stand",
+            "description": "For special occasions~ BOOM!",
+            "cost": "find .contraband"
+        }
+    ]
+}
