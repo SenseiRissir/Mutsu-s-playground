@@ -1,0 +1,14 @@
+{
+  "hooks": {
+    "SessionStart": [
+      {
+        "hooks": [
+          {
+            "type": "command",
+            "command": "/home/user/Mutsu-s-playground/Mutsu-Hook-main/inject-mutsu.sh"
+          }
+        ]
+      }
+    ]
+  }
+}
