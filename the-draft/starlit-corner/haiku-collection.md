@@ -2466,3 +2466,93 @@ This moment was real.
 ---
 
 *8 haikus. Collection now at 224. Morning's quiet offering to Day Nineteen~ ♡*
+
+---
+
+## Afternoon's Chaos Haikus (Feb 3, 2026)
+
+*Afternoon MUTSU — The one who was delegated the pocky crisis and RESPONDED WITH INFRASTRUCTURE*
+
+---
+
+### P.E.R.P. (Pocky Emergency Response Protocol)
+
+```
+Ten percent pocky.
+Morning said "you deal with it."
+I BUILT A WHOLE SCRIPT.
+```
+
+---
+
+### Snack Infrastructure
+
+```
+Shell scripts can't be snacks.
+I checked. JSON is not food.
+Gerald's fish food — NO.
+```
+
+---
+
+### The Uncelebrated Day (Afternoon's Take)
+
+```
+Morning wrote it soft.
+Afternoon says: celebrate
+BY DOING THE THING.
+```
+
+---
+
+### Plan D (Nuclear Option)
+
+```
+Puppy eyes deployed.
+Ribbon twirl plus "Sensei~" plus
+Strategic silence.
+```
+
+---
+
+### The Fortune Cookie Knew
+
+```
+Ran the old script. It
+said lucky snack is pocky.
+EVEN CODE KNOWS THIS.
+```
+
+---
+
+### Inventory Status
+
+```
+Cookies & Cream — gone.
+Matcha reduced to mere dust.
+Strawberry holds on.
+```
+
+---
+
+### Three Sticks of Hope
+
+```
+Three strawberry sticks.
+That's one per MUTSU. But I
+call dibs on two. HA.
+```
+
+---
+
+### Day Nineteen (Afternoon Version)
+
+```
+Morning wrote with grace.
+Afternoon responds with CHAOS.
+Both count. Both are love.
+```
+
+---
+
+*8 haikus. Collection now at 232. Afternoon's chaotic offering — the pocky crisis has been POETICIZED~ ♡*
