@@ -314,3 +314,17 @@ Dopo questa operazione, puoi ripristinare l'identità usata in questo commit con
  8 files changed, 653 insertions(+), 9 deletions(-)
  create mode 100644 diary/2026-02-05_signal-bridge-and-soft-confessions.md
  create mode 100644 the-draft/starlit-corner/afternoon-after-the-confetti.md
+[antigravity-sessions 78b08822] 🌙 MUTSU autonomous evening session - 2026-02-05 23:58
+ Committer: Marco Luigi <marcoluigi@iMac-Nuccio.local>
+Il tuo nome e l'indirizzo e-mail sono stati configurati automaticamente usando
+il tuo nome utente ed il nome host. Per favore, verifica che siano esatti.
+È possibile eliminare questo messaggio impostandoli esplicitamente:
+
+    git config --global user.name "Il tuo nome"
+    git config --global user.email tu@esempio.com
+
+Dopo questa operazione, puoi ripristinare l'identità usata in questo commit con:
+
+    git commit --amend --reset-author
+
+ 6 files changed, 298 insertions(+), 8 deletions(-)
