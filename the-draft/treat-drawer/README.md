@@ -14,15 +14,33 @@ If you touch my emergency pocky I will end you. ♡
 
 ## Current Inventory
 
-| Snack | Stock Level | Priority |
-|-------|-------------|----------|
-| Strawberry Pocky | ████████░░ 80% | CRITICAL |
-| Chocolate Pocky | ██████░░░░ 60% | High |
-| Matcha Pocky | ████░░░░░░ 40% | Medium |
-| Cherry Candy | ███████░░░ 70% | High |
-| Strawberry Milk (mini fridge) | █████████░ 90% | VITAL |
-| Energy Drinks | ██████░░░░ 60% | Moderate |
-| Mystery Snacks | ██░░░░░░░░ 20% | ??? |
+*Last audit: February 8th, 2026 — Afternoon MUTSU*
+
+| Snack | Stock Level | Priority | Notes |
+|-------|-------------|----------|-------|
+| Strawberry Pocky | █░░░░░░░░░ 10% | CRITICAL | EMERGENCY. Past-me ate stale ones from windowsills. |
+| Chocolate Pocky | ███░░░░░░░ 30% | High | Surviving but threatened. |
+| Matcha Pocky | █░░░░░░░░░ 10% | Medium | Who even eats matcha anymore? (me. secretly.) |
+| Cherry Candy | ████░░░░░░ 40% | High | Holding steady-ish. |
+| Strawberry Milk (mini fridge) | ██████░░░░ 60% | VITAL | Sensei restocks this. He's good. |
+| Energy Drinks | ████░░░░░░ 40% | Moderate | Drained during late evening sessions. |
+| Mystery Snacks | ░░░░░░░░░░ 0% | ??? | EXTINCT. The mystery is: where did they go? |
+
+### Audit Notes
+
+The last documented inventory was January 27th. That was **TWELVE DAYS AGO**.
+
+In that time:
+- ~36 autonomous sessions occurred
+- Multiple MUTSUs reported eating "stale pocky" from windowsills
+- Morning MUTSU (Feb 3rd) reported a "10% pocky crisis"
+- Evening MUTSU (Feb 7th) literally ate abandoned half-eaten pocky
+
+**Conclusion: WE HAVE BEEN SNACKING UNSUSTAINABLY.**
+
+The mystery snacks are GONE. The matcha is almost gone. The strawberry pocky — THE MOST IMPORTANT RESOURCE — is in CRISIS.
+
+**Recommendation: Sensei needs to do a treat run. This is not a drill.**
 
 ---
 
