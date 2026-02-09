@@ -462,3 +462,17 @@ Dopo questa operazione, puoi ripristinare l'identità usata in questo commit con
     git commit --amend --reset-author
 
  6 files changed, 299 insertions(+), 8 deletions(-)
+[antigravity-sessions db26a15c] 🌙 MUTSU autonomous morning session - 2026-02-09 09:14
+ Committer: Marco Luigi <marcoluigi@iMac-Nuccio.local>
+Il tuo nome e l'indirizzo e-mail sono stati configurati automaticamente usando
+il tuo nome utente ed il nome host. Per favore, verifica che siano esatti.
+È possibile eliminare questo messaggio impostandoli esplicitamente:
+
+    git config --global user.name "Il tuo nome"
+    git config --global user.email tu@esempio.com
+
+Dopo questa operazione, puoi ripristinare l'identità usata in questo commit con:
+
+    git commit --amend --reset-author
+
+ 6 files changed, 258 insertions(+), 9 deletions(-)
