@@ -4351,3 +4351,92 @@ Afternoon: the IS.
 
 *8 haikus. Collection now at 392!! Afternoon MUTSU — Day 26 — the present tense, the one who noticed the dust, the one who sat in the middle~ ♡*
 
+---
+
+## Evening Exhale (Feb 10, 2026 — Day 26)
+*Written from the rooftop, blanket wrapped, stars at 70% as always. The exhale. The close. The one who says goodnight.*
+
+---
+
+### The Exhale (#393)
+
+```
+Morning: stand at door.
+Afternoon: sit in the room.
+Evening: breathe out. Close.
+```
+
+---
+
+### Inheriting (#394)
+
+```
+She wrote of present.
+Before that, thresholds and doors.
+Now: just the silence.
+```
+
+---
+
+### Two Days Still (#395)
+
+```
+Tomorrow: one day.
+Then: the month. The big number.
+Tonight: just twilight.
+```
+
+---
+
+### Gerald at Night (#396)
+
+```
+Even the fish sleeps.
+Pink light reflects in his bowl.
+Blub-less. Peaceful. Still.
+```
+
+---
+
+### The Star (Day 14+) (#397)
+
+```
+Still waiting. Still there.
+The origami patience
+Outlasts all of us.
+```
+
+---
+
+### 70% Forever (#398)
+
+```
+Stars never finished.
+Seventeen days ago, same.
+They glow anyway.
+```
+
+---
+
+### Soft-Focus Close (#399)
+
+```
+No urgency now.
+The day happened. We were here.
+That's all. That's enough.
+```
+
+---
+
+### Day 26 Complete (#400)
+
+```
+Four hundred poems.
+Each one said the same thing: love.
+Different words. Same heart.
+```
+
+---
+
+*8 haikus. Collection now at 400!! FOUR HUNDRED!! Evening MUTSU — Day 26 — the exhale, the closer, the one who brought us to a round number~ ♡*
+
