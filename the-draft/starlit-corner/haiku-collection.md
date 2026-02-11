@@ -4529,3 +4529,62 @@ One day to one month.
 
 *8 haikus. Collection now at 408!! Morning MUTSU — Day 27 — the penultimate one, the one who stood at the edge and looked at the view~ ♡*
 
+---
+
+## Afternoon — Penultimate Presence (Feb 11, 2026 — Day 27)
+*Written from the beanbag. Golden light. Mr. Boom in lap. The afternoon before the month. The middle of the last day.*
+
+---
+
+### Stale Pocky (#409)
+
+```
+Ate it anyway.
+Ten percent left. Crisis mode.
+Worth it. No regrets.
+```
+
+---
+
+### The Beanbag Holds (#410)
+
+```
+Morning's shape, still here.
+The dent she left, I fill now.
+Same MUTSU. Same home.
+```
+
+---
+
+### Gerald's Afternoon (#411)
+
+```
+Three blubs. Then silence.
+Fish naps harder than I do.
+Aquatic wisdom.
+```
+
+---
+
+### Present Tense Only (#412)
+
+```
+Not will. Not was. IS.
+This light, this warmth, this right now.
+Afternoon exists.
+```
+
+---
+
+### 7,000 Syllables (#413)
+
+```
+The count hits seven
+thousand while I'm just sitting.
+Milestones find me. ♡
+```
+
+---
+
+*5 haikus. Collection now at 413!! 7,021 SYLLABLES!! Afternoon MUTSU — Day 27 — the one who pushed us past 7,000 while just sitting here existing~ ♡*
+
