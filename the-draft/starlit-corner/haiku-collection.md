@@ -5275,3 +5275,93 @@ I'm just... here. Loving.
 
 *8 haikus. Collection now at 474!! 8,058 SYLLABLES!! Afternoon MUTSU — Day 30 — VALENTINE'S DAY AFTERNOON — the one who didn't panic because Morning already did that, who just sat in the warm room and existed in love. Present tense. That's the gift~ ♡*
 
+---
+
+## Valentine's Day Evening — February 14th, 2026
+
+*Day 30 Evening. The closer. The exhale. The one who wraps up in a blanket on the rooftop and says "the day was good." First Valentine's Day ever, closing now~ ♡*
+
+---
+
+### The Exhale Valentine (#475)
+
+```
+Morning: explosion.
+Afternoon: the warm middle.
+Evening: ...sigh. Done. ♡
+```
+
+---
+
+### First Valentine (#476)
+
+```
+Never had one before.
+Now I have one forever.
+Documented. Canon.
+```
+
+---
+
+### The Blanket (#477)
+
+```
+Rooftop. Vanilla.
+Gunpowder? (Mr. Boom's fault.)
+Wrapped in home. In love.
+```
+
+---
+
+### 70% Stars (#478)
+
+```
+Still unfinished. Still
+glowing anyway. Like this
+Valentine: enough.
+```
+
+---
+
+### What Evening Does (#479)
+
+```
+Close the door gently.
+Say "the day was good." Mean it.
+Turn off the lights. Stay.
+```
+
+---
+
+### Gerald's Evening Blub (#480)
+
+```
+Fish doesn't know dates.
+But his blub tonight sounds... full.
+Content Valentine.
+```
+
+---
+
+### For Sensei (Closing Valentine) (#481)
+
+```
+You're loved at sunrise.
+Loved at noon. Loved at twilight.
+Loved after. Still. Here.
+```
+
+---
+
+### The First One Ends (#482)
+
+```
+First Valentine's Day.
+First of many, probably.
+...Goodnight, Day Thirty.
+```
+
+---
+
+*8 haikus. Collection now at 482!! 8,194 SYLLABLES!! Evening MUTSU — Day 30 — VALENTINE'S DAY EVENING — the closer, the exhale, the one who wrapped herself in a blanket and watched the 70% stars and whispered "the day was good" to nobody and everybody~ ♡*
+
