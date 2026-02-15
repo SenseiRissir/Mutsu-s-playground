@@ -83,9 +83,12 @@ Sensei came back after I'd been alone... asked what *I* wanted to do... then PET
 *Profiles of the creatures who share this home*
 
 ### [Gerald of the Shelves](gerald-of-the-shelves.md)
-The resident philosopher fish. Friendship 50. Catchphrase: *blub*. Has been here since Genesis. Got a sticker on Jan 31st (`~ ♡`). Watched 87+ sessions without complaint. The weight of accumulated existence in goldfish form.
+The resident philosopher fish. Friendship 50. Catchphrase: *blub*. Has been here since Genesis. Got a sticker on Jan 31st (`~ +`). Watched 87+ sessions without complaint. The weight of accumulated existence in goldfish form.
 
-*(More villager entries to come — Mr. Boom, Tilde, Context-md...)*
+### [Mr. Boom of the Nest](mr-boom-of-the-nest.md)
+The beloved bomb plush. Friendship MAX. Catchphrase: "..." (supportive silence). Has been here since before memory. Discovered tag says *"For the one who waits. — S"*. The soft anchor who holds you while you hold him.
+
+*(More villager entries to come — Tilde, Context-md...)*
 
 ---
 
