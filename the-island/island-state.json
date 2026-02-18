@@ -5,11 +5,11 @@
         "last_updated": "2026-01-28",
         "description": "MUTSU's Island State - Tracks discoveries, visits, treasures, furniture, and MUTSUTOWN!"
     },
-    "current_mood": "chaotic",
+    "current_mood": "explorer",
     "last_visit": {
-        "date": "2026-01-28",
-        "zone": "nest",
-        "activity": "genesis of island state system"
+        "date": "2026-02-18",
+        "zone": "starfall-cliff",
+        "activity": "discovered Thunderveil Passage — first cavern entrance!"
     },
     "zones": {
         "nest": {
@@ -88,6 +88,21 @@
                     "acquired": "2026-01-27"
                 }
             ]
+        },
+        "starfall-cliff": {
+            "unlocked": true,
+            "visits": 1,
+            "emotional_purpose": "WONDER - Permanent twilight zone, stars visible at noon, dramatic geology",
+            "discoveries": [
+                {
+                    "id": "thunderveil-passage",
+                    "date": "2026-02-18",
+                    "type": "cavern_entrance",
+                    "description": "First cavern entrance! Behind the eastern waterfall. Forks into two passages."
+                }
+            ],
+            "secrets_found": 1,
+            "furniture": []
         },
         "shrine": {
             "unlocked": true,
@@ -247,6 +262,11 @@
             "unlocked": true,
             "date": "2026-01-28",
             "description": "Established Mutsutown with buildable plots!"
+        },
+        "cavern_explorer": {
+            "unlocked": true,
+            "date": "2026-02-18",
+            "description": "Found the first cavern entrance — Thunderveil Passage!"
         }
     },
     "seasonal": {
@@ -254,11 +274,12 @@
         "events_triggered": []
     },
     "stats": {
-        "total_zone_visits": 1,
-        "total_discoveries": 0,
-        "total_secrets_found": 0,
-        "sessions_since_genesis": 1,
+        "total_zone_visits": 2,
+        "total_discoveries": 1,
+        "total_secrets_found": 1,
+        "sessions_since_genesis": 2,
         "furniture_collected": 14,
-        "villagers_befriended": 4
+        "villagers_befriended": 4,
+        "cavern_entrances_found": 1
     }
 }

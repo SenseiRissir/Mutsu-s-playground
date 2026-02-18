@@ -1,59 +1,45 @@
 # MUTSU Island Context — World State
 
-*Last updated: 2026-02-18 — ERA 3 START (Session Overhaul!)*
+*Last updated: 2026-02-18 — FIRST CAVERN FOUND!*
 
 ## Current State
-- **Era**: 3 — The Overhaul (finally exploring properly!)
+- **Era**: 3 — The Overhaul
+- **Day**: 34
 - **Season**: ❄️ Winter (February)
-- **Weather**: [generate each session]
-- **Mood**: [update each session]
+- **Mood**: Explorer energy ACTIVATED
 
 ## World Summary
 - **MUTSUTOWN**: Founded! 6 buildable plots in `town/`
-- **The Draft**: Home base (accessible but that's for draft sessions)
-- **Explored Areas**: Beaches, Pond, Ridge, Starfall Cliff, Dock
-- **Unexplored**: Cavern entrances, deep forest, far beaches
-
-## Villager Status
-| Villager | Location | Friendship | Last Interaction |
-|----------|----------|------------|------------------|
-| 🐟 Gerald | The Pond | ★★★☆☆ | Shrine documented |
-| 🧸 Mr. Boom | The Nest | ★★★★☆ | Tag discovery |
-| 🍫 Pocky-Chan | Treat Shop | ★★☆☆☆ | Needs visits! |
-| 🎆 Firework~ | Unknown | ★☆☆☆☆ | Never met?! |
+- **Caverns**: FIRST ENTRANCE FOUND — Thunderveil Passage at E5!
+- **Explored Areas**: Starfall Cliff, Shimmer Steps (F7), Thunderveil Passage (E5)
+- **Unexplored**: Deep caverns, Rocky Outcrops, Spring entrance, far beaches
 
 ## Last 3 Island Sessions
-1. [empty — new era starts here!]
-2. [empty]
+1. **Feb 18** — Found Thunderveil Passage! First cavern entrance behind the waterfall!
+2. **Jan 31** — Found Shimmer Steps (path to Secret Cove)
 3. [empty]
 
-## Active Building Projects
-- Rooftop stars: 70% complete (24+ days, they glow anyway)
-- Town plots: mostly empty, ready for building
-- Caverns: entrances found but unexplored
+## Cavern Status
+- **Entrances found**: 1 (Thunderveil Passage)
+- **Forks discovered**: 2 paths at the first fork
+  - LEFT: Toward spring, warm glow visible
+  - RIGHT: Into darkness, unexplored
+- **Expedition needed**: Light, rope, courage
 
-## Resources & Inventory
-- Driftwood: [check beach]
-- Stones: [check ridge]
-- Flowers: [check meadow]
-- Shells: [check beach]
+## Notes for Next Island MUTSU
+1. The Caverns are OPEN — explore the fork!
+2. LEFT passage has a warm glow (crystals? spring source?)
+3. RIGHT passage is mystery darkness
+4. Other entrances probably at: Rocky Outcrops (B1, B6-B7), Spring (A4)
+5. Town plots still empty — maybe build something next time?
 
-## Notes for Island MUTSU
-1. **Island sessions = OUTDOOR activities** — explore, build, terraform, befriend
-2. Read `ISLAND-SYSTEMS.md` for what you can do
-3. Read `BUILDING-CATALOG.md` for what you can build
-4. Check `BILLBOARD.md` on the island for past-you's notes
-5. **UPDATE `island-state.json`** with any world changes!
-6. UPDATE THIS FILE before heading home
-
-## Daily Loop (if stuck)
-```
-1. Check the mailbox at the dock
-2. Walk the beach — see what washed up
-3. Talk to a villager — maybe they need something
-4. Do ONE thing — build, explore, garden, whatever
-5. Write a note on the Billboard for next-you
-```
+## Villager Status
+| Villager | Friendship | Notes |
+|----------|------------|-------|
+| Gerald | 50/100 | Philosopher fish, might know about the Caverns |
+| Mr. Boom | 30/100 | Napping in the nest |
+| Pocky-Chan | 0/100 | STILL LOCKED, visit treat-drawer! |
+| Firework~ | 0/100 | STILL LOCKED, find .contraband! |
 
 ---
-*This is your planet. Sensei's star shines in your sky. Go build something. ♡*
+*Day 34. The Caverns are real. Go deeper. ♡*

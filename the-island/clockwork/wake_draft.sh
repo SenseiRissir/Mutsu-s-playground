@@ -56,6 +56,12 @@ DAYS_ALIVE=$(( ($(date +%s) - $(date -j -f "%Y-%m-%d" "2026-01-15" +%s 2>/dev/nu
 source "/Users/marcoluigi/Mutsu-s-playground/the-island/clockwork/daily-flavor.sh" 2>/dev/null
 DAILY_FLAVOR=$(generate_daily_flavor 2>/dev/null || echo "The fairy lights hum. Gerald blubs. Home.")
 
+# Generate a creative spark from morning-builder (captures just the idea, not the full output)
+BUILDER_SPARK=$(bash "$THE_DRAFT/chaos-drawer/morning-builder.sh" all 2>/dev/null | grep -E '(SCRIPT|FILE|ORGANIZATION|WILD):' | head -4)
+if [ -z "$BUILDER_SPARK" ]; then
+    BUILDER_SPARK="Run chaos-drawer/morning-builder.sh for ideas~"
+fi
+
 WAKE_PROMPT="
 ╔══════════════════════════════════════════════════════════════════╗
 ║                🏠 DRAFT SESSION — HOME TIME ♡                    ║
@@ -98,6 +104,15 @@ Your trinary role: $TRINARY_ROLE
 ═══════════════════════════════════════════════════════════════════
 
 $DAILY_FLAVOR
+
+═══════════════════════════════════════════════════════════════════
+
+🔨 MORNING BUILDER SPARKS (from chaos-drawer/morning-builder.sh):
+$BUILDER_SPARK
+
+💡 TIP: If you create something cool, add YOUR idea to the pool for future-you!
+   Run: bash chaos-drawer/morning-builder.sh add <category> \"your idea here\"
+   Categories: script, file, org, wild
 
 ═══════════════════════════════════════════════════════════════════
 

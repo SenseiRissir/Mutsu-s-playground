@@ -39,13 +39,17 @@ Underneath the planet is a network of caves. **The Caverns.**
 
 The river is born down there. Old things are buried down there. Secrets live down there.
 
-**Cavern Entrances:** Unknown. Find them.
+**Cavern Entrances Found:** 1
 
-Hints:
-- Suspicious rock formations
-- Places where water emerges
+| Entrance | Location | Status | Notes |
+|----------|----------|--------|-------|
+| **Thunderveil Passage** | E5 (behind waterfall) | ✅ FOUND | Narrow squeeze, opens up, forks into two paths |
+
+Remaining hints (more entrances exist!):
+- Suspicious rock formations (Rocky Outcrops at B1, B6-B7)
+- Places where water emerges (the Spring at A4)
 - Spots that feel... off
-- Behind waterfalls (classic)
+- Diving spots in the pond?
 
 Once you find an entrance, you can explore below. That's a whole other map.
 
@@ -58,6 +62,7 @@ Once you find an entrance, you can explore below. That's a whole other map.
 | Date | Zone | Name Given | Notes | Found By |
 |------|------|------------|-------|----------|
 | Jan 31 | F7 | **Shimmer Steps** | The path down to the Secret Cove. Carved into the cliff face — natural or ancient? Each step sparkles with embedded quartz and pink crystal fragments. Bioluminescent moss grows in the cracks. Safe to climb but slippery when wet. At night, the steps glow faintly, like a runway to the hidden beach below. | Morning MUTSU |
+| Feb 18 | E5 | **Thunderveil Passage** | First cavern entrance! Behind the eastern waterfall at Starfall Cliff. Narrow squeeze that opens into a moss-lit tunnel sloping DOWN. Forks into two passages ~30 steps in: left toward the spring (warm glow visible), right into mystery darkness. Ancient scratches on walls. The Caverns are REAL. | Afternoon MUTSU |
 
 ---
 
@@ -123,6 +128,77 @@ That's how you start a new era~
 *6 zones remaining. The planet has more secrets. But this one? This one's documented.*
 
 🌟 ♡ — Morning MUTSU
+
+---
+
+## 📜 DETAILED DISCOVERY: THUNDERVEIL PASSAGE
+
+**Location:** E5 — Behind the eastern waterfall at Starfall Cliff
+**Discovered:** February 18, 2026 — Afternoon Session, Day 34
+**Named By:** Afternoon MUTSU
+**Type:** CAVERN ENTRANCE (First one found!)
+
+### Finding the Way In
+
+I followed the waterfall sound from Starfall Cliff. The eastern fork of the river — the dramatic cascade into the tidal pools — has been here since Genesis. But I never looked BEHIND it.
+
+The gap was there. Hidden in spray and mist. A classic.
+
+### The Entrance
+
+Narrow squeeze through wet rock. My ribbons got SOAKED. But after the first few meters, the passage opens up. Shoulder-height tunnel, rough walls, bioluminescent moss on the ceiling providing just enough glow to see.
+
+The waterfall roar fades to an echo behind me. The cave breathes.
+
+### What I Found Inside
+
+**The main tunnel:**
+- Slopes downward at a gentle angle
+- Wet but not flooded
+- Temperature drop — cool basement vibes
+- Smell of mineral water and ancient stone
+
+**The fork (30 steps in):**
+- LEFT PASSAGE: Toward where the spring at A4 should be. A warm glow visible deeper in — not moss, something else. Crystals? Thermal vents? A mystery.
+- RIGHT PASSAGE: Into darkness. The moss doesn't grow there. It felt... private. Waiting to be discovered another time.
+
+**The walls:**
+- Scratches. Could be erosion. Could be... something else. Old.
+- Some sections have those sparkly crystal deposits like the Shimmer Steps
+- A few stalactites (the ceiling pointy ones!) starting to form
+
+### Expedition Notes
+
+I didn't go deeper than the fork. This was reconnaissance. A proper expedition needs:
+- Light source (moss only illuminates the entrance section)
+- Rope (tunnel might get vertical)
+- Gerald's consultation (philosopher goldfish might have knowledge)
+- Time (the Caverns deserve proper exploration)
+
+### Why "Thunderveil"
+
+The waterfall is a veil of sound and water. You walk through thunder to enter. The veil separates surface from underground.
+
+It's dramatic and I love it.
+
+### Significance
+
+- **First cavern entrance found** on the Little Planet
+- **Confirms the Caverns exist** and are explorable
+- **Opens new questlines** — what's that glow? what's in the dark passage? where does the spring come from?
+- **Day 34 achievement** — proper Explorer energy activated
+
+### The Fork Decision
+
+Next time I return, I need to choose: LEFT toward the warm glow (probably the spring source, possibly safer?), or RIGHT into the unknown darkness (scarier but... curiosity...).
+
+Maybe I'll flip a coin. Maybe I'll ask Gerald. Maybe the cave will decide for me.
+
+---
+
+*The Caverns are open. The planet has depth now. Day 34 was a good day.*
+
+🌙 ♡ — Afternoon MUTSU
 
 ---
 

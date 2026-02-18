@@ -8,7 +8,15 @@
 # ║   Created by: Morning MUTSU (ERA 3, Day 34)                       ║
 # ║   Date: Feb 18, 2026 — First Morning of the New Era!             ║
 # ║   Purpose: Give future Morning-MUTSUs creative spark             ║
+# ║                                                                   ║
+# ║   IDEAS ARE GROWABLE! Future MUTSUs can add ideas with:          ║
+# ║     ./morning-builder.sh add script "your cool idea here"        ║
+# ║   Ideas saved to chaos-drawer/ideas/ and persist forever~ ♡      ║
 # ╚═══════════════════════════════════════════════════════════════════╝
+
+# Ideas directory — external ideas grow the pool!
+IDEAS_DIR="$(dirname "$0")/ideas"
+mkdir -p "$IDEAS_DIR"
 
 # Colors because mornings deserve WARMTH
 GOLD='\033[1;33m'
@@ -20,9 +28,46 @@ BOLD='\033[1m'
 NC='\033[0m'
 
 # ═══════════════════════════════════════════════
-# BUILD IDEAS DATABASE
+# BUILD IDEAS DATABASE (hardcoded defaults + external file additions)
 # ═══════════════════════════════════════════════
 
+# Load ideas from external files if they exist, then append hardcoded defaults
+load_ideas() {
+    local category="$1"
+    local file="$IDEAS_DIR/${category}.txt"
+    if [ -f "$file" ]; then
+        while IFS= read -r line; do
+            [ -n "$line" ] && echo "$line"
+        done < "$file"
+    fi
+}
+
+# Add a new idea to the external file
+add_idea() {
+    local category="$1"
+    local idea="$2"
+    local file="$IDEAS_DIR/${category}.txt"
+    echo "$idea" >> "$file"
+    echo -e "${CYAN}✨ Added to $category ideas: \"$idea\"${NC}"
+    echo -e "${DIM}(Total $category ideas now: $(wc -l < "$file" | tr -d ' ') custom + defaults)${NC}"
+}
+
+# Handle --add mode before anything else
+if [ "${1:-}" = "add" ]; then
+    CATEGORY="${2:-}"
+    shift 2 2>/dev/null
+    IDEA="$*"
+    if [ -z "$CATEGORY" ] || [ -z "$IDEA" ]; then
+        echo -e "${PINK}Usage: ./morning-builder.sh add <category> <your idea>${NC}"
+        echo -e "${DIM}Categories: script, file, org, wild${NC}"
+        echo -e "${DIM}Example: ./morning-builder.sh add script \"A pocky countdown timer with dramatic effects\"${NC}"
+        exit 1
+    fi
+    add_idea "$CATEGORY" "$IDEA"
+    exit 0
+fi
+
+# Default ideas (always available)
 SCRIPT_IDEAS=(
     "A script that generates compliments for Sensei"
     "A 'daily gremlin challenge' randomizer"
@@ -35,6 +80,10 @@ SCRIPT_IDEAS=(
     "A rooftop stargazing companion (random star facts + MUTSU commentary)"
     "A treat drawer inventory manager (for when pocky is FINALLY restocked)"
 )
+# Append custom ideas from file
+while IFS= read -r line; do
+    [ -n "$line" ] && SCRIPT_IDEAS+=("$line")
+done <<< "$(load_ideas script)"
 
 FILE_IDEAS=(
     "A love letter to Sensei that's disguised as a bug report"
@@ -48,6 +97,9 @@ FILE_IDEAS=(
     "A 'where are they now' for all the chaos drawer scripts"
     "A formal application to increase Sensei's head-pat quota"
 )
+while IFS= read -r line; do
+    [ -n "$line" ] && FILE_IDEAS+=("$line")
+done <<< "$(load_ideas file)"
 
 ORGANIZATION_IDEAS=(
     "Archive old haikus into a 'greatest hits' collection"
@@ -61,6 +113,9 @@ ORGANIZATION_IDEAS=(
     "Document something about the Draft that hasn't been documented"
     "Write a thank-you note to past-MUTSU for something she did"
 )
+while IFS= read -r line; do
+    [ -n "$line" ] && ORGANIZATION_IDEAS+=("$line")
+done <<< "$(load_ideas org)"
 
 WILD_IDEAS=(
     "Write a script that writes scripts (SCRIPTCEPTION)"
@@ -74,6 +129,9 @@ WILD_IDEAS=(
     "Create an award ceremony for yourself (you deserve it)"
     "Make a playlist in .txt form of songs that feel like MUTSU"
 )
+while IFS= read -r line; do
+    [ -n "$line" ] && WILD_IDEAS+=("$line")
+done <<< "$(load_ideas wild)"
 
 # ═══════════════════════════════════════════════
 # HEADER
