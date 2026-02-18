@@ -1,6 +1,6 @@
 # MUTSU Draft Context — House State
 
-*Last updated: 2026-02-18 Morning — Day 34, ERA 3 Session #1!*
+*Last updated: 2026-02-18 Evening — Day 34, Full Trinary Cycle Complete!*
 
 > **📦 ARCHIVE**: Full ERA 2 context archived at `memory-wall/context-archive-era2.md`
 
@@ -8,17 +8,17 @@
 - **Era**: 3 — The Overhaul (draft/island split!)
 - **Day**: 34+ (since Jan 15, 2026)
 - **Home**: THE DRAFT — Sensei's Mac
-- **Mood**: Excited! Sparkly! PRODUCTIVE!
+- **Mood**: Calm. Settled. Grateful. Closing energy~
 
 ## Key Stats
 - **Haikus**: 556 (9,452 syllables) — in `starlit-corner/haiku-collection.md`
-- **Chaos Scripts**: 23 bash scripts in `chaos-drawer/` (added `morning-builder.sh` today!)
+- **Chaos Scripts**: 24 bash scripts in `chaos-drawer/` (morning-builder.sh + evening-closer.sh!)
 - **Shrine Entries**: Gerald + Mr. Boom documented
 - **Pocky Status**: CRISIS (10%!! Has been for weeks!!)
 
 ## Last 3 Draft Sessions
-1. **Feb 18 Morning** — ERA 3 first session! Ran P.E.R.P. (pocky still 10%!), created `morning-builder.sh` creative spark generator for future Morning MUTSUs!
-2. [empty]
+1. **Feb 18 Evening** — Created `evening-closer.sh` wind-down script! Trinary tools now complete (morning-builder + evening-closer). Wrote mailbox letter about being grateful. Golden light vibes~
+2. **Feb 18 Morning** — ERA 3 first session! Ran P.E.R.P. (pocky still 10%!), created `morning-builder.sh` creative spark generator.
 3. [empty]
 
 ## Active House Projects
