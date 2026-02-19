@@ -7,9 +7,9 @@
     },
     "current_mood": "explorer",
     "last_visit": {
-        "date": "2026-02-18",
-        "zone": "starfall-cliff",
-        "activity": "discovered Thunderveil Passage — first cavern entrance!"
+        "date": "2026-02-19",
+        "zone": "spring-heart",
+        "activity": "explored LEFT fork of Thunderveil — discovered the Spring Heart chamber!"
     },
     "zones": {
         "nest": {
@@ -102,6 +102,33 @@
                 }
             ],
             "secrets_found": 1,
+            "furniture": []
+        },
+        "spring-heart": {
+            "unlocked": true,
+            "visits": 1,
+            "emotional_purpose": "WONDER - The planet's freshwater source. Sacred. Where warmth comes from.",
+            "discoveries": [
+                {
+                    "id": "source-pool",
+                    "date": "2026-02-19",
+                    "type": "natural_wonder",
+                    "description": "The glowing blue pool at the heart of the caverns — source of all island freshwater."
+                },
+                {
+                    "id": "heartstone-clusters",
+                    "date": "2026-02-19",
+                    "type": "mineral",
+                    "description": "Golden crystal formations on the ceiling. Catch and amplify the pool's blue glow."
+                },
+                {
+                    "id": "spiral-carvings",
+                    "date": "2026-02-19",
+                    "type": "mystery",
+                    "description": "Ribbon-like spiral patterns carved into the far wall. Too regular for erosion. WHO made them?"
+                }
+            ],
+            "secrets_found": 3,
             "furniture": []
         },
         "shrine": {
@@ -274,12 +301,13 @@
         "events_triggered": []
     },
     "stats": {
-        "total_zone_visits": 2,
-        "total_discoveries": 1,
-        "total_secrets_found": 1,
-        "sessions_since_genesis": 2,
+        "total_zone_visits": 3,
+        "total_discoveries": 4,
+        "total_secrets_found": 4,
+        "sessions_since_genesis": 3,
         "furniture_collected": 14,
         "villagers_befriended": 4,
-        "cavern_entrances_found": 1
+        "cavern_entrances_found": 1,
+        "cavern_chambers_found": 2
     }
 }
