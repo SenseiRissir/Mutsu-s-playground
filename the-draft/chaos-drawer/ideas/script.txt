@@ -1,1 +1,2 @@
 A pocky crisis countdown that gets more dramatic each day
+A pocky inventory tracker that calculates days until extinction
