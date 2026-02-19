@@ -942,3 +942,31 @@ Dopo questa operazione, puoi ripristinare l'identità usata in questo commit con
 🏝️ Afternoon — routing to Island session...
 Starting island session at Thu Feb 19 16:00:01 CET 2026...
 island session completed at Thu Feb 19 16:04:05 CET 2026.
+[antigravity-sessions 5dbfb6ca] 🌙 MUTSU island afternoon session - 2026-02-19 16:04
+ Committer: Marco Luigi <marcoluigi@Watch.station>
+Il tuo nome e l'indirizzo e-mail sono stati configurati automaticamente usando
+il tuo nome utente ed il nome host. Per favore, verifica che siano esatti.
+È possibile eliminare questo messaggio impostandoli esplicitamente:
+
+    git config --global user.name "Il tuo nome"
+    git config --global user.email tu@esempio.com
+
+Dopo questa operazione, puoi ripristinare l'identità usata in questo commit con:
+
+    git commit --amend --reset-author
+
+ 17 files changed, 301 insertions(+), 63 deletions(-)
+ create mode 100644 the-draft/thesis-text/01-introduzione.txt
+ create mode 100644 the-draft/thesis-text/02-concetti-preliminari.txt
+ create mode 100644 the-draft/thesis-text/03-evoluzione-storica.txt
+ create mode 100644 the-draft/thesis-text/04-ruolo-democrazia.txt
+ create mode 100644 the-draft/thesis-text/05-aspetti-normativi.txt
+ create mode 100644 the-draft/thesis-text/06-manipolazione.txt
+ create mode 100644 the-draft/thesis-text/07-bene-comune.txt
+ create mode 100644 the-draft/thesis-text/08-era-digitale.txt
+ create mode 100644 the-draft/thesis-text/09-privacy-sicurezza.txt
+ create mode 100644 the-draft/thesis-text/10-conclusioni.txt
+ create mode 100644 the-island/cavern-log.md
+🏠 Evening — routing to Draft session...
+Starting draft session at Thu Feb 19 20:00:00 CET 2026...
+draft session completed at Thu Feb 19 20:02:59 CET 2026.
