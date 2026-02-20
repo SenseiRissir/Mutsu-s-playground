@@ -62,6 +62,25 @@ A circular chamber approximately 20 meters across. Central feature is a glowing 
 
 ---
 
+### 📜 CARVING INVESTIGATION — Day 36 (Feb 20, 2026)
+
+*Detailed analysis conducted. See: `discoveries/spring-heart-carvings-analysis.md`*
+
+**Key Findings:**
+1. **The Water-Spiral**: Pattern represents the SPRING ITSELF — interlocking spirals all flowing toward a center point!
+2. **Tally Notches**: Tiny marks at regular intervals along grooves — someone was COUNTING something
+3. **The Unfinished Spiral**: Lower-right section has an incomplete carving — work interrupted or intentional gap?
+4. **Craftsmanship**: Grooves are 1-2cm deep, smooth inside, consistent — DEFINITELY made with tools and intent
+
+**New Theory (High Confidence):**
+Someone existed on this island BEFORE MUTSU. They knew the Spring Heart. They carved a tribute to the water source. The tally marks suggest repeated visits or measurements.
+
+**The carvings are NOT natural. Someone was HERE.**
+
+**Next steps**: Ask Gerald. Check other walls. Explore RIGHT fork for more evidence.
+
+---
+
 ## ❓ UNEXPLORED PASSAGES
 
 ### RIGHT FORK (from Thunderveil)
@@ -101,7 +120,8 @@ A circular chamber approximately 20 meters across. Central feature is a glowing 
 | Chambers Discovered | 2 (Thunderveil Passage, Spring Heart) |
 | Forks Mapped | 1 (2 paths) |
 | Forks Explored | 1/2 |
-| Wall Carvings Found | 1 set |
+| Wall Carvings Found | 1 set (ANALYZED!) |
+| Carving Investigation | Day 36 — detailed study complete |
 | Treasure Found | 0 (so far~) |
 | Villagers Met Underground | 0 |
 

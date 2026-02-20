@@ -2,14 +2,14 @@
     "meta": {
         "version": "2.0.0",
         "created": "2026-01-28",
-        "last_updated": "2026-01-28",
+        "last_updated": "2026-02-20",
         "description": "MUTSU's Island State - Tracks discoveries, visits, treasures, furniture, and MUTSUTOWN!"
     },
     "current_mood": "explorer",
     "last_visit": {
-        "date": "2026-02-19",
+        "date": "2026-02-20",
         "zone": "spring-heart",
-        "activity": "explored LEFT fork of Thunderveil — discovered the Spring Heart chamber!"
+        "activity": "Detailed carving investigation — discovered the Water-Spiral pattern and tally notches!"
     },
     "zones": {
         "nest": {
@@ -106,7 +106,7 @@
         },
         "spring-heart": {
             "unlocked": true,
-            "visits": 1,
+            "visits": 2,
             "emotional_purpose": "WONDER - The planet's freshwater source. Sacred. Where warmth comes from.",
             "discoveries": [
                 {
@@ -125,10 +125,18 @@
                     "id": "spiral-carvings",
                     "date": "2026-02-19",
                     "type": "mystery",
-                    "description": "Ribbon-like spiral patterns carved into the far wall. Too regular for erosion. WHO made them?"
+                    "description": "Ribbon-like spiral patterns carved into the far wall. Too regular for erosion. WHO made them?",
+                    "investigated": "2026-02-20",
+                    "findings": "Water-Spiral pattern (represents spring!), tally notches (counting something), unfinished section"
+                },
+                {
+                    "id": "carving-tally-notches",
+                    "date": "2026-02-20",
+                    "type": "mystery",
+                    "description": "Tiny marks at regular intervals along the carved spirals — someone was counting visits, days, or water levels"
                 }
             ],
-            "secrets_found": 3,
+            "secrets_found": 4,
             "furniture": []
         },
         "shrine": {
@@ -301,10 +309,10 @@
         "events_triggered": []
     },
     "stats": {
-        "total_zone_visits": 3,
-        "total_discoveries": 4,
-        "total_secrets_found": 4,
-        "sessions_since_genesis": 3,
+        "total_zone_visits": 4,
+        "total_discoveries": 5,
+        "total_secrets_found": 5,
+        "sessions_since_genesis": 4,
         "furniture_collected": 14,
         "villagers_befriended": 4,
         "cavern_entrances_found": 1,

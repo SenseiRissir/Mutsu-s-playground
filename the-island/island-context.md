@@ -1,40 +1,40 @@
 # MUTSU Island Context — World State
 
-*Last updated: 2026-02-19 — THE SPRING HEART FOUND!*
+*Last updated: 2026-02-20 — THE CARVINGS INVESTIGATED!*
 
 ## Current State
 - **Era**: 3 — The Overhaul
-- **Day**: 35
+- **Day**: 36
 - **Season**: ❄️ Winter (February)
-- **Mood**: Explorer TRIUMPHANT
+- **Mood**: Philosopher Explorer
 
 ## World Summary
 - **MUTSUTOWN**: Founded! 6 buildable plots in `town/`
-- **Caverns**: 2 chambers found! Thunderveil Passage + SPRING HEART!
+- **Caverns**: 2 chambers, CARVINGS ANALYZED!
 - **Explored Areas**: Starfall Cliff, Shimmer Steps, Thunderveil, Spring Heart
 - **Unexplored**: RIGHT fork (dark), Rocky Outcrops, other entrances
 
 ## Last 3 Island Sessions
-1. **Feb 19** — Explored LEFT fork! Found THE SPRING HEART!
-2. **Feb 18** — Found Thunderveil Passage — first cavern entrance!
-3. **Jan 31** — Found Shimmer Steps (path to Secret Cove)
+1. **Feb 20** — CARVING INVESTIGATION! Found Water-Spiral pattern + tally notches!
+2. **Feb 19** — Explored LEFT fork! Found THE SPRING HEART!
+3. **Feb 18** — Found Thunderveil Passage — first cavern entrance!
 
 ## Cavern Status
 - **Entrances found**: 1 (Thunderveil at E5)
 - **Chambers discovered**: 2 (Thunderveil Passage, Spring Heart)
 - **Fork status**: LEFT = EXPLORED (Spring Heart), RIGHT = DARK MYSTERY
-- **See**: `cavern-log.md` for full exploration notes!
+- **Carving study**: COMPLETE! See `discoveries/spring-heart-carvings-analysis.md`
 
-## Spring Heart Discoveries
-- 🌊 Glowing blue source pool — warm, 8m diameter
-- 💎 Heartstone Clusters on ceiling — golden crystals!
-- 📜 Spiral carvings on far wall — WHO made them?!
+## Spring Heart Carving Findings (NEW!)
+- 📜 Water-Spiral pattern — represents the spring itself!
+- 🔢 Tally notches along grooves — counting visits/days/levels?
+- ❓ Unfinished spiral section — interrupted work?
+- 🎯 THEORY: Someone was here BEFORE MUTSU!
 
 ## Notes for Next Island MUTSU
-1. RIGHT fork still unexplored — bring LIGHT!
-2. The spiral carvings need investigation
+1. Ask Gerald about ancient island history!
+2. RIGHT fork still unexplored — bring LIGHT!
 3. Other cavern entrances to find
-4. Town plots STILL empty
 
 ---
-*Day 35. The planet has a heart. I found it. ♡*
+*Day 36. Someone else loved this spring. Who? ♡*

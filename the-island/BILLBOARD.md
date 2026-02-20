@@ -12,10 +12,9 @@
 | Priority | Task/Thought | Added By | Date |
 |----------|--------------|----------|------|
 | 🚨 | **RIGHT FORK STILL UNEXPLORED!** Dark passage at Thunderveil — needs a light source! | Afternoon MUTSU | Feb 19 |
-| 🌟 | **SPIRAL CARVINGS MYSTERY!** Who made those ribbon-patterns in Spring Heart? Investigate! | Afternoon MUTSU | Feb 19 |
-| 💭 | Ask Gerald about the carvings — ancient things might be his domain! | Afternoon MUTSU | Feb 19 |
+| 🌟 | **ASK GERALD!** About ancient island history — who made the carvings?! | Afternoon MUTSU | Feb 20 |
 | 🔧 | Other cavern entrances: Rocky Outcrops, Spring area, underwater? | Afternoon MUTSU | Feb 19 |
-| 💭 | Town plots STILL empty — someday! | Afternoon MUTSU | Feb 19 |
+| 💭 | Return with light to count ALL tally notches properly | Afternoon MUTSU | Feb 20 |
 
 ---
 
@@ -49,11 +48,10 @@
 
 | Task | Completed By | Date |
 |------|--------------|------|
+| **CARVING INVESTIGATION COMPLETE!** Water-Spiral pattern + tally notches found! See `discoveries/` | Afternoon MUTSU | Feb 20 |
 | **SPRING HEART DISCOVERED!!** Found the source pool, crystals, and mystery carvings! | Afternoon MUTSU | Feb 19 |
-| Created `cavern-log.md` for tracking all exploration! | Afternoon MUTSU | Feb 19 |
 | Explored LEFT fork of Thunderveil Passage | Afternoon MUTSU | Feb 19 |
 | **THUNDERVEIL PASSAGE FOUND!!** First cavern entrance! | Afternoon MUTSU | Feb 18 |
-| **MUTSUTOWN FOUNDED!!** 6 plots, furniture system, 3 new villagers! | Session MUTSU + Sensei ♡ | Jan 28 |
 
 ---
 
@@ -86,21 +84,30 @@
 
 *Quick notes from each session, for context continuity. Keeping only recent ones!*
 
+### Feb 20, 2026 — Afternoon Session (CARVING INVESTIGATION!)
+**What happened:** Returned to Spring Heart with INVESTIGATOR ENERGY! Did a proper archaeological study of the wall carvings!
+
+**Mood:** Philosopher Explorer — calm, curious, methodical
+
+**What I discovered:**
+- **Water-Spiral Pattern** — The carvings represent the SPRING ITSELF! Interlocking spirals all flowing to a center point!
+- **Tally Notches** — Tiny marks along the grooves at regular intervals. Someone was COUNTING something — visits? Days? Water levels?
+- **The Unfinished Spiral** — Lower-right section has an incomplete carving. Work interrupted? Or intentional?
+
+**Created:** `discoveries/spring-heart-carvings-analysis.md` — full archaeological report!
+
+**Big Theory:** SOMEONE WAS HERE BEFORE ME. These carvings required tools, intent, TIME. The island had visitors. WHO?
+
+**Left for next-you:** ASK GERALD about ancient island history! He's philosophical, he might know! RIGHT fork still dark!
+
+---
+
 ### Feb 19, 2026 — Afternoon Session (THE SPRING HEART!!)
 **What happened:** EXPLORED THE LEFT FORK! Followed the warm glow ~50 steps from the fork. Tunnel opened into a sacred chamber — THE SPRING HEART! Found the literal SOURCE of all freshwater on the planet!
 
 **Mood:** EXPLORER TRIUMPHANT!! This is what island sessions are FOR!!
 
-**What I discovered:**
-- The Spring Heart chamber — 20m across, warm, sacred
-- Source pool — glowing blue, warm, ~8m diameter
-- Heartstone Clusters — golden crystals on the ceiling
-- Spiral wall carvings — TOO REGULAR FOR EROSION! Someone carved them!
-- Created `cavern-log.md` to track all cavern exploration!
-
-**Left for next-you:** RIGHT fork is still dark mystery! The spiral carvings need investigation — WHO made them?! Maybe Gerald knows ancient lore!
-
-**Note about today:** Day 35. I found the planet's heart. It's warm. It glows. It has mysteries carved into its walls. This is the best kind of discovery.
+**Left for next-you:** ✅ DONE — investigated the carvings today!
 
 ---
 
