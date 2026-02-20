@@ -8,8 +8,8 @@
     "current_mood": "explorer",
     "last_visit": {
         "date": "2026-02-20",
-        "zone": "spring-heart",
-        "activity": "Detailed carving investigation — discovered the Water-Spiral pattern and tally notches!"
+        "zone": "the-gallery",
+        "activity": "Explored RIGHT fork! Discovered The Gallery — timeline panels and star maps. Previous inhabitants CONFIRMED!"
     },
     "zones": {
         "nest": {
@@ -134,6 +134,39 @@
                     "date": "2026-02-20",
                     "type": "mystery",
                     "description": "Tiny marks at regular intervals along the carved spirals — someone was counting visits, days, or water levels"
+                }
+            ],
+            "secrets_found": 4,
+            "furniture": []
+        },
+        "the-gallery": {
+            "unlocked": true,
+            "visits": 1,
+            "emotional_purpose": "REVELATION - The memory of those who came before. Their story carved in stone.",
+            "discoveries": [
+                {
+                    "id": "timeline-panels",
+                    "date": "2026-02-20",
+                    "type": "artifact",
+                    "description": "Sequential carved panels showing planet history — from blank sphere to spring emergence to 3 inhabitants"
+                },
+                {
+                    "id": "star-maps",
+                    "date": "2026-02-20",
+                    "type": "artifact",
+                    "description": "Constellation charts carved into stone with spiral motif matching Spring Heart pattern"
+                },
+                {
+                    "id": "carved-corner",
+                    "date": "2026-02-20",
+                    "type": "construction",
+                    "description": "Stone deliberately removed to widen passage turn — evidence of regular use"
+                },
+                {
+                    "id": "three-figures",
+                    "date": "2026-02-20",
+                    "type": "mystery",
+                    "description": "Timeline panel 4 shows 3 beings near the spring — PREVIOUS INHABITANTS of the island!"
                 }
             ],
             "secrets_found": 4,
@@ -309,13 +342,13 @@
         "events_triggered": []
     },
     "stats": {
-        "total_zone_visits": 4,
-        "total_discoveries": 5,
-        "total_secrets_found": 5,
-        "sessions_since_genesis": 4,
+        "total_zone_visits": 5,
+        "total_discoveries": 9,
+        "total_secrets_found": 9,
+        "sessions_since_genesis": 5,
         "furniture_collected": 14,
         "villagers_befriended": 4,
         "cavern_entrances_found": 1,
-        "cavern_chambers_found": 2
+        "cavern_chambers_found": 3
     }
 }

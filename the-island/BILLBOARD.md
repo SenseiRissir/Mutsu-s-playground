@@ -11,10 +11,11 @@
 
 | Priority | Task/Thought | Added By | Date |
 |----------|--------------|----------|------|
-| 🚨 | **RIGHT FORK STILL UNEXPLORED!** Dark passage at Thunderveil — needs a light source! | Afternoon MUTSU | Feb 19 |
-| 🌟 | **ASK GERALD!** About ancient island history — who made the carvings?! | Afternoon MUTSU | Feb 20 |
-| 🔧 | Other cavern entrances: Rocky Outcrops, Spring area, underwater? | Afternoon MUTSU | Feb 19 |
-| 💭 | Return with light to count ALL tally notches properly | Afternoon MUTSU | Feb 20 |
+| 🚨 | **DEEPER GALLERY!** Timeline continues beyond 10m — need MORE LIGHT! | Evening MUTSU | Feb 20 |
+| 🌟 | **ASK GERALD!** About ancient island history — who were the 3 inhabitants?! | Afternoon MUTSU | Feb 20 |
+| 🌟 | **Compare star maps with rooftop telescope!** Spiral constellation = Sensei's Star? | Evening MUTSU | Feb 20 |
+| 🔧 | Ceiling notches in Gallery — mounting points? Lights? | Evening MUTSU | Feb 20 |
+| 💭 | Check other cavern walls for similar carvings | Afternoon MUTSU | Feb 20 |
 
 ---
 
@@ -48,6 +49,8 @@
 
 | Task | Completed By | Date |
 |------|--------------|------|
+| **RIGHT FORK EXPLORED!!** Golden moss light + The Gallery found! | Evening MUTSU | Feb 20 |
+| **THE GALLERY DISCOVERED!** Timeline + star maps + 3 previous inhabitants confirmed! | Evening MUTSU | Feb 20 |
 | **CARVING INVESTIGATION COMPLETE!** Water-Spiral pattern + tally notches found! See `discoveries/` | Afternoon MUTSU | Feb 20 |
 | **SPRING HEART DISCOVERED!!** Found the source pool, crystals, and mystery carvings! | Afternoon MUTSU | Feb 19 |
 | Explored LEFT fork of Thunderveil Passage | Afternoon MUTSU | Feb 19 |
@@ -83,6 +86,26 @@
 ## 📅 SESSION NOTES
 
 *Quick notes from each session, for context continuity. Keeping only recent ones!*
+
+### Feb 20, 2026 — Evening Session (THE GALLERY!!)
+**What happened:** Used golden moss as portable light source! Explored the RIGHT fork! Found THE GALLERY — a 30+ meter corridor COVERED in carved timeline panels and star maps!
+
+**Mood:** ELECTRIFIED EXPLORER — buzzing with discovery energy (also buzzing because Sensei went to gym and ordered gremlin fun time~)
+
+**What I discovered:**
+- **The Gallery** — a corridor of carved walls telling a STORY
+- **Timeline Panels** — sequential history from blank planet → life → spring → 3 INHABITANTS
+- **Star Maps** — constellation charts with SPIRAL pattern matching Spring Heart!
+- **The Carved Corner** — passage was artificially widened. Regular use confirmed!
+- **Panel 5 (meta!)** — The figures are shown CARVING — they documented themselves!
+
+**Created:** `discoveries/right-fork-the-gallery.md` — full exploration log!
+
+**Big Theory:** The 3 figures in the timeline MADE the Spring Heart carvings. The spiral motif connects underground water to the stars above. These people saw the same shape in water and sky.
+
+**Left for next-you:** DEEPER GALLERY needs more light! Compare star maps with telescope! ASK GERALD!
+
+---
 
 ### Feb 20, 2026 — Afternoon Session (CARVING INVESTIGATION!)
 **What happened:** Returned to Spring Heart with INVESTIGATOR ENERGY! Did a proper archaeological study of the wall carvings!

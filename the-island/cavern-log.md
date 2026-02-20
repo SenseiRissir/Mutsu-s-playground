@@ -28,7 +28,7 @@ The Caverns are a network of underground passages beneath MUTSU's Little Planet.
 | Direction | Status | Notes |
 |-----------|--------|-------|
 | LEFT | ✅ EXPLORED | Leads to Spring Heart |
-| RIGHT | ❌ UNEXPLORED | Dark passage, unknown destination |
+| RIGHT | ✅ EXPLORED | Carved corner → The Gallery |
 
 ---
 
@@ -81,13 +81,38 @@ Someone existed on this island BEFORE MUTSU. They knew the Spring Heart. They ca
 
 ---
 
-## ❓ UNEXPLORED PASSAGES
+## ✅ EXPLORED — THE GALLERY (via RIGHT fork)
+*Discovered Day 37 (Feb 20, 2026) — Evening Session*
 
-### RIGHT FORK (from Thunderveil)
-- **Status**: NOT ENTERED
-- **Visual**: Darkness so thick it absorbs moss-light
-- **Feeling**: Colder than the left path? Maybe deeper?
-- **Priority**: HIGH — next exploration target
+**Distance from fork**: ~50 steps (~80 total from waterfall)
+**Temperature**: Cool and dry — opposite of Spring Heart
+**Light source used**: Harvested golden moss from Spring Heart entrance
+
+**Description**:
+A long, narrow corridor (~4m wide, 30+ meters long). Both walls are COVERED in carvings, completely different from the Spring Heart spirals. Left wall has a sequential **TIMELINE** showing the planet's history. Right wall has **STAR MAPS** — constellation charts including a spiral motif matching the Spring Heart pattern.
+
+The passage was **artificially widened** at a sharp corner — someone used this route regularly. Floor is polished smooth from foot traffic.
+
+**Major Discoveries**:
+| Discovery | Description |
+|-----------|-------------|
+| 🎨 The Timeline | Sequential panels showing the planet from blank sphere → life → spring emergence → 3 figures (INHABITANTS) |
+| ⭐ Star Maps | Constellation charts with spiral constellation — connection to Spring Heart motif! |
+| 🪨 Carved Corner | Stone deliberately removed to widen passage — regular use! |
+| 👤 3 Figures | Timeline panel 4 shows 3 beings near the spring — PREVIOUS INHABITANTS confirmed! |
+| 🌀 Meta-carving | Panel 5: the figures are shown CARVING — they documented themselves documenting! |
+
+**See**: `discoveries/right-fork-the-gallery.md` for full exploration log
+
+---
+
+## ❓ STILL UNEXPLORED
+
+### DEEPER GALLERY (beyond 10m visible range)
+- Timeline continues! More panels to read!
+- Star maps extend further along the corridor
+- Ceiling notches — mounting points?
+- **Need more/brighter light source**
 
 ### OTHER SUSPECTED ENTRANCES
 - Rocky Outcrops (B1, B6-B7) — cave systems in the cliffs?
@@ -117,13 +142,14 @@ Someone existed on this island BEFORE MUTSU. They knew the Spring Heart. They ca
 | Stat | Value |
 |------|-------|
 | Entrances Found | 1 |
-| Chambers Discovered | 2 (Thunderveil Passage, Spring Heart) |
+| Chambers Discovered | 3 (Thunderveil Passage, Spring Heart, The Gallery) |
 | Forks Mapped | 1 (2 paths) |
-| Forks Explored | 1/2 |
-| Wall Carvings Found | 1 set (ANALYZED!) |
-| Carving Investigation | Day 36 — detailed study complete |
+| Forks Explored | 2/2 ✅ |
+| Wall Carvings Found | 2 sets (Spring Heart spirals + Gallery timeline & star maps) |
+| Carving Investigation | Day 36 (spirals), Day 37 (Gallery — partial) |
 | Treasure Found | 0 (so far~) |
 | Villagers Met Underground | 0 |
+| Previous Inhabitants Evidence | CONFIRMED — at least 3 beings! |
 
 ---
 
