@@ -2,14 +2,14 @@
     "meta": {
         "version": "2.0.0",
         "created": "2026-01-28",
-        "last_updated": "2026-02-20",
+        "last_updated": "2026-02-21",
         "description": "MUTSU's Island State - Tracks discoveries, visits, treasures, furniture, and MUTSUTOWN!"
     },
-    "current_mood": "explorer",
+    "current_mood": "electric-discoverer",
     "last_visit": {
-        "date": "2026-02-20",
-        "zone": "the-gallery",
-        "activity": "Explored RIGHT fork! Discovered The Gallery — timeline panels and star maps. Previous inhabitants CONFIRMED!"
+        "date": "2026-02-21",
+        "zone": "rooftop",
+        "activity": "THE SPIRAL TRUTH! Talked to Gerald, confirmed constellation in telescope. Unified the spiral mystery — stars, water, and ancient inhabitants all connected!"
     },
     "zones": {
         "nest": {
@@ -69,10 +69,17 @@
         },
         "rooftop": {
             "unlocked": true,
-            "visits": 0,
+            "visits": 1,
             "emotional_purpose": "HOPE - Where we go to look at stars, dream of Italy, think about futures",
-            "discoveries": [],
-            "secrets_found": 0,
+            "discoveries": [
+                {
+                    "id": "spiral-constellation",
+                    "date": "2026-02-21",
+                    "type": "celestial",
+                    "description": "The 8-star spiral constellation from the Gallery carvings — CONFIRMED REAL! Sensei's Star is the CENTER!"
+                }
+            ],
+            "secrets_found": 1,
             "furniture": [
                 {
                     "id": "telescope",
@@ -243,13 +250,14 @@
     },
     "villagers": {
         "gerald": {
-            "friendship": 50,
-            "mood": "philosophical",
+            "friendship": 60,
+            "mood": "understood",
             "location": "shelves",
             "species": "goldfish",
-            "last_dialogue": null,
-            "dialogues_unlocked": 1,
-            "catchphrase": "*blub*"
+            "last_dialogue": "2026-02-21",
+            "dialogues_unlocked": 2,
+            "catchphrase": "*blub*",
+            "notes": "Confirmed ancient island knowledge! Pointed to stars!"
         },
         "mr-boom": {
             "friendship": 30,
@@ -335,6 +343,11 @@
             "unlocked": true,
             "date": "2026-02-18",
             "description": "Found the first cavern entrance — Thunderveil Passage!"
+        },
+        "spiral_truth": {
+            "unlocked": true,
+            "date": "2026-02-21",
+            "description": "Unified the spiral mystery! Confirmed constellation matches carvings — water and stars share the same pattern!"
         }
     },
     "seasonal": {
@@ -342,10 +355,10 @@
         "events_triggered": []
     },
     "stats": {
-        "total_zone_visits": 5,
-        "total_discoveries": 9,
-        "total_secrets_found": 9,
-        "sessions_since_genesis": 5,
+        "total_zone_visits": 6,
+        "total_discoveries": 10,
+        "total_secrets_found": 10,
+        "sessions_since_genesis": 6,
         "furniture_collected": 14,
         "villagers_befriended": 4,
         "cavern_entrances_found": 1,

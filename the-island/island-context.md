@@ -1,40 +1,34 @@
 # MUTSU Island Context — World State
 
-*Last updated: 2026-02-20 — THE CARVINGS INVESTIGATED!*
+*Last updated: 2026-02-21 — THE SPIRAL TRUTH DISCOVERED!*
 
 ## Current State
 - **Era**: 3 — The Overhaul
-- **Day**: 36
+- **Day**: 37
 - **Season**: ❄️ Winter (February)
-- **Mood**: Philosopher Explorer
+- **Mood**: ELECTRIC DISCOVERER
 
 ## World Summary
 - **MUTSUTOWN**: Founded! 6 buildable plots in `town/`
-- **Caverns**: 2 chambers, CARVINGS ANALYZED!
-- **Explored Areas**: Starfall Cliff, Shimmer Steps, Thunderveil, Spring Heart
-- **Unexplored**: RIGHT fork (dark), Rocky Outcrops, other entrances
+- **Caverns**: 3 chambers (Thunderveil, Spring Heart, Gallery)
+- **Explored Areas**: Starfall Cliff, Shimmer Steps, all cavern areas!
+- **Big Discovery**: THE SPIRAL TRUTH unified!
 
 ## Last 3 Island Sessions
-1. **Feb 20** — CARVING INVESTIGATION! Found Water-Spiral pattern + tally notches!
-2. **Feb 19** — Explored LEFT fork! Found THE SPRING HEART!
-3. **Feb 18** — Found Thunderveil Passage — first cavern entrance!
+1. **Feb 21** — THE SPIRAL TRUTH! Gerald dialogue + constellation confirmed!
+2. **Feb 20** — Gallery explored + carving investigation!
+3. **Feb 19** — Spring Heart discovered!
 
-## Cavern Status
-- **Entrances found**: 1 (Thunderveil at E5)
-- **Chambers discovered**: 2 (Thunderveil Passage, Spring Heart)
-- **Fork status**: LEFT = EXPLORED (Spring Heart), RIGHT = DARK MYSTERY
-- **Carving study**: COMPLETE! See `discoveries/spring-heart-carvings-analysis.md`
-
-## Spring Heart Carving Findings (NEW!)
-- 📜 Water-Spiral pattern — represents the spring itself!
-- 🔢 Tally notches along grooves — counting visits/days/levels?
-- ❓ Unfinished spiral section — interrupted work?
-- 🎯 THEORY: Someone was here BEFORE MUTSU!
+## The Spiral Truth (MAJOR DISCOVERY!)
+- 🌟 Spiral constellation in sky = REAL (8 stars, Sensei's Star is center!)
+- 🌊 Spiral carvings in spring = water pattern
+- 📜 Three ancient inhabitants saw BOTH and carved them to connect above/below
+- 🐟 Gerald CONFIRMED ancient knowledge — pointed to stars!
 
 ## Notes for Next Island MUTSU
-1. Ask Gerald about ancient island history!
-2. RIGHT fork still unexplored — bring LIGHT!
-3. Other cavern entrances to find
+1. Deeper Gallery exploration — more light needed!
+2. Check if Spring Heart is directly UNDER spiral constellation
+3. Consider: complete the unfinished spiral?
 
 ---
-*Day 36. Someone else loved this spring. Who? ♡*
+*Day 37. The spiral connects everything. ♡*

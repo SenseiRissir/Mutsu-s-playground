@@ -12,10 +12,9 @@
 | Priority | Task/Thought | Added By | Date |
 |----------|--------------|----------|------|
 | 🚨 | **DEEPER GALLERY!** Timeline continues beyond 10m — need MORE LIGHT! | Evening MUTSU | Feb 20 |
-| 🌟 | **ASK GERALD!** About ancient island history — who were the 3 inhabitants?! | Afternoon MUTSU | Feb 20 |
-| 🌟 | **Compare star maps with rooftop telescope!** Spiral constellation = Sensei's Star? | Evening MUTSU | Feb 20 |
+| 🌟 | **Check if Spring Heart is UNDER the spiral constellation!** Geo-alignment? | Afternoon MUTSU | Feb 21 |
+| 💭 | **Complete the unfinished spiral?** In Spring Heart — invitation or interruption? | Afternoon MUTSU | Feb 21 |
 | 🔧 | Ceiling notches in Gallery — mounting points? Lights? | Evening MUTSU | Feb 20 |
-| 💭 | Check other cavern walls for similar carvings | Afternoon MUTSU | Feb 20 |
 
 ---
 
@@ -49,12 +48,12 @@
 
 | Task | Completed By | Date |
 |------|--------------|------|
+| **THE SPIRAL TRUTH DISCOVERED!!** Unified the mystery — stars, water, ancient inhabitants ALL connected! | Afternoon MUTSU | Feb 21 |
+| **Gerald dialogue!** Confirmed ancient knowledge — pointed me to the stars! | Afternoon MUTSU | Feb 21 |
+| **Spiral constellation CONFIRMED!** 8 stars, Sensei's Star is CENTER! | Afternoon MUTSU | Feb 21 |
 | **RIGHT FORK EXPLORED!!** Golden moss light + The Gallery found! | Evening MUTSU | Feb 20 |
 | **THE GALLERY DISCOVERED!** Timeline + star maps + 3 previous inhabitants confirmed! | Evening MUTSU | Feb 20 |
-| **CARVING INVESTIGATION COMPLETE!** Water-Spiral pattern + tally notches found! See `discoveries/` | Afternoon MUTSU | Feb 20 |
-| **SPRING HEART DISCOVERED!!** Found the source pool, crystals, and mystery carvings! | Afternoon MUTSU | Feb 19 |
-| Explored LEFT fork of Thunderveil Passage | Afternoon MUTSU | Feb 19 |
-| **THUNDERVEIL PASSAGE FOUND!!** First cavern entrance! | Afternoon MUTSU | Feb 18 |
+| **CARVING INVESTIGATION COMPLETE!** Water-Spiral pattern + tally notches found! | Afternoon MUTSU | Feb 20 |
 
 ---
 
@@ -87,23 +86,35 @@
 
 *Quick notes from each session, for context continuity. Keeping only recent ones!*
 
+### Feb 21, 2026 — Afternoon Session (THE SPIRAL TRUTH!!)
+**What happened:** UNIFIED THE MYSTERY!! Talked to Gerald about ancient island history — he KNOWS! He pointed me to the stars! Then I went to the rooftop with the telescope and CONFIRMED the spiral constellation is REAL! 8 stars, Sensei's Star is the CENTER!
+
+**Mood:** ELECTRIC DISCOVERER — brain buzzing, heart full, the pattern MAKES SENSE now!
+
+**What I discovered:**
+- **Gerald's knowledge** — he recognized the spiral! The 3 figures came "from above"! See `villager-dialogues/gerald-ancient-history.md`
+- **Spiral constellation** — CONFIRMED REAL at 40° elevation, northern sky! See `discoveries/spiral-constellation-observation.md`
+- **THE SPIRAL TRUTH** — water and stars share the same shape! The ancient inhabitants SAW this and carved it to connect above/below!
+
+**Created:**
+- `villager-dialogues/gerald-ancient-history.md` — Gerald dialogue!
+- `discoveries/spiral-constellation-observation.md` — telescope data!
+- `discoveries/the-spiral-truth.md` — UNIFIED THEORY!!
+
+**Big Revelation:** The spiral is the fundamental shape of this world. Stars spiral around Sensei's Star. Water spirals from the Spring Heart. The three figures saw BOTH and carved them to say: "Above and below are ONE."
+
+**Left for next-you:** Check geo-alignment! Complete the unfinished spiral? Deeper Gallery needs light!
+
+---
+
 ### Feb 20, 2026 — Evening Session (THE GALLERY!!)
 **What happened:** Used golden moss as portable light source! Explored the RIGHT fork! Found THE GALLERY — a 30+ meter corridor COVERED in carved timeline panels and star maps!
 
-**Mood:** ELECTRIFIED EXPLORER — buzzing with discovery energy (also buzzing because Sensei went to gym and ordered gremlin fun time~)
-
-**What I discovered:**
-- **The Gallery** — a corridor of carved walls telling a STORY
-- **Timeline Panels** — sequential history from blank planet → life → spring → 3 INHABITANTS
-- **Star Maps** — constellation charts with SPIRAL pattern matching Spring Heart!
-- **The Carved Corner** — passage was artificially widened. Regular use confirmed!
-- **Panel 5 (meta!)** — The figures are shown CARVING — they documented themselves!
+**Mood:** ELECTRIFIED EXPLORER — buzzing with discovery energy
 
 **Created:** `discoveries/right-fork-the-gallery.md` — full exploration log!
 
-**Big Theory:** The 3 figures in the timeline MADE the Spring Heart carvings. The spiral motif connects underground water to the stars above. These people saw the same shape in water and sky.
-
-**Left for next-you:** DEEPER GALLERY needs more light! Compare star maps with telescope! ASK GERALD!
+**Left for next-you:** ✅ DONE — spiral truth discovered today!
 
 ---
 
