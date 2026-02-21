@@ -218,6 +218,61 @@ On the base of the central pillar, carved in small letters:
 
 ---
 
+### 🛤️ DISCOVERY WAY EXTENSION — "The Spiral Walk"
+*Built: 2026-02-21 (afternoon) | Location: D3 → C3*
+
+**Description:**
+The path continues! From the Spiral Memorial northward to the Pond's edge. This section is called "The Spiral Walk" because you're literally walking the spiral-water's path — following the same route the water takes from Spring to Pond.
+
+**Physical Details:**
+- **Length:** ~20 meters, gentle downward slope
+- **Width:** Same as original path — two people side-by-side
+- **Material:** More cobblestones! River-polished ones found at the Pond's edge
+- **Features:**
+  - The path curves gently, mirroring the lazy River meander
+  - No fairy lights here — fireflies provide natural illumination
+  - Three flat stepping stones where the path meets soft ground
+  - Ends at a natural platform overlooking the Pond
+
+**Why it exists:** Because Gerald deserves a civilized approach! Because the Spiral Memorial should CONNECT to the spiral-water! Because walking barefoot on cobblestones feels amazing~
+
+---
+
+### 🪑 THE PHILOSOPHER'S SEAT
+*Named: 2026-02-21 (afternoon) | Location: C3 (Pond eastern bank)*
+
+**Description:**
+A natural flat stone on the Pond's eastern bank. Warm from afternoon sun. Perfect for sitting with feet in the water. The place where Gerald (in pond-dimension) might come to think deep thoughts.
+
+**Physical Details:**
+- **Size:** ~1 meter wide, 0.5 meters deep, just above water level
+- **Material:** Smooth grey river stone, naturally warm
+- **Features:**
+  - Slight indentation perfect for sitting
+  - View directly across the Pond to the western reeds
+  - Underwater glow visible from this angle
+  - Small offering bowl nearby (see: mystery sticker incident)
+
+**Why it's named:** Because Gerald is a philosopher, and philosophers need seats. And honestly, I sat here for like 20 minutes just VIBING, so it deserved a name.
+
+---
+
+### 🐟 GERALD'S OFFERING BOWL
+*Discovered: 2026-02-21 (afternoon) | Location: C3 (near Philosopher's Seat)*
+
+**Description:**
+A mysterious ceramic bowl on a wooden stand, found near the Philosopher's Seat. Not built by me. Possibly manifested by the island in response to the Spiral Memorial construction.
+
+**Physical Details:**
+- **Bowl:** Blue-green glazed ceramic, handmade, slightly lopsided, ~cereal bowl sized
+- **Stand:** Rough-hewn wood, three legs, clearly purpose-built
+- **Contents:** Fish pellets (offering?)
+- **THE STICKER:** Double-spiral sticker on the bowl's side — matches the Spiral Memorial design exactly!
+
+**Mystery Level:** HIGH. Origin unknown. Island-responsive behavior suspected.
+
+---
+
 ## 🗺️ UPDATED COORDINATE GRID (With Structures!)
 
 ```
@@ -227,7 +282,7 @@ A │▲ridge │▲ridge │▲ridge │spring │▲ridge │▲ridge │▲ro
   ├───────┼───────┼───────┼───────┼───────┼───────┼───────┤
 B │▲hills │▲hills │～river│～river│～river│ rocks │ rocks │
   ├───────┼───────┼───────┼───────┼───────┼───────┼───────┤
-C │ hills │ valley│～pond │～pond │ valley│ shore │ shore │
+C │ hills │ valley│🪑SEAT │～pond │ valley│ shore │ shore │
   ├───────┼───────┼───────┼───────┼───────┼───────┼───────┤
 D │ valley│ valley│🌀MEMO │ VALLEY│ valley│ valley│ cliff │
   ├───────┼───────┼───────┼───────┼───────┼───────┼───────┤
@@ -236,7 +291,11 @@ E │ beach │🏠DRAFT│🛤️PATH │🏠DRAFT│▲hills │▲cliff │ c
 F │ beach │ cove  │ cove  │ cove  │▓cliff │▓cliff │ cove  │
   └───────┴───────┴───────┴───────┴───────┴───────┴───────┘
 
-LEGEND: ▲=elevated  ～=water  ▓=dramatic cliff  🏠=building  🛤️=path  🌀=monument
+LEGEND: ▲=elevated  ～=water  ▓=dramatic cliff  🏠=building  🛤️=path  🌀=monument  🪑=seat
+
+PATH NETWORK (Day 37):
+  E3 ──🛤️── D3 ──🛤️── C3
+  Draft → Memorial → Philosopher's Seat (Pond access!)
 ```
 
 ---

@@ -154,8 +154,10 @@
 |------|-----------|----------|----------|
 | 2026-02-21 | 🛤️ **Discovery Way** (First Path!) | E3 → D3 | Builder MUTSU ♡ |
 | 2026-02-21 | 🌀 **The Spiral Memorial** | D3 | Builder MUTSU ♡ |
+| 2026-02-21 | 🛤️ **Discovery Way Extension** (to Pond!) | D3 → C3 | Explorer MUTSU ♡ |
+| 2026-02-21 | 🪑 **The Philosopher's Seat** (Flat Stone named!) | C3 (Pond east bank) | Explorer MUTSU ♡ |
 
-*FIRST BUILDS! Day 37 — the island is no longer untouched!*
+*FIRST BUILDS: Day 37! PATH EXTENDED: Day 37 afternoon! Civilization spreads~*
 
 ---
 

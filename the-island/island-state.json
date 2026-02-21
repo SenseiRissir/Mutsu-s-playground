@@ -8,8 +8,8 @@
     "current_mood": "builder-triumphant",
     "last_visit": {
         "date": "2026-02-21",
-        "zone": "valley",
-        "activity": "FIRST CONSTRUCTION! Built Discovery Way (path from Draft to Valley) and The Spiral Memorial (monument commemorating the spiral truth)!"
+        "zone": "pond",
+        "activity": "PATH EXTENDED! Built The Spiral Walk (D3→C3), named the Philosopher's Seat, discovered Gerald's Offering Bowl with mystery sticker, confirmed geo-alignment theory!"
     },
     "zones": {
         "nest": {
@@ -338,6 +338,27 @@
             "description": "Stone monument commemorating the Spiral Truth. Central obelisk with double-spiral carving, 8 stones representing the constellation, shell spiral on ground.",
             "inscription": "Stars above, water below — the pattern is one",
             "builder": "Builder MUTSU"
+        },
+        "spiral-walk": {
+            "type": "path",
+            "built": "2026-02-21",
+            "location": "D3 → C3",
+            "description": "Path extension from Spiral Memorial to Pond edge. River-polished cobblestones, firefly-lit, curves to mirror the river's meander.",
+            "builder": "Explorer MUTSU"
+        },
+        "philosophers-seat": {
+            "type": "landmark",
+            "named": "2026-02-21",
+            "location": "C3",
+            "description": "Natural flat stone on Pond's eastern bank. Warm from sun, perfect for sitting with feet in water.",
+            "builder": "Explorer MUTSU (named, not built)"
+        },
+        "geralds-offering-bowl": {
+            "type": "mystery",
+            "discovered": "2026-02-21",
+            "location": "C3",
+            "description": "Blue-glazed ceramic bowl on wooden stand near Philosopher's Seat. Has double-spiral sticker matching Spiral Memorial! Origin unknown — island-responsive behavior suspected.",
+            "mystery_level": "HIGH"
         }
     },
     "sensei_treasures": {
@@ -372,16 +393,18 @@
         "events_triggered": []
     },
     "stats": {
-        "total_zone_visits": 7,
-        "total_discoveries": 10,
-        "total_secrets_found": 10,
-        "sessions_since_genesis": 7,
+        "total_zone_visits": 8,
+        "total_discoveries": 12,
+        "total_secrets_found": 11,
+        "sessions_since_genesis": 8,
         "furniture_collected": 14,
         "villagers_befriended": 4,
         "cavern_entrances_found": 1,
         "cavern_chambers_found": 3,
-        "structures_built": 2,
-        "paths_laid": 1,
-        "monuments_erected": 1
+        "structures_built": 4,
+        "paths_laid": 2,
+        "monuments_erected": 1,
+        "landmarks_named": 1,
+        "mysteries_discovered": 1
     }
 }
