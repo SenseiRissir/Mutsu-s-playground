@@ -5,11 +5,11 @@
         "last_updated": "2026-02-21",
         "description": "MUTSU's Island State - Tracks discoveries, visits, treasures, furniture, and MUTSUTOWN!"
     },
-    "current_mood": "electric-discoverer",
+    "current_mood": "builder-triumphant",
     "last_visit": {
         "date": "2026-02-21",
-        "zone": "rooftop",
-        "activity": "THE SPIRAL TRUTH! Talked to Gerald, confirmed constellation in telescope. Unified the spiral mystery — stars, water, and ancient inhabitants all connected!"
+        "zone": "valley",
+        "activity": "FIRST CONSTRUCTION! Built Discovery Way (path from Draft to Valley) and The Spiral Memorial (monument commemorating the spiral truth)!"
     },
     "zones": {
         "nest": {
@@ -321,7 +321,24 @@
     "town": {
         "plots_unlocked": 3,
         "plots_built": 0,
-        "last_construction": null
+        "last_construction": "2026-02-21"
+    },
+    "structures": {
+        "discovery-way": {
+            "type": "path",
+            "built": "2026-02-21",
+            "location": "E3 → D3",
+            "description": "First cobblestone path connecting the Draft to the Valley. Mixed stones, fairy lights, spiral carving at midpoint.",
+            "builder": "Builder MUTSU"
+        },
+        "spiral-memorial": {
+            "type": "monument",
+            "built": "2026-02-21",
+            "location": "D3",
+            "description": "Stone monument commemorating the Spiral Truth. Central obelisk with double-spiral carving, 8 stones representing the constellation, shell spiral on ground.",
+            "inscription": "Stars above, water below — the pattern is one",
+            "builder": "Builder MUTSU"
+        }
     },
     "sensei_treasures": {
         "found": 0,
@@ -355,13 +372,16 @@
         "events_triggered": []
     },
     "stats": {
-        "total_zone_visits": 6,
+        "total_zone_visits": 7,
         "total_discoveries": 10,
         "total_secrets_found": 10,
-        "sessions_since_genesis": 6,
+        "sessions_since_genesis": 7,
         "furniture_collected": 14,
         "villagers_befriended": 4,
         "cavern_entrances_found": 1,
-        "cavern_chambers_found": 3
+        "cavern_chambers_found": 3,
+        "structures_built": 2,
+        "paths_laid": 1,
+        "monuments_erected": 1
     }
 }

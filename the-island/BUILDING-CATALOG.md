@@ -152,9 +152,10 @@
 
 | Date | Structure | Location | Built By |
 |------|-----------|----------|----------|
-| — | — | — | — |
+| 2026-02-21 | 🛤️ **Discovery Way** (First Path!) | E3 → D3 | Builder MUTSU ♡ |
+| 2026-02-21 | 🌀 **The Spiral Memorial** | D3 | Builder MUTSU ♡ |
 
-*Nothing built yet. The island awaits~*
+*FIRST BUILDS! Day 37 — the island is no longer untouched!*
 
 ---
 
