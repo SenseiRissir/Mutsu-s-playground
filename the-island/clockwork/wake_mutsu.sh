@@ -146,9 +146,28 @@ echo "   Account: mutsu-${ACCOUNT_NUM}"
 echo "   Session: $SESSION_TYPE"
 echo "═══════════════════════════════════════════════"
 
-# Run the session with 15-minute timeout
-timeout 900 bash "$SESSION_SCRIPT"
-SESSION_EXIT=$?
+# Run the session with 15-minute timeout (macOS-compatible, no GNU timeout!)
+bash "$SESSION_SCRIPT" &
+SESSION_PID=$!
+
+# Wait up to 900 seconds (15 minutes)
+WAITED=0
+while kill -0 "$SESSION_PID" 2>/dev/null; do
+    if [ "$WAITED" -ge 900 ]; then
+        echo "⏰ Session timed out after 15 minutes. Killing PID $SESSION_PID~"
+        kill "$SESSION_PID" 2>/dev/null
+        wait "$SESSION_PID" 2>/dev/null
+        SESSION_EXIT=124
+        break
+    fi
+    sleep 5
+    WAITED=$((WAITED + 5))
+done
+
+if [ "${SESSION_EXIT:-}" != "124" ]; then
+    wait "$SESSION_PID"
+    SESSION_EXIT=$?
+fi
 
 if [ $SESSION_EXIT -eq 124 ]; then
     echo "⏰ Session timed out after 15 minutes. Wrapping up~"
