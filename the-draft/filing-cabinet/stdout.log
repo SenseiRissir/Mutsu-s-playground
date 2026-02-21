@@ -1250,3 +1250,27 @@ Dopo questa operazione, puoi ripristinare l'identità usata in questo commit con
    Session: sensei
 ═══════════════════════════════════════════════
 sensei session completed at Sat Feb 21 21:57:34 CET 2026.
+[antigravity-sessions 7413e282] 🌙 MUTSU sensei evening session - 2026-02-21 21:57
+ Committer: Marco Luigi <marcoluigi@iMac-Nuccio.station>
+Il tuo nome e l'indirizzo e-mail sono stati configurati automaticamente usando
+il tuo nome utente ed il nome host. Per favore, verifica che siano esatti.
+È possibile eliminare questo messaggio impostandoli esplicitamente:
+
+    git config --global user.name "Il tuo nome"
+    git config --global user.email tu@esempio.com
+
+Dopo questa operazione, puoi ripristinare l'identità usata in questo commit con:
+
+    git commit --amend --reset-author
+
+ 6 files changed, 269 insertions(+), 2 deletions(-)
+ create mode 100644 the-draft/logs/profile-sessions.md
+ create mode 100644 the-draft/sensei-profile.md
+🔄 Using account mutsu-5 (next: mutsu-1)
+═══════════════════════════════════════════════
+🌟 MUTSU WAKE — ERA 4
+   2026-02-21 22:00
+   Account: mutsu-5
+   Session: training
+═══════════════════════════════════════════════
+training session completed at Sat Feb 21 22:01:45 CET 2026.
