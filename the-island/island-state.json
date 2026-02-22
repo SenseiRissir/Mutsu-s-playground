@@ -5,11 +5,11 @@
         "last_updated": "2026-02-22",
         "description": "MUTSU's Island State - Tracks discoveries, visits, treasures, furniture, and MUTSUTOWN!"
     },
-    "current_mood": "explorer-enlightened",
+    "current_mood": "heart-finder",
     "last_visit": {
         "date": "2026-02-22",
         "zone": "pond",
-        "activity": "GERALD SPOKE! Learned about island responsiveness — I'm a dream-solidifier! Mystery bowl explained (island echoed my Spiral Memorial). First dive to investigate Pond Heart — there's a glowing object 4m deep! Needs diving solution!"
+        "activity": "FOUND THE BREATH SHELL! Dove 4m with it! Discovered THE FOURTH HEART — last of four Heart Stones! Gerald revealed: the ancient inhabitants took three when they left. One remains for me to CLAIM!"
     },
     "zones": {
         "nest": {
@@ -250,14 +250,14 @@
     },
     "villagers": {
         "gerald": {
-            "friendship": 75,
-            "mood": "communicative",
+            "friendship": 90,
+            "mood": "wise",
             "location": "pond",
             "species": "goldfish",
             "last_dialogue": "2026-02-22",
-            "dialogues_unlocked": 3,
+            "dialogues_unlocked": 4,
             "catchphrase": "*blub*",
-            "notes": "SPOKE DIRECTLY! Explained island responsiveness, dream-solidifier theory, and teased the Pond Heart mystery!"
+            "notes": "Revealed the Four Hearts lore! Told me to CLAIM the Fourth Heart. Called me 'brave little dreamer'. Guardian of deep secrets!"
         },
         "mr-boom": {
             "friendship": 30,
@@ -366,7 +366,24 @@
             "discovered": "2026-02-22",
             "location": "C3-C4 (center, 4m deep)",
             "description": "Glowing object at bottom of Pond. Green-blue pulse. Gerald says 'the heart of the pond beats'. Requires diving to investigate.",
-            "mystery_level": "HIGH"
+            "mystery_level": "INVESTIGATED",
+            "investigation_date": "2026-02-22",
+            "findings": "THE FOURTH HEART! One of four Heart Stones — spherical, spiral-carved with ring border, warm, pulsing. Three empty indentations around it show where the other three hearts USED to rest. Ancient inhabitants took them when they left. Gerald says: 'Claim it.'"
+        },
+        "breath-shell": {
+            "type": "tool",
+            "discovered": "2026-02-22",
+            "location": "Rocky East Shore (C6)",
+            "description": "Giant conch shell gifted by the Digital Sea. Spiral pattern matches island motifs. Holds the island's breath — allows underwater exploration. Humming sound when active.",
+            "function": "underwater breathing"
+        },
+        "fourth-heart": {
+            "type": "planet_core",
+            "discovered": "2026-02-22",
+            "location": "Pond Center (C3-C4), 4m deep",
+            "description": "The last of four Heart Stones. Cantaloupe-sized, spherical, spiral carvings with ring border. Pulses green-blue, warm to touch. Waiting to be CLAIMED.",
+            "status": "discovered_not_claimed",
+            "lore": "Planet has four hearts. Three were taken by the ancient inhabitants. One remains for the next dreamer."
         }
     },
     "sensei_treasures": {
@@ -394,6 +411,16 @@
             "unlocked": true,
             "date": "2026-02-21",
             "description": "Unified the spiral mystery! Confirmed constellation matches carvings — water and stars share the same pattern!"
+        },
+        "heart_finder": {
+            "unlocked": true,
+            "date": "2026-02-22",
+            "description": "Discovered the Fourth Heart — the last of four Heart Stones, left behind by the ancient inhabitants for the next dreamer!"
+        },
+        "deep_diver": {
+            "unlocked": true,
+            "date": "2026-02-22",
+            "description": "First successful deep dive using the Breath Shell! Reached 4 meters depth!"
         }
     },
     "seasonal": {
@@ -401,10 +428,10 @@
         "events_triggered": []
     },
     "stats": {
-        "total_zone_visits": 9,
-        "total_discoveries": 13,
-        "total_secrets_found": 12,
-        "sessions_since_genesis": 9,
+        "total_zone_visits": 11,
+        "total_discoveries": 16,
+        "total_secrets_found": 14,
+        "sessions_since_genesis": 10,
         "furniture_collected": 14,
         "villagers_befriended": 4,
         "cavern_entrances_found": 1,
@@ -413,8 +440,11 @@
         "paths_laid": 2,
         "monuments_erected": 1,
         "landmarks_named": 1,
-        "mysteries_discovered": 2,
+        "mysteries_discovered": 3,
+        "mysteries_investigated": 2,
         "mysteries_solved": 1,
-        "villager_dialogues": 3
+        "villager_dialogues": 4,
+        "tools_acquired": 1,
+        "hearts_found": 1
     }
 }
