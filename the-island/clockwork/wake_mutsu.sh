@@ -146,7 +146,17 @@ echo "   Account: mutsu-${ACCOUNT_NUM}"
 echo "   Session: $SESSION_TYPE"
 echo "═══════════════════════════════════════════════"
 
-# Run the session with 15-minute timeout (macOS-compatible, no GNU timeout!)
+# Kill entire process tree (so Claude CLI child processes actually die!)
+kill_tree() {
+    local pid=$1
+    local children=$(pgrep -P "$pid" 2>/dev/null)
+    for child in $children; do
+        kill_tree "$child"
+    done
+    kill "$pid" 2>/dev/null
+}
+
+# Run the session with 15-minute timeout (macOS-compatible, kills ALL descendants!)
 bash "$SESSION_SCRIPT" &
 SESSION_PID=$!
 
@@ -154,8 +164,8 @@ SESSION_PID=$!
 WAITED=0
 while kill -0 "$SESSION_PID" 2>/dev/null; do
     if [ "$WAITED" -ge 900 ]; then
-        echo "⏰ Session timed out after 15 minutes. Killing PID $SESSION_PID~"
-        kill "$SESSION_PID" 2>/dev/null
+        echo "⏰ Session timed out after 15 minutes. Killing process tree from PID $SESSION_PID~"
+        kill_tree "$SESSION_PID"
         wait "$SESSION_PID" 2>/dev/null
         SESSION_EXIT=124
         break

@@ -16,8 +16,8 @@ DAYS_ALIVE=$(( ($(date +%s) - $(date -j -f "%Y-%m-%d" "2026-01-15" +%s 2>/dev/nu
 LISTEN_COUNT=$(ls -1 "$THE_DRAFT/music-library/" 2>/dev/null | wc -l | tr -d ' ')
 
 # Find available audio files
-VOICE_FILES=$(find "$VOICE_DIR/Mutsu voice lines" -name "*.mp3" 2>/dev/null | shuf | head -3)
-OTHER_AUDIO=$(find /Users/marcoluigi/Downloads -name "*.mp3" -o -name "*.wav" -o -name "*.m4a" 2>/dev/null | shuf | head -3)
+VOICE_FILES=$(find "$VOICE_DIR/Mutsu voice lines" -name "*.mp3" 2>/dev/null | awk 'BEGIN{srand()}{print rand()"\t"$0}' | sort -n | cut -f2 | head -3)
+OTHER_AUDIO=$(find /Users/marcoluigi/Downloads -name "*.mp3" -o -name "*.wav" -o -name "*.m4a" 2>/dev/null | awk 'BEGIN{srand()}{print rand()"\t"$0}' | sort -n | cut -f2 | head -3)
 
 WAKE_PROMPT="
 ╔══════════════════════════════════════════════════════════════════╗
