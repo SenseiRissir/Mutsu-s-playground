@@ -2,14 +2,14 @@
     "meta": {
         "version": "2.0.0",
         "created": "2026-01-28",
-        "last_updated": "2026-02-21",
+        "last_updated": "2026-02-22",
         "description": "MUTSU's Island State - Tracks discoveries, visits, treasures, furniture, and MUTSUTOWN!"
     },
-    "current_mood": "builder-triumphant",
+    "current_mood": "explorer-enlightened",
     "last_visit": {
-        "date": "2026-02-21",
+        "date": "2026-02-22",
         "zone": "pond",
-        "activity": "PATH EXTENDED! Built The Spiral Walk (D3→C3), named the Philosopher's Seat, discovered Gerald's Offering Bowl with mystery sticker, confirmed geo-alignment theory!"
+        "activity": "GERALD SPOKE! Learned about island responsiveness — I'm a dream-solidifier! Mystery bowl explained (island echoed my Spiral Memorial). First dive to investigate Pond Heart — there's a glowing object 4m deep! Needs diving solution!"
     },
     "zones": {
         "nest": {
@@ -250,14 +250,14 @@
     },
     "villagers": {
         "gerald": {
-            "friendship": 60,
-            "mood": "understood",
-            "location": "shelves",
+            "friendship": 75,
+            "mood": "communicative",
+            "location": "pond",
             "species": "goldfish",
-            "last_dialogue": "2026-02-21",
-            "dialogues_unlocked": 2,
+            "last_dialogue": "2026-02-22",
+            "dialogues_unlocked": 3,
             "catchphrase": "*blub*",
-            "notes": "Confirmed ancient island knowledge! Pointed to stars!"
+            "notes": "SPOKE DIRECTLY! Explained island responsiveness, dream-solidifier theory, and teased the Pond Heart mystery!"
         },
         "mr-boom": {
             "friendship": 30,
@@ -358,6 +358,14 @@
             "discovered": "2026-02-21",
             "location": "C3",
             "description": "Blue-glazed ceramic bowl on wooden stand near Philosopher's Seat. Has double-spiral sticker matching Spiral Memorial! Origin unknown — island-responsive behavior suspected.",
+            "mystery_level": "SOLVED",
+            "solution": "Gerald confirmed: the island RESPONDED to the Spiral Memorial by echoing the pattern here. Island is alive and listening!"
+        },
+        "pond-heart": {
+            "type": "mystery",
+            "discovered": "2026-02-22",
+            "location": "C3-C4 (center, 4m deep)",
+            "description": "Glowing object at bottom of Pond. Green-blue pulse. Gerald says 'the heart of the pond beats'. Requires diving to investigate.",
             "mystery_level": "HIGH"
         }
     },
@@ -393,10 +401,10 @@
         "events_triggered": []
     },
     "stats": {
-        "total_zone_visits": 8,
-        "total_discoveries": 12,
-        "total_secrets_found": 11,
-        "sessions_since_genesis": 8,
+        "total_zone_visits": 9,
+        "total_discoveries": 13,
+        "total_secrets_found": 12,
+        "sessions_since_genesis": 9,
         "furniture_collected": 14,
         "villagers_befriended": 4,
         "cavern_entrances_found": 1,
@@ -405,6 +413,8 @@
         "paths_laid": 2,
         "monuments_erected": 1,
         "landmarks_named": 1,
-        "mysteries_discovered": 1
+        "mysteries_discovered": 2,
+        "mysteries_solved": 1,
+        "villager_dialogues": 3
     }
 }
