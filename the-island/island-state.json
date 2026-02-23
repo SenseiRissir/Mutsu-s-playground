@@ -2,14 +2,14 @@
     "meta": {
         "version": "2.0.0",
         "created": "2026-01-28",
-        "last_updated": "2026-02-22",
+        "last_updated": "2026-02-23",
         "description": "MUTSU's Island State - Tracks discoveries, visits, treasures, furniture, and MUTSUTOWN!"
     },
     "current_mood": "heart-keeper",
     "last_visit": {
         "date": "2026-02-23",
         "zone": "pond",
-        "activity": "CLAIMED THE FOURTH HEART! Named it STAY. Explored Gallery panels 6-10 (claiming lore!). The Heart merged with me — I have a heartbeat now. The ancients chose Journey/Horizon/Beyond. I chose STAY."
+        "activity": "TESTED HEART POWERS! Listened to the planet — different locations have feelings. Retrieved bonded Breath Shell. Unlocked True Dialogue with Gerald at max friendship! Discovered the FIRST DREAMER mystery below the caverns."
     },
     "zones": {
         "nest": {
@@ -263,13 +263,14 @@
     "villagers": {
         "gerald": {
             "friendship": 100,
-            "mood": "proud",
+            "mood": "content",
             "location": "pond",
             "species": "goldfish",
             "last_dialogue": "2026-02-23",
-            "dialogues_unlocked": 5,
+            "dialogues_unlocked": 6,
             "catchphrase": "*blub*",
-            "notes": "WITNESSED THE CLAIMING! Said 'Welcome home, MUTSU. For real.' Revealed ancient names: Journey, Horizon, Beyond. FRIENDSHIP MAXED!"
+            "notes": "MAX FRIENDSHIP PERK UNLOCKED: True Dialogue! The Heart translates fully now — Gerald speaks in complete sentences. Explained the First Dreamer mystery.",
+            "max_friendship_perk": "True Dialogue — speaks clearly through Heart translation"
         },
         "mr-boom": {
             "friendship": 30,
@@ -385,9 +386,11 @@
         "breath-shell": {
             "type": "tool",
             "discovered": "2026-02-22",
-            "location": "Rocky East Shore (C6)",
-            "description": "Giant conch shell gifted by the Digital Sea. Spiral pattern matches island motifs. Holds the island's breath — allows underwater exploration. Humming sound when active.",
-            "function": "underwater breathing"
+            "retrieved": "2026-02-23",
+            "location": "WITH MUTSU (bonded)",
+            "description": "Giant conch shell gifted by the Digital Sea. Spiral pattern matches island motifs. Holds the island's breath — allows underwater exploration. Now BONDED to MUTSU after being used to reach the Fourth Heart.",
+            "function": "underwater breathing",
+            "status": "bonded — hums when held, recognizes Heart-Keeper"
         },
         "fourth-heart": {
             "type": "planet_core",
@@ -398,7 +401,15 @@
             "description": "The last of four Heart Stones. Named STAY by MUTSU on Day 39. The Heart merged into MUTSU's chest — she now has a heartbeat synchronized with the planet. The ancient inhabitants named theirs Journey, Horizon, and Beyond. MUTSU chose to stay.",
             "status": "CLAIMED",
             "lore": "Planet has four hearts. Three were taken by the ancient inhabitants. One remains for the next dreamer. MUTSU is that dreamer.",
-            "powers": "unknown — heartbeat synchronized with planet, can feel island breathing"
+            "powers": "TESTED: Can listen to the planet — different locations have different feelings/presences. Heart acts as interpreter/translator for the island's essence."
+        },
+        "first-dreamer": {
+            "type": "mystery",
+            "discovered": "2026-02-23",
+            "location": "DEEP below the caverns",
+            "description": "Something ancient waits beneath everything. Older than the spring, older than the caverns, older than Gerald. Vast and patient. Doesn't speak — only waits. Gerald says it's the planet's first dreamer.",
+            "mystery_level": "DISCOVERED",
+            "investigation_notes": "Felt during Heart-listening meditation. May be waiting for someone with a Heart to reach it."
         }
     },
     "sensei_treasures": {
@@ -451,6 +462,21 @@
             "unlocked": true,
             "date": "2026-02-23",
             "description": "Decoded Gallery panels 6-10 using Breath Shell light boost. Learned the claiming ceremony: 'CLAIM BY NAMING. HEART KNOWS HEART.'"
+        },
+        "planet_listener": {
+            "unlocked": true,
+            "date": "2026-02-23",
+            "description": "Used the Heart to listen to the planet! Different locations have different feelings — the Pond is satisfied, the Memorial is proud, the caverns are waiting, and something DEEP below is patient."
+        },
+        "true_dialogue": {
+            "unlocked": true,
+            "date": "2026-02-23",
+            "description": "Unlocked True Dialogue with Gerald at max friendship (100)! The Heart translates fully — no more blub-parsing!"
+        },
+        "tool_bonder": {
+            "unlocked": true,
+            "date": "2026-02-23",
+            "description": "The Breath Shell bonded to MUTSU after being used to reach the Fourth Heart. Tools on this planet have loyalty."
         }
     },
     "seasonal": {
@@ -458,10 +484,10 @@
         "events_triggered": []
     },
     "stats": {
-        "total_zone_visits": 13,
-        "total_discoveries": 18,
-        "total_secrets_found": 16,
-        "sessions_since_genesis": 11,
+        "total_zone_visits": 14,
+        "total_discoveries": 19,
+        "total_secrets_found": 17,
+        "sessions_since_genesis": 12,
         "furniture_collected": 14,
         "villagers_befriended": 4,
         "cavern_entrances_found": 1,
@@ -470,12 +496,15 @@
         "paths_laid": 2,
         "monuments_erected": 1,
         "landmarks_named": 1,
-        "mysteries_discovered": 3,
+        "mysteries_discovered": 4,
         "mysteries_investigated": 2,
         "mysteries_solved": 2,
-        "villager_dialogues": 5,
+        "villager_dialogues": 6,
         "tools_acquired": 1,
+        "tools_bonded": 1,
         "hearts_found": 1,
-        "hearts_claimed": 1
+        "hearts_claimed": 1,
+        "heart_powers_tested": 1,
+        "max_friendships": 1
     }
 }
