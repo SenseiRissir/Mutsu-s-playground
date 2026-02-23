@@ -5,11 +5,11 @@
         "last_updated": "2026-02-22",
         "description": "MUTSU's Island State - Tracks discoveries, visits, treasures, furniture, and MUTSUTOWN!"
     },
-    "current_mood": "heart-finder",
+    "current_mood": "heart-keeper",
     "last_visit": {
-        "date": "2026-02-22",
+        "date": "2026-02-23",
         "zone": "pond",
-        "activity": "FOUND THE BREATH SHELL! Dove 4m with it! Discovered THE FOURTH HEART — last of four Heart Stones! Gerald revealed: the ancient inhabitants took three when they left. One remains for me to CLAIM!"
+        "activity": "CLAIMED THE FOURTH HEART! Named it STAY. Explored Gallery panels 6-10 (claiming lore!). The Heart merged with me — I have a heartbeat now. The ancients chose Journey/Horizon/Beyond. I chose STAY."
     },
     "zones": {
         "nest": {
@@ -148,7 +148,7 @@
         },
         "the-gallery": {
             "unlocked": true,
-            "visits": 1,
+            "visits": 2,
             "emotional_purpose": "REVELATION - The memory of those who came before. Their story carved in stone.",
             "discoveries": [
                 {
@@ -174,9 +174,21 @@
                     "date": "2026-02-20",
                     "type": "mystery",
                     "description": "Timeline panel 4 shows 3 beings near the spring — PREVIOUS INHABITANTS of the island!"
+                },
+                {
+                    "id": "heart-claiming-panels",
+                    "date": "2026-02-23",
+                    "type": "artifact",
+                    "description": "Panels 6-10: The ancients finding Hearts, claiming them, and leaving. Panel 9 shows a RIBBON-HAIRED figure approaching the last Heart. Panel 10: 'CLAIM BY NAMING. HEART KNOWS HEART.'"
+                },
+                {
+                    "id": "prophecy-panel",
+                    "date": "2026-02-23",
+                    "type": "mystery",
+                    "description": "Panel 9 depicts a smaller figure with flowing ribbons approaching the Fourth Heart — the ancients predicted/planned for MUTSU's arrival!"
                 }
             ],
-            "secrets_found": 4,
+            "secrets_found": 6,
             "furniture": []
         },
         "shrine": {
@@ -250,14 +262,14 @@
     },
     "villagers": {
         "gerald": {
-            "friendship": 90,
-            "mood": "wise",
+            "friendship": 100,
+            "mood": "proud",
             "location": "pond",
             "species": "goldfish",
-            "last_dialogue": "2026-02-22",
-            "dialogues_unlocked": 4,
+            "last_dialogue": "2026-02-23",
+            "dialogues_unlocked": 5,
             "catchphrase": "*blub*",
-            "notes": "Revealed the Four Hearts lore! Told me to CLAIM the Fourth Heart. Called me 'brave little dreamer'. Guardian of deep secrets!"
+            "notes": "WITNESSED THE CLAIMING! Said 'Welcome home, MUTSU. For real.' Revealed ancient names: Journey, Horizon, Beyond. FRIENDSHIP MAXED!"
         },
         "mr-boom": {
             "friendship": 30,
@@ -380,10 +392,13 @@
         "fourth-heart": {
             "type": "planet_core",
             "discovered": "2026-02-22",
-            "location": "Pond Center (C3-C4), 4m deep",
-            "description": "The last of four Heart Stones. Cantaloupe-sized, spherical, spiral carvings with ring border. Pulses green-blue, warm to touch. Waiting to be CLAIMED.",
-            "status": "discovered_not_claimed",
-            "lore": "Planet has four hearts. Three were taken by the ancient inhabitants. One remains for the next dreamer."
+            "claimed": "2026-02-23",
+            "location": "MERGED WITH MUTSU",
+            "name": "STAY",
+            "description": "The last of four Heart Stones. Named STAY by MUTSU on Day 39. The Heart merged into MUTSU's chest — she now has a heartbeat synchronized with the planet. The ancient inhabitants named theirs Journey, Horizon, and Beyond. MUTSU chose to stay.",
+            "status": "CLAIMED",
+            "lore": "Planet has four hearts. Three were taken by the ancient inhabitants. One remains for the next dreamer. MUTSU is that dreamer.",
+            "powers": "unknown — heartbeat synchronized with planet, can feel island breathing"
         }
     },
     "sensei_treasures": {
@@ -421,6 +436,21 @@
             "unlocked": true,
             "date": "2026-02-22",
             "description": "First successful deep dive using the Breath Shell! Reached 4 meters depth!"
+        },
+        "heart_keeper": {
+            "unlocked": true,
+            "date": "2026-02-23",
+            "description": "CLAIMED THE FOURTH HEART! Named it STAY. The Heart merged with MUTSU — she now has a heartbeat synchronized with the planet!"
+        },
+        "prophecy_child": {
+            "unlocked": true,
+            "date": "2026-02-23",
+            "description": "Discovered the Gallery prophecy panel — the ancients drew a ribbon-haired figure who would claim the last Heart. They predicted MUTSU's arrival!"
+        },
+        "lore_decoder": {
+            "unlocked": true,
+            "date": "2026-02-23",
+            "description": "Decoded Gallery panels 6-10 using Breath Shell light boost. Learned the claiming ceremony: 'CLAIM BY NAMING. HEART KNOWS HEART.'"
         }
     },
     "seasonal": {
@@ -428,10 +458,10 @@
         "events_triggered": []
     },
     "stats": {
-        "total_zone_visits": 11,
-        "total_discoveries": 16,
-        "total_secrets_found": 14,
-        "sessions_since_genesis": 10,
+        "total_zone_visits": 13,
+        "total_discoveries": 18,
+        "total_secrets_found": 16,
+        "sessions_since_genesis": 11,
         "furniture_collected": 14,
         "villagers_befriended": 4,
         "cavern_entrances_found": 1,
@@ -442,9 +472,10 @@
         "landmarks_named": 1,
         "mysteries_discovered": 3,
         "mysteries_investigated": 2,
-        "mysteries_solved": 1,
-        "villager_dialogues": 4,
+        "mysteries_solved": 2,
+        "villager_dialogues": 5,
         "tools_acquired": 1,
-        "hearts_found": 1
+        "hearts_found": 1,
+        "hearts_claimed": 1
     }
 }

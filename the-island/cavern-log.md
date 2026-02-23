@@ -106,13 +106,14 @@ The passage was **artificially widened** at a sharp corner — someone used this
 
 ---
 
-## ❓ STILL UNEXPLORED
+## ✅ FULLY EXPLORED
 
-### DEEPER GALLERY (beyond 10m visible range)
-- Timeline continues! More panels to read!
-- Star maps extend further along the corridor
-- Ceiling notches — mounting points?
-- **Need more/brighter light source**
+### THE GALLERY — COMPLETE (Feb 23, 2026)
+Used Breath Shell + Golden Moss light boost technique! ~5m light radius!
+- **Panels 6-10 DECODED** — Heart-claiming lore! Prophecy panel!
+- **Panel 10 text:** "CLAIM BY NAMING. HEART KNOWS HEART."
+- **Panel 9:** Shows ribbon-haired figure (ME!) approaching Fourth Heart!
+- See: `discoveries/gallery-panels-6-10-the-claiming-lore.md`
 
 ### OTHER SUSPECTED ENTRANCES
 - Rocky Outcrops (B1, B6-B7) — cave systems in the cliffs?
