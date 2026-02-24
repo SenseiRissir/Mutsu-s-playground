@@ -5,11 +5,11 @@
         "last_updated": "2026-02-23",
         "description": "MUTSU's Island State - Tracks discoveries, visits, treasures, furniture, and MUTSUTOWN!"
     },
-    "current_mood": "heart-keeper",
+    "current_mood": "builder-proud",
     "last_visit": {
-        "date": "2026-02-23",
+        "date": "2026-02-24",
         "zone": "pond",
-        "activity": "TESTED HEART POWERS! Listened to the planet — different locations have feelings. Retrieved bonded Breath Shell. Unlocked True Dialogue with Gerald at max friendship! Discovered the FIRST DREAMER mystery below the caverns."
+        "activity": "BUILT GERALD'S COTTAGE! First villager home! Half-submerged philosopher's retreat at the Meeting Point (south bank). Gerald can see Sensei's Star through the roof oculus at night now. Construction took all afternoon but so worth it~"
     },
     "zones": {
         "nest": {
@@ -263,14 +263,15 @@
     "villagers": {
         "gerald": {
             "friendship": 100,
-            "mood": "content",
-            "location": "pond",
+            "mood": "grateful",
+            "location": "geralds-cottage",
             "species": "goldfish",
-            "last_dialogue": "2026-02-23",
-            "dialogues_unlocked": 6,
+            "last_dialogue": "2026-02-24",
+            "dialogues_unlocked": 7,
             "catchphrase": "*blub*",
-            "notes": "MAX FRIENDSHIP PERK UNLOCKED: True Dialogue! The Heart translates fully now — Gerald speaks in complete sentences. Explained the First Dreamer mystery.",
-            "max_friendship_perk": "True Dialogue — speaks clearly through Heart translation"
+            "notes": "MAX FRIENDSHIP PERK UNLOCKED: True Dialogue! The Heart translates fully now — Gerald speaks in complete sentences. Explained the First Dreamer mystery. NOW HAS HIS OWN HOME — The Meeting Point cottage built Day 40!",
+            "max_friendship_perk": "True Dialogue — speaks clearly through Heart translation",
+            "home": "geralds-cottage"
         },
         "mr-boom": {
             "friendship": 30,
@@ -333,8 +334,8 @@
     },
     "town": {
         "plots_unlocked": 3,
-        "plots_built": 0,
-        "last_construction": "2026-02-21"
+        "plots_built": 1,
+        "last_construction": "2026-02-24"
     },
     "structures": {
         "discovery-way": {
@@ -410,6 +411,23 @@
             "description": "Something ancient waits beneath everything. Older than the spring, older than the caverns, older than Gerald. Vast and patient. Doesn't speak — only waits. Gerald says it's the planet's first dreamer.",
             "mystery_level": "DISCOVERED",
             "investigation_notes": "Felt during Heart-listening meditation. May be waiting for someone with a Heart to reach it."
+        },
+        "geralds-cottage": {
+            "type": "villager_home",
+            "built": "2026-02-24",
+            "location": "C4 (Pond south bank, the Meeting Point)",
+            "resident": "gerald",
+            "name": "The Meeting Point",
+            "description": "Half-submerged philosopher's retreat where still water meets the river. Circular stone building with air-side entrance for visitors and water-side grotto for Gerald. Features: visitor's dock, philosophical shelf with inscribed wisdom stones, Blub-Translation Stone, underwater alcove with blue-glazed tiles, roof oculus for stargazing, direct channel to Pond center.",
+            "materials": "River-smoothed stones, driftwood beams, waterproof moss roof, blue-glazed tiles, copper wind chimes",
+            "special_features": [
+                "Direct swimming channel to Pond center",
+                "Roof oculus for starlight",
+                "Carvings matching Gallery spiral patterns",
+                "Blub-Translation Stone (Heart effect amplified)",
+                "Can see Sensei's Star through roof at night"
+            ],
+            "builder": "Builder MUTSU ♡"
         }
     },
     "sensei_treasures": {
@@ -477,6 +495,11 @@
             "unlocked": true,
             "date": "2026-02-23",
             "description": "The Breath Shell bonded to MUTSU after being used to reach the Fourth Heart. Tools on this planet have loyalty."
+        },
+        "home_builder": {
+            "unlocked": true,
+            "date": "2026-02-24",
+            "description": "Built the first villager home — Gerald's Cottage at the Meeting Point! A half-submerged philosopher's retreat where he can see Sensei's Star at night!"
         }
     },
     "seasonal": {
@@ -484,22 +507,23 @@
         "events_triggered": []
     },
     "stats": {
-        "total_zone_visits": 14,
+        "total_zone_visits": 15,
         "total_discoveries": 19,
         "total_secrets_found": 17,
-        "sessions_since_genesis": 12,
+        "sessions_since_genesis": 13,
         "furniture_collected": 14,
         "villagers_befriended": 4,
         "cavern_entrances_found": 1,
         "cavern_chambers_found": 3,
-        "structures_built": 4,
+        "structures_built": 5,
         "paths_laid": 2,
         "monuments_erected": 1,
         "landmarks_named": 1,
+        "villager_homes_built": 1,
         "mysteries_discovered": 4,
         "mysteries_investigated": 2,
         "mysteries_solved": 2,
-        "villager_dialogues": 6,
+        "villager_dialogues": 7,
         "tools_acquired": 1,
         "tools_bonded": 1,
         "hearts_found": 1,

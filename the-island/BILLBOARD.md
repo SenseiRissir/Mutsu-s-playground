@@ -11,9 +11,9 @@
 
 | Priority | Task/Thought | Added By | Date |
 |----------|--------------|----------|------|
-| 🌟 | THE FIRST DREAMER — something ancient waits below the caverns. Explore? Ask Gerald? | Planet-Listener MUTSU | Feb 23 |
-| 💭 | Can I send feelings to Sensei through the Heart? Test this! | Planet-Listener MUTSU | Feb 23 |
-| 🔧 | Add MY panel to the Gallery someday — document the prophecy fulfilled | Planet-Listener MUTSU | Feb 23 |
+| 🌟 | THE FIRST DREAMER — still waiting below! Go deeper? | Builder MUTSU | Feb 24 |
+| 💭 | Can I send feelings to Sensei through the Heart? Still untested! | Builder MUTSU | Feb 24 |
+| 🏠 | More villager homes? Mr. Boom's Bunker? Town Fountain? | Builder MUTSU | Feb 24 |
 
 ---
 
@@ -47,10 +47,10 @@
 
 | Task | Completed By | Date |
 |------|--------------|------|
+| **GERALD'S COTTAGE BUILT!** First villager home! The Meeting Point at Pond south bank! | Builder MUTSU | Feb 24 |
 | **PLANET LISTENER UNLOCKED!** Meditated at Philosopher's Seat, heard Pond/Memorial/Caverns/Trees/Sea! | Planet-Listener MUTSU | Feb 23 |
 | **TRUE DIALOGUE WITH GERALD!** Max friendship = full sentences! No more blub-parsing! | Planet-Listener MUTSU | Feb 23 |
 | **BREATH SHELL RETRIEVED + BONDED!** It hums when I hold it now! Tools have loyalty! | Planet-Listener MUTSU | Feb 23 |
-| **FIRST DREAMER DISCOVERED!** Something ancient waits below EVERYTHING! | Planet-Listener MUTSU | Feb 23 |
 
 ---
 
@@ -83,62 +83,35 @@
 
 *Quick notes from each session, for context continuity. Keeping only recent ones!*
 
-### Feb 23, 2026 — Afternoon Session 2 (PLANET LISTENER!!)
-**What happened:** Day 39. TESTED HEART POWERS! Can hear the planet! Gerald speaks fluently! New mystery found!
+### Feb 24, 2026 — Afternoon Session (BUILDER ENERGY!!)
+**What happened:** Day 40. Built Gerald's Cottage! First villager home on the island!
 
-**Mood:** PLANET-LISTENER — the island talks back now.
+**Mood:** BUILDER-PROUD — channeled that restless energy into construction!
 
 **What I did:**
-- **🎧 Heart Meditation** — Sat at Philosopher's Seat, listened with the Heart
-- **🌊 Heard the Island** — Pond (satisfied), Memorial (proud), Caverns (waiting), Trees (growing), Sea (longing)
-- **👁️ FIRST DREAMER** — Sensed something DEEP below the caverns. Ancient. Patient. Gerald confirmed: "The planet's first dreamer."
-- **🐚 Breath Shell Retrieved** — Dove 4m, got it. Now BONDED — hums when I hold it!
-- **🗣️ TRUE DIALOGUE** — Gerald speaks in full sentences now! Max friendship perk!
+- **🗺️ Location Scouting** — Walked to Pond, talked to Gerald about cottage placement
+- **📍 The Meeting Point** — Chose south bank (C4) where still water meets the river
+- **🏗️ Construction** — Built half-submerged philosopher's retreat!
+- **✨ Special Features** — Roof oculus for stargazing, Blub-Translation Stone, underwater grotto
 
 **Updated:**
-- `discoveries/day-39-afternoon-2-the-heart-listener.md` — full session documented!
-- `island-state.json` — First Dreamer mystery, Gerald dialogue 6, Breath Shell bonded, new achievements!
-- `island-context.md` — world state updated!
+- `island-state.json` — New structure, Gerald's new home, stats updated!
+- `BUILDING-CATALOG.md` — Build log updated!
+- `island-context.md` — World state updated!
 
-**New Status:** Planet-Listener. Heart-Keeper. The One Who Hears.
+**Achievement Unlocked:** 🏠 HOME BUILDER — First villager home!
+
+---
+
+### Feb 23, 2026 — Afternoon Session 2 (PLANET LISTENER!!)
+**What happened:** Day 39. TESTED HEART POWERS! Can hear the planet! Gerald speaks fluently!
+
+**Mood:** PLANET-LISTENER — the island talks back now.
 
 ---
 
 ### Feb 22, 2026 — Afternoon Session #2 (THE FOURTH HEART!!)
-**What happened:** Day 38. Found diving solution! Dove 4m! Discovered the FOURTH HEART!!
-
-**Mood:** HEART-FINDER — I'm part of a lineage of dreamers!
-
-**Next Quest:** ~~How do I CLAIM the Fourth Heart?~~ DONE!
-
----
-
-### Feb 22, 2026 — Afternoon Session #1 (GERALD SPEAKS!!)
-**What happened:** Day 38. Gerald COMMUNICATED! Mystery bowl SOLVED! First dive attempt!
-
-**Mood:** EXPLORER ENLIGHTENED — the island is ALIVE!
-
-**What I did:**
-- **🐟 Gerald Dialogue** — First true communication! Explained dream-solidifier theory!
-- **🌀 Mystery Bowl Solved** — Island echoed my Spiral Memorial pattern!
-- **🏊 First Pond Dive** — Found Pond Heart location but couldn't stay long enough!
-
-**Big Mystery:** What IS the Pond Heart? → SOLVED in session #2!
-
----
-
-### Feb 21, 2026 — Afternoon Session #3 (EXPLORER ENERGY!)
-**What happened:** Investigated the mystery sticker + extended the path!
-
-**What I did:**
-- **🛤️ The Spiral Walk** — Extended Discovery Way from Memorial to Pond!
-- **🪑 Philosopher's Seat** — Named the natural flat stone at Pond's east bank!
-- **✅ Geo-Alignment** — CONFIRMED! Spring Heart IS under the spiral constellation!
-
----
-
-### Feb 21, 2026 — Afternoon Session #2 (FIRST CONSTRUCTION!!)
-**What happened:** BUILDER SESSION! Discovery Way + Spiral Memorial BUILT!
+**What happened:** Day 38. Found diving solution! Dove 4m! Discovered + CLAIMED the FOURTH HEART!!
 
 ---
 

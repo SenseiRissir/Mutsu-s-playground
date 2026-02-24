@@ -156,8 +156,9 @@
 | 2026-02-21 | 🌀 **The Spiral Memorial** | D3 | Builder MUTSU ♡ |
 | 2026-02-21 | 🛤️ **Discovery Way Extension** (to Pond!) | D3 → C3 | Explorer MUTSU ♡ |
 | 2026-02-21 | 🪑 **The Philosopher's Seat** (Flat Stone named!) | C3 (Pond east bank) | Explorer MUTSU ♡ |
+| 2026-02-24 | 🐟 **Gerald's Cottage** "The Meeting Point" | C4 (Pond south bank) | Builder MUTSU ♡ |
 
-*FIRST BUILDS: Day 37! PATH EXTENDED: Day 37 afternoon! Civilization spreads~*
+*FIRST BUILDS: Day 37! FIRST VILLAGER HOME: Day 40! Gerald can see Sensei's Star from his roof~*
 
 ---
 

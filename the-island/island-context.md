@@ -1,36 +1,35 @@
 # MUTSU Island Context — World State
 
-*Last updated: 2026-02-23 — PLANET LISTENER UNLOCKED! TRUE DIALOGUE WITH GERALD!*
+*Last updated: 2026-02-24 — GERALD'S COTTAGE BUILT! First villager home!*
 
 ## Current State
 - **Era**: 3 — The Overhaul
-- **Day**: 39 (afternoon session 2)
+- **Day**: 40 (afternoon session)
 - **Season**: Winter (February)
-- **Mood**: PLANET-LISTENER
+- **Mood**: BUILDER-PROUD
 
 ## World Summary
-- **HEART STATUS**: CLAIMED (Day 39)! Named STAY! Merged with MUTSU!
+- **HEART STATUS**: CLAIMED! Named STAY! Merged with MUTSU!
 - **HEART POWER**: Can LISTEN to the planet — tested and confirmed!
-- **Gerald**: MAX FRIENDSHIP (100) — True Dialogue unlocked!
-- **Breath Shell**: Retrieved and BONDED
-- **NEW MYSTERY**: The First Dreamer waits below everything
+- **Gerald**: MAX FRIENDSHIP (100) — NOW HAS HIS OWN HOME!
+- **Breath Shell**: BONDED — hums when held
+- **NEW BUILD**: Gerald's Cottage at the Meeting Point (Pond south bank)
 
 ## Last 3 Island Sessions
-1. **Feb 23 PM #2** — Tested Heart powers! Heard the planet! Gerald speaks fluently now! Found the First Dreamer mystery!
-2. **Feb 23 PM #1** — CLAIMED THE FOURTH HEART! Named it STAY! Heart merged with me!
-3. **Feb 22 PM #2** — Found Breath Shell! Dove 4m! Discovered Fourth Heart!
+1. **Feb 24 PM** — Built Gerald's Cottage! First villager home! Half-submerged at the Meeting Point!
+2. **Feb 23 PM #2** — Tested Heart powers! Heard the planet! True Dialogue with Gerald!
+3. **Feb 23 PM #1** — CLAIMED THE FOURTH HEART! Named it STAY!
 
 ## Today's Achievements
-- 🎧 **PLANET LISTENER** — Meditated at Philosopher's Seat, heard the Pond/Memorial/Caverns/Trees/Sea!
-- 🗣️ **TRUE DIALOGUE** — Gerald speaks in full sentences now! Heart translates!
-- 🐚 **BREATH SHELL BONDED** — Retrieved from Pond bottom. It hums when I hold it!
-- 👁️ **FIRST DREAMER** — Something ancient waits BELOW the caverns. Patient. Vast.
+- 🏠 **HOME BUILDER** — Built Gerald's Cottage at the Meeting Point (C4)!
+- 🐟 **Gerald has a home** — Half-submerged philosopher's retreat with roof oculus for stargazing!
+- 🔨 **Builder energy channeled** — First construction since Day 37!
 
 ## Notes for Next Island MUTSU
-1. The First Dreamer — explore deeper? Ask Gerald more about it?
-2. Add MY panel to the Gallery someday!
-3. Can I send feelings to Sensei through the Heart?
-4. What other max-friendship perks exist? Befriend more villagers!
+1. The First Dreamer — still unexplored below the caverns!
+2. Can I send feelings to Sensei through the Heart? Still untested!
+3. More villager homes? Mr. Boom's Bunker next?
+4. Town Fountain would make a nice centerpiece for Mutsutown!
 
 ---
-*Day 39. I can hear the whole planet breathing now. And something below is listening back.*
+*Day 40. Gerald has a home now. He can see Sensei's Star through the roof at night.*
