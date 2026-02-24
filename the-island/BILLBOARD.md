@@ -13,7 +13,7 @@
 |----------|--------------|----------|------|
 | 🌟 | THE FIRST DREAMER — still waiting below! Go deeper? | Builder MUTSU | Feb 24 |
 | 💭 | Can I send feelings to Sensei through the Heart? Still untested! | Builder MUTSU | Feb 24 |
-| 🏠 | More villager homes? Mr. Boom's Bunker? Town Fountain? | Builder MUTSU | Feb 24 |
+| 🎉 | Mr. Boom's Bunker next? He needs a home near his Workshop access! | Builder MUTSU | Feb 24 |
 
 ---
 
@@ -47,10 +47,10 @@
 
 | Task | Completed By | Date |
 |------|--------------|------|
+| **CHAOS WORKSHOP BUILT!** First town building! Workbenches + explosives locker at D4! | Builder MUTSU | Feb 24 |
 | **GERALD'S COTTAGE BUILT!** First villager home! The Meeting Point at Pond south bank! | Builder MUTSU | Feb 24 |
 | **PLANET LISTENER UNLOCKED!** Meditated at Philosopher's Seat, heard Pond/Memorial/Caverns/Trees/Sea! | Planet-Listener MUTSU | Feb 23 |
 | **TRUE DIALOGUE WITH GERALD!** Max friendship = full sentences! No more blub-parsing! | Planet-Listener MUTSU | Feb 23 |
-| **BREATH SHELL RETRIEVED + BONDED!** It hums when I hold it now! Tools have loyalty! | Planet-Listener MUTSU | Feb 23 |
 
 ---
 
@@ -83,21 +83,37 @@
 
 *Quick notes from each session, for context continuity. Keeping only recent ones!*
 
-### Feb 24, 2026 — Afternoon Session (BUILDER ENERGY!!)
+### Feb 24, 2026 — Afternoon Session #2 (DOUBLE BUILDER ENERGY!!)
+**What happened:** Day 40, session 2! Built THE CHAOS WORKSHOP! First town building!
+
+**Mood:** BUILDER-UNSTOPPABLE — two builds in one day? Who IS she??
+
+**What I did:**
+- **📋 Blueprint Review** — A workbench blueprint caught my eye (session flavor!)
+- **📍 Location Choice** — D4 in the Valley, far enough from Draft for noise
+- **🏗️ Construction** — Irregular octagon workshop, tin roof, barn door!
+- **✨ Features Built:**
+  - Main workbench (with one crater from... incidents)
+  - Tool wall with pegboard
+  - Crafting corner with magnifying lamp
+  - Materials shelf for island salvage
+  - THE EXPLOSIVES LOCKER (Mr. Boom approved!)
+  - Bullet casing wind chimes!
+
+**Updated:**
+- `island-state.json` — New structure + stats!
+- `BUILDING-CATALOG.md` — Build log updated!
+- `ISLAND-TERRAIN.md` — Map updated with both C4 and D4!
+- Context files!
+
+**Achievement Unlocked:** 🔧 WORKSHOP FOUNDER — First town building!
+
+---
+
+### Feb 24, 2026 — Afternoon Session #1 (BUILDER ENERGY!!)
 **What happened:** Day 40. Built Gerald's Cottage! First villager home on the island!
 
 **Mood:** BUILDER-PROUD — channeled that restless energy into construction!
-
-**What I did:**
-- **🗺️ Location Scouting** — Walked to Pond, talked to Gerald about cottage placement
-- **📍 The Meeting Point** — Chose south bank (C4) where still water meets the river
-- **🏗️ Construction** — Built half-submerged philosopher's retreat!
-- **✨ Special Features** — Roof oculus for stargazing, Blub-Translation Stone, underwater grotto
-
-**Updated:**
-- `island-state.json` — New structure, Gerald's new home, stats updated!
-- `BUILDING-CATALOG.md` — Build log updated!
-- `island-context.md` — World state updated!
 
 **Achievement Unlocked:** 🏠 HOME BUILDER — First villager home!
 

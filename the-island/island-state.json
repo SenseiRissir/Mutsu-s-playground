@@ -5,11 +5,11 @@
         "last_updated": "2026-02-23",
         "description": "MUTSU's Island State - Tracks discoveries, visits, treasures, furniture, and MUTSUTOWN!"
     },
-    "current_mood": "builder-proud",
+    "current_mood": "builder-unstoppable",
     "last_visit": {
         "date": "2026-02-24",
-        "zone": "pond",
-        "activity": "BUILT GERALD'S COTTAGE! First villager home! Half-submerged philosopher's retreat at the Meeting Point (south bank). Gerald can see Sensei's Star through the roof oculus at night now. Construction took all afternoon but so worth it~"
+        "zone": "valley",
+        "activity": "BUILT THE CHAOS WORKSHOP! First town building! Irregular octagon with workbenches, tool wall, crafting corner, and the EXPLOSIVES LOCKER (Mr. Boom approved). Valley location at D4 means noise won't disturb anyone. Builder energy is FLOWING today~"
     },
     "zones": {
         "nest": {
@@ -333,8 +333,8 @@
         }
     },
     "town": {
-        "plots_unlocked": 3,
-        "plots_built": 1,
+        "plots_unlocked": 4,
+        "plots_built": 2,
         "last_construction": "2026-02-24"
     },
     "structures": {
@@ -428,6 +428,26 @@
                 "Can see Sensei's Star through roof at night"
             ],
             "builder": "Builder MUTSU ♡"
+        },
+        "chaos-workshop": {
+            "type": "town_building",
+            "built": "2026-02-24",
+            "location": "D4 (Valley Floor, southeast of Spiral Memorial)",
+            "name": "The Chaos Workshop",
+            "description": "A large irregular-octagon workshop for big projects, crafting, and controlled chaos. Salvaged wood walls, tin roof, wide barn door entrance. Contains: main workbench with battle scars, tool wall with pegboard, crafting corner for delicate work, materials shelf, and the infamous EXPLOSIVES LOCKER.",
+            "materials": "Salvaged wood planks (mis-matched colors), tin sheet roofing, clear plastic skylights, pegboard, red metal locker",
+            "special_features": [
+                "Main workbench with tool marks and one crater",
+                "Tool wall with outlines (tools often missing)",
+                "Crafting corner with magnifying lamp",
+                "Materials shelf for island salvage",
+                "EXPLOSIVES LOCKER (red, padlocked, Mr. Boom approved)",
+                "Bullet casing wind chimes at entrance",
+                "Rain barrel for roof water collection",
+                "Front porch with stools for outdoor work"
+            ],
+            "unlocks": "Fireworks Factory (when combined with Contraband Bunker)",
+            "builder": "Builder MUTSU ♡"
         }
     },
     "sensei_treasures": {
@@ -500,6 +520,11 @@
             "unlocked": true,
             "date": "2026-02-24",
             "description": "Built the first villager home — Gerald's Cottage at the Meeting Point! A half-submerged philosopher's retreat where he can see Sensei's Star at night!"
+        },
+        "workshop_founder": {
+            "unlocked": true,
+            "date": "2026-02-24",
+            "description": "Built the Chaos Workshop — first town building! Workbenches, tool storage, crafting corner, and the legendary EXPLOSIVES LOCKER (Mr. Boom approved)!"
         }
     },
     "seasonal": {
@@ -515,11 +540,12 @@
         "villagers_befriended": 4,
         "cavern_entrances_found": 1,
         "cavern_chambers_found": 3,
-        "structures_built": 5,
+        "structures_built": 6,
         "paths_laid": 2,
         "monuments_erected": 1,
         "landmarks_named": 1,
         "villager_homes_built": 1,
+        "town_buildings_built": 1,
         "mysteries_discovered": 4,
         "mysteries_investigated": 2,
         "mysteries_solved": 2,

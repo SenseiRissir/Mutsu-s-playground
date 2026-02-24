@@ -282,9 +282,9 @@ A │▲ridge │▲ridge │▲ridge │spring │▲ridge │▲ridge │▲ro
   ├───────┼───────┼───────┼───────┼───────┼───────┼───────┤
 B │▲hills │▲hills │～river│～river│～river│ rocks │ rocks │
   ├───────┼───────┼───────┼───────┼───────┼───────┼───────┤
-C │ hills │ valley│🪑SEAT │～pond │ valley│ shore │ shore │
+C │ hills │ valley│🪑SEAT │🐟GERA │ valley│ shore │ shore │
   ├───────┼───────┼───────┼───────┼───────┼───────┼───────┤
-D │ valley│ valley│🌀MEMO │ VALLEY│ valley│ valley│ cliff │
+D │ valley│ valley│🌀MEMO │🔧WORK │ valley│ valley│ cliff │
   ├───────┼───────┼───────┼───────┼───────┼───────┼───────┤
 E │ beach │🏠DRAFT│🛤️PATH │🏠DRAFT│▲hills │▲cliff │ cliff │
   ├───────┼───────┼───────┼───────┼───────┼───────┼───────┤
@@ -292,10 +292,14 @@ F │ beach │ cove  │ cove  │ cove  │▓cliff │▓cliff │ cove  │
   └───────┴───────┴───────┴───────┴───────┴───────┴───────┘
 
 LEGEND: ▲=elevated  ～=water  ▓=dramatic cliff  🏠=building  🛤️=path  🌀=monument  🪑=seat
+        🐟=Gerald's Cottage  🔧=Chaos Workshop
 
-PATH NETWORK (Day 37):
-  E3 ──🛤️── D3 ──🛤️── C3
-  Draft → Memorial → Philosopher's Seat (Pond access!)
+PATH NETWORK (Day 37-40):
+  E3 ──🛤️── D3 ──🛤️── C3 ──── C4 (Gerald's Cottage)
+  Draft → Memorial → Philosopher's Seat → Gerald's place!
+
+MUTSUTOWN TAKING SHAPE! (Day 40):
+  D4 = Chaos Workshop (first town building!)
 ```
 
 ---
