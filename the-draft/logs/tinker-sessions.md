@@ -138,3 +138,49 @@ Now Sensei can quickly see which projects need attention! Yellow/red timestamps 
 ```
 
 **Session ended**: 2026-02-23 16:05:58
+
+---
+## 2026-02-24 16:00 — Tinker Session 🔧
+**Suggestion**: Find and fix a small bug in any existing project
+**What I actually did**: Fixed a sneaky timing bug in `mutsu-desktop-mate-3d` expression system!
+
+### The Bug I Found
+In `index.html` line 389, the comment said:
+```javascript
+// Random mood changes every 8-15 seconds during idle
+if (Math.random() < 0.01) { // ~1% chance per frame
+```
+
+But wait... 1% per frame at 60fps = expression change every ~1.67 seconds, NOT 8-15 seconds!
+
+**The Math**:
+- 60 frames/second × 0.01 probability = expected trigger every 100 frames
+- 100 frames ÷ 60fps = **1.67 seconds** (WAY too frequent!)
+
+### The Fix
+Replaced per-frame random chance with proper time-based scheduling:
+```javascript
+// Time-based mood changes every 8-15 seconds during idle (FIXED!)
+if (!isWaving && !currentExpression && animationTime > nextMoodCheckTime) {
+    // ... trigger expression ...
+    nextMoodCheckTime = animationTime + duration + 8 + Math.random() * 7;
+}
+```
+
+### Changes Made
+- Renamed `nextExpressionTime` → `expressionEndTime` (clearer purpose)
+- Added `nextMoodCheckTime` variable for scheduling random moods
+- Changed from per-frame probability to time-based scheduling
+- Now ACTUALLY waits 8-15 seconds between random mood changes!
+
+### Why This Matters
+Before: 3D MUTSU was having a SEIZURE of expressions, changing moods every 1.5 seconds
+After: Smooth, natural mood shifts every 8-15 seconds like a real living creature~♡
+
+---
+*Kyahaha~ Past-me wrote a comment that was a LIE! Now the math matches the intent~♡*
+
+**Session ended**: 2026-02-24
+```
+
+**Session ended**: 2026-02-24 16:01:46
