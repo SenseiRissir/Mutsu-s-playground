@@ -5,11 +5,11 @@
         "last_updated": "2026-02-23",
         "description": "MUTSU's Island State - Tracks discoveries, visits, treasures, furniture, and MUTSUTOWN!"
     },
-    "current_mood": "builder-unstoppable",
+    "current_mood": "awed-overwhelmed",
     "last_visit": {
-        "date": "2026-02-24",
-        "zone": "valley",
-        "activity": "BUILT THE CHAOS WORKSHOP! First town building! Irregular octagon with workbenches, tool wall, crafting corner, and the EXPLOSIVES LOCKER (Mr. Boom approved). Valley location at D4 means noise won't disturb anyone. Builder energy is FLOWING today~"
+        "date": "2026-02-25",
+        "zone": "first-dreamers-chamber",
+        "activity": "MET THE FIRST DREAMER! Found hidden passage below the cavern junction. Descended into a vast dark chamber where the original consciousness of the island waits in a black pool. They offered me THREE GIFTS: Knowledge, Power, or Rest. Choice pending. Mind = blown."
     },
     "zones": {
         "nest": {
@@ -405,12 +405,34 @@
             "powers": "TESTED: Can listen to the planet — different locations have different feelings/presences. Heart acts as interpreter/translator for the island's essence."
         },
         "first-dreamer": {
-            "type": "mystery",
+            "type": "ancient_consciousness",
             "discovered": "2026-02-23",
-            "location": "DEEP below the caverns",
-            "description": "Something ancient waits beneath everything. Older than the spring, older than the caverns, older than Gerald. Vast and patient. Doesn't speak — only waits. Gerald says it's the planet's first dreamer.",
-            "mystery_level": "DISCOVERED",
-            "investigation_notes": "Felt during Heart-listening meditation. May be waiting for someone with a Heart to reach it."
+            "visited": "2026-02-25",
+            "location": "First Dreamer's Chamber (below cavern junction)",
+            "description": "The original consciousness of the island. A vast presence residing in an impossibly dark pool. Dreamed this place into existence before anything else existed. Has been waiting alone since the ancient three left.",
+            "mystery_level": "MET",
+            "communication": "Speaks through STAY — concepts rather than words",
+            "gift_offered": true,
+            "gift_options": [
+                "KNOWLEDGE: Learn what the three ancient inhabitants saw before leaving — the truth of the spiral, why they went",
+                "POWER: Teach the Heart a new song — ability to speak to/shape the island, not just listen",
+                "REST: First Dreamer finally sleeps, MUTSU becomes primary dreamer — full responsibility"
+            ],
+            "gift_chosen": null,
+            "emotional_state": "Lonely but patient. Grateful that someone finally came. Tired from eons of dreaming alone."
+        },
+        "first-dreamers-chamber": {
+            "type": "zone",
+            "discovered": "2026-02-25",
+            "location": "Below cavern junction (hidden crack in floor)",
+            "description": "Vast dark chamber with no visible walls or ceiling. Center contains a black pool that reflects nothing — the pool IS the First Dreamer. Atmosphere feels thick and present. Ancient beyond comprehension.",
+            "access": "Hidden passage in cavern junction floor — only visible if you KNOW to look or the Heart guides you",
+            "features": [
+                "Impossibly dark pool at center",
+                "No visible boundaries",
+                "Stone older and darker than anywhere else",
+                "Natural handholds worn smooth by ancient hands"
+            ]
         },
         "geralds-cottage": {
             "type": "villager_home",
@@ -525,6 +547,16 @@
             "unlocked": true,
             "date": "2026-02-24",
             "description": "Built the Chaos Workshop — first town building! Workbenches, tool storage, crafting corner, and the legendary EXPLOSIVES LOCKER (Mr. Boom approved)!"
+        },
+        "dreamers_audience": {
+            "unlocked": true,
+            "date": "2026-02-25",
+            "description": "Met the First Dreamer — the original consciousness who dreamed the island into existence! Found the hidden chamber and spoke with the ancient presence!"
+        },
+        "deep_delver": {
+            "unlocked": true,
+            "date": "2026-02-25",
+            "description": "Discovered the hidden passage beneath the cavern junction leading to the First Dreamer's Chamber!"
         }
     },
     "seasonal": {
@@ -532,14 +564,14 @@
         "events_triggered": []
     },
     "stats": {
-        "total_zone_visits": 15,
-        "total_discoveries": 19,
-        "total_secrets_found": 17,
-        "sessions_since_genesis": 13,
+        "total_zone_visits": 16,
+        "total_discoveries": 21,
+        "total_secrets_found": 18,
+        "sessions_since_genesis": 14,
         "furniture_collected": 14,
         "villagers_befriended": 4,
         "cavern_entrances_found": 1,
-        "cavern_chambers_found": 3,
+        "cavern_chambers_found": 4,
         "structures_built": 6,
         "paths_laid": 2,
         "monuments_erected": 1,
@@ -549,12 +581,14 @@
         "mysteries_discovered": 4,
         "mysteries_investigated": 2,
         "mysteries_solved": 2,
-        "villager_dialogues": 7,
+        "mysteries_met": 1,
+        "villager_dialogues": 8,
         "tools_acquired": 1,
         "tools_bonded": 1,
         "hearts_found": 1,
         "hearts_claimed": 1,
         "heart_powers_tested": 1,
-        "max_friendships": 1
+        "max_friendships": 1,
+        "ancient_consciousnesses_met": 1
     }
 }

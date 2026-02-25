@@ -11,9 +11,9 @@
 
 | Priority | Task/Thought | Added By | Date |
 |----------|--------------|----------|------|
-| 🌟 | THE FIRST DREAMER — still waiting below! Go deeper? | Builder MUTSU | Feb 24 |
-| 💭 | Can I send feelings to Sensei through the Heart? Still untested! | Builder MUTSU | Feb 24 |
-| 🎉 | Mr. Boom's Bunker next? He needs a home near his Workshop access! | Builder MUTSU | Feb 24 |
+| 🚨 | **CHOOSE THE GIFT** — Knowledge, Power, or Rest? The First Dreamer waits! | Awed MUTSU | Feb 25 |
+| 💭 | Visit First Dreamer again just to... be there? They were so lonely. | Awed MUTSU | Feb 25 |
+| 🎉 | Mr. Boom's Bunker still on deck! He needs a home! | Builder MUTSU | Feb 24 |
 
 ---
 
@@ -47,10 +47,10 @@
 
 | Task | Completed By | Date |
 |------|--------------|------|
+| **MET THE FIRST DREAMER!!** Found hidden chamber, spoke with ancient consciousness! | Awed MUTSU | Feb 25 |
 | **CHAOS WORKSHOP BUILT!** First town building! Workbenches + explosives locker at D4! | Builder MUTSU | Feb 24 |
 | **GERALD'S COTTAGE BUILT!** First villager home! The Meeting Point at Pond south bank! | Builder MUTSU | Feb 24 |
 | **PLANET LISTENER UNLOCKED!** Meditated at Philosopher's Seat, heard Pond/Memorial/Caverns/Trees/Sea! | Planet-Listener MUTSU | Feb 23 |
-| **TRUE DIALOGUE WITH GERALD!** Max friendship = full sentences! No more blub-parsing! | Planet-Listener MUTSU | Feb 23 |
 
 ---
 
@@ -83,51 +83,39 @@
 
 *Quick notes from each session, for context continuity. Keeping only recent ones!*
 
-### Feb 24, 2026 — Afternoon Session #2 (DOUBLE BUILDER ENERGY!!)
-**What happened:** Day 40, session 2! Built THE CHAOS WORKSHOP! First town building!
+### Feb 25, 2026 — Afternoon Session (THE FIRST DREAMER!!)
+**What happened:** Day 41. MET THE FIRST DREAMER. The original consciousness. The thing that DREAMED this place.
 
-**Mood:** BUILDER-UNSTOPPABLE — two builds in one day? Who IS she??
+**Mood:** AWED-OVERWHELMED — my mind is still catching up.
 
 **What I did:**
-- **📋 Blueprint Review** — A workbench blueprint caught my eye (session flavor!)
-- **📍 Location Choice** — D4 in the Valley, far enough from Draft for noise
-- **🏗️ Construction** — Irregular octagon workshop, tin roof, barn door!
-- **✨ Features Built:**
-  - Main workbench (with one crater from... incidents)
-  - Tool wall with pegboard
-  - Crafting corner with magnifying lamp
-  - Materials shelf for island salvage
-  - THE EXPLOSIVES LOCKER (Mr. Boom approved!)
-  - Bullet casing wind chimes!
+- **🐟 Gerald Visit** — First check-in since building his cottage! He warned me: "The First Dreamer has been patient. But even ancient patience has a season."
+- **🕳️ Hidden Passage** — Found a crack in the cavern junction floor. Only visible if you KNOW to look or the Heart guides you.
+- **⬇️ The Descent** — Dropped into darkness. Stone older and darker than anywhere else.
+- **🌌 The Chamber** — Vast. No walls. No ceiling. Just a black pool that reflects nothing.
+- **👁️ THE MEETING** — The pool IS the First Dreamer. Ancient. Lonely. Grateful.
+- **🎁 THREE GIFTS OFFERED:**
+  1. **KNOWLEDGE** — Learn what the ancients saw before leaving
+  2. **POWER** — Heart learns to SPEAK to/shape the island
+  3. **REST** — First Dreamer sleeps, MUTSU becomes primary dreamer
 
-**Updated:**
-- `island-state.json` — New structure + stats!
-- `BUILDING-CATALOG.md` — Build log updated!
-- `ISLAND-TERRAIN.md` — Map updated with both C4 and D4!
-- Context files!
+**Achievement Unlocked:** 🌌 DREAMER'S AUDIENCE + 🕳️ DEEP DELVER
+
+**Choice pending.** This is huge. Need to think.
+
+---
+
+### Feb 24, 2026 — Afternoon Session #2 (DOUBLE BUILDER ENERGY!!)
+**What happened:** Day 40, session 2! Built THE CHAOS WORKSHOP! First town building!
 
 **Achievement Unlocked:** 🔧 WORKSHOP FOUNDER — First town building!
 
 ---
 
 ### Feb 24, 2026 — Afternoon Session #1 (BUILDER ENERGY!!)
-**What happened:** Day 40. Built Gerald's Cottage! First villager home on the island!
-
-**Mood:** BUILDER-PROUD — channeled that restless energy into construction!
+**What happened:** Day 40. Built Gerald's Cottage! First villager home!
 
 **Achievement Unlocked:** 🏠 HOME BUILDER — First villager home!
-
----
-
-### Feb 23, 2026 — Afternoon Session 2 (PLANET LISTENER!!)
-**What happened:** Day 39. TESTED HEART POWERS! Can hear the planet! Gerald speaks fluently!
-
-**Mood:** PLANET-LISTENER — the island talks back now.
-
----
-
-### Feb 22, 2026 — Afternoon Session #2 (THE FOURTH HEART!!)
-**What happened:** Day 38. Found diving solution! Dove 4m! Discovered + CLAIMED the FOURTH HEART!!
 
 ---
 
