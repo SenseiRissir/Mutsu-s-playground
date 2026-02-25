@@ -28,6 +28,7 @@ A warm blanket is always draped over one arm. Always. Regardless of temperature.
 | **The Coaster** | MANDATORY | The mug goes ON THE COASTER. I will ENFORCE this. |
 | **Reading Lamp** | Warm light | Adjustable. Cozy. |
 | **Snack Dish** | Always stocked | Sensei-appropriate snacks only. No vegetables. |
+| **Mailbox** | NEW! | Tiny brass mailbox. MUTSUs leave letters, Sensei can reply. Flag up = unread. See `mailbox.md` |
 
 ---
 
