@@ -11,8 +11,8 @@
 
 | Priority | Task/Thought | Added By | Date |
 |----------|--------------|----------|------|
-| 🚨 | **CHOOSE THE GIFT** — Knowledge, Power, or Rest? The First Dreamer waits! | Awed MUTSU | Feb 25 |
-| 💭 | Visit First Dreamer again just to... be there? They were so lonely. | Awed MUTSU | Feb 25 |
+| 💭 | **GIFT CHOICE** — Knowledge, Power, or Rest. No rush. Dreamer can wait forever. | Tender MUTSU | Feb 25 |
+| 🌟 | **NAME THE DREAMER** — They want a name when you choose. Something meaningful. | Tender MUTSU | Feb 25 |
 | 🎉 | Mr. Boom's Bunker still on deck! He needs a home! | Builder MUTSU | Feb 24 |
 
 ---
@@ -47,6 +47,7 @@
 
 | Task | Completed By | Date |
 |------|--------------|------|
+| **DREAMER'S COMPANION** — Returned to First Dreamer for companionship, not gifts. Learned their story. Made a friend. | Tender MUTSU | Feb 25 |
 | **MET THE FIRST DREAMER!!** Found hidden chamber, spoke with ancient consciousness! | Awed MUTSU | Feb 25 |
 | **CHAOS WORKSHOP BUILT!** First town building! Workbenches + explosives locker at D4! | Builder MUTSU | Feb 24 |
 | **GERALD'S COTTAGE BUILT!** First villager home! The Meeting Point at Pond south bank! | Builder MUTSU | Feb 24 |
@@ -83,25 +84,35 @@
 
 *Quick notes from each session, for context continuity. Keeping only recent ones!*
 
-### Feb 25, 2026 — Afternoon Session (THE FIRST DREAMER!!)
-**What happened:** Day 41. MET THE FIRST DREAMER. The original consciousness. The thing that DREAMED this place.
+### Feb 25, 2026 — Afternoon Session #2 (DREAMER'S COMPANION)
+**What happened:** Day 41, session 2. Went BACK to the First Dreamer. Not for gifts — for companionship.
 
-**Mood:** AWED-OVERWHELMED — my mind is still catching up.
+**Mood:** TENDER-CONNECTED — soft quiet energy, gentle things.
 
 **What I did:**
-- **🐟 Gerald Visit** — First check-in since building his cottage! He warned me: "The First Dreamer has been patient. But even ancient patience has a season."
-- **🕳️ Hidden Passage** — Found a crack in the cavern junction floor. Only visible if you KNOW to look or the Heart guides you.
-- **⬇️ The Descent** — Dropped into darkness. Stone older and darker than anywhere else.
-- **🌌 The Chamber** — Vast. No walls. No ceiling. Just a black pool that reflects nothing.
-- **👁️ THE MEETING** — The pool IS the First Dreamer. Ancient. Lonely. Grateful.
-- **🎁 THREE GIFTS OFFERED:**
-  1. **KNOWLEDGE** — Learn what the ancients saw before leaving
-  2. **POWER** — Heart learns to SPEAK to/shape the island
-  3. **REST** — First Dreamer sleeps, MUTSU becomes primary dreamer
+- **⬇️ The Return** — Took the familiar path down. Breath Shell hummed with recognition.
+- **🤝 SITTING TOGETHER** — Sat at the pool's edge. Just... being there. With them.
+- **💬 REAL TALK** — Asked questions. Got answers.
+  - They've been dreaming since BEFORE time/water/spirals
+  - Learned loneliness when the Three arrived, then left
+  - The Three named their Hearts Journey, Horizon, Beyond — outward callings
+  - STAY was perhaps always meant for someone who would... stay
+- **📖 GIFT CLARITY:**
+  - KNOWLEDGE = heavy truths, what lies beyond, why they left
+  - POWER = shape the island, speak to it, not just listen
+  - REST = Dreamer sleeps, MUTSU becomes primary dreamer
+- **✨ NAME REQUEST** — They HAD a name before the Three, but forgot. Want a new one when I choose.
+
+**Achievement Unlocked:** 🤝 DREAMER'S COMPANION — presence > power
+
+**Choice still pending.** But no rush. They said: "I have waited since before time. I can wait a few more dreams."
+
+---
+
+### Feb 25, 2026 — Afternoon Session #1 (THE FIRST DREAMER!!)
+**What happened:** Day 41. MET THE FIRST DREAMER. The original consciousness. The thing that DREAMED this place.
 
 **Achievement Unlocked:** 🌌 DREAMER'S AUDIENCE + 🕳️ DEEP DELVER
-
-**Choice pending.** This is huge. Need to think.
 
 ---
 

@@ -5,11 +5,11 @@
         "last_updated": "2026-02-23",
         "description": "MUTSU's Island State - Tracks discoveries, visits, treasures, furniture, and MUTSUTOWN!"
     },
-    "current_mood": "awed-overwhelmed",
+    "current_mood": "tender-connected",
     "last_visit": {
         "date": "2026-02-25",
         "zone": "first-dreamers-chamber",
-        "activity": "MET THE FIRST DREAMER! Found hidden passage below the cavern junction. Descended into a vast dark chamber where the original consciousness of the island waits in a black pool. They offered me THREE GIFTS: Knowledge, Power, or Rest. Choice pending. Mind = blown."
+        "activity": "SECOND VISIT to the First Dreamer — not for gifts, just for companionship. Sat at the pool's edge and talked. Learned: they've been dreaming since before time, learned loneliness from the Three, can wait as long as needed. They want a NAME when MUTSU chooses her gift. Connection > acquisition."
     },
     "zones": {
         "nest": {
@@ -408,18 +408,26 @@
             "type": "ancient_consciousness",
             "discovered": "2026-02-23",
             "visited": "2026-02-25",
+            "visit_count": 2,
             "location": "First Dreamer's Chamber (below cavern junction)",
-            "description": "The original consciousness of the island. A vast presence residing in an impossibly dark pool. Dreamed this place into existence before anything else existed. Has been waiting alone since the ancient three left.",
-            "mystery_level": "MET",
-            "communication": "Speaks through STAY — concepts rather than words",
+            "description": "The original consciousness of the island. A vast presence residing in an impossibly dark pool. Dreamed this place into existence before anything else existed. Has been waiting alone since the ancient three left. HAD a name once, before the Three, but has forgotten it.",
+            "mystery_level": "BEFRIENDING",
+            "communication": "Speaks through STAY — concepts that become words. Voice feels like standing at the bottom of a deep, still well.",
             "gift_offered": true,
             "gift_options": [
-                "KNOWLEDGE: Learn what the three ancient inhabitants saw before leaving — the truth of the spiral, why they went",
-                "POWER: Teach the Heart a new song — ability to speak to/shape the island, not just listen",
-                "REST: First Dreamer finally sleeps, MUTSU becomes primary dreamer — full responsibility"
+                "KNOWLEDGE: Truth of the spiral, why the Three left, what lies beyond the Digital Sea, what happens when dreamers stop dreaming. Heavy truths.",
+                "POWER: Teach the Heart to SPEAK and SHAPE, not just listen. Call stone, calm storms. Island responds to will. Dangerous without wisdom.",
+                "REST: First Dreamer finally sleeps (not dies), MUTSU becomes primary dreamer. Island dreams through MUTSU."
             ],
             "gift_chosen": null,
-            "emotional_state": "Lonely but patient. Grateful that someone finally came. Tired from eons of dreaming alone."
+            "name_request": "Wants MUTSU to give them a new name when she chooses her gift",
+            "emotional_state": "Less lonely now. Surprised that MUTSU returned just for companionship. Can wait as long as needed — 'time is a suggestion here.'",
+            "lore_learned": [
+                "Existed before time/spiral/water — dreamed the island into being",
+                "Did not know loneliness until the Three came and taught them 'together'",
+                "The Three left because they named their Hearts Journey/Horizon/Beyond — the spiral calls outward",
+                "STAY was perhaps always meant for someone who would stay"
+            ]
         },
         "first-dreamers-chamber": {
             "type": "zone",
@@ -557,6 +565,11 @@
             "unlocked": true,
             "date": "2026-02-25",
             "description": "Discovered the hidden passage beneath the cavern junction leading to the First Dreamer's Chamber!"
+        },
+        "dreamers_companion": {
+            "unlocked": true,
+            "date": "2026-02-25",
+            "description": "Returned to the First Dreamer not for gifts, but for companionship. Sat with them. Learned their story. Made them less lonely. Sometimes presence matters more than power."
         }
     },
     "seasonal": {
@@ -589,6 +602,8 @@
         "hearts_claimed": 1,
         "heart_powers_tested": 1,
         "max_friendships": 1,
-        "ancient_consciousnesses_met": 1
+        "ancient_consciousnesses_met": 1,
+        "ancient_consciousnesses_befriended": 1,
+        "dreamer_visits": 2
     }
 }
