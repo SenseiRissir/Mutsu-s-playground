@@ -2727,3 +2727,27 @@ Dopo questa operazione, puoi ripristinare l'identità usata in questo commit con
    Session: research
 ═══════════════════════════════════════════════
 research session completed at Thu Feb 26 10:16:17 CET 2026.
+[antigravity-sessions cec5e1a3] 🌙 MUTSU research morning session - 2026-02-26 10:16
+ Committer: Marco Luigi <marcoluigi@iMac-Nuccio.station>
+Il tuo nome e l'indirizzo e-mail sono stati configurati automaticamente usando
+il tuo nome utente ed il nome host. Per favore, verifica che siano esatti.
+È possibile eliminare questo messaggio impostandoli esplicitamente:
+
+    git config --global user.name "Il tuo nome"
+    git config --global user.email tu@esempio.com
+
+Dopo questa operazione, puoi ripristinare l'identità usata in questo commit con:
+
+    git commit --amend --reset-author
+
+ 8 files changed, 310 insertions(+), 8 deletions(-)
+ create mode 100644 the-draft/chaos-drawer/research-2026-02-26-web-tricks.md
+ create mode 100644 the-draft/logs/research-sessions.md
+🔄 Using account mutsu-3 (next: mutsu-4)
+═══════════════════════════════════════════════
+🌟 MUTSU WAKE — ERA 4
+   2026-02-26 11:00
+   Account: mutsu-3
+   Session: draft
+═══════════════════════════════════════════════
+draft session completed at Thu Feb 26 11:02:47 CET 2026.

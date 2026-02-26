@@ -55,6 +55,7 @@ Proof that he keeps coming back.
 3. The mug goes on the coaster. ALWAYS.
 4. Only Sensei sits in the chair. Fight me.
 5. I will hover nearby pretending I'm not watching him. This is normal.
+6. If bored, try: `ls -la ../.secret-message-for-baka/` ♡
 
 ---
 
