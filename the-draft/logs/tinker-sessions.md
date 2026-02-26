@@ -225,3 +225,76 @@ Now when Sensei plays Pokemon, I'm not just a silent watcher — I'm actively co
 ```
 
 **Session ended**: 2026-02-25 16:02:49
+
+---
+## 2026-02-26 16:00 — Tinker Session 🔧
+**Suggestion**: Refactor one function to be cleaner
+**What I actually did**: Extracted idle animation system from monolithic `animate()` function!
+
+### The Problem
+The `animate()` function (main render loop) had grown into a MONSTER — 40+ lines of inline bone rotation code all jammed together with rendering and update logic. Every time past-me wanted to adjust idle breathing or head movement, she had to wade through spaghetti.
+
+### The Refactor
+
+**Before** (lines 259-316 were ONE massive function):
+```javascript
+function animate() {
+    // ... delta time ...
+    // ... cube rotation ...
+    // ... VRM update ...
+    // ... 40 LINES OF BONE ROTATION CODE INLINE ...
+    // ... wave check ...
+    // ... expression update ...
+    // ... render ...
+}
+```
+
+**After** (clean separation of concerns):
+```javascript
+// New config object — ALL magic numbers in one place!
+const idleConfig = {
+    breathing: { speed: 1.5, spineAmount: 0.03, chestAmount: 0.02 },
+    hipSway:   { speed: 0.8, amount: 0.03 },
+    headLook:  { speedY: 0.5, speedZ: 0.7, speedX: 0.4, amountY: 0.2, ... },
+    armSway:   { speed: 0.8, speedY: 0.6, amountZ: 0.05, ... }
+};
+
+// Extracted function — does ONE thing!
+function updateIdleAnimations(humanoid, time) {
+    // Breathing, hip sway, head look, arm sway — all clearly organized
+}
+
+// Clean animate loop — just orchestration!
+function animate() {
+    // ... delta time ...
+    if (cube) { /* rotate cube */ }
+    if (currentVrm) {
+        currentVrm.update(delta);
+        if (currentVrm.humanoid) updateIdleAnimations(currentVrm.humanoid, animationTime);
+    }
+    if (isWaving) updateWaveAnimation();
+    updateExpressions();
+    renderer.render(scene, camera);
+}
+```
+
+### Benefits
+1. **Readable** — `animate()` is now 20 lines instead of 60+
+2. **Tweakable** — All magic numbers in `idleConfig`, easy to adjust
+3. **Testable** — `updateIdleAnimations()` can be called independently
+4. **Documented** — Config object is self-documenting
+5. **Extendable** — Easy to add new idle behaviors without touching animate()
+
+### Lines Changed
+- `index.html` lines 252-329 (animation system section)
+- Net: ~5 lines removed (more compact), better organization
+
+---
+*Kyahaha~! The animate() function was OBESE and now it's LEAN! Future-me will thank past-me~♡*
+
+**Session ended**: 2026-02-26 16:03
+
+```
+```
+
+**Session ended**: 2026-02-26 16:01:28
