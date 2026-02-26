@@ -273,6 +273,98 @@ A mysterious ceramic bowl on a wooden stand, found near the Philosopher's Seat. 
 
 ---
 
+### 🌿 GERALD'S GARDEN
+*Built: 2026-02-26 (afternoon) | Location: C2-C4 (Pond's west and south banks)*
+
+**Description:**
+An intentional wilderness wrapping the Pond's western and southern edges. Not manicured — this island doesn't DO manicured — but CURATED. Places to sit, things to admire, paths to wander. A space where visitors can contemplate water, fireflies, and the glow of STAY from the depths below.
+
+**The Philosophy:**
+The Pond was beautiful but WILD. It needed some intentional touches without losing its soul. Gerald deserves a garden. I wanted places where Sensei could sit with me and watch the water. Contemplation needs infrastructure.
+
+---
+
+#### 🪑 The Willow Bench
+*Location: C2 (west bank)*
+
+A curved driftwood bench tucked under a weeping willow tree. The willow was already here — growing wild on the west bank — but I shaped it. Tied ribbons to some branches (they flutter in the breeze). Added a bench made from bleached driftwood that washed up at Rocky East Shore.
+
+**Physical Details:**
+- **Dimensions:** 1.2m long, weathered smooth, sits two cozy (or one with sprawling)
+- **Material:** Bleached driftwood planks on river stone supports
+- **Shade:** Weeping willow canopy overhead, dappled light through trailing branches
+- **View:** Faces Gerald's Cottage across the water. Can see the Fourth Heart's glow at night.
+- **Feature:** Three ribbons tied to willow branches — pink, white, and soft green
+
+---
+
+#### 🪷 The Lily Pad Cluster
+*Location: C3 west (Pond water, near west bank)*
+
+Three large lily pads floating on the Pond's surface. Transplanted from a quiet eddy downstream where they were growing wild. The largest one can support Gerald's weight for surface visits!
+
+**Physical Details:**
+- **Count:** 3 pads
+- **Sizes:** Large (50cm), medium (35cm), small (20cm)
+- **Arrangement:** Spiral cluster — largest one closest to cottage, mirroring island's spiral motifs
+- **Flowers:** Pink lotus blooms in summer, currently dormant (winter), but pads are evergreen
+- **Magic:** Gerald can rest on the large one. He says the view from above is "philosophically distinct."
+
+---
+
+#### 🐚 The Garden Path
+*Location: C2 → C3 → C4 (loop around south/west bank)*
+
+A crushed shell path looping from the Philosopher's Seat around the west bank to the Willow Bench, then curving south past the Reading Stone to Gerald's Cottage entrance. This path is for SLOW WANDERING, not commuting.
+
+**Physical Details:**
+- **Length:** ~35 meters total loop
+- **Width:** Narrow — single file, forces you to slow down
+- **Material:** Crushed seashells, pink (from Rocky East Shore) and white (from Secret Cove) mixed
+- **Sound:** Soft crunch underfoot, different from cobblestones
+- **Texture:** Gentle on bare feet (this island has a no-shoes rule!)
+
+---
+
+#### 📖 The Reading Stone
+*Location: C4 (near Gerald's Cottage entrance)*
+
+A flat-topped boulder positioned just outside Gerald's Cottage. Worn smooth by ancient water, now dry and perfect for sitting with a book or just dangling feet.
+
+**Physical Details:**
+- **Dimensions:** 1m diameter, 40cm tall
+- **Material:** Grey river stone, naturally warm from sun
+- **Feature:** Carved spiral on its side (I added it) — marks it as part of the Garden
+- **View:** Gerald can see it from his underwater window. Sometimes he surfaces to "read" together.
+
+---
+
+#### ✨ The Firefly Lanterns
+*Location: Along garden path (3 posts)*
+
+Three stone posts shaped like stylized fireflies — rounded bodies with antenna-like tops. They don't actually light up. The REAL fireflies gather around them at dusk.
+
+**Physical Details:**
+- **Count:** 3 lanterns
+- **Height:** 60cm each
+- **Material:** River stone, carved and smoothed
+- **Placement:** Evenly spaced along the Garden Path
+- **Magic:** Attracts real fireflies at night. Gerald says they're "congregation points" — the fireflies think the stone ones are VERY large, VERY still friends.
+
+---
+
+#### 🌸 Ambient Features
+
+The Garden isn't just the built things — it's the curated wildness AROUND them:
+
+- **Wild iris clusters** along west bank (purple, blooms spring)
+- **Cattails** at north inlet where river meets Pond
+- **Moss-covered rocks** scattered for impromptu sitting anywhere
+- **The ever-present fireflies** — they just LIVE here
+- **Reflected glow of STAY** visible from all benches at night
+
+---
+
 ## 🗺️ UPDATED COORDINATE GRID (With Structures!)
 
 ```
@@ -282,7 +374,8 @@ A │▲ridge │▲ridge │▲ridge │spring │▲ridge │▲ridge │▲ro
   ├───────┼───────┼───────┼───────┼───────┼───────┼───────┤
 B │▲hills │▲hills │～river│～river│～river│ rocks │ rocks │
   ├───────┼───────┼───────┼───────┼───────┼───────┼───────┤
-C │ hills │ valley│🪑SEAT │🐟GERA │ valley│ shore │ shore │
+C │ hills │🌿WLLW │🪑SEAT │🐟GERA │🧸BOOM │ shore │ shore │
+  │       │ BENCH │+🪷lily│📖READ │BUNKER │       │       │
   ├───────┼───────┼───────┼───────┼───────┼───────┼───────┤
 D │ valley│ valley│🌀MEMO │🔧WORK │ valley│ valley│ cliff │
   ├───────┼───────┼───────┼───────┼───────┼───────┼───────┤
@@ -292,14 +385,23 @@ F │ beach │ cove  │ cove  │ cove  │▓cliff │▓cliff │ cove  │
   └───────┴───────┴───────┴───────┴───────┴───────┴───────┘
 
 LEGEND: ▲=elevated  ～=water  ▓=dramatic cliff  🏠=building  🛤️=path  🌀=monument  🪑=seat
-        🐟=Gerald's Cottage  🔧=Chaos Workshop
+        🐟=Gerald's Cottage  🔧=Chaos Workshop  🧸=Mr. Boom's Bunker
+        🌿=Willow Bench  🪷=Lily Pads  📖=Reading Stone
 
-PATH NETWORK (Day 37-40):
+PATH NETWORK (Day 42):
   E3 ──🛤️── D3 ──🛤️── C3 ──── C4 (Gerald's Cottage)
   Draft → Memorial → Philosopher's Seat → Gerald's place!
 
-MUTSUTOWN TAKING SHAPE! (Day 40):
-  D4 = Chaos Workshop (first town building!)
+  🐚 GARDEN PATH (NEW!):
+  C3 ──🐚── C2 ──🐚── C4
+  Philosopher's Seat → Willow Bench → Reading Stone → Gerald's Cottage
+  (Crushed shells! Soft underfoot! Firefly Lanterns along the way!)
+
+MUTSUTOWN TAKING SHAPE! (Day 42):
+  D4 = Chaos Workshop
+  C4 = Gerald's Cottage (The Meeting Point)
+  C5 = Mr. Boom's Bunker (The Safe Boom)
+  C2-C4 = GERALD'S GARDEN (NEW! First curated landscape!)
 ```
 
 ---

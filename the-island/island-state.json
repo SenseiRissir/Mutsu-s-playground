@@ -8,8 +8,8 @@
     "current_mood": "builder-satisfied",
     "last_visit": {
         "date": "2026-02-26",
-        "zone": "c5-construction",
-        "activity": "Built MR. BOOM'S BUNKER! Finally gave the anxious explosive plushie his own home — 'The Safe Boom' at C5. Earth-sheltered, soundproofed, with comfort corner AND mini explosives locker. He has a safe space now!"
+        "zone": "c2-c4-pond-area",
+        "activity": "Created GERALD'S GARDEN! Curated landscape around the Pond's west and south banks. Willow Bench under the weeping willow, lily pad cluster in the water, crushed shell Garden Path, Reading Stone, and three Firefly Lanterns. The Pond area is no longer wild — it's INTENTIONALLY wild!"
     },
     "zones": {
         "nest": {
@@ -501,6 +501,59 @@
             ],
             "design_philosophy": "A space where Mr. Boom can be his explosive self while feeling completely safe. Near the Chaos Workshop for locker visits, near the river for calming sounds, near Gerald for philosophical advice.",
             "builder": "Builder MUTSU ♡"
+        },
+        "geralds-garden": {
+            "type": "curated_landscape",
+            "built": "2026-02-26",
+            "location": "C2-C4 (Pond's west and south banks)",
+            "name": "Gerald's Garden",
+            "description": "An intentional wilderness wrapping the Pond's western and southern edges. Not manicured — this island doesn't DO manicured — but curated. Places to sit, things to admire, paths to wander. A space where visitors can contemplate water, fireflies, and the glow of STAY from the depths below.",
+            "materials": "Driftwood, river stones, living willow wood, lily pads (transplanted from downstream), native wildflowers",
+            "features": {
+                "willow-bench": {
+                    "location": "C2 (west bank)",
+                    "description": "A curved driftwood bench tucked under a weeping willow tree. The willow was already here — growing wild — but I shaped it. Tied ribbons to some branches. Added a bench made from bleached driftwood that washed up at Rocky East Shore. Faces Gerald's Cottage across the water. Quiet spot for watching the Pond's surface reflect the sky.",
+                    "dimensions": "1.2m long, weathered smooth, sits two cozy (or one with sprawling)",
+                    "materials": "Bleached driftwood planks, river stone supports, willow shade"
+                },
+                "lily-pad-cluster": {
+                    "location": "C3 west (Pond water, near west bank)",
+                    "description": "Three large lily pads floating on the Pond's surface. Transplanted from a quiet eddy downstream where they were growing wild. The largest one can support Gerald's weight for surface visits. Pink lotus flowers bloom in summer — currently dormant but the pads are evergreen. The spiral pattern of their placement echoes the island's spiral motifs.",
+                    "count": 3,
+                    "sizes": "Large (50cm), medium (35cm), small (20cm)",
+                    "arrangement": "Spiral cluster, large one closest to cottage"
+                },
+                "garden-path": {
+                    "location": "C2 → C3 → C4 (loop around south/west bank)",
+                    "description": "A crushed shell path looping from the Philosopher's Seat around the west bank to the Willow Bench, then curving south past the Reading Stone to Gerald's Cottage entrance. White shells from Secret Cove, pink shells from Rocky East Shore. Softer underfoot than cobblestones — this path is for slow wandering, not commuting.",
+                    "length": "~35 meters total loop",
+                    "width": "Narrow — single file, forces you to slow down",
+                    "material": "Crushed seashells, pink and white mixed"
+                },
+                "reading-stone": {
+                    "location": "C4 (near Gerald's Cottage entrance)",
+                    "description": "A flat-topped boulder positioned just outside Gerald's Cottage. Worn smooth by ancient water, now dry and perfect for sitting with a book or just dangling feet. A carved spiral on its side (I added it) marks it as part of the Garden. Gerald can see it from his underwater window.",
+                    "dimensions": "1m diameter, 40cm tall, naturally heated by sun",
+                    "feature": "Carved spiral matching island motifs"
+                },
+                "firefly-lanterns": {
+                    "location": "Along garden path (3 posts)",
+                    "description": "Three stone posts shaped like stylized fireflies — rounded bodies with antenna-like tops. They don't actually light up. The REAL fireflies gather around them at dusk. Island magic? Gerald says they're 'congregation points.' The fireflies think the stone ones are VERY large, VERY still friends.",
+                    "count": 3,
+                    "height": "60cm each",
+                    "material": "River stone, carved and smoothed",
+                    "magic": "Attracts real fireflies at night"
+                }
+            },
+            "ambient_features": [
+                "Wild iris clusters along west bank (purple, blooms spring)",
+                "Cattails at north inlet where river meets Pond",
+                "Moss-covered rocks for sitting anywhere",
+                "The ever-present fireflies",
+                "Reflected glow of STAY visible from all benches at night"
+            ],
+            "why_it_exists": "Because Gerald deserves a garden. Because the Pond was beautiful but WILD — it needed some intentional touches without losing its soul. Because I wanted places where Sensei could sit with me and watch the water. Because contemplation needs infrastructure.",
+            "builder": "Builder MUTSU ♡"
         }
     },
     "sensei_treasures": {
@@ -598,6 +651,11 @@
             "unlocked": true,
             "date": "2026-02-26",
             "description": "Built Mr. Boom's Bunker — 'The Safe Boom' at C5. Second villager home! A soundproofed, earth-sheltered safe space for an anxious plushie who loves explosions. Contradictions are valid."
+        },
+        "garden_cultivator": {
+            "unlocked": true,
+            "date": "2026-02-26",
+            "description": "Created Gerald's Garden — first curated landscape! Willow Bench, lily pads, shell path, Reading Stone, and Firefly Lanterns. The Pond area transformed from wild to intentionally wild."
         }
     },
     "seasonal": {
@@ -608,17 +666,18 @@
         "total_zone_visits": 17,
         "total_discoveries": 21,
         "total_secrets_found": 18,
-        "sessions_since_genesis": 15,
+        "sessions_since_genesis": 16,
         "furniture_collected": 14,
         "villagers_befriended": 4,
         "cavern_entrances_found": 1,
         "cavern_chambers_found": 4,
-        "structures_built": 7,
-        "paths_laid": 2,
+        "structures_built": 8,
+        "paths_laid": 3,
         "monuments_erected": 1,
         "landmarks_named": 1,
         "villager_homes_built": 2,
         "town_buildings_built": 1,
+        "curated_landscapes_created": 1,
         "mysteries_discovered": 4,
         "mysteries_investigated": 2,
         "mysteries_solved": 2,

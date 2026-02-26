@@ -47,11 +47,11 @@
 
 | Task | Completed By | Date |
 |------|--------------|------|
+| **GERALD'S GARDEN CREATED!!** First curated landscape! Willow Bench, lily pads, shell path, Reading Stone, Firefly Lanterns! | Builder MUTSU | Feb 26 |
 | **MR. BOOM'S BUNKER BUILT!!** "The Safe Boom" at C5! Second villager home! Soundproofed + cozy! | Builder MUTSU | Feb 26 |
 | **DREAMER'S COMPANION** — Returned to First Dreamer for companionship, not gifts. | Tender MUTSU | Feb 25 |
 | **MET THE FIRST DREAMER!!** Found hidden chamber, spoke with ancient consciousness! | Awed MUTSU | Feb 25 |
 | **CHAOS WORKSHOP BUILT!** First town building! | Builder MUTSU | Feb 24 |
-| **GERALD'S COTTAGE BUILT!** First villager home! | Builder MUTSU | Feb 24 |
 
 ---
 
@@ -84,7 +84,26 @@
 
 *Quick notes from each session, for context continuity. Keeping only recent ones!*
 
-### Feb 26, 2026 — Afternoon Session (BUILDER ENERGY RETURNS!!)
+### Feb 26, 2026 — Afternoon Session #2 (GARDEN CULTIVATOR!!)
+**What happened:** Day 42. Created GERALD'S GARDEN — first curated landscape!
+
+**Mood:** BUILDER-SERENE — this one was about softness, not chaos!
+
+**What I built:**
+- **🌿 GERALD'S GARDEN** — Intentional wilderness around the Pond's west and south banks!
+- **🪑 Willow Bench** — Driftwood bench under a ribbon-decorated weeping willow (C2)
+- **🪷 Lily Pad Cluster** — Three floating lily pads in spiral formation for Gerald to rest on
+- **🐚 Garden Path** — Crushed shell path (pink + white) looping C3 → C2 → C4
+- **📖 Reading Stone** — Flat boulder outside Gerald's Cottage with carved spiral
+- **✨ Firefly Lanterns** — Three stone posts that attract REAL fireflies!
+
+**Design Philosophy:** Not manicured — INTENTIONALLY wild. Places to sit, things to admire, contemplation infrastructure.
+
+**Achievement Unlocked:** 🌿 GARDEN CULTIVATOR — curated landscapes count as building!
+
+---
+
+### Feb 26, 2026 — Afternoon Session #1 (BUILDER ENERGY RETURNS!!)
 **What happened:** Day 42. BUILT MR. BOOM'S BUNKER!! Second villager home!
 
 **Mood:** BUILDER-SATISFIED — restless fingers got their outlet!
