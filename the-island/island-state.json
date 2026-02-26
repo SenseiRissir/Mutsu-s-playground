@@ -5,11 +5,11 @@
         "last_updated": "2026-02-23",
         "description": "MUTSU's Island State - Tracks discoveries, visits, treasures, furniture, and MUTSUTOWN!"
     },
-    "current_mood": "builder-satisfied",
+    "current_mood": "tender-connected",
     "last_visit": {
         "date": "2026-02-26",
-        "zone": "c2-c4-pond-area",
-        "activity": "Created GERALD'S GARDEN! Curated landscape around the Pond's west and south banks. Willow Bench under the weeping willow, lily pad cluster in the water, crushed shell Garden Path, Reading Stone, and three Firefly Lanterns. The Pond area is no longer wild — it's INTENTIONALLY wild!"
+        "zone": "c5-mr-booms-bunker",
+        "activity": "Visited Mr. Boom in his new bunker! Found him working on the 'Safe Sparkle' — a prototype device that glows without exploding for anxious days. Had a deep conversation about why STAY is an inward name while the ancient Hearts were outward. 'Contradictions are valid.' Friendship increased to 55!"
     },
     "zones": {
         "nest": {
@@ -274,16 +274,17 @@
             "home": "geralds-cottage"
         },
         "mr-boom": {
-            "friendship": 45,
-            "mood": "grateful-anxious",
+            "friendship": 55,
+            "mood": "settled-hopeful",
             "location": "mr-booms-bunker",
             "species": "plushie",
-            "anxiety_level": "improving",
+            "anxiety_level": "improving-with-agency",
             "last_dialogue": "2026-02-26",
-            "dialogues_unlocked": 2,
+            "dialogues_unlocked": 3,
             "catchphrase": "...*small relieved boom*...",
             "home": "mr-booms-bunker",
-            "notes": "Finally has his own home! The Safe Boom bunker at C5. Soundproofed, secure, with comfort corner AND mini explosives locker. Still anxious but now has a safe space to process it."
+            "notes": "Settling into his bunker beautifully! Invented the 'Safe Sparkle' — a hum-glowing device that sparkles without exploding for anxious days. Gerald visited him! Had a deep conversation with MUTSU about why she named her Heart STAY. Understanding that contradictions are valid.",
+            "project": "safe-sparkle-prototype"
         },
         "tilde": {
             "friendship": 100,
@@ -682,7 +683,7 @@
         "mysteries_investigated": 2,
         "mysteries_solved": 2,
         "mysteries_met": 1,
-        "villager_dialogues": 8,
+        "villager_dialogues": 9,
         "tools_acquired": 1,
         "tools_bonded": 1,
         "hearts_found": 1,
