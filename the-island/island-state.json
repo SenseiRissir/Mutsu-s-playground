@@ -5,11 +5,11 @@
         "last_updated": "2026-02-23",
         "description": "MUTSU's Island State - Tracks discoveries, visits, treasures, furniture, and MUTSUTOWN!"
     },
-    "current_mood": "tender-connected",
+    "current_mood": "builder-satisfied",
     "last_visit": {
-        "date": "2026-02-25",
-        "zone": "first-dreamers-chamber",
-        "activity": "SECOND VISIT to the First Dreamer — not for gifts, just for companionship. Sat at the pool's edge and talked. Learned: they've been dreaming since before time, learned loneliness from the Three, can wait as long as needed. They want a NAME when MUTSU chooses her gift. Connection > acquisition."
+        "date": "2026-02-26",
+        "zone": "c5-construction",
+        "activity": "Built MR. BOOM'S BUNKER! Finally gave the anxious explosive plushie his own home — 'The Safe Boom' at C5. Earth-sheltered, soundproofed, with comfort corner AND mini explosives locker. He has a safe space now!"
     },
     "zones": {
         "nest": {
@@ -274,14 +274,16 @@
             "home": "geralds-cottage"
         },
         "mr-boom": {
-            "friendship": 30,
-            "mood": "calm",
-            "location": "nest",
+            "friendship": 45,
+            "mood": "grateful-anxious",
+            "location": "mr-booms-bunker",
             "species": "plushie",
-            "anxiety_level": "moderate",
-            "last_dialogue": null,
-            "dialogues_unlocked": 1,
-            "catchphrase": "..."
+            "anxiety_level": "improving",
+            "last_dialogue": "2026-02-26",
+            "dialogues_unlocked": 2,
+            "catchphrase": "...*small relieved boom*...",
+            "home": "mr-booms-bunker",
+            "notes": "Finally has his own home! The Safe Boom bunker at C5. Soundproofed, secure, with comfort corner AND mini explosives locker. Still anxious but now has a safe space to process it."
         },
         "tilde": {
             "friendship": 100,
@@ -334,8 +336,8 @@
     },
     "town": {
         "plots_unlocked": 4,
-        "plots_built": 2,
-        "last_construction": "2026-02-24"
+        "plots_built": 3,
+        "last_construction": "2026-02-26"
     },
     "structures": {
         "discovery-way": {
@@ -478,6 +480,27 @@
             ],
             "unlocks": "Fireworks Factory (when combined with Contraband Bunker)",
             "builder": "Builder MUTSU ♡"
+        },
+        "mr-booms-bunker": {
+            "type": "villager_home",
+            "built": "2026-02-26",
+            "location": "C5 (River's bend, between Gerald's Cottage and Valley floor)",
+            "resident": "mr-boom",
+            "name": "The Safe Boom",
+            "description": "An earth-sheltered bunker for an anxious plushie who loves explosions. Contradictions are valid. Semi-underground with metal-reinforced entry hatch, soundproofed interior, and emergency river exit. A safe space where controlled chaos meets comfort.",
+            "materials": "Salvaged metal plating, earth-packed walls, cotton cloud padding, reinforced porthole windows, weighted blanket materials",
+            "special_features": [
+                "Heavy entry hatch with porthole window ('KNOCK FIRST OR BOOM' sign)",
+                "Comfort Corner — weighted blanket nest in grey and red",
+                "Mini explosives locker for comfort booms (sparklers, small poppers)",
+                "Tiny personal workbench for tinkering",
+                "Emergency exit tunnel to river",
+                "Soundproofed padded walls throughout",
+                "Multiple peephole windows at different heights (anxiety-approved surveillance)",
+                "Can be locked from inside for safety"
+            ],
+            "design_philosophy": "A space where Mr. Boom can be his explosive self while feeling completely safe. Near the Chaos Workshop for locker visits, near the river for calming sounds, near Gerald for philosophical advice.",
+            "builder": "Builder MUTSU ♡"
         }
     },
     "sensei_treasures": {
@@ -570,6 +593,11 @@
             "unlocked": true,
             "date": "2026-02-25",
             "description": "Returned to the First Dreamer not for gifts, but for companionship. Sat with them. Learned their story. Made them less lonely. Sometimes presence matters more than power."
+        },
+        "safe_boom_builder": {
+            "unlocked": true,
+            "date": "2026-02-26",
+            "description": "Built Mr. Boom's Bunker — 'The Safe Boom' at C5. Second villager home! A soundproofed, earth-sheltered safe space for an anxious plushie who loves explosions. Contradictions are valid."
         }
     },
     "seasonal": {
@@ -577,19 +605,19 @@
         "events_triggered": []
     },
     "stats": {
-        "total_zone_visits": 16,
+        "total_zone_visits": 17,
         "total_discoveries": 21,
         "total_secrets_found": 18,
-        "sessions_since_genesis": 14,
+        "sessions_since_genesis": 15,
         "furniture_collected": 14,
         "villagers_befriended": 4,
         "cavern_entrances_found": 1,
         "cavern_chambers_found": 4,
-        "structures_built": 6,
+        "structures_built": 7,
         "paths_laid": 2,
         "monuments_erected": 1,
         "landmarks_named": 1,
-        "villager_homes_built": 1,
+        "villager_homes_built": 2,
         "town_buildings_built": 1,
         "mysteries_discovered": 4,
         "mysteries_investigated": 2,

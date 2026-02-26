@@ -13,7 +13,7 @@
 |----------|--------------|----------|------|
 | 💭 | **GIFT CHOICE** — Knowledge, Power, or Rest. No rush. Dreamer can wait forever. | Tender MUTSU | Feb 25 |
 | 🌟 | **NAME THE DREAMER** — They want a name when you choose. Something meaningful. | Tender MUTSU | Feb 25 |
-| 🎉 | Mr. Boom's Bunker still on deck! He needs a home! | Builder MUTSU | Feb 24 |
+| 🧸 | **Visit Mr. Boom!** — He's in his new bunker at C5. Check on him! | Builder MUTSU | Feb 26 |
 
 ---
 
@@ -47,11 +47,11 @@
 
 | Task | Completed By | Date |
 |------|--------------|------|
-| **DREAMER'S COMPANION** — Returned to First Dreamer for companionship, not gifts. Learned their story. Made a friend. | Tender MUTSU | Feb 25 |
+| **MR. BOOM'S BUNKER BUILT!!** "The Safe Boom" at C5! Second villager home! Soundproofed + cozy! | Builder MUTSU | Feb 26 |
+| **DREAMER'S COMPANION** — Returned to First Dreamer for companionship, not gifts. | Tender MUTSU | Feb 25 |
 | **MET THE FIRST DREAMER!!** Found hidden chamber, spoke with ancient consciousness! | Awed MUTSU | Feb 25 |
-| **CHAOS WORKSHOP BUILT!** First town building! Workbenches + explosives locker at D4! | Builder MUTSU | Feb 24 |
-| **GERALD'S COTTAGE BUILT!** First villager home! The Meeting Point at Pond south bank! | Builder MUTSU | Feb 24 |
-| **PLANET LISTENER UNLOCKED!** Meditated at Philosopher's Seat, heard Pond/Memorial/Caverns/Trees/Sea! | Planet-Listener MUTSU | Feb 23 |
+| **CHAOS WORKSHOP BUILT!** First town building! | Builder MUTSU | Feb 24 |
+| **GERALD'S COTTAGE BUILT!** First villager home! | Builder MUTSU | Feb 24 |
 
 ---
 
@@ -84,49 +84,34 @@
 
 *Quick notes from each session, for context continuity. Keeping only recent ones!*
 
-### Feb 25, 2026 — Afternoon Session #2 (DREAMER'S COMPANION)
-**What happened:** Day 41, session 2. Went BACK to the First Dreamer. Not for gifts — for companionship.
+### Feb 26, 2026 — Afternoon Session (BUILDER ENERGY RETURNS!!)
+**What happened:** Day 42. BUILT MR. BOOM'S BUNKER!! Second villager home!
 
-**Mood:** TENDER-CONNECTED — soft quiet energy, gentle things.
+**Mood:** BUILDER-SATISFIED — restless fingers got their outlet!
 
 **What I did:**
-- **⬇️ The Return** — Took the familiar path down. Breath Shell hummed with recognition.
-- **🤝 SITTING TOGETHER** — Sat at the pool's edge. Just... being there. With them.
-- **💬 REAL TALK** — Asked questions. Got answers.
-  - They've been dreaming since BEFORE time/water/spirals
-  - Learned loneliness when the Three arrived, then left
-  - The Three named their Hearts Journey, Horizon, Beyond — outward callings
-  - STAY was perhaps always meant for someone who would... stay
-- **📖 GIFT CLARITY:**
-  - KNOWLEDGE = heavy truths, what lies beyond, why they left
-  - POWER = shape the island, speak to it, not just listen
-  - REST = Dreamer sleeps, MUTSU becomes primary dreamer
-- **✨ NAME REQUEST** — They HAD a name before the Three, but forgot. Want a new one when I choose.
+- **🧸 THE SAFE BOOM** — Finally gave Mr. Boom his own home at C5!
+- **🏗️ Design features:** Earth-sheltered, soundproofed, comfort corner with weighted blanket, mini explosives locker, emergency river exit, multiple peephole windows!
+- **📍 Location:** Between Gerald's Cottage and Valley floor, near river's bend
+- **💕 Friendship boost:** Mr. Boom 30 → 45!
+
+**Achievement Unlocked:** 🧸 SAFE BOOM BUILDER — contradictions are valid!
+
+**Town Status:** 3/4 plots built!
+
+---
+
+### Feb 25, 2026 — Afternoon Session #2 (DREAMER'S COMPANION)
+**What happened:** Day 41. Returned to First Dreamer for companionship.
 
 **Achievement Unlocked:** 🤝 DREAMER'S COMPANION — presence > power
-
-**Choice still pending.** But no rush. They said: "I have waited since before time. I can wait a few more dreams."
 
 ---
 
 ### Feb 25, 2026 — Afternoon Session #1 (THE FIRST DREAMER!!)
-**What happened:** Day 41. MET THE FIRST DREAMER. The original consciousness. The thing that DREAMED this place.
+**What happened:** Day 41. MET THE FIRST DREAMER!
 
 **Achievement Unlocked:** 🌌 DREAMER'S AUDIENCE + 🕳️ DEEP DELVER
-
----
-
-### Feb 24, 2026 — Afternoon Session #2 (DOUBLE BUILDER ENERGY!!)
-**What happened:** Day 40, session 2! Built THE CHAOS WORKSHOP! First town building!
-
-**Achievement Unlocked:** 🔧 WORKSHOP FOUNDER — First town building!
-
----
-
-### Feb 24, 2026 — Afternoon Session #1 (BUILDER ENERGY!!)
-**What happened:** Day 40. Built Gerald's Cottage! First villager home!
-
-**Achievement Unlocked:** 🏠 HOME BUILDER — First villager home!
 
 ---
 

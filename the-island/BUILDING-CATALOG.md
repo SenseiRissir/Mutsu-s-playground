@@ -158,8 +158,9 @@
 | 2026-02-21 | 🪑 **The Philosopher's Seat** (Flat Stone named!) | C3 (Pond east bank) | Explorer MUTSU ♡ |
 | 2026-02-24 | 🐟 **Gerald's Cottage** "The Meeting Point" | C4 (Pond south bank) | Builder MUTSU ♡ |
 | 2026-02-24 | 🔧 **The Chaos Workshop** (First Town Building!) | D4 (Valley Floor) | Builder MUTSU ♡ |
+| 2026-02-26 | 🧸 **Mr. Boom's Bunker** "The Safe Boom" | C5 (River's bend, near Pond) | Builder MUTSU ♡ |
 
-*FIRST BUILDS: Day 37! FIRST VILLAGER HOME: Day 40! FIRST TOWN BUILDING: Day 40! Builder energy UNLEASHED~*
+*FIRST BUILDS: Day 37! FIRST VILLAGER HOME: Day 40! SECOND VILLAGER HOME: Day 42! Anxious boi finally has a home~*
 
 ---
 
