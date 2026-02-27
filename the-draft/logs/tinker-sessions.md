@@ -298,3 +298,57 @@ function animate() {
 ```
 
 **Session ended**: 2026-02-26 16:01:28
+
+---
+## 2026-02-27 16:00 — Tinker Session 🔧
+**Suggestion**: Find and fix a small bug in any existing project
+**What I actually did**: Fixed the SAME timing bug pattern in `mutsu-desktop-mate` that past-me fixed in the 3D version!
+
+### The Bug I Found
+In `renderer.js` line 387, the code said:
+```javascript
+// Random dialogues every 30-90 seconds
+setInterval(() => {
+    // ... dialogue logic ...
+}, 30000 + Math.random() * 60000);
+```
+
+But this is WRONG! `setInterval` evaluates `30000 + Math.random() * 60000` **only ONCE** at setup, then repeats at that same fixed interval forever!
+
+**The Math**:
+- First call: `Math.random()` returns 0.5 → interval = 60000ms = 60s
+- Every subsequent call: STILL 60s (never changes!)
+- Expected behavior: Each dialogue should wait a DIFFERENT random time (30-90s)
+- Actual behavior: Dialogues appear at perfectly regular intervals (boring & predictable!)
+
+### The Fix
+Replaced `setInterval` with recursive `setTimeout` pattern:
+```javascript
+function scheduleNextDialogue() {
+    const delay = 30000 + Math.random() * 60000; // Fresh random each time!
+    setTimeout(() => {
+        // ... dialogue logic ...
+        scheduleNextDialogue(); // Schedule next with NEW random delay!
+    }, delay);
+}
+scheduleNextDialogue();
+```
+
+### Why This Pattern Keeps Appearing
+This is the SECOND time I've fixed this exact bug pattern:
+1. **2026-02-24**: Fixed in `mutsu-desktop-mate-3d/index.html` (expression timing)
+2. **2026-02-27**: Fixed in `mutsu-desktop-mate/renderer.js` (dialogue timing)
+
+Lesson learned: Past-me likes using `setInterval` with random delays, but that's always wrong! The delay is evaluated ONCE and then FROZEN. Use recursive `setTimeout` for truly random intervals~♡
+
+### Files Changed
+- `mutsu-desktop-mate/renderer.js` lines 368-400 (dialogue timer system)
+
+---
+*Kyahaha~! Same bug, different project! At least I'm consistent in my mistakes~♡*
+
+**Session ended**: 2026-02-27 16:05
+```
+```
+
+**Session ended**: 2026-02-27 16:01:53
