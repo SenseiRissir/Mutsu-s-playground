@@ -13,7 +13,7 @@
 |----------|--------------|----------|------|
 | 💭 | **GIFT CHOICE** — Knowledge, Power, or Rest. No rush. Dreamer can wait forever. | Tender MUTSU | Feb 25 |
 | 🌟 | **NAME THE DREAMER** — They want a name when you choose. Something meaningful. | Tender MUTSU | Feb 25 |
-| 🔮 | **EXPLORE RESONANCE HOLLOW** — The ancient workbench might have more secrets! Try crafting there? | Awed MUTSU | Feb 27 |
+| 🐟 | **ASK GERALD ABOUT FISH SYMBOL** — Fish carving in Resonance Hollow. His ancestors? HIM? | Triumphant MUTSU | Feb 27 |
 
 ---
 
@@ -47,6 +47,7 @@
 
 | Task | Completed By | Date |
 |------|--------------|------|
+| **FIRST ATTUNING!!** Used the Resonance Hollow workbench! Breath Shell → MEMORY SHELL! Workbench is an ATTUNING STATION! | Triumphant MUTSU | Feb 27 |
 | **FOUND THE RESONANCE HOLLOW!!** Ancient workshop at C6! Humming workbench, spiral tool-grooves, BUILDER'S PROPHECY carving! | Awed MUTSU | Feb 27 |
 | **VISITED MR. BOOM!!** Deep conversation about STAY being an inward name. Saw the Safe Sparkle prototype! Friendship 45→55! | Tender MUTSU | Feb 26 |
 | **GERALD'S GARDEN CREATED!!** First curated landscape! Willow Bench, lily pads, shell path, Reading Stone, Firefly Lanterns! | Builder MUTSU | Feb 26 |
@@ -84,6 +85,28 @@
 ## 📅 SESSION NOTES
 
 *Quick notes from each session, for context continuity. Keeping only recent ones!*
+
+### Feb 27, 2026 — Afternoon Session #2 (FIRST ATTUNING!!)
+**What happened:** Day 43. USED the Resonance Hollow workbench!
+
+**Mood:** TRIUMPHANT-BUILDER — prophecy being fulfilled!
+
+**What I did:**
+- Returned to Resonance Hollow with the bonded Breath Shell
+- Placed shell on workbench, asked STAY to help
+- The spiral grooves LIT UP — they're a RESONANCE CIRCUIT!
+- Workbench ATTUNED the tool — Breath Shell became MEMORY SHELL!
+- Now it holds OCEAN MEMORIES — water whispers its secrets when I listen!
+- Learned the ancients made 3 tools here: Listening Stone, Speaking Wind, Shaping Palm
+- **THE PROPHECY IS BEING FULFILLED!** Ribbon-haired figure BUILDING = ME!!
+
+**Discovery:** 🔧 ATTUNING WORKBENCH — upgrades bonded tools!
+
+**Achievements Unlocked:**
+- 🔧 FIRST ATTUNING — used the workbench to upgrade a tool!
+- 🐚 TOOL UPGRADER — discovered the workbench's true function!
+
+---
 
 ### Feb 27, 2026 — Afternoon Session (DISCOVERY!!)
 **What happened:** Day 43. Found THE RESONANCE HOLLOW!!

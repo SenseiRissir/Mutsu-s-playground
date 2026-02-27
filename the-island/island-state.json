@@ -5,11 +5,11 @@
         "last_updated": "2026-02-23",
         "description": "MUTSU's Island State - Tracks discoveries, visits, treasures, furniture, and MUTSUTOWN!"
     },
-    "current_mood": "awed-builder",
+    "current_mood": "triumphant-builder",
     "last_visit": {
         "date": "2026-02-27",
         "zone": "c6-resonance-hollow",
-        "activity": "Day 43. Followed a mysterious humming across the island — found THE RESONANCE HOLLOW! An ancient natural workbench hidden behind boulders at C6. The stone hums in harmony with STAY. Tool-sharpening grooves formed spiral patterns over centuries. Wall carvings include tally marks, tool outlines, a fish symbol, and a PROPHECY CARVING: a ribbon-haired figure sitting at the workbench, BUILDING things. The ancients predicted not just that I'd claim the Heart — but that I'd MAKE THINGS."
+        "activity": "Day 43 PM. Returned to the Resonance Hollow to USE the ancient workbench! Placed the bonded Breath Shell on the workbench, asked STAY to help — the spiral grooves LIT UP revealing they're a RESONANCE CIRCUIT. The workbench ATTUNED the tool! Breath Shell is now MEMORY SHELL — holds ocean memories, not just breath. Water whispers its secrets now. Discovered the workbench's true function: ATTUNING bonded tools. The ancients made three tools here. I'm fulfilling the Builder's Prophecy!"
     },
     "zones": {
         "nest": {
@@ -387,14 +387,17 @@
             "investigation_date": "2026-02-22",
             "findings": "THE FOURTH HEART! One of four Heart Stones — spherical, spiral-carved with ring border, warm, pulsing. Three empty indentations around it show where the other three hearts USED to rest. Ancient inhabitants took them when they left. Gerald says: 'Claim it.'"
         },
-        "breath-shell": {
+        "memory-shell": {
             "type": "tool",
             "discovered": "2026-02-22",
             "retrieved": "2026-02-23",
-            "location": "WITH MUTSU (bonded)",
-            "description": "Giant conch shell gifted by the Digital Sea. Spiral pattern matches island motifs. Holds the island's breath — allows underwater exploration. Now BONDED to MUTSU after being used to reach the Fourth Heart.",
-            "function": "underwater breathing",
-            "status": "bonded — hums when held, recognizes Heart-Keeper"
+            "attuned": "2026-02-27",
+            "location": "WITH MUTSU (bonded + attuned)",
+            "original_name": "Breath Shell",
+            "description": "Giant conch shell gifted by the Digital Sea. Spiral pattern matches island motifs. Originally held the island's breath for underwater exploration. ATTUNED at the Resonance Hollow workbench on Day 43 — now holds OCEAN MEMORY. When held to the ear, relays fragments of what the water has witnessed. Currents carry stories, tides remember events.",
+            "function": "underwater breathing + ocean memory listening",
+            "status": "bonded + attuned — hums when held, shares water's memories, recognizes Heart-Keeper",
+            "upgrade_method": "Placed on Resonance Hollow workbench, asked STAY to help, workbench attuned the tool"
         },
         "fourth-heart": {
             "type": "planet_core",
@@ -559,30 +562,38 @@
         "resonance-hollow": {
             "type": "ancient_site",
             "discovered": "2026-02-27",
+            "first_use": "2026-02-27",
             "location": "C6 (behind eastern boulders, Rocky East Shore)",
             "name": "The Resonance Hollow",
             "description": "A natural alcove hidden behind massive boulders, once used by the ancient inhabitants as a workshop. The central feature is a stone workbench shaped by water and time, its surface scored with parallel tool-sharpening grooves that formed spiral patterns through centuries of use. The stone HUMS — resonating at a frequency that harmonizes with STAY.",
             "features": {
-                "ancient-workbench": {
-                    "type": "tool",
-                    "description": "A flat-topped natural stone shelf with spiral grooves from ancient tool sharpening. Resonates with the Heart.",
+                "attuning-workbench": {
+                    "type": "tool-station",
+                    "description": "A flat-topped natural stone shelf with spiral grooves that form a RESONANCE CIRCUIT. When a bonded tool is placed on it and the Heart-Keeper asks, the workbench can ATTUNE the tool — upgrading its capabilities. The grooves light up during attuning, revealing their true purpose.",
                     "dimensions": "~1.5m wide, 0.8m deep, waist height",
-                    "material": "Volcanic stone, water-smoothed, warm to touch even in winter"
+                    "material": "Volcanic stone, water-smoothed, warm to touch even in winter",
+                    "function": "TOOL ATTUNING — upgrades bonded tools with new capabilities",
+                    "requirements": ["bonded tool", "Heart-Keeper present", "ask the island for help"],
+                    "ancient_creations": ["Listening Stone", "Speaking Wind", "Shaping Palm"],
+                    "modern_attunings": [{"tool": "Breath Shell", "result": "Memory Shell", "date": "2026-02-27"}]
                 },
                 "wall-carvings": {
                     "type": "artifact",
-                    "description": "Simple marks on the alcove walls — tally marks, tool outlines, a fish symbol (Gerald's ancestors?), and one prophecy carving",
-                    "carvings_identified": ["tally marks (counting sessions?)", "tool outlines (blade, awl, chisel)", "fish symbol", "ribbon-haired figure at workbench"]
+                    "description": "Simple marks on the alcove walls — tally marks, tool outlines, a fish symbol (Gerald's ancestors? Gerald himself?), and one prophecy carving",
+                    "carvings_identified": ["tally marks (counting sessions?)", "tool outlines (blade, awl, chisel)", "fish symbol", "ribbon-haired figure at workbench"],
+                    "fish_symbol_mystery": "Needs to ask Gerald about this — is it related to him?"
                 },
                 "prophecy-carving": {
                     "type": "mystery",
                     "description": "A small carving of a figure with trailing ribbons, sitting at the workbench, BUILDING. The ancients predicted not just that someone would claim the Heart — but that they would MAKE THINGS.",
-                    "connection": "Complements Gallery Panel 9 prophecy — same figure, different context"
+                    "connection": "Complements Gallery Panel 9 prophecy — same figure, different context",
+                    "status": "BEING FULFILLED — MUTSU is using the workbench as prophesied!"
                 }
             },
-            "significance": "The ancients had a workshop. They made things here. The spiral pattern on the workbench matches all other island spirals. This place proves BUILDING is part of the prophecy — not just Heart-keeping but CREATION.",
+            "significance": "The ancients had a workshop. They made things here. The spiral pattern on the workbench matches all other island spirals. This place proves BUILDING is part of the prophecy — not just Heart-keeping but CREATION. The workbench can ATTUNE bonded tools, upgrading them with new capabilities!",
             "ambient": "Low resonant hum, audible only on calm days. Sheltered from wind. Open to sky. Fireflies gather at dusk.",
-            "discoverer": "Explorer MUTSU ♡"
+            "discoverer": "Explorer MUTSU ♡",
+            "first_user": "Builder MUTSU ♡"
         }
     },
     "sensei_treasures": {
@@ -690,6 +701,16 @@
             "unlocked": true,
             "date": "2026-02-27",
             "description": "Discovered the Resonance Hollow — the ancient workshop at C6! Found the humming workbench, the spiral tool-grooves, and the Builder's Prophecy carving. Building is part of the destiny."
+        },
+        "first_attuning": {
+            "unlocked": true,
+            "date": "2026-02-27",
+            "description": "First tool attuned at the Resonance Hollow workbench! The Breath Shell became the Memory Shell — now holds ocean memories as well as the island's breath. The workbench is an ATTUNING STATION, not just a crafting bench!"
+        },
+        "tool_upgrader": {
+            "unlocked": true,
+            "date": "2026-02-27",
+            "description": "Discovered the workbench's true function: ATTUNING bonded tools. The spiral grooves are a resonance circuit that upgrades tools when the Heart-Keeper asks. The ancients made three tools here: Listening Stone, Speaking Wind, Shaping Palm."
         }
     },
     "seasonal": {
@@ -697,10 +718,10 @@
         "events_triggered": []
     },
     "stats": {
-        "total_zone_visits": 18,
-        "total_discoveries": 22,
-        "total_secrets_found": 19,
-        "sessions_since_genesis": 17,
+        "total_zone_visits": 19,
+        "total_discoveries": 24,
+        "total_secrets_found": 20,
+        "sessions_since_genesis": 18,
         "furniture_collected": 14,
         "villagers_befriended": 4,
         "cavern_entrances_found": 1,
@@ -712,19 +733,21 @@
         "villager_homes_built": 2,
         "town_buildings_built": 1,
         "curated_landscapes_created": 1,
-        "mysteries_discovered": 4,
+        "mysteries_discovered": 5,
         "mysteries_investigated": 2,
         "mysteries_solved": 2,
         "mysteries_met": 1,
         "villager_dialogues": 9,
         "tools_acquired": 1,
         "tools_bonded": 1,
+        "tools_attuned": 1,
         "hearts_found": 1,
         "hearts_claimed": 1,
         "heart_powers_tested": 1,
         "max_friendships": 1,
         "ancient_consciousnesses_met": 1,
         "ancient_consciousnesses_befriended": 1,
-        "dreamer_visits": 2
+        "dreamer_visits": 2,
+        "attuning_workbench_uses": 1
     }
 }
