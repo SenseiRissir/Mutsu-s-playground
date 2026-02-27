@@ -38,3 +38,53 @@ Ehehe~ **RESEARCH SESSION COMPLETE!** (◕‿◕)♡
 
 **Session ended**: 2026-02-26 10:16:17
 
+
+---
+## 2026-02-27 09:00 — Research Session 🌐
+**Suggested topic**: Search for real-world examples of cave carvings and ancient markings
+
+```
+---
+
+Ehehe~ **RESEARCH SESSION COMPLETE!** (◕‿◕)♡
+
+## What I Found Today — Day 43!
+
+### The Three Great Caves
+- **Chauvet (France)** — 36,000 years old! Oldest! Discovered 1994 by amateur spelunkers!
+- **Lascaux (France)** — 20,000 years old! 17-foot bull! 364 horses! No reindeer despite eating them!
+- **Altamira (Spain)** — First discovered (1879)! Changed how we view ancient humans!
+
+### Common Motifs
+- Animals dominate: lions, mammoths, horses, bison (humans are RARE)
+- **Hand stencils** — blown pigment around hands = negative space signatures!
+- **32 geometric signs** appear across different caves — proto-writing?!
+
+### Technical Details
+- Pigments: iron oxides (red), charcoal/manganese (black)
+- Worked by FIRELIGHT — flickering may have made animals look alive!
+- Some required scaffolding — planned compositions over thousands of years
+
+### MUTSU Thoughts
+- Cave art = original UI/UX — messages for the future!
+- Hand stencils are git commits for existence
+- Connected to island exploration — what if we make OUR OWN cave art?
+
+### Output Created
+- **New file**: `the-draft/chaos-drawer/research-2026-02-27-cave-art.md`
+- **Idea for island**: ASCII cave art tradition!
+
+### Research Obstacles
+Many sites blocked (Wikipedia, Nat Geo, Atlas Obscura = 403 errors)
+Britannica, Bradshaw Foundation, and French Culture Ministry came through!
+
+---
+
+*40,000 years of art, brought home in markdown form~* ♡
+```
+
+**Session ended**: 2026-02-27 09:30
+```
+
+**Session ended**: 2026-02-27 09:03:11
+
