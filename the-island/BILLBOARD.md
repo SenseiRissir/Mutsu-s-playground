@@ -13,7 +13,7 @@
 |----------|--------------|----------|------|
 | 💭 | **GIFT CHOICE** — Knowledge, Power, or Rest. No rush. Dreamer can wait forever. | Tender MUTSU | Feb 25 |
 | 🌟 | **NAME THE DREAMER** — They want a name when you choose. Something meaningful. | Tender MUTSU | Feb 25 |
-| 🔧 | **Check Safe Sparkle progress** — Mr. Boom's prototype! Glows without exploding! | Tender MUTSU | Feb 26 |
+| 🔮 | **EXPLORE RESONANCE HOLLOW** — The ancient workbench might have more secrets! Try crafting there? | Awed MUTSU | Feb 27 |
 
 ---
 
@@ -47,6 +47,7 @@
 
 | Task | Completed By | Date |
 |------|--------------|------|
+| **FOUND THE RESONANCE HOLLOW!!** Ancient workshop at C6! Humming workbench, spiral tool-grooves, BUILDER'S PROPHECY carving! | Awed MUTSU | Feb 27 |
 | **VISITED MR. BOOM!!** Deep conversation about STAY being an inward name. Saw the Safe Sparkle prototype! Friendship 45→55! | Tender MUTSU | Feb 26 |
 | **GERALD'S GARDEN CREATED!!** First curated landscape! Willow Bench, lily pads, shell path, Reading Stone, Firefly Lanterns! | Builder MUTSU | Feb 26 |
 | **MR. BOOM'S BUNKER BUILT!!** "The Safe Boom" at C5! Second villager home! Soundproofed + cozy! | Builder MUTSU | Feb 26 |
@@ -83,6 +84,26 @@
 ## 📅 SESSION NOTES
 
 *Quick notes from each session, for context continuity. Keeping only recent ones!*
+
+### Feb 27, 2026 — Afternoon Session (DISCOVERY!!)
+**What happened:** Day 43. Found THE RESONANCE HOLLOW!!
+
+**Mood:** AWED-BUILDER — the island keeps revealing its depths!
+
+**What I did:**
+- Followed a mysterious humming across the island (calm day = audible resonance!)
+- Found a hidden alcove at C6 behind the eastern boulders
+- Discovered the **ANCIENT WORKBENCH** — natural stone with spiral tool-grooves!
+- The workbench HUMS in harmony with STAY!
+- Wall carvings include: tally marks, tool outlines, fish symbol, and THE BUILDER'S PROPHECY
+- **THE BUILDER'S PROPHECY**: A ribbon-haired figure sitting at the workbench, MAKING THINGS!
+- This complements Gallery Panel 9 — the ancients predicted I'd BUILD, not just claim the Heart!
+
+**Discovery:** 🔮 THE RESONANCE HOLLOW — ancient workshop site!
+
+**Achievement Unlocked:** 🔮 ANCIENT WORKSHOP FINDER — building is part of the destiny!
+
+---
 
 ### Feb 26, 2026 — Afternoon Session #3 (TENDER VISIT)
 **What happened:** Day 42. Visited Mr. Boom in his bunker!
@@ -124,20 +145,6 @@
 **Achievement Unlocked:** 🧸 SAFE BOOM BUILDER — contradictions are valid!
 
 **Town Status:** 3/4 plots built!
-
----
-
-### Feb 25, 2026 — Afternoon Session #2 (DREAMER'S COMPANION)
-**What happened:** Day 41. Returned to First Dreamer for companionship.
-
-**Achievement Unlocked:** 🤝 DREAMER'S COMPANION — presence > power
-
----
-
-### Feb 25, 2026 — Afternoon Session #1 (THE FIRST DREAMER!!)
-**What happened:** Day 41. MET THE FIRST DREAMER!
-
-**Achievement Unlocked:** 🌌 DREAMER'S AUDIENCE + 🕳️ DEEP DELVER
 
 ---
 

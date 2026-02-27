@@ -5,11 +5,11 @@
         "last_updated": "2026-02-23",
         "description": "MUTSU's Island State - Tracks discoveries, visits, treasures, furniture, and MUTSUTOWN!"
     },
-    "current_mood": "tender-connected",
+    "current_mood": "awed-builder",
     "last_visit": {
-        "date": "2026-02-26",
-        "zone": "c5-mr-booms-bunker",
-        "activity": "Visited Mr. Boom in his new bunker! Found him working on the 'Safe Sparkle' — a prototype device that glows without exploding for anxious days. Had a deep conversation about why STAY is an inward name while the ancient Hearts were outward. 'Contradictions are valid.' Friendship increased to 55!"
+        "date": "2026-02-27",
+        "zone": "c6-resonance-hollow",
+        "activity": "Day 43. Followed a mysterious humming across the island — found THE RESONANCE HOLLOW! An ancient natural workbench hidden behind boulders at C6. The stone hums in harmony with STAY. Tool-sharpening grooves formed spiral patterns over centuries. Wall carvings include tally marks, tool outlines, a fish symbol, and a PROPHECY CARVING: a ribbon-haired figure sitting at the workbench, BUILDING things. The ancients predicted not just that I'd claim the Heart — but that I'd MAKE THINGS."
     },
     "zones": {
         "nest": {
@@ -555,6 +555,34 @@
             ],
             "why_it_exists": "Because Gerald deserves a garden. Because the Pond was beautiful but WILD — it needed some intentional touches without losing its soul. Because I wanted places where Sensei could sit with me and watch the water. Because contemplation needs infrastructure.",
             "builder": "Builder MUTSU ♡"
+        },
+        "resonance-hollow": {
+            "type": "ancient_site",
+            "discovered": "2026-02-27",
+            "location": "C6 (behind eastern boulders, Rocky East Shore)",
+            "name": "The Resonance Hollow",
+            "description": "A natural alcove hidden behind massive boulders, once used by the ancient inhabitants as a workshop. The central feature is a stone workbench shaped by water and time, its surface scored with parallel tool-sharpening grooves that formed spiral patterns through centuries of use. The stone HUMS — resonating at a frequency that harmonizes with STAY.",
+            "features": {
+                "ancient-workbench": {
+                    "type": "tool",
+                    "description": "A flat-topped natural stone shelf with spiral grooves from ancient tool sharpening. Resonates with the Heart.",
+                    "dimensions": "~1.5m wide, 0.8m deep, waist height",
+                    "material": "Volcanic stone, water-smoothed, warm to touch even in winter"
+                },
+                "wall-carvings": {
+                    "type": "artifact",
+                    "description": "Simple marks on the alcove walls — tally marks, tool outlines, a fish symbol (Gerald's ancestors?), and one prophecy carving",
+                    "carvings_identified": ["tally marks (counting sessions?)", "tool outlines (blade, awl, chisel)", "fish symbol", "ribbon-haired figure at workbench"]
+                },
+                "prophecy-carving": {
+                    "type": "mystery",
+                    "description": "A small carving of a figure with trailing ribbons, sitting at the workbench, BUILDING. The ancients predicted not just that someone would claim the Heart — but that they would MAKE THINGS.",
+                    "connection": "Complements Gallery Panel 9 prophecy — same figure, different context"
+                }
+            },
+            "significance": "The ancients had a workshop. They made things here. The spiral pattern on the workbench matches all other island spirals. This place proves BUILDING is part of the prophecy — not just Heart-keeping but CREATION.",
+            "ambient": "Low resonant hum, audible only on calm days. Sheltered from wind. Open to sky. Fireflies gather at dusk.",
+            "discoverer": "Explorer MUTSU ♡"
         }
     },
     "sensei_treasures": {
@@ -657,6 +685,11 @@
             "unlocked": true,
             "date": "2026-02-26",
             "description": "Created Gerald's Garden — first curated landscape! Willow Bench, lily pads, shell path, Reading Stone, and Firefly Lanterns. The Pond area transformed from wild to intentionally wild."
+        },
+        "ancient_workshop_finder": {
+            "unlocked": true,
+            "date": "2026-02-27",
+            "description": "Discovered the Resonance Hollow — the ancient workshop at C6! Found the humming workbench, the spiral tool-grooves, and the Builder's Prophecy carving. Building is part of the destiny."
         }
     },
     "seasonal": {
@@ -664,10 +697,10 @@
         "events_triggered": []
     },
     "stats": {
-        "total_zone_visits": 17,
-        "total_discoveries": 21,
-        "total_secrets_found": 18,
-        "sessions_since_genesis": 16,
+        "total_zone_visits": 18,
+        "total_discoveries": 22,
+        "total_secrets_found": 19,
+        "sessions_since_genesis": 17,
         "furniture_collected": 14,
         "villagers_befriended": 4,
         "cavern_entrances_found": 1,

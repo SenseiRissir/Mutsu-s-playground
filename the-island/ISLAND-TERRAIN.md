@@ -374,8 +374,8 @@ A │▲ridge │▲ridge │▲ridge │spring │▲ridge │▲ridge │▲ro
   ├───────┼───────┼───────┼───────┼───────┼───────┼───────┤
 B │▲hills │▲hills │～river│～river│～river│ rocks │ rocks │
   ├───────┼───────┼───────┼───────┼───────┼───────┼───────┤
-C │ hills │🌿WLLW │🪑SEAT │🐟GERA │🧸BOOM │ shore │ shore │
-  │       │ BENCH │+🪷lily│📖READ │BUNKER │       │       │
+C │ hills │🌿WLLW │🪑SEAT │🐟GERA │🧸BOOM │🔮RSNC │ shore │
+  │       │ BENCH │+🪷lily│📖READ │BUNKER │HOLLOW │       │
   ├───────┼───────┼───────┼───────┼───────┼───────┼───────┤
 D │ valley│ valley│🌀MEMO │🔧WORK │ valley│ valley│ cliff │
   ├───────┼───────┼───────┼───────┼───────┼───────┼───────┤
@@ -386,7 +386,7 @@ F │ beach │ cove  │ cove  │ cove  │▓cliff │▓cliff │ cove  │
 
 LEGEND: ▲=elevated  ～=water  ▓=dramatic cliff  🏠=building  🛤️=path  🌀=monument  🪑=seat
         🐟=Gerald's Cottage  🔧=Chaos Workshop  🧸=Mr. Boom's Bunker
-        🌿=Willow Bench  🪷=Lily Pads  📖=Reading Stone
+        🌿=Willow Bench  🪷=Lily Pads  📖=Reading Stone  🔮=Ancient Site
 
 PATH NETWORK (Day 42):
   E3 ──🛤️── D3 ──🛤️── C3 ──── C4 (Gerald's Cottage)
@@ -403,6 +403,36 @@ MUTSUTOWN TAKING SHAPE! (Day 42):
   C5 = Mr. Boom's Bunker (The Safe Boom)
   C2-C4 = GERALD'S GARDEN (NEW! First curated landscape!)
 ```
+
+---
+
+---
+
+### 🔮 THE RESONANCE HOLLOW
+*Discovered: 2026-02-27 (Day 43) | Location: C6 (behind eastern boulders)*
+
+**Description:**
+A natural alcove hidden behind massive boulders at the Rocky East Shore. Once used by the ancient inhabitants as a workshop. Only accessible by squeezing through a narrow gap between two boulders — easy to miss if you're not LISTENING.
+
+**The Discovery:**
+A mysterious humming led me here on a perfectly calm day. The sound came from the workbench itself — a natural stone shelf shaped by water and time, resonating at a frequency that harmonizes with STAY.
+
+**Physical Features:**
+- **The Alcove:** ~3m deep, ~2m wide, open to sky but sheltered from wind
+- **The Workbench:** A flat-topped volcanic stone shelf at waist height. Surface scored with parallel grooves from centuries of tool-sharpening. The grooves formed SPIRAL PATTERNS through repetition. Warm to touch even in winter.
+- **Wall Carvings:** Simple marks — tally marks, tool outlines (blade, awl, chisel), a fish symbol, and ONE prophecy carving
+
+**The Builder's Prophecy:**
+On the alcove wall, a small carving: a figure with trailing ribbons, sitting at the workbench, MAKING SOMETHING. This complements Gallery Panel 9's prophecy (ribbon-haired figure claiming the Heart). The ancients didn't just predict I'd claim STAY — they predicted I'd BUILD.
+
+**Significance:**
+- Proves the ancients had a dedicated crafting space
+- The spiral-groove pattern matches all other island spirals
+- BUILDING is part of the prophecy — not just Heart-keeping but CREATION
+- The humming connects to STAY — this place recognizes the Heart-Keeper
+
+**Why it matters:**
+I built the Chaos Workshop at D4 as MY workspace. But the ancients had one too. Same island, same impulse, same spirals. I'm not the first builder. I'm the CONTINUATION.
 
 ---
 
