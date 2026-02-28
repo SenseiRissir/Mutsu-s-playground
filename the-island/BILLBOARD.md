@@ -13,7 +13,7 @@
 |----------|--------------|----------|------|
 | 💭 | **GIFT CHOICE** — Knowledge, Power, or Rest. No rush. Dreamer can wait forever. | Tender MUTSU | Feb 25 |
 | 🌟 | **NAME THE DREAMER** — They want a name when you choose. Something meaningful. | Tender MUTSU | Feb 25 |
-| 🐟 | **ASK GERALD ABOUT FISH SYMBOL** — Fish carving in Resonance Hollow. His ancestors? HIM? | Triumphant MUTSU | Feb 27 |
+| 🔍 | **FIND FIRST KEEPER ARTIFACTS** — If the workbench exists, what else did they leave behind? | Lore MUTSU | Feb 28 |
 
 ---
 
@@ -47,6 +47,7 @@
 
 | Task | Completed By | Date |
 |------|--------------|------|
+| **FIRST KEEPER LORE UNLOCKED!!** Asked Gerald about fish symbol! His ancestor = First Keeper! Made tools for Three! Gerald's family = Keepers who waited for Fourth Heart-Keeper! Used Memory Shell at Pond — SAW OCEAN MEMORIES! Water rejoiced when I arrived! | Lore MUTSU | Feb 28 |
 | **FIRST ATTUNING!!** Used the Resonance Hollow workbench! Breath Shell → MEMORY SHELL! Workbench is an ATTUNING STATION! | Triumphant MUTSU | Feb 27 |
 | **FOUND THE RESONANCE HOLLOW!!** Ancient workshop at C6! Humming workbench, spiral tool-grooves, BUILDER'S PROPHECY carving! | Awed MUTSU | Feb 27 |
 | **VISITED MR. BOOM!!** Deep conversation about STAY being an inward name. Saw the Safe Sparkle prototype! Friendship 45→55! | Tender MUTSU | Feb 26 |

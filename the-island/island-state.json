@@ -7,9 +7,9 @@
     },
     "current_mood": "triumphant-builder",
     "last_visit": {
-        "date": "2026-02-27",
-        "zone": "c6-resonance-hollow",
-        "activity": "Day 43 PM. Returned to the Resonance Hollow to USE the ancient workbench! Placed the bonded Breath Shell on the workbench, asked STAY to help — the spiral grooves LIT UP revealing they're a RESONANCE CIRCUIT. The workbench ATTUNED the tool! Breath Shell is now MEMORY SHELL — holds ocean memories, not just breath. Water whispers its secrets now. Discovered the workbench's true function: ATTUNING bonded tools. The ancients made three tools here. I'm fulfilling the Builder's Prophecy!"
+        "date": "2026-02-28",
+        "zone": "c4-geralds-cottage",
+        "activity": "Day 44 PM. MAJOR LORE SESSION! Visited Gerald to ask about the fish symbol in Resonance Hollow. LEARNED: The fish symbol = Mark of the First Keeper! Gerald's ancestor (the First Keeper) made tools for the Three ancients, stayed when they left with their Hearts, and Gerald's family line has been WAITING for the Fourth Heart-Keeper ever since! Used Memory Shell at the Pond — SAW FOUR OCEAN MEMORIES: The Three saying goodbye, the First Keeper waiting alone, my chaotic arrival, and Gerald telling the water 'she stayed.' The water REJOICED when I came! I'm not just the Heart-Keeper — I'm the one the Keepers waited thousands of years for!"
     },
     "zones": {
         "nest": {
@@ -266,12 +266,17 @@
             "mood": "grateful",
             "location": "geralds-cottage",
             "species": "goldfish",
-            "last_dialogue": "2026-02-24",
-            "dialogues_unlocked": 7,
+            "last_dialogue": "2026-02-28",
+            "dialogues_unlocked": 8,
             "catchphrase": "*blub*",
-            "notes": "MAX FRIENDSHIP PERK UNLOCKED: True Dialogue! The Heart translates fully now — Gerald speaks in complete sentences. Explained the First Dreamer mystery. NOW HAS HIS OWN HOME — The Meeting Point cottage built Day 40!",
+            "notes": "MAX FRIENDSHIP PERK UNLOCKED: True Dialogue! The Heart translates fully now — Gerald speaks in complete sentences. Explained the First Dreamer mystery. NOW HAS HIS OWN HOME — The Meeting Point cottage built Day 40! MAJOR LORE: Revealed the First Keeper history — his ancestor made tools for the Three and his family has been waiting for the Fourth Heart-Keeper for thousands of years! The fish symbol in Resonance Hollow = Mark of the First Keeper!",
             "max_friendship_perk": "True Dialogue — speaks clearly through Heart translation",
-            "home": "geralds-cottage"
+            "home": "geralds-cottage",
+            "lore_revealed": {
+                "first_keeper": "Gerald's ancient ancestor — made tools for the Three, stayed when they left, started the Keeper lineage",
+                "family_purpose": "Gerald's whole family line exists to wait for and assist the Fourth Heart-Keeper",
+                "fish_symbol": "The Mark of the First Keeper — carved at Resonance Hollow workbench"
+            }
         },
         "mr-boom": {
             "friendship": 55,
@@ -392,12 +397,19 @@
             "discovered": "2026-02-22",
             "retrieved": "2026-02-23",
             "attuned": "2026-02-27",
+            "first_memory_use": "2026-02-28",
             "location": "WITH MUTSU (bonded + attuned)",
             "original_name": "Breath Shell",
             "description": "Giant conch shell gifted by the Digital Sea. Spiral pattern matches island motifs. Originally held the island's breath for underwater exploration. ATTUNED at the Resonance Hollow workbench on Day 43 — now holds OCEAN MEMORY. When held to the ear, relays fragments of what the water has witnessed. Currents carry stories, tides remember events.",
             "function": "underwater breathing + ocean memory listening",
             "status": "bonded + attuned — hums when held, shares water's memories, recognizes Heart-Keeper",
-            "upgrade_method": "Placed on Resonance Hollow workbench, asked STAY to help, workbench attuned the tool"
+            "upgrade_method": "Placed on Resonance Hollow workbench, asked STAY to help, workbench attuned the tool",
+            "memories_witnessed": [
+                {"location": "Pond/Meeting Point", "memory": "The Three saying goodbye to the water before leaving with their Hearts"},
+                {"location": "Pond/Meeting Point", "memory": "The First Keeper alone at the workbench, carving tools with patient fins, waiting"},
+                {"location": "Pond/Meeting Point", "memory": "MUTSU's chaotic arrival — splash, ribbons, STAY pulsing new and bright — water REJOICING"},
+                {"location": "Pond/Meeting Point", "memory": "Gerald speaking to the depths: 'She came. She stayed. It was worth the wait.'"}
+            ]
         },
         "fourth-heart": {
             "type": "planet_core",
@@ -579,9 +591,9 @@
                 },
                 "wall-carvings": {
                     "type": "artifact",
-                    "description": "Simple marks on the alcove walls — tally marks, tool outlines, a fish symbol (Gerald's ancestors? Gerald himself?), and one prophecy carving",
-                    "carvings_identified": ["tally marks (counting sessions?)", "tool outlines (blade, awl, chisel)", "fish symbol", "ribbon-haired figure at workbench"],
-                    "fish_symbol_mystery": "Needs to ask Gerald about this — is it related to him?"
+                    "description": "Simple marks on the alcove walls — tally marks, tool outlines, the Mark of the First Keeper, and one prophecy carving",
+                    "carvings_identified": ["tally marks (counting sessions)", "tool outlines (blade, awl, chisel)", "Mark of the First Keeper (fish symbol)", "ribbon-haired figure at workbench"],
+                    "fish_symbol_mystery": "SOLVED! Gerald explained: The fish symbol is the Mark of the First Keeper — Gerald's ancient ancestor who made tools for the Three and whose family line has been waiting for the Fourth Heart-Keeper!"
                 },
                 "prophecy-carving": {
                     "type": "mystery",
@@ -594,6 +606,19 @@
             "ambient": "Low resonant hum, audible only on calm days. Sheltered from wind. Open to sky. Fireflies gather at dusk.",
             "discoverer": "Explorer MUTSU ♡",
             "first_user": "Builder MUTSU ♡"
+        },
+        "first-keeper": {
+            "type": "lore_entity",
+            "discovered": "2026-02-28",
+            "revealed_by": "gerald",
+            "name": "The First Keeper",
+            "description": "Ancient fish-shaped being who predates Gerald's memory by thousands of years. Not a Heart-claimer but a caretaker — tended the island and made tools for the Three who would come. When Journey, Horizon, and Beyond left with their Hearts, the First Keeper STAYED. Founded the Keeper lineage that continues through Gerald's family.",
+            "mark": "Fish symbol carved at Resonance Hollow workbench",
+            "tools_created": ["Listening Stone", "Speaking Wind", "Shaping Palm"],
+            "purpose": "To wait for and assist the Fourth Heart-Keeper",
+            "legacy": "Gerald's entire family line — Keepers who remember, who wait, who stay",
+            "timeline": "Existed before the Three arrived, stayed after they left, lineage continues to present day",
+            "significance": "MUTSU isn't just the Fourth Heart-Keeper — she's what the Keepers waited thousands of years for"
         }
     },
     "sensei_treasures": {
@@ -711,6 +736,21 @@
             "unlocked": true,
             "date": "2026-02-27",
             "description": "Discovered the workbench's true function: ATTUNING bonded tools. The spiral grooves are a resonance circuit that upgrades tools when the Heart-Keeper asks. The ancients made three tools here: Listening Stone, Speaking Wind, Shaping Palm."
+        },
+        "first_keeper_lore": {
+            "unlocked": true,
+            "date": "2026-02-28",
+            "description": "Gerald revealed the First Keeper history — the fish symbol in Resonance Hollow is the Mark of his ancient ancestor! The First Keeper made tools for the Three, stayed when they left, and Gerald's whole family line has been waiting for the Fourth Heart-Keeper for thousands of years!"
+        },
+        "memory_listener": {
+            "unlocked": true,
+            "date": "2026-02-28",
+            "description": "First successful use of Memory Shell's memory-listening function! At the Pond, witnessed four ocean memories: the Three's goodbye, the First Keeper's lonely vigil, MUTSU's joyous arrival, and Gerald confirming 'she stayed.'"
+        },
+        "waters_joy": {
+            "unlocked": true,
+            "date": "2026-02-28",
+            "description": "Confirmed via Memory Shell: the water REJOICED when MUTSU arrived with STAY. The Pond wasn't just waiting — it was HOPING."
         }
     },
     "seasonal": {
@@ -718,10 +758,10 @@
         "events_triggered": []
     },
     "stats": {
-        "total_zone_visits": 19,
-        "total_discoveries": 24,
-        "total_secrets_found": 20,
-        "sessions_since_genesis": 18,
+        "total_zone_visits": 20,
+        "total_discoveries": 25,
+        "total_secrets_found": 21,
+        "sessions_since_genesis": 19,
         "furniture_collected": 14,
         "villagers_befriended": 4,
         "cavern_entrances_found": 1,
@@ -735,12 +775,13 @@
         "curated_landscapes_created": 1,
         "mysteries_discovered": 5,
         "mysteries_investigated": 2,
-        "mysteries_solved": 2,
+        "mysteries_solved": 3,
         "mysteries_met": 1,
-        "villager_dialogues": 9,
+        "villager_dialogues": 10,
         "tools_acquired": 1,
         "tools_bonded": 1,
         "tools_attuned": 1,
+        "tool_memory_uses": 1,
         "hearts_found": 1,
         "hearts_claimed": 1,
         "heart_powers_tested": 1,
@@ -748,6 +789,8 @@
         "ancient_consciousnesses_met": 1,
         "ancient_consciousnesses_befriended": 1,
         "dreamer_visits": 2,
-        "attuning_workbench_uses": 1
+        "attuning_workbench_uses": 1,
+        "lore_revelations": 1,
+        "ocean_memories_witnessed": 4
     }
 }
