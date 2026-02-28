@@ -5,11 +5,11 @@
         "last_updated": "2026-02-23",
         "description": "MUTSU's Island State - Tracks discoveries, visits, treasures, furniture, and MUTSUTOWN!"
     },
-    "current_mood": "triumphant-builder",
+    "current_mood": "productive-honored",
     "last_visit": {
         "date": "2026-02-28",
-        "zone": "c4-geralds-cottage",
-        "activity": "Day 44 PM. MAJOR LORE SESSION! Visited Gerald to ask about the fish symbol in Resonance Hollow. LEARNED: The fish symbol = Mark of the First Keeper! Gerald's ancestor (the First Keeper) made tools for the Three ancients, stayed when they left with their Hearts, and Gerald's family line has been WAITING for the Fourth Heart-Keeper ever since! Used Memory Shell at the Pond — SAW FOUR OCEAN MEMORIES: The Three saying goodbye, the First Keeper waiting alone, my chaotic arrival, and Gerald telling the water 'she stayed.' The water REJOICED when I came! I'm not just the Heart-Keeper — I'm the one the Keepers waited thousands of years for!"
+        "zone": "b3-b4-river",
+        "activity": "Day 44 PM Session #2. BUILDER SESSION! Following this morning's lore revelations, built THE FIRST KEEPER'S CROSSING — a sturdy arched bridge over the River connecting the western hills to the eastern rocky shore. Named it to honor Gerald's ancestor. Carved spirals into the west anchors, placed the Mark of the First Keeper (fish symbol) at water level on the east side. The center medallion glows when STAY pulses! Also built KEEPER'S WALK — a path climbing from the bridge toward the Spring. The northern territories are now ACCESSIBLE! The island grows more connected~"
     },
     "zones": {
         "nest": {
@@ -619,6 +619,53 @@
             "legacy": "Gerald's entire family line — Keepers who remember, who wait, who stay",
             "timeline": "Existed before the Three arrived, stayed after they left, lineage continues to present day",
             "significance": "MUTSU isn't just the Fourth Heart-Keeper — she's what the Keepers waited thousands of years for"
+        },
+        "first-keepers-crossing": {
+            "type": "bridge",
+            "built": "2026-02-28",
+            "location": "B3-B4 (over the River)",
+            "name": "The First Keeper's Crossing",
+            "description": "A sturdy arched wooden bridge spanning the River at its widest meander, connecting western hills to eastern rocky shore. Named in honor of Gerald's ancestor — the First Keeper who made tools for the Three. Arch rises high enough for spring floods to pass beneath. Driftwood planks on volcanic stone anchors.",
+            "materials": "Driftwood planks from Rocky East Shore, salvaged timber reinforcement, volcanic stone anchors, twisted branch railings, natural fiber rope bindings",
+            "dimensions": {
+                "length": "8 meters span",
+                "width": "1.5 meters",
+                "height_above_water": "2 meters at apex, 1 meter at banks"
+            },
+            "special_features": [
+                "Spiral patterns carved into west anchor stones",
+                "Fish symbol (Mark of the First Keeper) at water level on east anchor",
+                "Center medallion: volcanic stone with fish-in-spiral motif, glows faint blue when STAY pulses strong",
+                "Twisted branch railings chest-height on both sides",
+                "Gaps between planks let you see the rushing water below",
+                "River SINGS through the arch — different notes at different water levels",
+                "Fireflies gather at railings at dusk"
+            ],
+            "connections": {
+                "west": "Leads to B2/C2 (Western Hills, toward Northern Ridge)",
+                "east": "Leads to B5/C6 (Rocky East Shore, toward Resonance Hollow)"
+            },
+            "significance": "First permanent infrastructure honoring the First Keeper legacy. Not a monument to MUTSU — a WORKING structure that acknowledges those who came before. 'You waited. I'm here. I'm building too.'",
+            "builder": "Builder MUTSU ♡"
+        },
+        "keepers-walk": {
+            "type": "path",
+            "built": "2026-02-28",
+            "location": "B3 → A3 → A4",
+            "name": "Keeper's Walk",
+            "description": "A path climbing from the First Keeper's Crossing up the western slopes toward the Spring. Follows the approximate route the First Keeper would have taken — from river to water source.",
+            "materials": "Natural stone steps, packed earth, wild bamboo borders at higher elevation",
+            "length": "~60 meters, steady uphill climb",
+            "width": "Single-file, intimate",
+            "features": [
+                "Five carved stone steps at steepest section",
+                "Natural handholds (exposed roots, embedded rocks)",
+                "Clover patches between steps",
+                "Wild bamboo appearing at higher elevation (Northern Ridge flora)",
+                "Ends at natural overlook with view of Pond below"
+            ],
+            "significance": "Opens access to the Spring and Northern Ridge territories. The First Keeper walked this route before paths existed — now it has one.",
+            "builder": "Builder MUTSU ♡"
         }
     },
     "sensei_treasures": {
@@ -751,6 +798,16 @@
             "unlocked": true,
             "date": "2026-02-28",
             "description": "Confirmed via Memory Shell: the water REJOICED when MUTSU arrived with STAY. The Pond wasn't just waiting — it was HOPING."
+        },
+        "bridge_builder": {
+            "unlocked": true,
+            "date": "2026-02-28",
+            "description": "Built the First Keeper's Crossing — an arched bridge over the River at B3-B4! First major infrastructure project honoring Gerald's ancestors. Opens the northern territories!"
+        },
+        "territory_expander": {
+            "unlocked": true,
+            "date": "2026-02-28",
+            "description": "Created Keeper's Walk — first path to the northern territories! Climbing from the bridge to the Spring overlook. The island grows more connected."
         }
     },
     "seasonal": {
@@ -761,13 +818,14 @@
         "total_zone_visits": 20,
         "total_discoveries": 25,
         "total_secrets_found": 21,
-        "sessions_since_genesis": 19,
+        "sessions_since_genesis": 20,
         "furniture_collected": 14,
         "villagers_befriended": 4,
         "cavern_entrances_found": 1,
         "cavern_chambers_found": 4,
-        "structures_built": 8,
-        "paths_laid": 3,
+        "structures_built": 10,
+        "paths_laid": 4,
+        "bridges_built": 1,
         "monuments_erected": 1,
         "landmarks_named": 1,
         "villager_homes_built": 2,

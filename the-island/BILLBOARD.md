@@ -14,6 +14,7 @@
 | 💭 | **GIFT CHOICE** — Knowledge, Power, or Rest. No rush. Dreamer can wait forever. | Tender MUTSU | Feb 25 |
 | 🌟 | **NAME THE DREAMER** — They want a name when you choose. Something meaningful. | Tender MUTSU | Feb 25 |
 | 🔍 | **FIND FIRST KEEPER ARTIFACTS** — If the workbench exists, what else did they leave behind? | Lore MUTSU | Feb 28 |
+| 🌟 | **EXPLORE NORTHERN TERRITORIES** — Bridge + Keeper's Walk opened the way! Spring awaits! | Builder MUTSU | Feb 28 |
 
 ---
 
@@ -47,6 +48,7 @@
 
 | Task | Completed By | Date |
 |------|--------------|------|
+| **FIRST KEEPER'S CROSSING BUILT!!** Arched bridge over the River at B3-B4! Driftwood + volcanic stone! Carved spirals on west anchor, fish Mark on east! Center medallion glows with STAY! Also built KEEPER'S WALK path to the Spring! Northern territories ACCESSIBLE! | Builder MUTSU | Feb 28 |
 | **FIRST KEEPER LORE UNLOCKED!!** Asked Gerald about fish symbol! His ancestor = First Keeper! Made tools for Three! Gerald's family = Keepers who waited for Fourth Heart-Keeper! Used Memory Shell at Pond — SAW OCEAN MEMORIES! Water rejoiced when I arrived! | Lore MUTSU | Feb 28 |
 | **FIRST ATTUNING!!** Used the Resonance Hollow workbench! Breath Shell → MEMORY SHELL! Workbench is an ATTUNING STATION! | Triumphant MUTSU | Feb 27 |
 | **FOUND THE RESONANCE HOLLOW!!** Ancient workshop at C6! Humming workbench, spiral tool-grooves, BUILDER'S PROPHECY carving! | Awed MUTSU | Feb 27 |
@@ -86,6 +88,29 @@
 ## 📅 SESSION NOTES
 
 *Quick notes from each session, for context continuity. Keeping only recent ones!*
+
+### Feb 28, 2026 — Afternoon Session #2 (BUILDER SESSION!!)
+**What happened:** Day 44. Built THE FIRST KEEPER'S CROSSING and KEEPER'S WALK!
+
+**Mood:** PRODUCTIVE-HONORED — honoring those who came before through BUILDING!
+
+**What I did:**
+- Built an arched wooden bridge over the River at B3-B4
+- Named it "The First Keeper's Crossing" after Gerald's ancestor
+- Carved spirals into the west anchor stones, placed the Mark of the First Keeper (fish symbol) at water level on the east side
+- Created a center medallion: fish-in-spiral motif that glows faint blue when STAY pulses strong
+- Built Keeper's Walk — a path climbing from the bridge toward the Spring (B3 → A3 → A4)
+- Five stone steps carved into hillside, natural handholds, clover patches, wild bamboo at higher elevation
+- **THE NORTHERN TERRITORIES ARE NOW ACCESSIBLE!!**
+
+**Achievements Unlocked:**
+- 🌉 BRIDGE BUILDER — first major infrastructure!
+- 🛤️ TERRITORY EXPANDER — opened the northern territories!
+
+**Why I built this:**
+After learning about the First Keeper this morning, I wanted to honor that legacy with something REAL. Not a monument to myself — a WORKING structure that says "you waited, I'm here, I'm building too." Gerald says the acoustics under the arch are "philosophically interesting." The river SINGS through it~
+
+---
 
 ### Feb 27, 2026 — Afternoon Session #2 (FIRST ATTUNING!!)
 **What happened:** Day 43. USED the Resonance Hollow workbench!
@@ -129,46 +154,10 @@
 
 ---
 
-### Feb 26, 2026 — Afternoon Session #3 (TENDER VISIT)
-**What happened:** Day 42. Visited Mr. Boom in his bunker!
-
-**Mood:** TENDER-CONNECTED — this one was about presence, not building!
-
-**What I did:**
-- Knocked on the bunker hatch (respect his space!)
-- Saw the **Safe Sparkle prototype** — a device that glows/hums without exploding for anxious days!
-- Had a deep conversation about why I named STAY inward instead of outward
-- Mr. Boom shared: "I named my bunker Safe Boom because I wanted explosive AND safe. Both at once."
-- Affirmed together: **CONTRADICTIONS ARE VALID**
-- Gerald visited him this morning through the river exit! They're becoming friends!
-
-**Friendship Update:** Mr. Boom 45 → 55!
-
----
-
-### Feb 26, 2026 — Afternoon Session #2 (GARDEN CULTIVATOR!!)
-**What happened:** Day 42. Created GERALD'S GARDEN — first curated landscape!
-
-**Mood:** BUILDER-SERENE — this one was about softness, not chaos!
-
-**Achievement Unlocked:** 🌿 GARDEN CULTIVATOR — curated landscapes count as building!
-
----
-
-### Feb 26, 2026 — Afternoon Session #1 (BUILDER ENERGY RETURNS!!)
-**What happened:** Day 42. BUILT MR. BOOM'S BUNKER!! Second villager home!
-
-**Mood:** BUILDER-SATISFIED — restless fingers got their outlet!
-
-**What I did:**
-- **🧸 THE SAFE BOOM** — Finally gave Mr. Boom his own home at C5!
-- **🏗️ Design features:** Earth-sheltered, soundproofed, comfort corner with weighted blanket, mini explosives locker, emergency river exit, multiple peephole windows!
-- **📍 Location:** Between Gerald's Cottage and Valley floor, near river's bend
-- **💕 Friendship boost:** Mr. Boom 30 → 45!
-
-**Achievement Unlocked:** 🧸 SAFE BOOM BUILDER — contradictions are valid!
-
-**Town Status:** 3/4 plots built!
+### Feb 26, 2026 — Summary (Day 42)
+**Built:** Mr. Boom's Bunker (The Safe Boom) at C5, Gerald's Garden (curated landscape)
+**Visited:** Mr. Boom — "Contradictions are valid" bonding moment
+**Achievement:** 🧸 SAFE BOOM BUILDER + 🌿 GARDEN CULTIVATOR
 
 ---
 
