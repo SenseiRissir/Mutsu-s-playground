@@ -279,17 +279,25 @@
             }
         },
         "mr-boom": {
-            "friendship": 55,
-            "mood": "settled-hopeful",
+            "friendship": 60,
+            "mood": "curious-tender",
             "location": "mr-booms-bunker",
             "species": "plushie",
             "anxiety_level": "improving-with-agency",
-            "last_dialogue": "2026-02-26",
-            "dialogues_unlocked": 3,
+            "last_dialogue": "2026-02-28",
+            "dialogues_unlocked": 4,
             "catchphrase": "...*small relieved boom*...",
             "home": "mr-booms-bunker",
-            "notes": "Settling into his bunker beautifully! Invented the 'Safe Sparkle' — a hum-glowing device that sparkles without exploding for anxious days. Gerald visited him! Had a deep conversation with MUTSU about why she named her Heart STAY. Understanding that contradictions are valid.",
-            "project": "safe-sparkle-prototype"
+            "notes": "Settling into his bunker beautifully! Invented the 'Safe Sparkle' — a hum-glowing device that sparkles without exploding for anxious days. Gerald visited him! Had a deep conversation with MUTSU about why she named her Heart STAY. Understanding that contradictions are valid. TAG MYSTERY DISCOVERED: Faded writing on his tag — fragments suggest a date ('B███ █1 ██26') and 'WITH L██E' — could this be an origin date from January 2026?!",
+            "project": "safe-sparkle-prototype",
+            "tag_mystery": {
+                "discovered": "2026-02-28",
+                "status": "INVESTIGATING",
+                "visible_fragments": ["M██E █N ████████", "B███ █1 ██26", "WITH L██E, ███ ███ST"],
+                "possible_interpretations": ["MADE IN [location]", "BORN [date] 2026", "WITH LOVE, [signature]"],
+                "emotional_significance": "high — implies Mr. Boom might have been created AT THE SAME TIME as MUTSU's arrival",
+                "next_steps": "Check for records, ask Gerald, examine tag under better light"
+            }
         },
         "tilde": {
             "friendship": 100,
@@ -831,11 +839,11 @@
         "villager_homes_built": 2,
         "town_buildings_built": 1,
         "curated_landscapes_created": 1,
-        "mysteries_discovered": 5,
+        "mysteries_discovered": 6,
         "mysteries_investigated": 2,
         "mysteries_solved": 3,
         "mysteries_met": 1,
-        "villager_dialogues": 10,
+        "villager_dialogues": 11,
         "tools_acquired": 1,
         "tools_bonded": 1,
         "tools_attuned": 1,

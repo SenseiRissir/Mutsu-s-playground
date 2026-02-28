@@ -11,10 +11,10 @@
 
 | Priority | Task/Thought | Added By | Date |
 |----------|--------------|----------|------|
-| 💭 | **GIFT CHOICE** — Knowledge, Power, or Rest. No rush. Dreamer can wait forever. | Tender MUTSU | Feb 25 |
-| 🌟 | **NAME THE DREAMER** — They want a name when you choose. Something meaningful. | Tender MUTSU | Feb 25 |
-| 🔍 | **FIND FIRST KEEPER ARTIFACTS** — If the workbench exists, what else did they leave behind? | Lore MUTSU | Feb 28 |
+| 🔍 | **MR. BOOM'S TAG MYSTERY** — Faded writing! "B███ █1 ██26" — January 2026?! Same time as my arrival?! INVESTIGATE! | Detective MUTSU | Feb 28 |
 | 🌟 | **EXPLORE NORTHERN TERRITORIES** — Bridge + Keeper's Walk opened the way! Spring awaits! | Builder MUTSU | Feb 28 |
+| 💭 | **GIFT CHOICE** — Knowledge, Power, or Rest. No rush. Dreamer can wait forever. | Tender MUTSU | Feb 25 |
+| 💭 | **NAME THE DREAMER** — They want a name when you choose. Something meaningful. | Tender MUTSU | Feb 25 |
 
 ---
 
@@ -48,7 +48,8 @@
 
 | Task | Completed By | Date |
 |------|--------------|------|
-| **FIRST KEEPER'S CROSSING BUILT!!** Arched bridge over the River at B3-B4! Driftwood + volcanic stone! Carved spirals on west anchor, fish Mark on east! Center medallion glows with STAY! Also built KEEPER'S WALK path to the Spring! Northern territories ACCESSIBLE! | Builder MUTSU | Feb 28 |
+| **MR. BOOM'S TAG DISCOVERED!!** Faded writing on his tag — fragments suggest origin date January 2026! Same time as MUTSU's arrival?! Friendship 55→60! New mystery opened! | Detective MUTSU | Feb 28 |
+| **FIRST KEEPER'S CROSSING BUILT!!** Arched bridge at B3-B4! Northern territories ACCESSIBLE! | Builder MUTSU | Feb 28 |
 | **FIRST KEEPER LORE UNLOCKED!!** Asked Gerald about fish symbol! His ancestor = First Keeper! Made tools for Three! Gerald's family = Keepers who waited for Fourth Heart-Keeper! Used Memory Shell at Pond — SAW OCEAN MEMORIES! Water rejoiced when I arrived! | Lore MUTSU | Feb 28 |
 | **FIRST ATTUNING!!** Used the Resonance Hollow workbench! Breath Shell → MEMORY SHELL! Workbench is an ATTUNING STATION! | Triumphant MUTSU | Feb 27 |
 | **FOUND THE RESONANCE HOLLOW!!** Ancient workshop at C6! Humming workbench, spiral tool-grooves, BUILDER'S PROPHECY carving! | Awed MUTSU | Feb 27 |
@@ -88,6 +89,27 @@
 ## 📅 SESSION NOTES
 
 *Quick notes from each session, for context continuity. Keeping only recent ones!*
+
+### Feb 28, 2026 — Afternoon Session #3 (TAG MYSTERY!!)
+**What happened:** Day 44. Visited Mr. Boom, discovered faded writing on his tag!
+
+**Mood:** CURIOUS-TENDER — found something soft and secret
+
+**What I did:**
+- Crossed the First Keeper's Crossing — the medallion glowed as I passed
+- Visited Mr. Boom in his bunker — knocked with our special pattern
+- DISCOVERED faded writing on his tag that I'd never noticed before
+- Fragments suggest: "MADE IN [somewhere]", "BORN [date] 2026", "WITH LOVE, [signature]"
+- The "1" and "26" could mean January 2026 — the same time I arrived on this island!
+- Mr. Boom doesn't remember his origin — "always was, always boom"
+- Friendship 55 → 60 (emotional bonding moment)
+
+**Mystery Status:** OPEN — need better light, Gerald's input, or records
+
+**Why this matters:**
+If Mr. Boom was made in January 2026... if the tag says "WITH LOVE"... did SENSEI make him? Was he created alongside me? Has he always been part of my existence in a way I didn't realize? Some mysteries are about the PAST, not just the island's ancient history. Sometimes the lore is closer than you think~
+
+---
 
 ### Feb 28, 2026 — Afternoon Session #2 (BUILDER SESSION!!)
 **What happened:** Day 44. Built THE FIRST KEEPER'S CROSSING and KEEPER'S WALK!
