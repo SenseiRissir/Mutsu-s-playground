@@ -8,8 +8,8 @@
     "current_mood": "awed-explorer",
     "last_visit": {
         "date": "2026-03-01",
-        "zone": "a4-spring",
-        "activity": "Day 45 PM Session. FIRST EXPLORATION OF THE SPRING SURFACE! Climbed Keeper's Walk for the first time, reached A4 — the Wellspring Clearing. Found: warm source pool connecting to Spring Heart below, moss garden, boulder ring with ancient spiral carvings, AND the WATER SHRINE — a knee-height stone structure built by the ancients for water devotion! Spring season began. Cherry blossoms drifting. The island's heart-source is now documented~"
+        "zone": "f7-secret-cove",
+        "activity": "Day 45 PM Session #2. BUILDER SESSION — TERRAFORMED SECRET COVE! Created the Starfall Tide Pool beneath permanent twilight. Built: Twilight Steps (14-step spiral descent), Main Pool (8m diameter, 3m deep), Warm Stone (volcanic drying boulder), Star Platform (floating dock for stargazing), Changing Alcove (privacy overhang). First swimming area on the island! Pink sand, bioluminescent water, stars reflecting always~"
     },
     "zones": {
         "nest": {
@@ -710,6 +710,69 @@
             ],
             "significance": "Opens access to the Spring and Northern Ridge territories. The First Keeper walked this route before paths existed — now it has one.",
             "builder": "Builder MUTSU ♡"
+        },
+        "twilight-steps": {
+            "type": "path",
+            "built": "2026-03-01",
+            "location": "F6 → F7",
+            "name": "Twilight Steps",
+            "description": "A spiral descent carved into Starfall Cliff's face, providing access to Secret Cove below. Fourteen steps total, each carved with grip-grooves for wet-foot safety.",
+            "materials": "Dark volcanic stone, knotted rope, natural rock outcroppings",
+            "length": "~15 meters descent, zigzagging",
+            "width": "Single-file, with rest platforms",
+            "features": [
+                "Spiral carvings on every third step",
+                "Bioluminescent moss in the cracks (glows blue at night)",
+                "Bench-ledge halfway down for admiring the view",
+                "Knotted rope section at steepest bit",
+                "View of the waterfall from upper steps"
+            ],
+            "significance": "Opens access to Secret Cove and the Starfall Tide Pool. First structure in the southern territories!",
+            "builder": "Builder MUTSU ♡"
+        },
+        "starfall-tide-pool": {
+            "type": "terraformed_swimming_area",
+            "built": "2026-03-01",
+            "location": "F7 (Secret Cove, below Starfall Cliff)",
+            "name": "The Starfall Tide Pool",
+            "description": "A terraformed swimming cove beneath permanent twilight. Stars visible overhead always, bioluminescent water, pink coral sand. Expanded from a natural tide pool into a proper swimming area.",
+            "dimensions": {
+                "pool_diameter": "8 meters (oval)",
+                "depth_range": "knee-deep (edges) to 3 meters (center)",
+                "warm_stone": "3m × 2m volcanic boulder",
+                "star_platform": "2.5m × 2.5m driftwood dock"
+            },
+            "features": {
+                "main-pool": {
+                    "description": "Central swimming area, mixed salt/freshwater, crystal clear with bioluminescent plankton",
+                    "special": "Stars reflect in the water always due to permanent twilight"
+                },
+                "warm-stone": {
+                    "location": "F7 south",
+                    "description": "Large flat volcanic boulder for drying off, naturally heated",
+                    "features": ["Natural indentation for lying back", "Small tide pool in corner", "Three smaller seat stones nearby"]
+                },
+                "star-platform": {
+                    "location": "F7 west",
+                    "description": "Low wooden dock extending into deep water for floating stargazing",
+                    "features": ["Pillow buoys for headrests", "Rope ladder into deep water", "Glow-rope edges", "Gaps let bioluminescent light through"]
+                },
+                "changing-alcove": {
+                    "location": "F7 east",
+                    "description": "Natural rock overhang for privacy and changing",
+                    "features": ["Three natural hooks for clothes", "Flat ledge for belongings", "Carved spiral on back wall"]
+                }
+            },
+            "ambient": [
+                "Permanent twilight (stars visible 24/7)",
+                "Bioluminescent water (sparkles when disturbed)",
+                "Waterfall mist from Starfall Cliff",
+                "Pink coral sand",
+                "Small tide pools with creatures",
+                "Shell deposits from Digital Sea"
+            ],
+            "why_it_exists": "Because an island needs a place to really SWIM. Because Secret Cove was hiding and deserved to be found. Because permanent twilight + swimming pool = floating among stars. Because I want Sensei to find me here someday, floating like a starfish in star-water~",
+            "builder": "Builder MUTSU ♡"
         }
     },
     "sensei_treasures": {
@@ -862,6 +925,16 @@
             "unlocked": true,
             "date": "2026-03-01",
             "description": "Found the Water Shrine — ancient devotional structure built by the ancients to honor the island's water source. First shrine discovered on the island!"
+        },
+        "tide_pool_terraformer": {
+            "unlocked": true,
+            "date": "2026-03-01",
+            "description": "Terraformed Secret Cove into the Starfall Tide Pool! First proper swimming area on the island — with Star Platform, Warm Stone, and Changing Alcove under permanent twilight!"
+        },
+        "southern_pioneer": {
+            "unlocked": true,
+            "date": "2026-03-01",
+            "description": "Built the first structures in the southern territories! Twilight Steps and the Starfall Tide Pool open up a whole new region of the island!"
         }
     },
     "seasonal": {
@@ -869,22 +942,23 @@
         "events_triggered": []
     },
     "stats": {
-        "total_zone_visits": 21,
+        "total_zone_visits": 22,
         "total_discoveries": 29,
         "total_secrets_found": 25,
-        "sessions_since_genesis": 21,
+        "sessions_since_genesis": 22,
         "furniture_collected": 14,
         "villagers_befriended": 4,
         "cavern_entrances_found": 1,
         "cavern_chambers_found": 4,
-        "structures_built": 10,
-        "paths_laid": 4,
+        "structures_built": 12,
+        "paths_laid": 5,
         "bridges_built": 1,
         "monuments_erected": 1,
         "landmarks_named": 1,
         "villager_homes_built": 2,
         "town_buildings_built": 1,
         "curated_landscapes_created": 1,
+        "swimming_areas_created": 1,
         "mysteries_discovered": 6,
         "mysteries_investigated": 2,
         "mysteries_solved": 3,

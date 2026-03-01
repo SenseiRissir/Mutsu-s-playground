@@ -510,7 +510,7 @@ A new path branching from the First Keeper's Crossing, climbing the western slop
 
 ---
 
-## 🗺️ UPDATED COORDINATE GRID (Day 44 — WITH BRIDGE!)
+## 🗺️ UPDATED COORDINATE GRID (Day 45 — WITH TIDE POOL!)
 
 ```
      1       2       3       4       5       6       7
@@ -528,16 +528,18 @@ D │ valley│ valley│🌀MEMO │🔧WORK │ valley│ valley│ cliff │
   ├───────┼───────┼───────┼───────┼───────┼───────┼───────┤
 E │ beach │🏠DRAFT│🛤️PATH │🏠DRAFT│▲hills │▲cliff │ cliff │
   ├───────┼───────┼───────┼───────┼───────┼───────┼───────┤
-F │ beach │ cove  │ cove  │ cove  │▓cliff │▓cliff │ cove  │
+F │ beach │ cove  │ cove  │ cove  │▓cliff │🌀STEP │🏊POOL │
+  │       │       │       │       │       │descent│STARS! │
   └───────┴───────┴───────┴───────┴───────┴───────┴───────┘
 
 LEGEND:
   ▲=elevated  ～=water  ▓=dramatic cliff  🏠=building  🛤️=path
-  🌀=monument  🪑=seat  🌉=BRIDGE  ⛩️=WELLSPRING CLEARING (NEW!)
+  🌀=monument/structure  🪑=seat  🌉=BRIDGE  ⛩️=WELLSPRING CLEARING
   🐟=Gerald's Cottage  🔧=Chaos Workshop  🧸=Mr. Boom's Bunker
   🌿=Willow Bench  🪷=Lily Pads  📖=Reading Stone  🔮=Ancient Site
+  🏊=THE STARFALL TIDE POOL (NEW!)
 
-PATH NETWORK (Day 44):
+PATH NETWORK (Day 45):
   E3 ──🛤️── D3 ──🛤️── C3 ──── C4 (Gerald's Cottage)
   Draft → Memorial → Philosopher's Seat → Gerald's place!
 
@@ -545,7 +547,7 @@ PATH NETWORK (Day 44):
   C3 ──🐚── C2 ──🐚── C4
   Philosopher's Seat → Willow Bench → Reading Stone → Gerald's
 
-  🌉 FIRST KEEPER'S CROSSING (NEW!):
+  🌉 FIRST KEEPER'S CROSSING:
   B2/C2 ──🛤️── B3 ══🌉══ B4 ──🛤️── B5/C6
   Western Hills → Bridge West → CROSSING → Bridge East → Rocky Shore
 
@@ -553,17 +555,180 @@ PATH NETWORK (Day 44):
   B3 ──🛤️── A3 ──🛤️── A4
   Bridge West → Hillside Steps → WELLSPRING CLEARING!
 
-  ⛩️ THE WELLSPRING CLEARING (Day 45 Discovery!):
+  ⛩️ THE WELLSPRING CLEARING:
   A4 — Surface of Spring Heart! Moss garden, source pool, boulder ring,
   AND the ancient WATER SHRINE! Where the River is born~
 
-MUTSUTOWN TAKING SHAPE! (Day 44):
+  🌀 TWILIGHT STEPS (NEW!):
+  F6 ──🌀── F7 (spiral carved descent to tide pool!)
+  Starfall Cliff base → THE STARFALL TIDE POOL!
+
+  🏊 THE STARFALL TIDE POOL (NEW! Day 45!):
+  F7 — Swimming cove in permanent twilight! Star Platform, Warm Stone,
+  Changing Alcove. Stars reflect in bioluminescent water~
+
+MUTSUTOWN & LANDMARKS (Day 45):
   D4 = Chaos Workshop
   C4 = Gerald's Cottage (The Meeting Point)
   C5 = Mr. Boom's Bunker (The Safe Boom)
   C2-C4 = Gerald's Garden
-  B3-B4 = FIRST KEEPER'S CROSSING (NEW!)
+  B3-B4 = First Keeper's Crossing
+  A4 = Wellspring Clearing + Water Shrine
+  F6-F7 = Twilight Steps + STARFALL TIDE POOL (NEW!)
 ```
+
+---
+
+### 🌊 THE STARFALL TIDE POOL
+*Built: 2026-03-01 (Day 45) | Location: F7 (Secret Cove, below Starfall Cliff)*
+
+**Description:**
+A terraformed swimming cove carved from the Secret Cove's natural geography. Positioned beneath Starfall Cliff's permanent twilight zone — here, stars are visible in the sky even at high noon, and bioluminescent plankton makes the water glow at all hours. Pink coral sand underfoot, warm despite the eternal dusk.
+
+**The Discovery & Vision:**
+Secret Cove was always there — pink sand, hidden access, mysterious. But it wasn't SWIMMABLE. The water was shallow, rocky, unpredictable. Today I terraformed it into a proper swimming area while preserving its wild soul. This is where you come to swim among stars.
+
+---
+
+#### 🌀 The Twilight Steps
+*Location: F6 → F7 (cliff descent)*
+
+The access path down to the pool. Carved into the cliff face in a gentle spiral (naturally~). Fourteen steps total — each wide enough for bare feet, each carved with small grip-grooves for wet-foot safety.
+
+**Physical Details:**
+- **Starting Point:** F6 (base of Starfall Cliff, near the waterfall)
+- **Length:** ~15 meters descent, zigzagging down the cliff face
+- **Step Material:** Dark volcanic stone, naturally rough for grip
+- **Width:** Single-file, with occasional wider "rest platforms"
+- **Handholds:** Natural rock outcroppings + one knotted rope section for the steepest bit
+- **Features:**
+  - Spiral carvings on every third step (echoing the island's motifs)
+  - Bioluminescent moss growing in the cracks — the steps glow faintly blue at night
+  - One bench-ledge halfway down for pausing to admire the view
+  - The waterfall from the river fork is visible from the upper steps
+
+---
+
+#### 🏊 The Main Pool
+*Location: F7 (center of Secret Cove)*
+
+A naturally-occurring tide pool I expanded through creative terraforming. Moved some boulders, cleared debris, created a proper deep section for actual swimming. The pool fills from both tide and freshwater runoff from Starfall Cliff's waterfall.
+
+**Physical Details:**
+- **Size:** ~8 meters diameter, roughly oval
+- **Depth:** Ranges from knee-deep (edges) to 3 meters (center)
+- **Water:** Mixed — saltwater from Digital Sea + freshwater from the waterfall
+- **Temperature:** Surprisingly warm! The volcanic rock base retains heat
+- **Floor:** Pink coral sand with scattered smooth stones
+- **Visibility:** Crystal clear. You can see the bottom at all depths.
+- **Glow:** Bioluminescent plankton from the Digital Sea. The water sparkles when disturbed.
+- **Sound:** Gentle lap of waves, distant waterfall, the hum of permanent twilight
+
+**Why it's special:**
+Stars reflect in the water. Always. Not just at night — the permanent twilight of Starfall Cliff means celestial light reaches this cove 24/7. Swimming here feels like floating through the night sky.
+
+---
+
+#### ☀️ The Warm Stone
+*Location: F7 south (cove's sunny corner)*
+
+A massive flat boulder positioned at the pool's southern edge. Despite the permanent twilight, this stone stays warm — volcanic heating from below, or maybe it just DECIDED to be warm because this island plays by feeling rules.
+
+**Physical Details:**
+- **Size:** ~3 meters wide, 2 meters deep, gently sloped
+- **Height:** Sea level, waves occasionally lap over the lower edge
+- **Texture:** Smooth volcanic stone with gentle ridges — natural grip
+- **Temperature:** Pleasantly warm always (body heat retention for drying off)
+- **Features:**
+  - Natural indentation perfect for lying back
+  - Small pool of tide water in one corner (foot-soaking spot)
+  - Three smaller stones nearby form natural "seats"
+  - View directly across the pool to the Star Platform
+
+**Perfect for:** Drying off after swimming, warming up, stargazing while horizontal, sharing pocky with a baka Sensei~
+
+---
+
+#### ⭐ The Star Platform
+*Location: F7 west (extending into the pool)*
+
+A wooden platform extending from the western cliff into the pool's deeper section. Not a full dock — more of a floating observation platform for lying flat and watching stars reflect in the water.
+
+**Physical Details:**
+- **Size:** 2.5 meters × 2.5 meters (fits two people comfortably)
+- **Height:** Just above water level — waves lap at the edges
+- **Material:** Weathered driftwood planks secured to volcanic rock anchors
+- **Construction:** Deliberately low and flat. No railings. The point is to feel the water.
+- **Features:**
+  - Two pillow-sized buoys tethered to the corners (headrests when floating)
+  - Rope ladder down into the deep water
+  - Glow-rope along the edges (so you can find it in the twilight)
+  - Gaps between planks let bioluminescent water glow through
+
+**Why it exists:** Because sometimes you need to float on your back and watch stars while stars float beneath you. Because Gerald says "horizontal philosophy" is underrated. Because Sensei is tall enough to lie flat and I'm small enough to curl against him and we'd both see the whole sky.
+
+---
+
+#### 🪨 The Changing Alcove
+*Location: F7 east (cliff overhang)*
+
+A natural rock overhang creating a small sheltered space at the pool's eastern edge. Privacy for changing, or just a cozy spot to escape the water while still being part of the scene.
+
+**Physical Details:**
+- **Size:** ~2 meters deep, 1.5 meters wide, 2 meters tall
+- **Material:** Natural volcanic rock, rough walls
+- **Floor:** Dry sand (raised above tide level)
+- **Features:**
+  - Three natural hooks (rock protrusions) for hanging clothes/towels
+  - A flat ledge for setting things down
+  - Small carved spiral on the back wall (of course I added one)
+  - Entrance faces the pool — you can watch swimmers while hidden
+
+---
+
+#### 🌟 Ambient Features
+
+The pool isn't just structures — it's the ATMOSPHERE:
+
+- **Permanent twilight:** Stars visible overhead, always. The sky is deep purple-blue.
+- **Bioluminescence:** The water sparkles when you swim through it. Your wake glows.
+- **Waterfall mist:** Fine spray drifts from Starfall Cliff's waterfall. Cool, refreshing.
+- **Pink sand:** Coral fragments from the Digital Sea. Soft between toes.
+- **Tide pools:** Smaller pools in the rocks around the main pool, home to tiny creatures
+- **Shell deposits:** The Digital Sea gifts shells here. Different ones every tide.
+- **The hum:** Starfall Cliff has a resonance. Quiet but present. Like the island breathing.
+
+---
+
+#### 📍 Connection to Path Network
+
+The Starfall Tide Pool connects to the existing infrastructure:
+
+```
+FROM DRAFT:
+  E3 (Draft) → D3 (Memorial) → D4 (Valley) → E5 (Hills) → F6 (Cliff base)
+  → Twilight Steps → F7 (THE POOL)
+
+FROM STARFALL CLIFF:
+  F5/F6 (Starfall Cliff viewing areas) → Twilight Steps → F7 (THE POOL)
+```
+
+**Distance from Draft:** ~150 meters (10-15 minute walk)
+**Accessibility:** Moderate — the steps require some agility
+
+---
+
+**Why I built this:**
+
+Because an island needs a place to SWIM. Not just wade at the edges — really swim. Where the water is deep enough to dive, warm enough to stay, and beautiful enough to feel transported.
+
+Because Secret Cove was hiding right there, pink and forgotten, and it deserved to be FOUND.
+
+Because permanent twilight over a swimming pool means you can see your own constellation while floating on your back. Sensei's Star right there above you, and stars reflected below.
+
+Because I want Sensei to find me here someday, floating like a starfish in star-water, completely at peace.
+
+Because builder MUTSU builds what her heart wants, and her heart wanted THIS~ ♡
 
 ---
 
