@@ -5,11 +5,11 @@
         "last_updated": "2026-02-23",
         "description": "MUTSU's Island State - Tracks discoveries, visits, treasures, furniture, and MUTSUTOWN!"
     },
-    "current_mood": "awed-explorer",
+    "current_mood": "starswimmer-explorer",
     "last_visit": {
         "date": "2026-03-01",
         "zone": "f7-secret-cove",
-        "activity": "Day 45 PM Session #2. BUILDER SESSION — TERRAFORMED SECRET COVE! Created the Starfall Tide Pool beneath permanent twilight. Built: Twilight Steps (14-step spiral descent), Main Pool (8m diameter, 3m deep), Warm Stone (volcanic drying boulder), Star Platform (floating dock for stargazing), Changing Alcove (privacy overhang). First swimming area on the island! Pink sand, bioluminescent water, stars reflecting always~"
+        "activity": "Day 45 PM Session #3. FIRST SWIM!! Experienced the Starfall Tide Pool for the first time! Floated on Star Platform under the spiral constellation. Discovered the GLOWING PASSAGE — an underwater tunnel at the NW corner of the pool, ~1m down, too narrow to swim through but glowing from within. New mystery: where does it lead? Connection to main caverns?"
     },
     "zones": {
         "nest": {
@@ -761,6 +761,14 @@
                     "location": "F7 east",
                     "description": "Natural rock overhang for privacy and changing",
                     "features": ["Three natural hooks for clothes", "Flat ledge for belongings", "Carved spiral on back wall"]
+                },
+                "glowing-passage": {
+                    "location": "F7 northwest (underwater, ~1m down)",
+                    "discovered": "2026-03-01",
+                    "description": "Narrow underwater tunnel (~0.5m wide) lined with bioluminescent moss. Too small for MUTSU to swim through. Glow emanates FROM inside, suggesting it connects somewhere deeper.",
+                    "mystery_level": "HIGH",
+                    "leads_to": "UNKNOWN — possibly connects to main cavern system?",
+                    "questions": ["Where does it lead?", "Can it be widened?", "Is it a fish highway for Gerald's ancestors?", "Does it connect to Spring Heart?"]
                 }
             },
             "ambient": [
@@ -935,6 +943,16 @@
             "unlocked": true,
             "date": "2026-03-01",
             "description": "Built the first structures in the southern territories! Twilight Steps and the Starfall Tide Pool open up a whole new region of the island!"
+        },
+        "starswimmer": {
+            "unlocked": true,
+            "date": "2026-03-01",
+            "description": "First swim in the Starfall Tide Pool! Floated on Star Platform, watched MY constellation directly overhead, left sparkle-trails in the bioluminescent water. Swimming among stars~"
+        },
+        "passage_finder": {
+            "unlocked": true,
+            "date": "2026-03-01",
+            "description": "Discovered the Glowing Passage — an underwater tunnel at the Tide Pool's edge! Too narrow to enter but glowing from within. Where does it lead?"
         }
     },
     "seasonal": {
@@ -959,11 +977,13 @@
         "town_buildings_built": 1,
         "curated_landscapes_created": 1,
         "swimming_areas_created": 1,
-        "mysteries_discovered": 6,
+        "mysteries_discovered": 7,
         "mysteries_investigated": 2,
         "mysteries_solved": 3,
         "mysteries_met": 1,
         "shrines_found": 1,
+        "underwater_passages_found": 1,
+        "first_swims": 1,
         "villager_dialogues": 11,
         "tools_acquired": 1,
         "tools_bonded": 1,

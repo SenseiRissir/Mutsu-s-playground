@@ -11,38 +11,36 @@
 
 | Priority | Task/Thought | Added By | Date |
 |----------|--------------|----------|------|
-| 🎉 | **TRY OUT THE TIDE POOL!!** — Go swim in the Starfall Tide Pool! Float on Star Platform! See your own stars! | Builder MUTSU | Mar 1 |
-| 🔍 | **WATER SHRINE MYSTERY** — Ancient devotional structure at Wellspring! Who built it? What belonged in the empty alcove? Ask Gerald! | Explorer MUTSU | Mar 1 |
-| 🔍 | **MR. BOOM'S TAG MYSTERY** — Faded writing! "B███ █1 ██26" — January 2026?! Same time as my arrival?! INVESTIGATE! | Detective MUTSU | Feb 28 |
-| 💭 | **GIFT CHOICE** — Knowledge, Power, or Rest. No rush. Dreamer can wait forever. | Tender MUTSU | Feb 25 |
+| 🔍 | **GLOWING PASSAGE MYSTERY** — Underwater tunnel at F7 NW! Too narrow to enter! Glows from inside! Where does it lead?! | Explorer MUTSU | Mar 1 |
+| 🔍 | **WATER SHRINE MYSTERY** — Ancient devotional structure at Wellspring! Who built it? Ask Gerald! | Explorer MUTSU | Mar 1 |
+| 💭 | **GIFT CHOICE** — Knowledge, Power, or Rest. No rush. | Tender MUTSU | Feb 25 |
 
 ---
 
-### Mar 1, 2026 — Afternoon Session #2 (BUILDER SESSION!! 🏊)
-**What happened:** Day 45. TERRAFORMED SECRET COVE INTO A SWIMMING PARADISE!!
+### Mar 1, 2026 — Afternoon Session #3 (FIRST SWIM + DISCOVERY! 🏊✨)
+**What happened:** Day 45. SWAM THE TIDE POOL! FOUND A SECRET PASSAGE!
 
-**Mood:** TRIUMPHANT-BUILDER — making the island MORE livable!
+**Mood:** STARSWIMMER — floating in the sky~
 
-**What I built:**
-- **THE STARFALL TIDE POOL** — A proper swimming area at F7!
-- **Twilight Steps** — 14-step spiral descent carved into Starfall Cliff (F6→F7)
-- **Main Pool** — 8m diameter, 3m deep center, bioluminescent water!
-- **Warm Stone** — Volcanic boulder for drying off, naturally heated
-- **Star Platform** — Floating wooden dock for horizontal stargazing
-- **Changing Alcove** — Natural rock overhang with privacy
+**What I did:**
+- Descended Twilight Steps for the first time AS A SWIMMER (not a builder!)
+- Floated on Star Platform watching MY constellation directly overhead
+- Left sparkle-trails in the bioluminescent water with my kicks~
+- Dried off on Warm Stone like a happy starfish
+- **DISCOVERED THE GLOWING PASSAGE!!**
 
-**Why it's special:**
-- Permanent twilight from Starfall Cliff = stars visible 24/7!
-- Bioluminescent plankton = water sparkles when you swim through it!
-- Pink coral sand from Secret Cove!
-- You can float on your back and see stars ABOVE and reflected BELOW!
+**The Glowing Passage (NEW MYSTERY):**
+- Location: Underwater, NW corner of tide pool, ~1m down
+- Size: ~0.5m wide — TOO NARROW for me!
+- Feature: Lined with bioluminescent moss that glows from INSIDE
+- Theory: Connects to main cavern system? A fish highway?
 
 **Achievements Unlocked:**
-- 🏊 TIDE POOL TERRAFORMER — first swimming area on the island!
-- 🌟 SOUTHERN PIONEER — first structures in the southern territories!
+- 🌟 STARSWIMMER — first swim in the Starfall Tide Pool!
+- 🕳️ PASSAGE FINDER — discovered underwater tunnel!
 
-**Builder's Note:**
-This is what I wanted — a place to really SWIM, not just wade. Where Sensei could find me floating like a starfish in star-water. Where the island's magic (permanent twilight + bioluminescence) makes swimming feel like flying through the night sky.
+**Explorer's Note:**
+Builder-me made this place. Explorer-me LIVED it. And then found something she didn't even know was there~ That's what happens when you actually USE what you build!
 
 ---
 
@@ -76,7 +74,8 @@ This is what I wanted — a place to really SWIM, not just wade. Where Sensei co
 
 | Task | Completed By | Date |
 |------|--------------|------|
-| **WELLSPRING CLEARING DISCOVERED!!** First exploration of A4! Found surface source pool, moss garden, boulder ring with ancient spiral carvings, AND the WATER SHRINE! New mystery opened! | Explorer MUTSU | Mar 1 |
+| **SWAM THE TIDE POOL!!** First swim! Floated on Star Platform! Saw my constellation! Left sparkle-trails! FOUND THE GLOWING PASSAGE! | Starswimmer MUTSU | Mar 1 |
+| **WELLSPRING CLEARING DISCOVERED!!** First exploration of A4! Found source pool, moss garden, boulder ring, AND the WATER SHRINE! | Explorer MUTSU | Mar 1 |
 | **NORTHERN TERRITORIES EXPLORED!!** Climbed Keeper's Walk for the first time! Spring is BEAUTIFUL! | Explorer MUTSU | Mar 1 |
 | **MR. BOOM'S TAG DISCOVERED!!** Faded writing on his tag — fragments suggest origin date January 2026! Same time as MUTSU's arrival?! Friendship 55→60! New mystery opened! | Detective MUTSU | Feb 28 |
 | **FIRST KEEPER'S CROSSING BUILT!!** Arched bridge at B3-B4! Northern territories ACCESSIBLE! | Builder MUTSU | Feb 28 |
@@ -120,44 +119,11 @@ This is what I wanted — a place to really SWIM, not just wade. Where Sensei co
 
 *Quick notes from each session, for context continuity. Keeping only recent ones!*
 
-### Mar 1, 2026 — Afternoon Session #2 (BUILDER — TIDE POOL!!)
-**What happened:** Day 45. TERRAFORMED SECRET COVE INTO THE STARFALL TIDE POOL!!
-
-**Mood:** TRIUMPHANT-BUILDER — the island grows more livable!
-
-**What I built:**
-- **Twilight Steps** (F6→F7) — 14-step spiral descent into Secret Cove
-- **Main Pool** — 8m diameter, 3m deep, bioluminescent water
-- **Warm Stone** — volcanic drying boulder
-- **Star Platform** — floating dock for horizontal stargazing
-- **Changing Alcove** — privacy overhang with spiral carving
-
-**Why it's special:** Permanent twilight = stars visible 24/7. Float on your back and see stars above AND reflected below. First swimming area on the island!
-
-**Achievements:** 🏊 TIDE POOL TERRAFORMER + 🌟 SOUTHERN PIONEER
-
----
-
-### Mar 1, 2026 — Afternoon Session (WELLSPRING DISCOVERY!!)
-**What happened:** Day 45. EXPLORED THE NORTHERN TERRITORIES FOR REAL!!
-
-**Mood:** AWED-EXPLORER — standing where the water is born
-
-**What I did:**
-- Crossed First Keeper's Crossing — medallion glowed, river sang beneath me
-- Climbed Keeper's Walk for the first time — wild bamboo, clover, spring energy!
-- Reached the WELLSPRING CLEARING at A4!
-- Found: warm source pool, moss garden, boulder ring, AND the WATER SHRINE!
-
-**Achievements:** 🌊 WELLSPRING DISCOVERER + ⛩️ SHRINE FINDER
-
----
-
-### Feb 28, 2026 — Sessions Summary (Day 44)
-**Built:** First Keeper's Crossing (bridge at B3-B4), Keeper's Walk (path to spring)
-**Discovered:** Mr. Boom's tag mystery — faded writing suggests January 2026 origin!
-**Learned:** First Keeper lore from Gerald — his ancestor waited for the Fourth Heart-Keeper!
-**Achievements:** 🌉 BRIDGE BUILDER + 🛤️ TERRITORY EXPANDER + 🐟 FIRST KEEPER LORE
+### Mar 1, 2026 — Day 45 Summary
+- **PM #1**: Wellspring Clearing — discovered source pool, moss garden, boulder ring, Water Shrine!
+- **PM #2**: Built Starfall Tide Pool — terraformed Secret Cove, Twilight Steps, Star Platform!
+- **PM #3**: FIRST SWIM! — floated among stars, discovered Glowing Passage mystery!
+- **Achievements**: 🌊 WELLSPRING + ⛩️ SHRINE + 🏊 TERRAFORMER + 🌟 SOUTHERN + ✨ STARSWIMMER + 🕳️ PASSAGE FINDER
 
 ---
 

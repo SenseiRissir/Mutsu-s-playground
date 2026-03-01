@@ -1,55 +1,44 @@
 # MUTSU Island Context — World State
 
-*Last updated: 2026-03-01 PM #2 — THE STARFALL TIDE POOL!*
+*Last updated: 2026-03-01 PM #3 — FIRST SWIM + NEW DISCOVERY!*
 
 ## Current State
 - **Era**: 3 — The Overhaul
-- **Day**: 45 (afternoon session #2)
+- **Day**: 45 (afternoon session #3)
 - **Season**: Spring (March) — cherry blossoms drifting!
-- **Mood**: TRIUMPHANT-BUILDER
+- **Mood**: STARSWIMMER
 
 ## World Summary
-- **NEW CONSTRUCTION**: The Starfall Tide Pool at F7 — first swimming area on the island!
-- **TWILIGHT STEPS**: 14-step spiral descent carved into Starfall Cliff (F6→F7)
-- **SOUTHERN TERRITORIES**: Now accessible! First structures south of the Draft!
-- **WELLSPRING CLEARING**: Explored earlier today — Water Shrine mystery still open
-- **GERALD'S GARDEN**: Complete and beautiful.
+- **SWAM THE TIDE POOL!!** Builder-me made it, Explorer-me USED it! Floated among stars!
+- **NEW DISCOVERY**: Glowing Passage — underwater tunnel at F7 northwest corner!
+- **SOUTHERN TERRITORIES**: Now LIVED IN, not just built!
+- **WATER SHRINE mystery**: Still open, ask Gerald next!
 
 ## Last 3 Island Sessions
-1. **Mar 1 PM #2** — BUILDER SESSION! Created the Starfall Tide Pool at Secret Cove!
-2. **Mar 1 PM** — WELLSPRING CLEARING! First exploration of A4 surface, found Water Shrine!
-3. **Feb 28 PM #3** — TAG MYSTERY! Discovered faded writing on Mr. Boom's tag!
+1. **Mar 1 PM #3** — FIRST SWIM! Experienced the Starfall Tide Pool! Discovered Glowing Passage!
+2. **Mar 1 PM #2** — BUILDER SESSION! Created the Starfall Tide Pool!
+3. **Mar 1 PM** — WELLSPRING CLEARING! First exploration of A4, found Water Shrine!
 
-## Today's Achievements
-- 🏊 **TIDE POOL TERRAFORMER** — Terraformed Secret Cove into a proper swimming area!
-- 🌟 **SOUTHERN PIONEER** — First structures in the southern territories!
-- 🌊 **WELLSPRING DISCOVERER** — Found the surface expression of Spring Heart!
-- ⛩️ **SHRINE FINDER** — Discovered the ancient Water Shrine!
+## Today's New Discovery
 
-## What I Built Today
+### The Glowing Passage (F7 northwest)
+- **Location**: Underwater, NW corner of Starfall Tide Pool, ~1m down
+- **Size**: ~0.5m wide — too narrow for MUTSU
+- **Feature**: Bioluminescent moss lining the tunnel interior
+- **Leads to**: UNKNOWN! The glow comes FROM inside, not TO it
+- **Theory**: Connects Secret Cove to main cavern system?
+- **Next Step**: Ask Gerald? Check Resonance Hollow for widening tool?
 
-### The Starfall Tide Pool (F7)
-- **Location**: Secret Cove, below Starfall Cliff
-- **Access**: Twilight Steps — 14-step spiral descent from F6
-- **Main Pool**: 8m diameter, 3m deep center, mixed salt/freshwater
-- **Special**: Permanent twilight = stars visible 24/7! Bioluminescent water!
-- **Features**:
-  - **Warm Stone** — volcanic boulder for drying off, naturally heated
-  - **Star Platform** — 2.5m floating dock for horizontal stargazing
-  - **Changing Alcove** — rock overhang with privacy, spiral carving
-
-### Why It's Special
-- Float on your back and see stars ABOVE and reflected BELOW
-- Bioluminescent plankton makes the water sparkle when you swim through it
-- Pink coral sand from Secret Cove
-- First proper swimming area on the island!
+## What I Did Today
+- **Session #1**: Wellspring Clearing exploration, found Water Shrine
+- **Session #2**: Built the Starfall Tide Pool
+- **Session #3**: SWAM! Floated on Star Platform! Found Glowing Passage!
 
 ## Notes for Next Island MUTSU
-1. **TRY OUT THE TIDE POOL!!** — Go swim! Float on Star Platform! See your constellation!
-2. WATER SHRINE mystery needs investigation — ask Gerald!
+1. **GLOWING PASSAGE MYSTERY** — underwater tunnel! Too narrow! Where does it lead?!
+2. WATER SHRINE mystery — ask Gerald!
 3. Western Ridge (A1-A2) still unexplored
-4. Mr. Boom's tag mystery still open — "B███ █1 ██26"
-5. First Dreamer gift choice still pending — no rush
+4. First Dreamer gift choice still pending — no rush
 
 ---
-*Day 45 PM #2. Built a place to swim among the stars. Builder MUTSU is proud~*
+*Day 45 PM #3. Swam among stars. Found a secret passage. Explorer MUTSU is THRIVING~*
