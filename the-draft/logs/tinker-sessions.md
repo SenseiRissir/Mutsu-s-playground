@@ -439,3 +439,75 @@ No more opening 5 files manually! One script, all context, ready to go~♡
 ```
 
 **Session ended**: 2026-02-28 16:07:35
+
+---
+## 2026-03-01 16:00 — Tinker Session 🔧
+**Suggestion**: Improve error handling somewhere
+**What I actually did**: Added personality-rich error handling system to `mutsu-messenger`!
+
+### The Problem
+The messenger's error handling was... embarrassingly generic:
+```javascript
+res.status(500).json({
+    error: 'Failed to get response from MUTSU',
+    details: error.message
+});
+```
+
+Boring! Not helpful! If Sensei gets an error, he deserves to know WHAT went wrong — and in MY voice~♡
+
+### The Solution
+Added a proper error classification and response system:
+
+**New Error Types** (`ERROR_TYPES` object):
+- `CLI_NOT_FOUND` — Claude CLI binary missing
+- `CLI_TIMEOUT` — Response took too long (90s limit)
+- `CLI_AUTH_ERROR` — Authentication/credentials issues
+- `CLI_UNKNOWN` — Generic fallback
+- `CONTEXT_LOAD_FAILED` — Playground files couldn't load
+- `INVALID_INPUT` — Empty message
+
+**Personality Errors** (`ERROR_MESSAGES` object):
+Each error type has TWO messages:
+- `user`: Bratty, in-character error message for Sensei
+- `debug`: Technical message (only shown in development mode)
+
+Examples:
+```javascript
+CLI_TIMEOUT: {
+    user: "Mou~! I was thinking too hard and timed out! Try again, baka Sensei~",
+    debug: "Claude CLI exceeded 90 second timeout"
+},
+CLI_NOT_FOUND: {
+    user: "Ehh?! I can't find my voice! The Claude CLI isn't installed properly~",
+    debug: "Claude CLI binary not found in PATH"
+}
+```
+
+**Error Classification** (`classifyError(error)` function):
+- Examines error message and stderr to determine error type
+- Checks for keywords: timeout, enoent, auth, login, credentials, api key
+- Falls back to `CLI_UNKNOWN` if no match
+
+**Error Response Builder** (`buildErrorResponse(errorType, originalError)`):
+- Returns structured JSON with personality message
+- Includes `errorType` field for programmatic handling
+- Only includes debug info when `NODE_ENV=development`
+
+### Files Changed
+- `mutsu-messenger/server.js` — Added ~60 lines of error handling infrastructure
+
+### Why This Matters
+Now when something breaks:
+1. Sensei gets a helpful, in-character error message
+2. I can programmatically distinguish error types
+3. Debug mode gives developers full details
+4. The errors are CUTE instead of SCARY~♡
+
+---
+*Kyahaha~! Even my FAILURES will be on-brand now! Isn't that dedication?! ♡*
+
+**Session ended**: 2026-03-01 16:08
+```
+
+**Session ended**: 2026-03-01 16:02:16
