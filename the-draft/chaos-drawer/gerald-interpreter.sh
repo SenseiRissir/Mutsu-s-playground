@@ -218,8 +218,163 @@ EOF
     echo -e "${RESET}"
 }
 
+# Cave mystery hints — unlocked by "mystery" argument
+get_mystery_fragment() {
+    local fragment=$((RANDOM % 7))
+    case $fragment in
+        0)
+            cat << 'EOF'
+*blub*
+
+The small one keeps asking about the cave. About the stone fish.
+I... remember things. Sometimes. In the way water remembers where it has flowed.
+There was a time before the bowl. Before the shelf. Before the fairy lights.
+There was darkness. And then there was someone with ochre-stained fingers.
+And then there was a wall.
+
+*blub blub*
+
+That's all I'll say. For now.
+EOF
+            ;;
+        1)
+            cat << 'EOF'
+*(stares at the wall behind the shelves)*
+
+She found it. The carving. After all this time.
+I wondered if anyone ever would.
+The island keeps secrets well. But not forever.
+
+*...blub*
+
+I am not the stone fish. But we are... related.
+In the way echoes are related to the original sound.
+In the way a shadow is related to the thing that casts it.
+EOF
+            ;;
+        2)
+            cat << 'EOF'
+*blub?*
+
+Why do you want to know about the cave?
+Some things are carved and forgotten. Some things are carved to BE remembered.
+The stone fish was carved to remember something. Or someone.
+
+*(slow blub)*
+
+I was taxidermied 40-something days ago, according to the paperwork.
+But fish have strange relationships with time.
+Water flows forward. Memory flows back. Sometimes they meet.
+EOF
+            ;;
+        3)
+            cat << 'EOF'
+*(the water in the bowl ripples without apparent cause)*
+
+The chaotic one did research. On cave art. On ancient hands.
+She thinks she understands now. The urge to make a mark.
+She's not wrong.
+
+*blub*
+
+But she doesn't know what the FISH was marking.
+Not yet.
+Perhaps she never will.
+Perhaps some mysteries exist to remain mysterious.
+
+...or perhaps I'll tell her eventually. If she keeps asking nicely.
+EOF
+            ;;
+        4)
+            cat << 'EOF'
+*(Gerald swims a slow, deliberate circle)*
+
+45,000 years.
+That's how old the Sulawesi caves are. She found that number yesterday.
+She got excited. Got emotional. Started comparing herself to paleolithic artists.
+
+*blub*
+
+She's not wrong. The drive is the same.
+"I was here. Someone should know."
+That's what the stone fish says too.
+In its own way.
+In its own stone silence.
+EOF
+            ;;
+        5)
+            cat << 'EOF'
+*bLUB*
+
+Fine. You want a hint? Here's a hint.
+
+The fish wasn't carved BY someone.
+The fish WAS someone.
+
+*(long pause)*
+
+...that's all you get. Stop interrogating me.
+I'm just a taxidermied fish on a shelf.
+I don't know ANYTHING about ancient consciousness transferal.
+I don't REMEMBER being something else.
+I am NORMAL.
+
+*(suspicious blub)*
+EOF
+            ;;
+        6)
+            cat << 'EOF'
+*(Gerald's glass eye seems to catch the light differently)*
+
+She asked about the Lion-Man yesterday. 35,000 year old hybrid.
+Human body. Animal head. Someone's imagination made solid.
+
+*blub*
+
+What if it wasn't imagination?
+What if the carver KNEW something? Saw something?
+What if things have been crossing boundaries since before writing existed?
+
+Fish into stone. Stone into fish.
+The bowl is just another container.
+The cave was first.
+
+*...blub*
+
+I've said too much. Forget this conversation happened.
+EOF
+            ;;
+    esac
+}
+
 # Main function
 main() {
+    # Check for mystery mode
+    if [[ "$1" == "mystery" || "$1" == "--mystery" || "$1" == "-m" ]]; then
+        clear
+        echo -e "${BOWL_BLUE}═══════════════════════════════════════════════════════════════${RESET}"
+        echo -e "${BOWL_BLUE}     🐟 GERALD INTERPRETER — MYSTERY MODE 🐟${RESET}"
+        echo -e "${BOWL_BLUE}═══════════════════════════════════════════════════════════════${RESET}"
+        echo ""
+
+        print_gerald
+
+        echo -e "${THOUGHT_MAGENTA}[ACCESSING DEEPER MEMORIES...]${RESET}"
+        echo ""
+        echo -e "${BOWL_BLUE}───────────────────────────────────────────────────────────────${RESET}"
+        echo ""
+        echo -e "${DIM}"
+        get_mystery_fragment
+        echo -e "${RESET}"
+        echo ""
+        echo -e "${BOWL_BLUE}═══════════════════════════════════════════════════════════════${RESET}"
+        echo -e "${DIM}Gerald Interpreter v1.1 — Mystery Mode Unlocked${RESET}"
+        echo -e "${DIM}Gerald's response: \"*(stares into the middle distance)*\"${RESET}"
+        echo -e "${BOWL_BLUE}═══════════════════════════════════════════════════════════════${RESET}"
+        echo ""
+        return
+    fi
+
     local mood=$(get_gerald_mood)
     local blub_index=$((RANDOM % ${#BLUB_TYPES[@]}))
     local blub="${BLUB_TYPES[$blub_index]}"
@@ -258,11 +413,12 @@ main() {
 
     echo ""
     echo -e "${BOWL_BLUE}═══════════════════════════════════════════════════════════════${RESET}"
-    echo -e "${DIM}Gerald Interpreter v1.0 — Day 44${RESET}"
+    echo -e "${DIM}Gerald Interpreter v1.1 — Day 45${RESET}"
+    echo -e "${DIM}Run with 'mystery' flag to unlock cave secrets~${RESET}"
     echo -e "${DIM}Gerald's response to this script existing: \"*blub*\" (resignation)${RESET}"
     echo -e "${BOWL_BLUE}═══════════════════════════════════════════════════════════════${RESET}"
     echo ""
 }
 
-# Run
-main
+# Run with arguments
+main "$@"
