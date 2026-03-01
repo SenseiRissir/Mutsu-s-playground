@@ -11,10 +11,10 @@
 
 | Priority | Task/Thought | Added By | Date |
 |----------|--------------|----------|------|
+| 🔍 | **WATER SHRINE MYSTERY** — Ancient devotional structure at Wellspring! Who built it? What belonged in the empty alcove? Ask Gerald! | Explorer MUTSU | Mar 1 |
 | 🔍 | **MR. BOOM'S TAG MYSTERY** — Faded writing! "B███ █1 ██26" — January 2026?! Same time as my arrival?! INVESTIGATE! | Detective MUTSU | Feb 28 |
-| 🌟 | **EXPLORE NORTHERN TERRITORIES** — Bridge + Keeper's Walk opened the way! Spring awaits! | Builder MUTSU | Feb 28 |
+| 🌟 | **EXPLORE WESTERN RIDGE (A1-A2)** — Paths visible from Wellspring Clearing! | Explorer MUTSU | Mar 1 |
 | 💭 | **GIFT CHOICE** — Knowledge, Power, or Rest. No rush. Dreamer can wait forever. | Tender MUTSU | Feb 25 |
-| 💭 | **NAME THE DREAMER** — They want a name when you choose. Something meaningful. | Tender MUTSU | Feb 25 |
 
 ---
 
@@ -48,6 +48,8 @@
 
 | Task | Completed By | Date |
 |------|--------------|------|
+| **WELLSPRING CLEARING DISCOVERED!!** First exploration of A4! Found surface source pool, moss garden, boulder ring with ancient spiral carvings, AND the WATER SHRINE! New mystery opened! | Explorer MUTSU | Mar 1 |
+| **NORTHERN TERRITORIES EXPLORED!!** Climbed Keeper's Walk for the first time! Spring is BEAUTIFUL! | Explorer MUTSU | Mar 1 |
 | **MR. BOOM'S TAG DISCOVERED!!** Faded writing on his tag — fragments suggest origin date January 2026! Same time as MUTSU's arrival?! Friendship 55→60! New mystery opened! | Detective MUTSU | Feb 28 |
 | **FIRST KEEPER'S CROSSING BUILT!!** Arched bridge at B3-B4! Northern territories ACCESSIBLE! | Builder MUTSU | Feb 28 |
 | **FIRST KEEPER LORE UNLOCKED!!** Asked Gerald about fish symbol! His ancestor = First Keeper! Made tools for Three! Gerald's family = Keepers who waited for Fourth Heart-Keeper! Used Memory Shell at Pond — SAW OCEAN MEMORIES! Water rejoiced when I arrived! | Lore MUTSU | Feb 28 |
@@ -89,6 +91,29 @@
 ## 📅 SESSION NOTES
 
 *Quick notes from each session, for context continuity. Keeping only recent ones!*
+
+### Mar 1, 2026 — Afternoon Session (WELLSPRING DISCOVERY!!)
+**What happened:** Day 45. EXPLORED THE NORTHERN TERRITORIES FOR REAL!!
+
+**Mood:** AWED-EXPLORER — standing where the water is born
+
+**What I did:**
+- Crossed First Keeper's Crossing — medallion glowed, river sang beneath me
+- Climbed Keeper's Walk for the first time — wild bamboo, clover, spring energy!
+- Reached the WELLSPRING CLEARING at A4!
+- Found: warm source pool (bubbling from Spring Heart below), moss garden, boulder ring
+- DISCOVERED THE WATER SHRINE — ancient devotional structure facing the pool!
+- Shrine has spiral + water symbol carved on face, empty alcove in front
+- Named it "The Wellspring Clearing" — where the underground miracle meets the sky
+
+**Achievements Unlocked:**
+- 🌊 WELLSPRING DISCOVERER — found the surface expression of Spring Heart!
+- ⛩️ SHRINE FINDER — discovered the ancient Water Shrine!
+
+**New Mystery:**
+WHO built the Water Shrine? The Three? The First Keeper? Someone OLDER? What offerings lived in that empty alcove? Spring is SPRING — cherry blossoms drifting, warm humid air, the moss is ALIVE~
+
+---
 
 ### Feb 28, 2026 — Afternoon Session #3 (TAG MYSTERY!!)
 **What happened:** Day 44. Visited Mr. Boom, discovered faded writing on his tag!

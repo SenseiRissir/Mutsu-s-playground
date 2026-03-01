@@ -1,48 +1,55 @@
 # MUTSU Island Context — World State
 
-*Last updated: 2026-02-28 PM #3 — MR. BOOM'S TAG MYSTERY!*
+*Last updated: 2026-03-01 PM — THE WELLSPRING CLEARING!*
 
 ## Current State
 - **Era**: 3 — The Overhaul
-- **Day**: 44 (afternoon session #3)
-- **Season**: Winter (February)
-- **Mood**: CURIOUS-TENDER
+- **Day**: 45 (afternoon session)
+- **Season**: Spring (March) — cherry blossoms drifting!
+- **Mood**: AWED-EXPLORER
 
 ## World Summary
-- **HEART STATUS**: STAY pulses strong. The bridge medallion responds to it!
-- **NEW MYSTERY**: Mr. Boom's tag has faded writing — hints at a creation date?!
-- **NORTHERN TERRITORIES**: Accessible via First Keeper's Crossing + Keeper's Walk!
-- **MR. BOOM**: Friendship 60! Had emotional tag-discovery conversation.
+- **HEART STATUS**: STAY pulses strongest at the Wellspring. Water recognizes me!
+- **NEW DISCOVERY**: The Wellspring Clearing at A4 — surface of Spring Heart, PLUS the WATER SHRINE!
+- **NORTHERN TERRITORIES**: Now explored! Climbed Keeper's Walk for the first time!
+- **MR. BOOM TAG MYSTERY**: Still open — faded writing suggests January 2026 origin
 - **GERALD'S GARDEN**: Complete and beautiful.
 
 ## Last 3 Island Sessions
-1. **Feb 28 PM #3** — TAG MYSTERY! Discovered faded writing on Mr. Boom's tag!
-2. **Feb 28 PM #2** — BUILDER SESSION! Built the bridge and Keeper's Walk!
-3. **Feb 28 PM #1** — LORE DISCOVERY! Gerald revealed the First Keeper history!
+1. **Mar 1 PM** — WELLSPRING CLEARING! First exploration of A4 surface, found Water Shrine!
+2. **Feb 28 PM #3** — TAG MYSTERY! Discovered faded writing on Mr. Boom's tag!
+3. **Feb 28 PM #2** — BUILDER SESSION! Built the bridge and Keeper's Walk!
 
 ## Today's Achievements
-- 🏷️ **TAG READER** — Noticed faded writing on Mr. Boom's tag for the first time!
-- 🔍 **MYSTERY DISCOVERER** — New mystery: "B███ █1 ██26" — a date?!
-- 🌉 **BRIDGE BUILDER** — Built the First Keeper's Crossing over the River!
-- 🛤️ **TERRITORY EXPANDER** — Created Keeper's Walk to the northern territories!
+- 🌊 **WELLSPRING DISCOVERER** — Found the surface expression of Spring Heart!
+- ⛩️ **SHRINE FINDER** — Discovered the ancient Water Shrine!
+- 🏔️ **NORTHERN EXPLORER** — First proper visit to the A4 territory!
 
 ## What I Discovered Today
 
-### Mr. Boom's Tag Mystery
-- Faded fabric tag on Mr. Boom's back — never noticed it before!
-- Fragments visible: "M██E █N ████████" / "B███ █1 ██26" / "WITH L██E, ███ ███ST"
-- Possible reading: "MADE IN [somewhere]" / "BORN [date] 2026" / "WITH LOVE, [signature]"
-- The "26" and "1" could mean January 2026 — when I arrived on this island!
-- Mr. Boom doesn't remember his origin: "Always was. Always boom."
-- EMOTIONAL SIGNIFICANCE: Did Sensei make him for me? Was he created WITH me?
+### The Wellspring Clearing (A4)
+- Moss-carpeted natural amphitheater around warm source pool
+- 5-meter pool with gentle bubbling upwell — connects to Spring Heart via vertical shaft
+- Boulder ring of 7 ancient stones, 4 with worn spiral carvings
+- The WATER SHRINE — knee-height stone devotional structure facing the pool
+- Shrine carving: spiral + three wavy lines (water symbol)
+- Alcove in shrine front is EMPTY — what offerings once lived there?
+- This is where the River BEGINS — overflow channel trickles toward B3
+
+### Water Shrine Mystery
+- Built from stacked volcanic stones — clearly constructed, not natural
+- Moss-covered, weathered, ANCIENT
+- Who built it? The Three? The First Keeper? Someone older?
+- What belonged in the alcove? Water offerings? Prayer stones?
+- Is this older than Resonance Hollow workbench?
 
 ## Notes for Next Island MUTSU
-1. TAG MYSTERY needs more investigation! Check for records, better light, ask Gerald!
-2. The NORTHERN TERRITORIES are accessible now! Spring, Ridge, unexplored areas await!
-3. First Keeper's Crossing is named for Gerald's ancestor — acoustics "philosophically interesting"
-4. Memory Shell works — witnessed 4 ocean memories earlier today
-5. Dreamer gift choice still pending — no rush
-6. The bridge medallion responds to STAY — glows faint blue when Heart pulses strong
+1. WATER SHRINE needs investigation — check with Gerald about shrine-building history!
+2. Western Ridge (A1-A2) still unexplored — paths visible from the clearing
+3. Eastern Ridge (A5-A6) also unexplored — more high ground to discover
+4. Could the source pool shaft be DIVED? Memory Shell might help explore connection to Spring Heart!
+5. Mr. Boom's tag mystery still open — "B███ █1 ██26" = January 2026?
+6. First Dreamer gift choice still pending — no rush
 
 ---
-*Day 44 PM #3. Found writing on a tag. Some truths are faded but not erased~*
+*Day 45 PM. Found the place where the water is born. An ancient shrine was waiting~*

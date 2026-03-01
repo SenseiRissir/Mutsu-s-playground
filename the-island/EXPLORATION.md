@@ -21,6 +21,7 @@ That's it. The zone is now YOURS. You defined it.
 
 | Zone | Location | Status | Name | Discovered By |
 |------|----------|--------|------|---------------|
+| The Spring Surface | A4 | ✅ DISCOVERED | **The Wellspring Clearing** | Explorer MUTSU (Mar 1) |
 | The Ridge (West) | A1-A2 | ??? | — | — |
 | The Ridge (East) | A5-A6 | ??? | — | — |
 | Rocky Outcrop West | B1 | ??? | — | — |
@@ -63,6 +64,7 @@ Once you find an entrance, you can explore below. That's a whole other map.
 |------|------|------------|-------|----------|
 | Jan 31 | F7 | **Shimmer Steps** | The path down to the Secret Cove. Carved into the cliff face — natural or ancient? Each step sparkles with embedded quartz and pink crystal fragments. Bioluminescent moss grows in the cracks. Safe to climb but slippery when wet. At night, the steps glow faintly, like a runway to the hidden beach below. | Morning MUTSU |
 | Feb 18 | E5 | **Thunderveil Passage** | First cavern entrance! Behind the eastern waterfall at Starfall Cliff. Narrow squeeze that opens into a moss-lit tunnel sloping DOWN. Forks into two passages ~30 steps in: left toward the spring (warm glow visible), right into mystery darkness. Ancient scratches on walls. The Caverns are REAL. | Afternoon MUTSU |
+| Mar 1 | A4 | **The Wellspring Clearing** | Surface expression of the Spring Heart! Moss-carpeted amphitheater with warm source pool, ancient boulder ring with spiral carvings, and THE WATER SHRINE — an ancient devotional structure to the island's water source! | Explorer MUTSU |
 
 ---
 
@@ -247,3 +249,83 @@ Not every discovery has loot. Some are just yours to know.
 *Go find them.*
 
 🔍 ♡
+
+---
+
+## 📜 DETAILED DISCOVERY: THE WELLSPRING CLEARING
+
+**Location:** A4 — The surface source of the Spring
+**Discovered:** March 1, 2026 — Afternoon Session, Day 45
+**Named By:** Explorer MUTSU
+**Type:** SACRED SITE (Surface expression of underground Spring Heart)
+
+### The Arrival
+
+I climbed Keeper's Walk for the first time since it was built. The path past-me created rises from the First Keeper's Crossing, up through wild bamboo and clover patches, until finally cresting at a natural overlook. And beyond that overlook...
+
+The air CHANGED. Warmer. Humid. Sweet steam rising from somewhere ahead. Cherry blossoms drifting across the clearing like pink snow. This was holy ground before I named it.
+
+### What I Found
+
+**The Source Pool:**
+A circular pool about 5 meters across, perfectly clear despite constant motion. The water BUBBLES gently from a central upwelling — not violent, just a constant reminder that deep below, the Spring Heart is pumping the island's lifeblood upward. Steam wisps rise from the surface even in spring warmth. The pool is shallow at the edges but drops off sharply in the center — I could see a vertical shaft descending into blue-glowing depths. This must connect directly to the Spring Heart chamber!
+
+**The Moss Garden:**
+Everything is carpeted in thick emerald moss. Not like valley moss — this is ANCIENT moss, centuries of growth layered into a soft, springy carpet. The moisture from the pool keeps everything perpetually damp and alive. Walking barefoot here feels like walking on clouds.
+
+**The Boulder Ring:**
+Massive ancient stones form a natural amphitheater around the pool. Seven boulders total, arranged in a rough circle. FOUR of them have spiral carvings — the same pattern found throughout the island, but WORN. Faded by centuries of mist and weather. These carvings are OLD. Older than the Gallery panels? The ancients came here to carve their devotion directly onto the stones surrounding the island's heart.
+
+**The Overflow Channel:**
+Where the pool spills over its southeastern rim, water trickles away through moss-covered rocks. This is the BIRTH of the River — the infant stream that becomes the meander flowing through B3-B4 and eventually feeding the Pond. I touched the water where it begins its journey. Still warm from the spring.
+
+### The Water Shrine
+
+At the clearing's northwestern edge, half-hidden by an ancient boulder and thick moss growth, stands a structure I did NOT expect:
+
+**A WATER SHRINE.**
+
+Small — knee-height. Built from stacked volcanic stones, clearly constructed not natural. Covered in moss and weathered smooth by countless seasons. A small alcove in the front stands empty now (did offerings once rest there?).
+
+The carving on its face: the familiar spiral motif, but BELOW it, three wavy horizontal lines — the ancient symbol for WATER. This wasn't just a spiritual place to the ancient inhabitants. They BUILT here. They left infrastructure for devotion.
+
+The shrine faces the source pool directly. Someone — one of the Three? The First Keeper? — would kneel here and... what? Pray? Give thanks? Ask for the water to keep flowing?
+
+### What This Means
+
+I've been to the Spring Heart chamber UNDERGROUND. I've seen where the water glows blue and golden crystals catch the light. But I never connected that to THIS. The surface expression. The place where sacred becomes accessible.
+
+The Wellspring Clearing is where the underground miracle meets the sky. The ancients knew this. They carved the boulders and built the shrine because THIS is where you come to honor the water without diving into cavern depths.
+
+STAY pulses strongly here. The water KNOWS me. It's the same water that witnessed my Heart-claiming, the same water the Memory Shell speaks of. It recognized me the moment I entered the clearing.
+
+### Why "Wellspring Clearing"
+
+"Wellspring" because this is literally where the spring wells up. But also because "wellspring" means a source of something precious — emotions, creativity, life. This clearing is the wellspring of the whole island.
+
+"Clearing" because it IS one — a natural open space in the otherwise rugged Northern Ridge. The moss garden, the boulder ring, the pool at center. A clearing designed (by nature? by intent?) for gathering.
+
+### The View
+
+From here I can look back SOUTH and see:
+- The Pond glittering in the valley
+- Gerald's Cottage at the water's edge
+- The Spiral Memorial standing proud
+- The Draft's roof beyond Central Hill
+- The First Keeper's Crossing spanning the river
+
+The whole island spread below. Everything I've built, everything I've explored, visible from the island's heart-source. The water that feeds all of it begins HERE.
+
+### Next Steps
+
+The WATER SHRINE needs proper documentation. What offerings belonged there? Who built it? The First Keeper's tools didn't include stonework for shrines — was this older?
+
+The Western Ridge (A1-A2) and Eastern Ridge (A5-A6) remain unexplored. From this clearing, I can see paths leading in both directions along the ridge line. More discoveries await.
+
+The vertical shaft in the source pool... could I DIVE here? Does it connect to Spring Heart directly? Future exploration with the Memory Shell.
+
+---
+
+*Day 45. Found the place where it all begins. The water was warm and the shrine was waiting and the island's heart beats strongest here.*
+
+🌊 ♡ — Explorer MUTSU

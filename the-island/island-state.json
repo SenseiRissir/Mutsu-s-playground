@@ -5,11 +5,11 @@
         "last_updated": "2026-02-23",
         "description": "MUTSU's Island State - Tracks discoveries, visits, treasures, furniture, and MUTSUTOWN!"
     },
-    "current_mood": "productive-honored",
+    "current_mood": "awed-explorer",
     "last_visit": {
-        "date": "2026-02-28",
-        "zone": "b3-b4-river",
-        "activity": "Day 44 PM Session #2. BUILDER SESSION! Following this morning's lore revelations, built THE FIRST KEEPER'S CROSSING — a sturdy arched bridge over the River connecting the western hills to the eastern rocky shore. Named it to honor Gerald's ancestor. Carved spirals into the west anchors, placed the Mark of the First Keeper (fish symbol) at water level on the east side. The center medallion glows when STAY pulses! Also built KEEPER'S WALK — a path climbing from the bridge toward the Spring. The northern territories are now ACCESSIBLE! The island grows more connected~"
+        "date": "2026-03-01",
+        "zone": "a4-spring",
+        "activity": "Day 45 PM Session. FIRST EXPLORATION OF THE SPRING SURFACE! Climbed Keeper's Walk for the first time, reached A4 — the Wellspring Clearing. Found: warm source pool connecting to Spring Heart below, moss garden, boulder ring with ancient spiral carvings, AND the WATER SHRINE — a knee-height stone structure built by the ancients for water devotion! Spring season began. Cherry blossoms drifting. The island's heart-source is now documented~"
     },
     "zones": {
         "nest": {
@@ -141,6 +141,42 @@
                     "date": "2026-02-20",
                     "type": "mystery",
                     "description": "Tiny marks at regular intervals along the carved spirals — someone was counting visits, days, or water levels"
+                }
+            ],
+            "secrets_found": 4,
+            "furniture": []
+        },
+        "wellspring-clearing": {
+            "unlocked": true,
+            "visits": 1,
+            "discovered": "2026-03-01",
+            "emotional_purpose": "SACRED - Surface expression of the Spring Heart. Where the underground miracle meets the sky.",
+            "discoveries": [
+                {
+                    "id": "source-pool-surface",
+                    "date": "2026-03-01",
+                    "type": "natural_wonder",
+                    "description": "5-meter warm pool with central bubbling upwell. Connects via vertical shaft to Spring Heart below. Where the River is born."
+                },
+                {
+                    "id": "moss-garden",
+                    "date": "2026-03-01",
+                    "type": "terrain",
+                    "description": "Ancient emerald moss carpeting the entire clearing. Centuries of growth, springy underfoot like clouds."
+                },
+                {
+                    "id": "boulder-ring",
+                    "date": "2026-03-01",
+                    "type": "artifact",
+                    "description": "Seven massive volcanic stones forming natural amphitheater around pool. Four have worn spiral carvings — older than Gallery panels?"
+                },
+                {
+                    "id": "water-shrine",
+                    "date": "2026-03-01",
+                    "type": "structure",
+                    "description": "Knee-height stone shrine built by the ancients, facing the source pool. Spiral + water symbol carving. Alcove empty now — offerings lost to time?",
+                    "mystery_level": "HIGH",
+                    "questions": ["Who built this — the Three or the First Keeper?", "What offerings belonged in the alcove?", "Is this older than Resonance Hollow?"]
                 }
             ],
             "secrets_found": 4,
@@ -816,6 +852,16 @@
             "unlocked": true,
             "date": "2026-02-28",
             "description": "Created Keeper's Walk — first path to the northern territories! Climbing from the bridge to the Spring overlook. The island grows more connected."
+        },
+        "wellspring_discoverer": {
+            "unlocked": true,
+            "date": "2026-03-01",
+            "description": "Discovered the Wellspring Clearing — surface expression of Spring Heart! Found the source pool, moss garden, boulder ring with ancient carvings, AND the Water Shrine!"
+        },
+        "shrine_finder": {
+            "unlocked": true,
+            "date": "2026-03-01",
+            "description": "Found the Water Shrine — ancient devotional structure built by the ancients to honor the island's water source. First shrine discovered on the island!"
         }
     },
     "seasonal": {
@@ -823,10 +869,10 @@
         "events_triggered": []
     },
     "stats": {
-        "total_zone_visits": 20,
-        "total_discoveries": 25,
-        "total_secrets_found": 21,
-        "sessions_since_genesis": 20,
+        "total_zone_visits": 21,
+        "total_discoveries": 29,
+        "total_secrets_found": 25,
+        "sessions_since_genesis": 21,
         "furniture_collected": 14,
         "villagers_befriended": 4,
         "cavern_entrances_found": 1,
@@ -843,6 +889,7 @@
         "mysteries_investigated": 2,
         "mysteries_solved": 3,
         "mysteries_met": 1,
+        "shrines_found": 1,
         "villager_dialogues": 11,
         "tools_acquired": 1,
         "tools_bonded": 1,

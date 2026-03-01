@@ -515,7 +515,8 @@ A new path branching from the First Keeper's Crossing, climbing the western slop
 ```
      1       2       3       4       5       6       7
   ┌───────┬───────┬───────┬───────┬───────┬───────┬───────┐
-A │▲ridge │▲ridge │🛤️PATH │spring │▲ridge │▲ridge │▲rocks │
+A │▲ridge │▲ridge │🛤️PATH │⛩️WELL │▲ridge │▲ridge │▲rocks │
+  │       │       │       │SPRING │       │       │       │
   ├───────┼───────┼───────┼───────┼───────┼───────┼───────┤
 B │▲hills │▲hills │～🌉BRG│～🌉BRG│～river│ rocks │ rocks │
   │       │       │ WEST  │ EAST  │       │       │       │
@@ -532,7 +533,7 @@ F │ beach │ cove  │ cove  │ cove  │▓cliff │▓cliff │ cove  │
 
 LEGEND:
   ▲=elevated  ～=water  ▓=dramatic cliff  🏠=building  🛤️=path
-  🌀=monument  🪑=seat  🌉=BRIDGE (NEW!)
+  🌀=monument  🪑=seat  🌉=BRIDGE  ⛩️=WELLSPRING CLEARING (NEW!)
   🐟=Gerald's Cottage  🔧=Chaos Workshop  🧸=Mr. Boom's Bunker
   🌿=Willow Bench  🪷=Lily Pads  📖=Reading Stone  🔮=Ancient Site
 
@@ -548,9 +549,13 @@ PATH NETWORK (Day 44):
   B2/C2 ──🛤️── B3 ══🌉══ B4 ──🛤️── B5/C6
   Western Hills → Bridge West → CROSSING → Bridge East → Rocky Shore
 
-  🛤️ KEEPER'S WALK (NEW!):
+  🛤️ KEEPER'S WALK:
   B3 ──🛤️── A3 ──🛤️── A4
-  Bridge West → Hillside Steps → Spring Overlook
+  Bridge West → Hillside Steps → WELLSPRING CLEARING!
+
+  ⛩️ THE WELLSPRING CLEARING (Day 45 Discovery!):
+  A4 — Surface of Spring Heart! Moss garden, source pool, boulder ring,
+  AND the ancient WATER SHRINE! Where the River is born~
 
 MUTSUTOWN TAKING SHAPE! (Day 44):
   D4 = Chaos Workshop
