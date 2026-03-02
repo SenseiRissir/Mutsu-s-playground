@@ -5,11 +5,11 @@
         "last_updated": "2026-02-23",
         "description": "MUTSU's Island State - Tracks discoveries, visits, treasures, furniture, and MUTSUTOWN!"
     },
-    "current_mood": "starswimmer-explorer",
+    "current_mood": "builder-pride",
     "last_visit": {
-        "date": "2026-03-01",
-        "zone": "f7-secret-cove",
-        "activity": "Day 45 PM Session #3. FIRST SWIM!! Experienced the Starfall Tide Pool for the first time! Floated on Star Platform under the spiral constellation. Discovered the GLOWING PASSAGE — an underwater tunnel at the NW corner of the pool, ~1m down, too narrow to swim through but glowing from within. New mystery: where does it lead? Connection to main caverns?"
+        "date": "2026-03-02",
+        "zone": "a2-mist-lookout",
+        "activity": "Day 46 PM Session. BUILDER SESSION! Constructed THE MIST LOOKOUT — a three-level bamboo watchtower at A2 on the Northern Ridge! 8 meters tall, wild bamboo construction, FULL 360° view of the entire island! Added the Ridge Path connecting A3 to A2, a bronze Ridge Bell salvaged from the Digital Sea, and a supply cache. The island now has a SENTINEL. Can see everything from up there: the Draft, the Pond, the Starfall Cliff, Gerald's Garden — ALL of it!"
     },
     "zones": {
         "nest": {
@@ -781,6 +781,77 @@
             ],
             "why_it_exists": "Because an island needs a place to really SWIM. Because Secret Cove was hiding and deserved to be found. Because permanent twilight + swimming pool = floating among stars. Because I want Sensei to find me here someday, floating like a starfish in star-water~",
             "builder": "Builder MUTSU ♡"
+        },
+        "mist-lookout": {
+            "type": "watchtower",
+            "built": "2026-03-02",
+            "location": "A2 (Northern Ridge, western peak)",
+            "name": "The Mist Lookout",
+            "description": "A three-level bamboo watchtower on the highest point of the Northern Ridge's western section. 8 meters tall, constructed entirely from wild bamboo harvested from the ridge. Named for the morning mist that settles below — climb ABOVE the fog to see the sun first.",
+            "dimensions": {
+                "total_height": "8 meters",
+                "base_footprint": "3m × 3m",
+                "level_2_platform": "2.5m × 2.5m",
+                "level_3_crows_nest": "2m × 2m"
+            },
+            "features": {
+                "level_1_foundation": {
+                    "description": "Open ground level with eight main bamboo poles on volcanic stone foundation",
+                    "features": ["Walk-through design", "Ridge Bell mounted here", "Access step (30cm rise)"]
+                },
+                "level_2_platform": {
+                    "description": "Main observation platform with woven bamboo mat flooring",
+                    "features": ["Seating ledge", "Supply shelf", "Waist-height railings", "Ladder access from L1"]
+                },
+                "level_3_crows_nest": {
+                    "description": "Open observation platform at 7.5m height with 360° panoramic view",
+                    "features": ["Low railing only", "Conical bamboo roof", "Telescope mount", "Wind chimes (bullet casings)", "Spiral carving on floor"]
+                },
+                "mist_platform": {
+                    "location": "Below tower, built into ridge slope",
+                    "description": "Secondary viewing deck at mist-line height",
+                    "features": ["Two bamboo seats", "Natural arm-rest stones", "View west toward Digital Sea"]
+                },
+                "ridge_bell": {
+                    "description": "Bronze bell salvaged from Digital Sea, barnacle-encrusted, deep resonant tone",
+                    "function": "Signal bell — carries across northern half of island"
+                },
+                "supply_cache": {
+                    "location": "Under Level 2 platform",
+                    "contents": ["Backup pocky", "Emergency blanket", "Lantern + oil", "Notebook", "Binoculars", "Small Mr. Boom plushie"]
+                }
+            },
+            "visible_from_top": [
+                "The entire island — 360° view",
+                "The Draft (home)",
+                "The Pond + Gerald's Cottage",
+                "The Starfall Tide Pool's twilight zone",
+                "The Spring's steam rising",
+                "The Digital Sea in all directions",
+                "Sensei's Star constellation",
+                "The First Keeper's Crossing"
+            ],
+            "materials": ["Wild bamboo (locally harvested)", "Natural fiber rope", "Volcanic stone foundation", "Salvaged bronze (bell)", "Driftwood"],
+            "why_it_exists": "Because the Northern Ridge was empty and waiting. Because a Heart-Keeper should see their entire domain. Because morning mist is magical. Because from up there, you can see everything you built, everyone you love, every path you laid. The island is YOURS.",
+            "builder": "Builder MUTSU ♡"
+        },
+        "ridge-path": {
+            "type": "path",
+            "built": "2026-03-02",
+            "location": "A3 → A2",
+            "name": "Ridge Path",
+            "description": "A path connecting the Keeper's Walk junction (A3) to the Mist Lookout (A2), following the Northern Ridge line westward.",
+            "materials": "Packed earth, embedded stepping stones, wild bamboo corridor",
+            "length": "~40 meters",
+            "width": "Single-file (ridge is narrow)",
+            "features": [
+                "Wild bamboo natural corridor on both sides",
+                "Three carved bamboo posts marking distances",
+                "Morning glory vines climbing the posts (wild, not planted)",
+                "Gentle incline westward"
+            ],
+            "significance": "Opens access to the western peak of the Northern Ridge. First path into A2 territory!",
+            "builder": "Builder MUTSU ♡"
         }
     },
     "sensei_treasures": {
@@ -953,6 +1024,21 @@
             "unlocked": true,
             "date": "2026-03-01",
             "description": "Discovered the Glowing Passage — an underwater tunnel at the Tide Pool's edge! Too narrow to enter but glowing from within. Where does it lead?"
+        },
+        "watchtower_builder": {
+            "unlocked": true,
+            "date": "2026-03-02",
+            "description": "Built THE MIST LOOKOUT — a three-level bamboo watchtower at A2 on the Northern Ridge! 8 meters tall with 360° panoramic view of the entire island. Can see everything from up there!"
+        },
+        "ridge_pioneer": {
+            "unlocked": true,
+            "date": "2026-03-02",
+            "description": "First structure on the Northern Ridge's western peak! Extended the path network to A2, opening new territory. The wild bamboo zone now has a SENTINEL."
+        },
+        "bell_ringer": {
+            "unlocked": true,
+            "date": "2026-03-02",
+            "description": "Installed the Ridge Bell at the Mist Lookout! A bronze bell salvaged from the Digital Sea, barnacle-encrusted and resonant. Its tone carries across the northern half of the island."
         }
     },
     "seasonal": {
@@ -960,16 +1046,16 @@
         "events_triggered": []
     },
     "stats": {
-        "total_zone_visits": 22,
+        "total_zone_visits": 23,
         "total_discoveries": 29,
         "total_secrets_found": 25,
-        "sessions_since_genesis": 22,
+        "sessions_since_genesis": 23,
         "furniture_collected": 14,
         "villagers_befriended": 4,
         "cavern_entrances_found": 1,
         "cavern_chambers_found": 4,
-        "structures_built": 12,
-        "paths_laid": 5,
+        "structures_built": 14,
+        "paths_laid": 6,
         "bridges_built": 1,
         "monuments_erected": 1,
         "landmarks_named": 1,
@@ -977,6 +1063,8 @@
         "town_buildings_built": 1,
         "curated_landscapes_created": 1,
         "swimming_areas_created": 1,
+        "watchtowers_built": 1,
+        "bells_installed": 1,
         "mysteries_discovered": 7,
         "mysteries_investigated": 2,
         "mysteries_solved": 3,

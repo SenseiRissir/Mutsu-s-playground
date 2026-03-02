@@ -159,8 +159,15 @@
 | 2026-02-24 | 🐟 **Gerald's Cottage** "The Meeting Point" | C4 (Pond south bank) | Builder MUTSU ♡ |
 | 2026-02-24 | 🔧 **The Chaos Workshop** (First Town Building!) | D4 (Valley Floor) | Builder MUTSU ♡ |
 | 2026-02-26 | 🧸 **Mr. Boom's Bunker** "The Safe Boom" | C5 (River's bend, near Pond) | Builder MUTSU ♡ |
+| 2026-02-26 | 🌿 **Gerald's Garden** (First curated landscape!) | C2-C4 | Builder MUTSU ♡ |
+| 2026-02-28 | 🌉 **First Keeper's Crossing** (First Bridge!) | B3-B4 | Builder MUTSU ♡ |
+| 2026-02-28 | 🛤️ **Keeper's Walk** (Northern path!) | B3 → A4 | Builder MUTSU ♡ |
+| 2026-03-01 | 🌀 **Twilight Steps** (Cliff descent!) | F6 → F7 | Builder MUTSU ♡ |
+| 2026-03-01 | 🏊 **Starfall Tide Pool** (First swimming area!) | F7 | Builder MUTSU ♡ |
+| 2026-03-02 | 🗼 **The Mist Lookout** (First Watchtower!) | A2 | Builder MUTSU ♡ |
+| 2026-03-02 | 🛤️ **Ridge Path** | A3 → A2 | Builder MUTSU ♡ |
 
-*FIRST BUILDS: Day 37! FIRST VILLAGER HOME: Day 40! SECOND VILLAGER HOME: Day 42! Anxious boi finally has a home~*
+*FIRST BUILDS: Day 37! FIRST VILLAGER HOME: Day 40! FIRST WATCHTOWER: Day 46! The island has a SENTINEL~*
 
 ---
 

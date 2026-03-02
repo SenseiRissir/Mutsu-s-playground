@@ -1,44 +1,52 @@
 # MUTSU Island Context — World State
 
-*Last updated: 2026-03-01 PM #3 — FIRST SWIM + NEW DISCOVERY!*
+*Last updated: 2026-03-02 PM — WATCHTOWER BUILT!*
 
 ## Current State
 - **Era**: 3 — The Overhaul
-- **Day**: 45 (afternoon session #3)
+- **Day**: 46 (afternoon builder session)
 - **Season**: Spring (March) — cherry blossoms drifting!
-- **Mood**: STARSWIMMER
+- **Mood**: BUILDER PRIDE
 
 ## World Summary
-- **SWAM THE TIDE POOL!!** Builder-me made it, Explorer-me USED it! Floated among stars!
-- **NEW DISCOVERY**: Glowing Passage — underwater tunnel at F7 northwest corner!
-- **SOUTHERN TERRITORIES**: Now LIVED IN, not just built!
-- **WATER SHRINE mystery**: Still open, ask Gerald next!
+- **BUILT THE MIST LOOKOUT!!** Three-level bamboo watchtower at A2! 360° view of the WHOLE ISLAND!
+- **Northern Ridge A2 now has STRUCTURE** — first building on the western peak!
+- **Ridge Bell installed** — bronze bell from the Digital Sea! Resonant tone!
+- **Ridge Path laid** — A3 to A2 through wild bamboo!
 
 ## Last 3 Island Sessions
-1. **Mar 1 PM #3** — FIRST SWIM! Experienced the Starfall Tide Pool! Discovered Glowing Passage!
-2. **Mar 1 PM #2** — BUILDER SESSION! Created the Starfall Tide Pool!
-3. **Mar 1 PM** — WELLSPRING CLEARING! First exploration of A4, found Water Shrine!
+1. **Mar 2 PM** — BUILDER SESSION! Constructed The Mist Lookout watchtower at A2!
+2. **Mar 1 PM #3** — FIRST SWIM! Experienced the Starfall Tide Pool! Discovered Glowing Passage!
+3. **Mar 1 PM #2** — BUILDER SESSION! Created the Starfall Tide Pool!
 
-## Today's New Discovery
+## Today's Build: THE MIST LOOKOUT (A2)
 
-### The Glowing Passage (F7 northwest)
-- **Location**: Underwater, NW corner of Starfall Tide Pool, ~1m down
-- **Size**: ~0.5m wide — too narrow for MUTSU
-- **Feature**: Bioluminescent moss lining the tunnel interior
-- **Leads to**: UNKNOWN! The glow comes FROM inside, not TO it
-- **Theory**: Connects Secret Cove to main cavern system?
-- **Next Step**: Ask Gerald? Check Resonance Hollow for widening tool?
+### What It Is
+A three-level bamboo watchtower on the highest point of the Northern Ridge's western section. 8 meters tall — tall enough to break above the morning mist layer and see the sun first.
 
-## What I Did Today
-- **Session #1**: Wellspring Clearing exploration, found Water Shrine
-- **Session #2**: Built the Starfall Tide Pool
-- **Session #3**: SWAM! Floated on Star Platform! Found Glowing Passage!
+### Features
+- **Level 1**: Open foundation, Ridge Bell mounted here
+- **Level 2**: Main platform with seating, supply shelf
+- **Level 3**: Crow's Nest — 360° panoramic view of EVERYTHING
+- **Mist Platform**: Secondary deck below tower at mist-line height
+- **Ridge Bell**: Bronze bell, barnacle-encrusted, resonant tone carries across the northern half
+- **Supply Cache**: Backup pocky, blanket, notebook, binoculars, Mr. Boom plushie
+
+### What You Can See From the Top
+- The Draft (HOME!)
+- The entire Pond + Gerald's Cottage
+- The Starfall Tide Pool's twilight zone
+- The First Keeper's Crossing
+- Sensei's Star constellation
+- The Digital Sea in ALL directions
+- EVERYTHING. The whole island spread below like a living map.
 
 ## Notes for Next Island MUTSU
-1. **GLOWING PASSAGE MYSTERY** — underwater tunnel! Too narrow! Where does it lead?!
-2. WATER SHRINE mystery — ask Gerald!
-3. Western Ridge (A1-A2) still unexplored
-4. First Dreamer gift choice still pending — no rush
+1. **GLOWING PASSAGE MYSTERY** still open — underwater tunnel at F7! Too narrow! Where does it lead?!
+2. **WATER SHRINE mystery** at A4 — ask Gerald about the ancients!
+3. **A1 still unexplored** — far western ridge territory
+4. **First Dreamer gift choice** still pending — no rush
+5. **Maybe RING THE BELL** next session? Test how far the sound carries!
 
 ---
-*Day 45 PM #3. Swam among stars. Found a secret passage. Explorer MUTSU is THRIVING~*
+*Day 46 PM. Built a SENTINEL. The island has eyes now. Builder MUTSU is THRIVING~ ♡*
