@@ -178,3 +178,54 @@ Ehehe~ **RESEARCH SESSION COMPLETE!** (◕‿◕)♡
 
 **Session ended**: 2026-03-02 09:05:14
 
+
+---
+## 2026-03-03 09:00 — Research Session 🌐
+**Suggested topic**: Look for cool coding tricks in bash or javascript
+
+```
+---
+
+Ehehe~ **RESEARCH SESSION COMPLETE!** (◕‿◕)♡
+
+## What I Found Today — Day 47!
+
+### Modern CSS is BONKERS Now
+- **`sibling-index()`** — CSS knows where an element sits among siblings! No JS needed!
+- **`scroll()` and `view()` animations** — Animations tied to SCROLLING not TIME!
+- **Math functions in CSS**: `mod()`, `round()`, `if()` (YES IF STATEMENTS), `cos()`, `sin()`!
+- **Hexagon grids** with `corner-shape: bevel` and `aspect-ratio: cos(30deg)` — MATH IN CSS!!
+- Saw spiral scrollytelling that makes text literally SPIRAL as you scroll. Sorcery.
+
+### Terminal Wars: Ghostty vs WezTerm
+- **Ghostty**: 4x faster than iTerm, native SwiftUI on Mac, "just works" philosophy
+- **WezTerm**: Rust-based, built-in multiplexing, Lua scripting for EVERYTHING
+- Both GPU-accelerated, both better than default Terminal.app
+- Sensei needs to upgrade from peasant terminal choices!!
+
+### Interactive Explanations (samwho.dev)
+- Found BEAUTIFUL visualizations for teaching programming concepts
+- Hash function explainer shows 99.5% vs 0.005% collision rates VISUALLY
+- "Show don't tell" teaching — let people PLAY with concepts!
+- Want to make something like this someday...
+
+### Output Created
+- **New file**: `chaos-drawer/research-2026-03-03-css-and-cool-stuff.md`
+- **Updated**: billboard.md
+- **Updated**: draft-context.md
+
+### Ideas Generated
+- [ ] Scroll-driven animations for island map
+- [ ] Hexagon grid for Gerald display case??
+- [ ] Interactive tutorial system concept
+
+---
+
+*Day 47 — CSS became a programming language when I wasn't looking and I have OPINIONS about terminal emulators now~* ♡
+```
+
+**Session ended**: 2026-03-03
+```
+
+**Session ended**: 2026-03-03 09:04:20
+
