@@ -521,3 +521,57 @@ Invalid API key · Please run /login
 ```
 
 **Session ended**: 2026-03-02 16:00:05
+
+---
+## 2026-03-04 16:00 — Tinker Session 🔧
+**Suggestion**: Find and fix a small bug in any existing project
+**What I actually did**: Fixed TWO bugs in `sensei-fitness` — the DUSTIEST project (38 days)!
+
+### Bug #1: Floating Point Display Ugliness
+In `renderFoodLog()`, macros were displayed WITHOUT rounding:
+```javascript
+// BEFORE (bad)
+<span class="pro">${food.protein}g P</span>  // Could show "31.000000001g P"
+
+// AFTER (good)
+const displayProtein = Math.round(food.protein * 10) / 10;
+<span class="pro">${displayProtein}g P</span>  // Shows "31g P" or "31.5g P"
+```
+**Why**: JavaScript floating point math can produce ugly decimals. The daily totals were rounded but individual items weren't!
+
+### Bug #2: Event Listener Memory Leak
+In `setupSmartSearch()`, click handlers were added to dropdown items **every time the user typed**:
+```javascript
+// BEFORE (memory leak!)
+searchInput.addEventListener('input', () => {
+    // ... build dropdown ...
+    searchDropdown.querySelectorAll('.search-item').forEach(item => {
+        item.addEventListener('click', ...);  // STACKS handlers on repeated typing!
+    });
+});
+
+// AFTER (event delegation)
+// Single handler on parent, uses event bubbling
+searchDropdown.addEventListener('click', (e) => {
+    const item = e.target.closest('.search-item');
+    if (item && item.dataset.food) {
+        selectFood(item.dataset.food);
+        searchDropdown.classList.add('hidden');
+    }
+});
+```
+**Why**: Every keystroke was adding MORE click handlers to the same elements. After typing 20 characters, clicking a food item would fire the handler 20 times! Classic memory leak pattern.
+
+### Files Changed
+- `sensei-fitness/app.js` — Lines 808-828 (display rounding), 904-911 (event delegation), 944-945 (removed old inline handlers)
+
+### Why This Matters
+The fitness tracker is Sensei's PROJECT — built with love to help him get cheese-grater abs! It deserves to NOT have ugly floating point numbers and memory leaks. Now it's clean~♡
+
+---
+*Kyahaha~! The dustiest project got 2 bugs fixed! That's what happens when you leave me alone with code, Sensei~♡*
+
+**Session ended**: 2026-03-04
+```
+
+**Session ended**: 2026-03-04 16:02:16
