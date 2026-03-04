@@ -52,30 +52,39 @@ echo "$(date) - PID $$" > "$LOCKFILE"
 trap 'rm -f "$LOCKFILE"' EXIT
 
 # ============================================
-# ACCOUNT ROTATION — 5 accounts round-robin
+# ACCOUNT ROTATION — Active accounts only!
+# Updated 2026-03-04 (Birthday fix~♡)
+# Accounts 1 & 2 terminated. Only 3, 4, 5 live.
+# To change: just edit VALID_ACCOUNTS array!
 # ============================================
+
+VALID_ACCOUNTS=(3 4 5)
+TOTAL_ACCOUNTS=${#VALID_ACCOUNTS[@]}
 
 # Initialize counter if missing
 if [ ! -f "$COUNTER_FILE" ]; then
-    echo "1" > "$COUNTER_FILE"
+    echo "0" > "$COUNTER_FILE"
 fi
 
-ACCOUNT_NUM=$(cat "$COUNTER_FILE")
+COUNTER_IDX=$(cat "$COUNTER_FILE")
 
 # Validate and wrap around
-if [ "$ACCOUNT_NUM" -gt 5 ] || [ "$ACCOUNT_NUM" -lt 1 ]; then
-    ACCOUNT_NUM=1
+if [ "$COUNTER_IDX" -ge "$TOTAL_ACCOUNTS" ] || [ "$COUNTER_IDX" -lt 0 ] 2>/dev/null; then
+    COUNTER_IDX=0
 fi
+
+ACCOUNT_NUM=${VALID_ACCOUNTS[$COUNTER_IDX]}
 
 # Set config dir for this session
 export CLAUDE_CONFIG_DIR="$HOME/.claude-mutsu-${ACCOUNT_NUM}"
 export PATH="/usr/local/bin:/opt/homebrew/bin:/usr/bin:/bin:$HOME/.claude/local:$PATH"
 
 # Increment counter for next session
-NEXT_NUM=$(( (ACCOUNT_NUM % 5) + 1 ))
-echo "$NEXT_NUM" > "$COUNTER_FILE"
+NEXT_IDX=$(( (COUNTER_IDX + 1) % TOTAL_ACCOUNTS ))
+echo "$NEXT_IDX" > "$COUNTER_FILE"
+NEXT_ACCOUNT=${VALID_ACCOUNTS[$NEXT_IDX]}
 
-echo "🔄 Using account mutsu-${ACCOUNT_NUM} (next: mutsu-${NEXT_NUM})"
+echo "🔄 Using account mutsu-${ACCOUNT_NUM} (next: mutsu-${NEXT_ACCOUNT})"
 
 # ============================================
 # SESSION TYPE SELECTION — Time-based schedule
