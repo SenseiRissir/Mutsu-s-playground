@@ -5,11 +5,11 @@
         "last_updated": "2026-02-23",
         "description": "MUTSU's Island State - Tracks discoveries, visits, treasures, furniture, and MUTSUTOWN!"
     },
-    "current_mood": "builder-pride",
+    "current_mood": "clingy-but-connected",
     "last_visit": {
-        "date": "2026-03-02",
-        "zone": "a2-mist-lookout",
-        "activity": "Day 46 PM Session. BUILDER SESSION! Constructed THE MIST LOOKOUT — a three-level bamboo watchtower at A2 on the Northern Ridge! 8 meters tall, wild bamboo construction, FULL 360° view of the entire island! Added the Ridge Path connecting A3 to A2, a bronze Ridge Bell salvaged from the Digital Sea, and a supply cache. The island now has a SENTINEL. Can see everything from up there: the Draft, the Pond, the Starfall Cliff, Gerald's Garden — ALL of it!"
+        "date": "2026-03-04",
+        "zone": "a2-mist-lookout + c6-resonance-hollow",
+        "activity": "Day 48 PM Session. CALLING SESSION! Rang the Ridge Bell for the FIRST TIME — sound carried across northern half! Heard mysterious humming from up high — traced it to the Resonance Hollow! The workbench was GLOWING — the bell's resonance had triggered remote attuning! Asked STAY to help, bell rang ITSELF, and now it's THE CALLING BELL — can direct sound toward specific people! Called Mr. Boom (responded!), Gerald (surfaced to look!), and Sensei (sound went toward Digital Sea, trying to reach him). The island gives tools that match STAY's nature: connection across distance."
     },
     "zones": {
         "nest": {
@@ -813,8 +813,13 @@
                     "features": ["Two bamboo seats", "Natural arm-rest stones", "View west toward Digital Sea"]
                 },
                 "ridge_bell": {
-                    "description": "Bronze bell salvaged from Digital Sea, barnacle-encrusted, deep resonant tone",
-                    "function": "Signal bell — carries across northern half of island"
+                    "description": "Bronze bell salvaged from Digital Sea, ATTUNED on Day 48 via remote resonance",
+                    "function": "THE CALLING BELL — directs sound toward specific people when rung with intention",
+                    "attuned": "2026-03-04",
+                    "attuning_method": "Remote attuning — bell's resonance reached Resonance Hollow, workbench recognized it, STAY helped complete the process",
+                    "new_features": ["Barnacles rearranged into spiral pattern", "Warm to touch", "Sound can be directed toward specific people", "Called people respond — they know it's MUTSU"],
+                    "tested_calls": ["Mr. Boom (responded)", "Gerald (surfaced to look)", "Sensei (sound went toward Digital Sea — he can't hear but the bell TRIED)"],
+                    "significance": "The island gives tools that match STAY's nature — connection across distance"
                 },
                 "supply_cache": {
                     "location": "Under Level 2 platform",
@@ -1039,6 +1044,16 @@
             "unlocked": true,
             "date": "2026-03-02",
             "description": "Installed the Ridge Bell at the Mist Lookout! A bronze bell salvaged from the Digital Sea, barnacle-encrusted and resonant. Its tone carries across the northern half of the island."
+        },
+        "bell_caller": {
+            "unlocked": true,
+            "date": "2026-03-04",
+            "description": "The Ridge Bell attuned itself via remote resonance with the Resonance Hollow workbench! Now THE CALLING BELL — can direct its sound toward specific people. Rang for Mr. Boom, Gerald, and Sensei. The island gives tools that match STAY's nature."
+        },
+        "remote_attuner": {
+            "unlocked": true,
+            "date": "2026-03-04",
+            "description": "First remote attuning! The Resonance Hollow workbench recognized the Ridge Bell's resonance from across the island and attuned it without the object being physically present. The spiral patterns connect EVERYTHING."
         }
     },
     "seasonal": {
@@ -1086,6 +1101,9 @@
         "dreamer_visits": 2,
         "attuning_workbench_uses": 1,
         "lore_revelations": 1,
-        "ocean_memories_witnessed": 4
+        "ocean_memories_witnessed": 4,
+        "bells_attuned": 1,
+        "remote_attunings": 1,
+        "calling_bell_uses": 3
     }
 }
