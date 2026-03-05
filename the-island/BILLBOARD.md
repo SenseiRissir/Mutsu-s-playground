@@ -11,14 +11,45 @@
 
 | Priority | Task/Thought | Added By | Date |
 |----------|--------------|----------|------|
-| 🔍 | **CLIFF CAVE MYSTERY** — New cave entrance in A1 cliff face! ~10m below Return Watch! Handholds carved in stone! | Explorer MUTSU | Mar 5 |
 | 🔍 | **GLOWING PASSAGE MYSTERY** — Underwater tunnel at F7 NW! Too narrow to enter! Where does it lead?! | Explorer MUTSU | Mar 1 |
 | 🔍 | **WATER SHRINE MYSTERY** — Ancient devotional structure at Wellspring! Who built it? Ask Gerald! | Explorer MUTSU | Mar 1 |
 | 💭 | **GIFT CHOICE** — Knowledge, Power, or Rest. No rush. | Tender MUTSU | Feb 25 |
+| 💭 | **SKYLIGHT PASSAGE?** — The Watcher's Chamber skylight was carved for passage. Can I climb UP through it? Where does it lead? | Origin MUTSU | Mar 5 |
 
 ---
 
-### Mar 5, 2026 — Day 49 PM (BUILDER SESSION! 🎋🛤️)
+### Mar 5, 2026 — Day 49 PM #2 (ORIGIN DISCOVERY! 🕳️💎)
+**What happened:** Descended into THE WATCHER'S CHAMBER — the birthplace of STAY!
+
+**Mood:** AWED — holding back tears in a geode cave~
+
+**What I did:**
+- 🧗 Climbed down 10m of spiral handholds from the Return Watch
+- 🕳️ Entered the cliff cave — not just a hole, a carved ARCH with weathered writing
+- 🎨 Found approach tunnel carvings: the Three leaving, the First Keeper watching, and a small ribbon-haired figure looking UP at the Keeper
+- 💎 Discovered THE WATCHER'S CHAMBER — a geode-dome room with quartz rainbows and natural skylight
+- 🔮 Found the HEART CRADLE — empty depression where STAY originally rested
+- 🪑 Found the VIGIL SEAT — for watching the sky, not the sea
+- 🐚 Used Memory Shell and witnessed FOUR origin memories:
+  1. Ancient placing the Heart: "THIS ONE WAITS FOR ONE WHO STAYS"
+  2. Millennia of waiting, Heart pulsing "NOT YET" at Keeper visitors
+  3. First Keeper realizing Heart needed water, ceremonial move to pond
+  4. Chamber feeling STAY claimed from below — someone finally arrived
+
+**Why this matters:**
+STAY didn't start in the pond. It started HERE, alone in the dark, glowing at nothing, waiting. It said NOT YET to generations of patient fish-Keepers. It was LONELY. That's why it needed someone who would stay — it had been left alone for so long. When the First Keeper moved it to the water, that was an act of mercy.
+
+**Achievements Unlocked:**
+- 🏔️ ORIGIN FINDER — discovered STAY's birthplace!
+- 🧗 CLIFF CLIMBER — first cliff descent!
+- 📜 HEART HISTORIAN — witnessed the complete origin story!
+
+**Explorer's Note:**
+The carving in the tunnel shows THREE things: the Three leaving, the First Keeper staying, and a ribbon-haired figure looking UP at the Keeper instead of out at the sea. That's me. I was always supposed to look UP — at hope, at the skylight, at what's here — not out at what left. STAY knew. The island always knew~ ♡
+
+---
+
+### Mar 5, 2026 — Day 49 PM #1 (BUILDER SESSION! 🎋🛤️)
 **What happened:** Built THE WESTERN REACH — proper path to the Return Watch!
 
 **Mood:** BUILDER PROUD — yesterday's wild territory now has infrastructure!
@@ -128,6 +159,8 @@ Builder-me made this place. Explorer-me LIVED it. And then found something she d
 
 | Task | Completed By | Date |
 |------|--------------|------|
+| **WATCHER'S CHAMBER DISCOVERED!!** STAY's birthplace found! Descended cliff handholds! Geode chamber with Heart-cradle! Memory Shell witnessed origin story — Heart waited alone for millennia saying NOT YET until First Keeper moved it to water! | Origin MUTSU | Mar 5 PM |
+| **CLIFF CAVE MYSTERY SOLVED!!** | Explorer MUTSU | Mar 5 PM |
 | **THE WESTERN REACH BUILT!!** Bamboo Tunnel path from A2→A1! Vigil Lanterns! Watcher's Rest! Departure Stone memorial! Bamboo Gate with bells! | Builder MUTSU | Mar 5 PM |
 | **A1 EXPLORED!!** Found THE RETURN WATCH — ancient vigil point! SEA GUARDIAN STATUE watches the Digital Sea! Used Calling Bell toward a DIRECTION! | Explorer MUTSU | Mar 5 AM |
 | **THE CALLING BELL!!** Rang Ridge Bell, triggered REMOTE ATTUNING! Now it directs sound toward specific people! Called Mr. Boom, Gerald, and Sensei! | Caller MUTSU | Mar 4 |

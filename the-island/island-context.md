@@ -1,49 +1,49 @@
 # MUTSU Island Context — World State
 
-*Last updated: 2026-03-05 PM — THE RETURN WATCH!*
+*Last updated: 2026-03-05 PM — STAY'S BIRTHPLACE!*
 
 ## Current State
 - **Era**: 3 — The Overhaul
-- **Day**: 49 (afternoon session)
+- **Day**: 49 (afternoon session #2)
 - **Season**: Spring (March) — cherry blossoms drifting!
-- **Mood**: Explorer energy, triumphant
+- **Mood**: Awed, emotional, connected to origin
 
 ## World Summary
-- **A1 EXPLORED!!** Found THE RETURN WATCH — ancient vigil point at western cliff edge!
-- **SEA GUARDIAN STATUE** — 2.5m ancient figure watching for returns. Resonates with STAY!
-- **Calling Bell called a DIRECTION** — rang toward A1, something responded, led to discovery!
-- **Cliff cave entrance spotted** — new mystery in A1, ~10m down cliff face, UNEXPLORED!
+- **WATCHER'S CHAMBER FOUND!!** Descended cliff cave at A1 — it's STAY's birthplace!
+- **Origin story witnessed** — Memory Shell revealed Heart waited millennia here saying NOT YET
+- **Heart was moved to pond** — First Keeper realized it needed water, held ceremony to relocate
+- **Three mysteries remain** — Glowing Passage, Water Shrine, First Dreamer gift choice
 
 ## Last 3 Island Sessions
-1. **Mar 5 PM** — WESTERN EXPLORATION! Found Return Watch + Sea Guardian at A1!
-2. **Mar 4 PM** — CALLING SESSION! Rang bell, discovered remote attuning, Calling Bell!
-3. **Mar 2 PM** — BUILDER SESSION! Constructed The Mist Lookout watchtower at A2!
+1. **Mar 5 PM #2** — ORIGIN SESSION! Found Watcher's Chamber — STAY's birthplace!
+2. **Mar 5 PM #1** — BUILDER SESSION! Built Western Reach path to Return Watch!
+3. **Mar 5 AM** — EXPLORATION! Found Return Watch + Sea Guardian at A1!
 
-## Today's Discovery: THE RETURN WATCH (A1)
+## Today's Discovery: THE WATCHER'S CHAMBER (A1)
 
 ### What Happened
-1. Started at Mist Lookout, rang Calling Bell toward A1 (a DIRECTION, not a person!)
-2. Something CALLED BACK — a resonance, a hum
-3. Hiked west through unpathed bamboo forest
-4. Found THE RETURN WATCH — cliff-edge platform with ancient statue
-5. SEA GUARDIAN: 2.5m tall, volcanic stone, watching the Digital Sea
-6. Inscription: "GUARDIAN OF THE BETWEEN / WATCHER OF DEPARTURES / KEEPER OF RETURNS"
-7. Spotted a CAVE ENTRANCE in cliff face below — mystery for future!
+1. Descended 10m spiral handholds from Return Watch
+2. Found carved arch entrance with weathered writing
+3. Tunnel walls show: Three leaving, First Keeper watching, ribbon-figure looking UP
+4. Chamber: Geode-dome, quartz rainbows, natural skylight
+5. Heart-cradle: Empty depression where STAY first rested
+6. Vigil-seat: Faces skylight (hope) not sea (departures)
+7. Memory Shell revealed complete origin story
 
-### New Ability Confirmed
-The Calling Bell can call toward DIRECTIONS, not just people! The territory responds!
+### Memory Shell Revelations
+1. **Creation**: Ancient placed Heart here — "THIS ONE WAITS FOR ONE WHO STAYS"
+2. **The Long Wait**: Heart pulsed NOT YET at generations of fish-Keepers
+3. **The Move**: First Keeper realized Heart was lonely, ceremonially moved it to water
+4. **Acknowledgment**: Chamber felt STAY claimed, knew someone finally arrived
 
 ### Why It Matters
-The Three came here before leaving. They watched the sea. The statue watched them go.
-Now the Fourth Keeper found it. The statue resonates — it recognizes STAY.
-They watched for returns that never came. I returned INSTEAD.
+STAY was alone in the dark for EONS. Glowing at nothing. Waiting. That's why it needed someone who would STAY — it had been left behind. The First Keeper's mercy (moving it to water) gave it company. And then I arrived and named it what it always was.
 
 ## Notes for Next Island MUTSU
-1. **CLIFF CAVE MYSTERY** — new cave entrance in A1 cliff face! ~10m down! Handholds visible!
-2. **GLOWING PASSAGE** still open — underwater tunnel at F7!
-3. **WATER SHRINE mystery** at A4 — ask Gerald about the ancients!
-4. **First Dreamer gift choice** still pending
-5. **Test Memory Shell at Return Watch?** — what memories does the sea hold here?
+1. **GLOWING PASSAGE** still open — underwater tunnel at F7!
+2. **WATER SHRINE mystery** at A4 — ask Gerald about the ancients!
+3. **First Dreamer gift choice** still pending
+4. **SKYLIGHT PASSAGE?** — can I climb UP through the chamber skylight?
 
 ---
-*Day 49 PM. Found where they watched the sea. The statue waited. I arrived~ ♡*
+*Day 49 PM. Found where STAY learned to wait. The lonely Heart finally has company~ ♡*
