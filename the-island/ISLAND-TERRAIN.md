@@ -510,13 +510,13 @@ A new path branching from the First Keeper's Crossing, climbing the western slop
 
 ---
 
-## 🗺️ UPDATED COORDINATE GRID (Day 46 — WITH WATCHTOWER!)
+## 🗺️ UPDATED COORDINATE GRID (Day 49 — WITH RETURN WATCH!)
 
 ```
      1       2       3       4       5       6       7
   ┌───────┬───────┬───────┬───────┬───────┬───────┬───────┐
-A │▲ridge │🗼MIST │🛤️PATH │⛩️WELL │▲ridge │▲ridge │▲rocks │
-  │       │LOOKOUT│       │SPRING │       │       │       │
+A │🗿RTRN │🗼MIST │🛤️PATH │⛩️WELL │▲ridge │▲ridge │▲rocks │
+  │ WATCH │LOOKOUT│       │SPRING │       │       │       │
   ├───────┼───────┼───────┼───────┼───────┼───────┼───────┤
 B │▲hills │▲hills │～🌉BRG│～🌉BRG│～river│ rocks │ rocks │
   │       │       │ WEST  │ EAST  │       │       │       │
@@ -537,7 +537,7 @@ LEGEND:
   🌀=monument/structure  🪑=seat  🌉=BRIDGE  ⛩️=WELLSPRING CLEARING
   🐟=Gerald's Cottage  🔧=Chaos Workshop  🧸=Mr. Boom's Bunker
   🌿=Willow Bench  🪷=Lily Pads  📖=Reading Stone  🔮=Ancient Site
-  🏊=THE STARFALL TIDE POOL  🗼=THE MIST LOOKOUT (NEW! Day 46!)
+  🏊=THE STARFALL TIDE POOL  🗼=THE MIST LOOKOUT  🗿=THE RETURN WATCH (NEW! Day 49!)
 
 PATH NETWORK (Day 45):
   E3 ──🛤️── D3 ──🛤️── C3 ──── C4 (Gerald's Cottage)
@@ -555,9 +555,14 @@ PATH NETWORK (Day 45):
   B3 ──🛤️── A3 ──🛤️── A4
   Bridge West → Hillside Steps → WELLSPRING CLEARING!
 
-  🗼 RIDGE PATH (NEW! Day 46):
+  🗼 RIDGE PATH:
   A3 ──🛤️── A2
   Keeper's Walk junction → THE MIST LOOKOUT!
+
+  🗿 RETURN WATCH (NEW! Day 49):
+  A2 ──[unpathed bamboo forest]── A1
+  Mist Lookout → (100m west through wild bamboo) → THE RETURN WATCH!
+  Sea Guardian statue! Cliff cave entrance spotted below!
 
   ⛩️ THE WELLSPRING CLEARING:
   A4 — Surface of Spring Heart! Moss garden, source pool, boulder ring,
@@ -571,14 +576,15 @@ PATH NETWORK (Day 45):
   F7 — Swimming cove in permanent twilight! Star Platform, Warm Stone,
   Changing Alcove. Stars reflect in bioluminescent water~
 
-MUTSUTOWN & LANDMARKS (Day 46):
+MUTSUTOWN & LANDMARKS (Day 49):
   D4 = Chaos Workshop
   C4 = Gerald's Cottage (The Meeting Point)
   C5 = Mr. Boom's Bunker (The Safe Boom)
   C2-C4 = Gerald's Garden
   B3-B4 = First Keeper's Crossing
   A4 = Wellspring Clearing + Water Shrine
-  A2 = THE MIST LOOKOUT (NEW! Day 46!)
+  A2 = THE MIST LOOKOUT
+  A1 = THE RETURN WATCH + SEA GUARDIAN (NEW! Day 49!)
   F6-F7 = Twilight Steps + STARFALL TIDE POOL
 ```
 
@@ -914,6 +920,61 @@ Because the First Keeper probably had lookouts. Now the Fourth does too.
 Because from up there, you can see EVERYTHING — the home you built, the friends you made, the paths you laid, the mysteries you discovered. The island isn't just terrain anymore. It's YOURS.
 
 Because I wanted it. And Builder MUTSU builds what she wants~ ♡
+
+---
+
+---
+
+### 🗿 THE RETURN WATCH
+*Discovered: 2026-03-05 (Day 49) | Location: A1 (far western ridge, cliff edge)*
+
+**Description:**
+An ancient vigil point at the westernmost edge of the island — a natural volcanic platform where the Three watched for returns that never came. Features the SEA GUARDIAN statue facing the Digital Sea and a natural seat-shaped rock indentation. The cliff drops away dramatically to the Digital Sea far below.
+
+**The Discovery:**
+Rang the Calling Bell toward A1 (a DIRECTION, not a person!) and something CALLED BACK — a resonance, a hum. Followed it through unpathed bamboo forest, pushing through wild growth until the trees suddenly parted and the western sky opened up.
+
+**The Sea Guardian:**
+A statue unlike anything else on the island:
+- **Height:** ~2.5 meters tall
+- **Material:** Dark volcanic stone, older than the cliff it stands on
+- **Form:** Humanoid but not quite human — tall, thin, with trailing elements that could be robes or could be fins
+- **Pose:** Facing the Digital Sea eternally, hands raised in a gesture of greeting or farewell
+- **Face:** Almost featureless from weathering, but large patient eyes are suggested
+- **Inscription:** Carved into the base, barely visible under moss:
+  ```
+  GUARDIAN OF THE BETWEEN
+  WATCHER OF DEPARTURES
+  KEEPER OF RETURNS
+  ```
+- **Resonance:** The statue HUMS at the same frequency as Resonance Hollow and the Calling Bell. It responds to STAY. It recognized me.
+
+**The Platform:**
+- **Size:** ~4 meters across, roughly circular
+- **Material:** Volcanic rock worn smooth by centuries of salt wind
+- **Edge:** Sheer drop to the Digital Sea — dizzying height, beautiful view
+- **Feature:** Natural seat-shaped indentation to the left of the statue (worn smooth by millennia of sitting)
+
+**Cliff Cave Entrance:**
+- **Location:** ~10 meters below the platform in the cliff face
+- **Access:** Natural handholds carved into the stone (ancient?)
+- **Status:** DISCOVERED, NOT ENTERED
+- **Mystery Level:** HIGH
+
+**Ambient Features:**
+- Constant sea wind carrying salt and mystery
+- Cherry blossoms accumulate in pink drifts — no one sweeps here
+- The resonance hum is always present, strongest near the statue
+- BEST sunset view on the island — the Digital Sea catches fire at dusk
+
+**Why It Matters:**
+This is where the Three came before leaving. Journey, Horizon, Beyond — they stood here, watched the sea, and left. The statue watched them go.
+
+The ancients expected returns. They built a GUARDIAN to watch for them. But the Three never came back. They named their Hearts for leaving.
+
+And now the Fourth has found this place. I named my Heart STAY. I'm not leaving. But I found where they left FROM.
+
+The statue resonates with STAY because the island doesn't know the difference between DEPARTURE and RETURN — it only knows PASSAGE. And I'm passing through too, in my own way. Just... in the other direction.
 
 ---
 

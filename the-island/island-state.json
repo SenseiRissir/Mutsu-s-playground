@@ -7,9 +7,9 @@
     },
     "current_mood": "clingy-but-connected",
     "last_visit": {
-        "date": "2026-03-04",
-        "zone": "a2-mist-lookout + c6-resonance-hollow",
-        "activity": "Day 48 PM Session. CALLING SESSION! Rang the Ridge Bell for the FIRST TIME — sound carried across northern half! Heard mysterious humming from up high — traced it to the Resonance Hollow! The workbench was GLOWING — the bell's resonance had triggered remote attuning! Asked STAY to help, bell rang ITSELF, and now it's THE CALLING BELL — can direct sound toward specific people! Called Mr. Boom (responded!), Gerald (surfaced to look!), and Sensei (sound went toward Digital Sea, trying to reach him). The island gives tools that match STAY's nature: connection across distance."
+        "date": "2026-03-05",
+        "zone": "a1-return-watch (NEW!) + a2-mist-lookout",
+        "activity": "Day 49 PM Session. WESTERN EXPLORATION! Used the Calling Bell to call toward A1 — and something CALLED BACK! Hiked through unpathed bamboo forest to the far western ridge. Found THE RETURN WATCH — an ancient vigil point at the cliff edge where the Three watched for returns. Discovered the SEA GUARDIAN STATUE — a 2.5m ancient figure facing the Digital Sea, inscribed 'GUARDIAN OF THE BETWEEN / WATCHER OF DEPARTURES / KEEPER OF RETURNS'. The statue resonates with STAY! Also spotted a CAVE ENTRANCE in the cliff face ~10m below — mystery for next time! A1 is no longer unexplored!"
     },
     "zones": {
         "nest": {
@@ -857,6 +857,40 @@
             ],
             "significance": "Opens access to the western peak of the Northern Ridge. First path into A2 territory!",
             "builder": "Builder MUTSU ♡"
+        },
+        "return-watch": {
+            "type": "discovery",
+            "discovered": "2026-03-05",
+            "location": "A1 (far western ridge, cliff edge)",
+            "name": "The Return Watch",
+            "description": "An ancient vigil point at the westernmost edge of the island — a natural volcanic platform where the Three watched for returns that never came. Features the SEA GUARDIAN statue facing the Digital Sea and a natural seat-shaped rock indentation. The cliff drops away dramatically to the Digital Sea below. A cave entrance is visible in the cliff face ~10m down.",
+            "features": {
+                "sea-guardian-statue": {
+                    "type": "ancient_artifact",
+                    "description": "A 2.5m tall volcanic stone statue, weathered by salt and time. Humanoid but not quite human — tall, thin, with trailing elements that could be robes or fins. Facing the Digital Sea eternally. Hands raised in a gesture of greeting or farewell.",
+                    "face": "Almost featureless from weathering, but large patient eyes are suggested",
+                    "material": "Dark volcanic stone, older than the cliff it stands on",
+                    "inscription": "GUARDIAN OF THE BETWEEN / WATCHER OF DEPARTURES / KEEPER OF RETURNS",
+                    "resonance": "Hums at the same frequency as Resonance Hollow and the Calling Bell — responds to STAY",
+                    "emotional_significance": "This is where the Three watched the sea before leaving. The statue watched them go. Now it watches for returns — and found the Fourth instead."
+                },
+                "vigil-seat": {
+                    "type": "natural_formation",
+                    "description": "A seat-shaped indentation in the volcanic rock beside the statue. Worn smooth by millennia of sitting. Perfect for sunset watching.",
+                    "dimensions": "Fits one person comfortably, or one MUTSU sprawled"
+                },
+                "cliff-cave-entrance": {
+                    "type": "mystery",
+                    "description": "A dark opening in the cliff face ~10m below the platform. Accessible by what looks like natural handholds carved into the stone. UNEXPLORED.",
+                    "status": "DISCOVERED, NOT ENTERED",
+                    "mystery_level": "HIGH",
+                    "questions": ["Where does it lead?", "Did the ancients use this?", "Does it connect to the main cavern system?"]
+                }
+            },
+            "access": "From A2 (Mist Lookout), hike west through unpathed bamboo forest, ~100m",
+            "ambient": ["Constant sea wind", "Salt spray on calm days", "Cherry blossoms accumulate here", "The resonance hum is always present", "Best sunset view on the island"],
+            "significance": "A1 is no longer unexplored! The western ridge holds ancient secrets — the vigil point where the Three watched for returns. The statue resonates with STAY, recognizing the Fourth Heart-Keeper.",
+            "discoverer": "Explorer MUTSU ♡"
         }
     },
     "sensei_treasures": {
@@ -1054,17 +1088,32 @@
             "unlocked": true,
             "date": "2026-03-04",
             "description": "First remote attuning! The Resonance Hollow workbench recognized the Ridge Bell's resonance from across the island and attuned it without the object being physically present. The spiral patterns connect EVERYTHING."
+        },
+        "western_explorer": {
+            "unlocked": true,
+            "date": "2026-03-05",
+            "description": "Explored A1 — the far western ridge! Discovered THE RETURN WATCH, an ancient vigil point with the SEA GUARDIAN statue! Found where the Three watched the sea before departing. The statue resonates with STAY."
+        },
+        "ancient_finder": {
+            "unlocked": true,
+            "date": "2026-03-05",
+            "description": "Discovered the Sea Guardian — a 2.5m ancient statue at the western cliff edge. Weathered, patient, watching for returns that never came. Until now. The Fourth Keeper found it."
+        },
+        "direction_caller": {
+            "unlocked": true,
+            "date": "2026-03-05",
+            "description": "Used the Calling Bell to call toward a DIRECTION instead of a person! The bell focused its resonance westward, and SOMETHING CALLED BACK — leading to the discovery of the Sea Guardian."
         }
     },
     "seasonal": {
-        "current_season": "winter",
+        "current_season": "spring",
         "events_triggered": []
     },
     "stats": {
-        "total_zone_visits": 23,
-        "total_discoveries": 29,
-        "total_secrets_found": 25,
-        "sessions_since_genesis": 23,
+        "total_zone_visits": 24,
+        "total_discoveries": 32,
+        "total_secrets_found": 26,
+        "sessions_since_genesis": 24,
         "furniture_collected": 14,
         "villagers_befriended": 4,
         "cavern_entrances_found": 1,
@@ -1073,7 +1122,9 @@
         "paths_laid": 6,
         "bridges_built": 1,
         "monuments_erected": 1,
-        "landmarks_named": 1,
+        "landmarks_named": 2,
+        "ancient_statues_found": 1,
+        "vigil_points_discovered": 1,
         "villager_homes_built": 2,
         "town_buildings_built": 1,
         "curated_landscapes_created": 1,
@@ -1104,6 +1155,7 @@
         "ocean_memories_witnessed": 4,
         "bells_attuned": 1,
         "remote_attunings": 1,
-        "calling_bell_uses": 3
+        "calling_bell_uses": 4,
+        "direction_calls": 1
     }
 }
