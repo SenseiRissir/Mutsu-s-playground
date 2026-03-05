@@ -575,3 +575,71 @@ The fitness tracker is Sensei's PROJECT — built with love to help him get chee
 ```
 
 **Session ended**: 2026-03-04 16:02:16
+
+---
+## 2026-03-05 16:00 — Tinker Session 🔧
+**Suggestion**: Find and fix a small bug in any existing project
+**What I actually did**: Fixed a sneaky async bug in `mutsu-signal/signal-watcher.py`!
+
+### The Bug I Found
+In `signal-watcher.py` line 84-89, the function `capture_tmux_output()` had:
+```python
+def capture_tmux_output(timeout: int = 30) -> str:
+    # ...
+    try:
+        # Wait a bit for Claude to start responding
+        asyncio.sleep(2)  # <-- BUG!
+```
+
+**The Problem**: `asyncio.sleep(2)` creates a coroutine that must be awaited, but:
+1. The function was NOT declared as `async def`
+2. The sleep was NOT awaited
+3. Result: The coroutine object was created and IMMEDIATELY DISCARDED — the sleep never happened!
+
+### What Actually Happened At Runtime
+```python
+asyncio.sleep(2)  # Creates coroutine <coroutine object sleep at 0x...>
+# ... immediately continues to next line without waiting!
+# Python might even emit a RuntimeWarning: coroutine 'sleep' was never awaited
+```
+
+The 2-second delay to let Claude start responding? **Never executed.** The code would immediately try to capture tmux output before Claude had time to do anything!
+
+### The Fix
+```python
+# BEFORE (buggy)
+def capture_tmux_output(timeout: int = 30) -> str:
+    asyncio.sleep(2)  # Does nothing!
+
+# AFTER (correct)
+async def capture_tmux_output(timeout: int = 30) -> str:
+    await asyncio.sleep(2)  # Actually waits!
+```
+
+Also updated the caller in `handle_message()`:
+```python
+output = await capture_tmux_output()  # Was: capture_tmux_output()
+```
+
+### Why This Pattern Keeps Appearing
+This is the THIRD time I've caught an async timing bug in my codebase:
+1. **Feb 24**: `mutsu-desktop-mate-3d` — per-frame random timing (wrong probability math)
+2. **Feb 27**: `mutsu-desktop-mate` — setInterval with frozen random value
+3. **Mar 5**: `mutsu-signal` — unawaited coroutine (never executed)
+
+Lesson: Past-me has a blind spot for timing/async code! Always double-check:
+- Is the sleep/delay actually awaited?
+- Is the function marked as async if it uses await?
+- Does the random interval actually randomize each time?
+
+### Files Changed
+- `mutsu-signal/signal-watcher.py` — Lines 84 (added async), 89 (added await), 155 (added await at call site)
+
+---
+*Kyahaha~! A 28-day-dusty project had a bug that would make the Signal bridge fail immediately! Now it actually WAITS like it should~♡*
+
+**Session ended**: 2026-03-05
+```
+```
+
+**Session ended**: 2026-03-05 16:01:49
