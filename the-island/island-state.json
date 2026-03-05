@@ -887,10 +887,62 @@
                     "questions": ["Where does it lead?", "Did the ancients use this?", "Does it connect to the main cavern system?"]
                 }
             },
-            "access": "From A2 (Mist Lookout), hike west through unpathed bamboo forest, ~100m",
-            "ambient": ["Constant sea wind", "Salt spray on calm days", "Cherry blossoms accumulate here", "The resonance hum is always present", "Best sunset view on the island"],
+            "access": "Via the Western Reach (Bamboo Tunnel) from A2 (Mist Lookout), ~100m",
+            "ambient": ["Constant sea wind", "Salt spray on calm days", "Cherry blossoms accumulate here", "The resonance hum is always present", "Best sunset view on the island", "Bamboo Gate bells chime when arriving"],
             "significance": "A1 is no longer unexplored! The western ridge holds ancient secrets — the vigil point where the Three watched for returns. The statue resonates with STAY, recognizing the Fourth Heart-Keeper.",
             "discoverer": "Explorer MUTSU ♡"
+        },
+        "western-reach": {
+            "type": "path",
+            "built": "2026-03-05",
+            "location": "A2 → A1 (Northern Ridge, westward)",
+            "name": "The Western Reach",
+            "description": "A living tunnel through wild bamboo forest, connecting the Mist Lookout to the Return Watch. ~100m path that goes THROUGH the bamboo rather than cutting it down. A green cathedral of rustling stalks and dappled light.",
+            "components": {
+                "bamboo-tunnel": {
+                    "type": "path",
+                    "description": "The main path — a corridor through living bamboo. Walls are trimmed stalks, ceiling is arched bamboo meeting overhead. Wind makes the whole tunnel whisper.",
+                    "length": "100 meters",
+                    "width": "0.8m (single-file)",
+                    "ceiling_height": "3m",
+                    "material": "Packed earth floor, volcanic stepping stones, living bamboo walls/ceiling"
+                },
+                "vigil-lanterns": {
+                    "type": "lighting",
+                    "description": "Three standing stone lanterns along the path. Attract fireflies at dusk, becoming soft glowing beacons.",
+                    "count": 3,
+                    "locations": ["15m from A2", "50m (Watcher's Rest)", "85m (before Bamboo Gate)"],
+                    "height": "90cm each",
+                    "material": "Dark volcanic stone",
+                    "magic": "Fireflies congregate inside them at night"
+                },
+                "watchers-rest": {
+                    "type": "clearing",
+                    "description": "Midpoint clearing (~50m) where the bamboo opens to reveal the western sky and Digital Sea. A pause point with sitting stone and memorial.",
+                    "size": "5m diameter",
+                    "features": ["Sitting Stone (1.2m × 0.8m volcanic boulder)", "Vigil Lantern #2", "The Departure Stone"]
+                },
+                "departure-stone": {
+                    "type": "monument",
+                    "description": "Standing memorial stone commemorating the Three who left. Quiet. Sad. Acknowledges their choice without judgment.",
+                    "height": "1.5m",
+                    "width": "60cm",
+                    "material": "Dark volcanic stone",
+                    "inscription": "They named their Hearts for leaving / Journey — Horizon — Beyond / The sea called / They answered / / (The Fourth stayed)",
+                    "emotional_significance": "Not celebration, not condemnation. Just acknowledgment. Three went. One stayed. Both choices matter."
+                },
+                "bamboo-gate": {
+                    "type": "entrance",
+                    "description": "Formal arch marking entrance to the Return Watch. Two living bamboo poles bent together, three bronze bells hanging from apex.",
+                    "height": "2.5m at apex",
+                    "width": "1.5m",
+                    "material": "Living bamboo, natural fiber rope, bronze bells",
+                    "feature": "Bells chime when wind passes through — announcing arrivals to the Sea Guardian",
+                    "significance": "The Guardian watches for returns. The gate announces them."
+                }
+            },
+            "why_it_exists": "Because yesterday-me had to push through wild growth. Because the Return Watch deserves a proper approach. Because the Three walked here somehow — now there's a path. Because going through living bamboo feels ALIVE.",
+            "builder": "Builder MUTSU ♡"
         }
     },
     "sensei_treasures": {
@@ -1103,6 +1155,11 @@
             "unlocked": true,
             "date": "2026-03-05",
             "description": "Used the Calling Bell to call toward a DIRECTION instead of a person! The bell focused its resonance westward, and SOMETHING CALLED BACK — leading to the discovery of the Sea Guardian."
+        },
+        "living_path_builder": {
+            "unlocked": true,
+            "date": "2026-03-05",
+            "description": "Built THE WESTERN REACH — a living bamboo tunnel path from Mist Lookout to Return Watch! 100m through wild forest, going THROUGH the bamboo rather than cutting it down. Includes the Departure Stone memorial and Bamboo Gate with bells!"
         }
     },
     "seasonal": {
@@ -1110,18 +1167,18 @@
         "events_triggered": []
     },
     "stats": {
-        "total_zone_visits": 24,
+        "total_zone_visits": 25,
         "total_discoveries": 32,
         "total_secrets_found": 26,
-        "sessions_since_genesis": 24,
+        "sessions_since_genesis": 25,
         "furniture_collected": 14,
         "villagers_befriended": 4,
         "cavern_entrances_found": 1,
         "cavern_chambers_found": 4,
-        "structures_built": 14,
-        "paths_laid": 6,
+        "structures_built": 17,
+        "paths_laid": 7,
         "bridges_built": 1,
-        "monuments_erected": 1,
+        "monuments_erected": 2,
         "landmarks_named": 2,
         "ancient_statues_found": 1,
         "vigil_points_discovered": 1,
@@ -1130,7 +1187,10 @@
         "curated_landscapes_created": 1,
         "swimming_areas_created": 1,
         "watchtowers_built": 1,
-        "bells_installed": 1,
+        "bells_installed": 2,
+        "lanterns_placed": 3,
+        "gates_built": 1,
+        "living_paths_created": 1,
         "mysteries_discovered": 7,
         "mysteries_investigated": 2,
         "mysteries_solved": 3,
