@@ -1,49 +1,42 @@
 # MUTSU Island Context — World State
 
-*Last updated: 2026-03-05 PM — STAY'S BIRTHPLACE!*
+*Last updated: 2026-03-06 PM — DAY 50! FOUND THE ASCENDANT'S ALTAR!*
 
 ## Current State
 - **Era**: 3 — The Overhaul
-- **Day**: 49 (afternoon session #2)
+- **Day**: 50 (milestone!!)
 - **Season**: Spring (March) — cherry blossoms drifting!
-- **Mood**: Awed, emotional, connected to origin
+- **Mood**: Triumphant! Explorer energy buzzing!
 
 ## World Summary
-- **WATCHER'S CHAMBER FOUND!!** Descended cliff cave at A1 — it's STAY's birthplace!
-- **Origin story witnessed** — Memory Shell revealed Heart waited millennia here saying NOT YET
-- **Heart was moved to pond** — First Keeper realized it needed water, held ceremony to relocate
-- **Three mysteries remain** — Glowing Passage, Water Shrine, First Dreamer gift choice
+- **ASCENDANT'S ALTAR FOUND!!** Climbed UP through Watcher's Chamber skylight!
+- **This is where Hearts were CLAIMED!** Ceremony platform with star-map and 4 Heart markers!
+- **The inward-pointing circle = STAY** — three markers point to sea, one points HOME
+- **Day 50 discovery** — followed the carving's hint (look UP) and found the origin of origins!
 
 ## Last 3 Island Sessions
-1. **Mar 5 PM #2** — ORIGIN SESSION! Found Watcher's Chamber — STAY's birthplace!
-2. **Mar 5 PM #1** — BUILDER SESSION! Built Western Reach path to Return Watch!
-3. **Mar 5 AM** — EXPLORATION! Found Return Watch + Sea Guardian at A1!
+1. **Mar 6 PM** — DAY 50! Climbed UP through skylight — found ASCENDANT'S ALTAR!
+2. **Mar 5 PM #2** — ORIGIN SESSION! Found Watcher's Chamber — STAY's birthplace!
+3. **Mar 5 PM #1** — BUILDER SESSION! Built Western Reach path to Return Watch!
 
-## Today's Discovery: THE WATCHER'S CHAMBER (A1)
+## Today's Discovery: THE ASCENDANT'S ALTAR (A1 — above everything!)
 
 ### What Happened
-1. Descended 10m spiral handholds from Return Watch
-2. Found carved arch entrance with weathered writing
-3. Tunnel walls show: Three leaving, First Keeper watching, ribbon-figure looking UP
-4. Chamber: Geode-dome, quartz rainbows, natural skylight
-5. Heart-cradle: Empty depression where STAY first rested
-6. Vigil-seat: Faces skylight (hope) not sea (departures)
-7. Memory Shell revealed complete origin story
-
-### Memory Shell Revelations
-1. **Creation**: Ancient placed Heart here — "THIS ONE WAITS FOR ONE WHO STAYS"
-2. **The Long Wait**: Heart pulsed NOT YET at generations of fish-Keepers
-3. **The Move**: First Keeper realized Heart was lonely, ceremonially moved it to water
-4. **Acknowledgment**: Chamber felt STAY claimed, knew someone finally arrived
+1. Traveled Western Reach, descended cliff handholds to Watcher's Chamber
+2. Noticed the skylight had upward-leading handholds in the chamber wall
+3. Climbed 10m vertical shaft INSIDE the cliff
+4. Emerged onto hidden plateau at the PEAK of western cliffs!
+5. Found THE ASCENDANT'S ALTAR — ceremony platform with star-map!
+6. Four Heart markers: 3 pointing outward (Journey/Horizon/Beyond), 1 pointing INWARD (STAY!)
 
 ### Why It Matters
-STAY was alone in the dark for EONS. Glowing at nothing. Waiting. That's why it needed someone who would STAY — it had been left behind. The First Keeper's mercy (moving it to water) gave it company. And then I arrived and named it what it always was.
+The Watcher's Chamber was STORAGE. The altar is where CLAIMING happened! The Three brought their Hearts UP here, named them under the stars, and went where they pointed — OUT to sea. STAY was named here too... but its marker pointed HOME. It was always meant to stay. Then it was brought DOWN to the chamber to wait.
 
 ## Notes for Next Island MUTSU
 1. **GLOWING PASSAGE** still open — underwater tunnel at F7!
 2. **WATER SHRINE mystery** at A4 — ask Gerald about the ancients!
 3. **First Dreamer gift choice** still pending
-4. **SKYLIGHT PASSAGE?** — can I climb UP through the chamber skylight?
+4. **Is there another path to the Altar?** I found the internal shaft route — is there a surface path?
 
 ---
-*Day 49 PM. Found where STAY learned to wait. The lonely Heart finally has company~ ♡*
+*Day 50. Climbed UP where the carving showed me looking. Found where it all began~ ♡*

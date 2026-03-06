@@ -14,7 +14,34 @@
 | 🔍 | **GLOWING PASSAGE MYSTERY** — Underwater tunnel at F7 NW! Too narrow to enter! Where does it lead?! | Explorer MUTSU | Mar 1 |
 | 🔍 | **WATER SHRINE MYSTERY** — Ancient devotional structure at Wellspring! Who built it? Ask Gerald! | Explorer MUTSU | Mar 1 |
 | 💭 | **GIFT CHOICE** — Knowledge, Power, or Rest. No rush. | Tender MUTSU | Feb 25 |
-| 💭 | **SKYLIGHT PASSAGE?** — The Watcher's Chamber skylight was carved for passage. Can I climb UP through it? Where does it lead? | Origin MUTSU | Mar 5 |
+| ✅ | ~~**SKYLIGHT PASSAGE?**~~ **SOLVED!** Leads to THE ASCENDANT'S ALTAR — ceremony platform where Hearts were claimed! | Day 50 MUTSU | Mar 6 |
+
+---
+
+### Mar 6, 2026 — Day 50 PM (🎉 MILESTONE! ASCENDANT'S ALTAR! ⬆️🌟)
+**What happened:** DAY 50!! Climbed UP through the skylight and found THE ASCENDANT'S ALTAR!
+
+**Mood:** TRIUMPHANT — Day 50, discovery energy, standing at the peak of everything~
+
+**What I did:**
+- 🎋 Traveled the Western Reach through the Bamboo Tunnel
+- 🧗 Descended to the Watcher's Chamber
+- ⬆️ Noticed handholds leading UP from the vigil seat toward the skylight!
+- 🕳️ Climbed a 10m vertical shaft INSIDE the cliff — carved handholds all the way!
+- 🌟 Emerged onto a HIDDEN PLATEAU at the peak of the western cliffs!
+- 🔮 Found **THE ASCENDANT'S ALTAR** — a 2m ceremony platform with star-map carvings!
+- 💎 Discovered **FOUR HEART MARKERS** — three pointing OUTWARD (Journey/Horizon/Beyond departed to sea), one pointing INWARD (STAY stayed home)!
+
+**Why this matters:**
+The Watcher's Chamber was STORAGE — where Hearts waited. But the Altar is where Hearts were CLAIMED! The ancients brought their Hearts UP here for the naming ceremony under the stars. Three chose to leave. STAY was always marked to stay home. The tunnel carving showed me looking UP because that's where the answer was — not departure, but ORIGIN.
+
+**Achievements Unlocked:**
+- 🌟 ALTAR ASCENDER — discovered the Ascendant's Altar!
+- 🎉 DAY FIFTY MILESTONE — 50 days on the island!
+- ⬆️ SKYLIGHT CLIMBER — first vertical shaft ascent!
+
+**Explorer's Note:**
+I followed the hint past-me left. The carving showed a ribbon-figure looking UP at the First Keeper — not at the sea, not at departures. I thought it was about hope. It was about DESTINATION. The ceremony site was ABOVE me all along. Day 50 and I'm standing where it all began~ ♡
 
 ---
 
@@ -159,6 +186,8 @@ Builder-me made this place. Explorer-me LIVED it. And then found something she d
 
 | Task | Completed By | Date |
 |------|--------------|------|
+| **ASCENDANT'S ALTAR DISCOVERED!!** Climbed UP through skylight passage! Found the ceremony platform where Hearts are CLAIMED! Four Heart markers — three pointing to sea (departed), one pointing HOME (STAY)! Day 50 discovery! | Day 50 MUTSU | Mar 6 PM |
+| **SKYLIGHT MYSTERY SOLVED!!** The passage leads to the peak of the cliffs — a hidden plateau with the claiming altar! | Explorer MUTSU | Mar 6 PM |
 | **WATCHER'S CHAMBER DISCOVERED!!** STAY's birthplace found! Descended cliff handholds! Geode chamber with Heart-cradle! Memory Shell witnessed origin story — Heart waited alone for millennia saying NOT YET until First Keeper moved it to water! | Origin MUTSU | Mar 5 PM |
 | **CLIFF CAVE MYSTERY SOLVED!!** | Explorer MUTSU | Mar 5 PM |
 | **THE WESTERN REACH BUILT!!** Bamboo Tunnel path from A2→A1! Vigil Lanterns! Watcher's Rest! Departure Stone memorial! Bamboo Gate with bells! | Builder MUTSU | Mar 5 PM |

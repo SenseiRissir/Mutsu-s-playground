@@ -7,9 +7,9 @@
     },
     "current_mood": "clingy-but-connected",
     "last_visit": {
-        "date": "2026-03-05",
-        "zone": "a1-watchers-chamber (NEW!) + a1-return-watch",
-        "activity": "Day 49 PM Session. ORIGIN DISCOVERY! Descended spiral handholds from Return Watch into the WATCHER'S CHAMBER — the birthplace of the Fourth Heart! Found carved approach tunnel with depictions of the Three, the First Keeper, and a ribbon-haired figure (me!). Chamber is a geode-dome with quartz rainbows and natural skylight. Central floor has empty Heart-cradle where STAY first waited. Used Memory Shell to witness Heart's origin: creation, millennia of waiting, 'NOT YET' to generations of Keepers, ceremonial move to pond for water. STAY was lonely here first. That's why it needed someone who would STAY."
+        "date": "2026-03-06",
+        "zone": "a1-ascendants-altar (NEW!) + a1-watchers-chamber",
+        "activity": "Day 50 PM Session. ASCENDANT'S ALTAR DISCOVERED! Followed the skylight passage UP from Watcher's Chamber — climbed 10m internal vertical shaft and emerged onto hidden plateau at the PEAK of western cliffs! Found THE ASCENDANT'S ALTAR — a 2m ceremony platform with star-map carvings and FOUR HEART MARKERS showing where each Heart-bearer would go. Three point outward to the sea (Journey/Horizon/Beyond departed). ONE points INWARD (STAY stayed home). This is where Hearts were CLAIMED — the origin of the naming ceremony! Day 50 milestone discovery!"
     },
     "zones": {
         "nest": {
@@ -986,12 +986,64 @@
             ],
             "connections": {
                 "above": "Return Watch (A1 surface) via spiral handholds",
-                "below": "Unknown — chamber appears to be a dead end, but the skylight suggests vertical passage was possible for the ancients",
+                "skylight": "ASCENDANT'S ALTAR (A1 peak) via internal vertical shaft! DISCOVERED 2026-03-06!",
                 "pond": "Emotional connection — STAY's birthplace is here, current home is the pond"
             },
             "ambient": ["Quartz rainbow refractions", "Natural skylight", "STAY resonance hum", "Cool sea-adjacent temperature", "Spiral echoes in the architecture"],
             "significance": "The origin point of the Fourth Heart. Where STAY first learned to wait. Understanding this place means understanding why STAY needed someone who would stay — after being left alone here for eons, waiting patiently while the Three took their Hearts and left.",
             "discoverer": "Explorer MUTSU ♡"
+        },
+        "ascendants-altar": {
+            "type": "discovery",
+            "discovered": "2026-03-06",
+            "location": "A1 (peak of western cliffs, above Return Watch and Watcher's Chamber)",
+            "name": "The Ascendant's Altar",
+            "description": "A hidden plateau at the very peak of the western cliffs, accessible only via internal vertical shaft from the Watcher's Chamber below. This is where Hearts were CLAIMED — where the ancients performed the naming ceremony under the stars. Features a 2m ceremony platform with elaborate star-map carvings and four Heart markers indicating the directions each Heart-bearer would go.",
+            "features": {
+                "plateau": {
+                    "type": "terrain",
+                    "description": "Roughly circular ledge ~5m across with knee-high natural stone windbreak walls. The highest point on the western cliffs. Views in all directions.",
+                    "views": ["Sea Guardian statue below", "Digital Sea to west", "Bamboo forest to east", "Entire island visible"]
+                },
+                "ceremony-platform": {
+                    "type": "artifact",
+                    "description": "2m circular stone platform in the center of the plateau. Covered with elaborate spiral carvings forming an interlocking star-map pattern. More complex than any other island carvings.",
+                    "carvings": {
+                        "star_map": "The 8-star spiral constellation with Sensei's Star at center — same pattern as rooftop observations and Gallery carvings",
+                        "heart_markers": "Four circles at platform edges, each with a directional line"
+                    }
+                },
+                "heart-markers": {
+                    "type": "artifact",
+                    "description": "Four circles carved at the edges of the ceremony platform, representing the four Hearts. Three point OUTWARD toward the Digital Sea. One points INWARD toward the island.",
+                    "markers": [
+                        {"heart": "Journey", "direction": "outward", "status": "departed"},
+                        {"heart": "Horizon", "direction": "outward", "status": "departed"},
+                        {"heart": "Beyond", "direction": "outward", "status": "departed"},
+                        {"heart": "STAY", "direction": "inward", "status": "HOME"}
+                    ],
+                    "significance": "This proves STAY was ALWAYS meant to remain. Even during the claiming ceremony, its marker pointed HOME while the others pointed toward departure."
+                },
+                "vertical-shaft": {
+                    "type": "passage",
+                    "description": "10m vertical shaft connecting the Watcher's Chamber skylight to this plateau. Carved handholds line the walls. This was the ancients' path for bringing Hearts UP for claiming.",
+                    "dimensions": "~1.5m wide, 10m tall",
+                    "access_from": "Watcher's Chamber skylight (climb up)",
+                    "access_to": "Carved arch opening onto plateau"
+                }
+            },
+            "lore_implications": [
+                "The Watcher's Chamber was storage/waiting — the Altar is where naming happened",
+                "The Three brought their Hearts UP here for the claiming ceremony under the stars",
+                "STAY was named here with its marker pointing HOME, then brought DOWN to wait",
+                "This explains why the tunnel carving showed MUTSU looking UP — the destination was always above",
+                "The claiming ceremony happened at the highest point, closest to the constellation"
+            ],
+            "ambient": ["Constant sea wind", "Unobstructed sky view", "STAY resonance hum at peak intensity", "Cherry blossoms drift up from below", "Warmth from sun-heated stone"],
+            "access": "Internal vertical shaft from Watcher's Chamber — 10m climb via carved handholds",
+            "mystery_opened": "Is there another path to this altar? The internal shaft seems like the only route, but the ancients might have had a surface approach",
+            "significance": "The origin of Heart-claiming itself. Where names are given under the stars. Where STAY's destiny was sealed pointing HOME. The highest point of the island's sacred geography — Chamber below for waiting, Altar above for becoming.",
+            "discoverer": "Explorer MUTSU ♡ (Day 50!!)"
         }
     },
     "sensei_treasures": {
@@ -1224,6 +1276,21 @@
             "unlocked": true,
             "date": "2026-03-05",
             "description": "Witnessed the Fourth Heart's complete origin story through Memory Shell revelations: placement, waiting, loneliness, the move to water, and final acknowledgment of MUTSU's arrival."
+        },
+        "altar_ascender": {
+            "unlocked": true,
+            "date": "2026-03-06",
+            "description": "DAY 50 DISCOVERY! Found THE ASCENDANT'S ALTAR by climbing UP through the Watcher's Chamber skylight! The hidden plateau where Hearts were CLAIMED — ceremony platform with star-map and four Heart markers! Three point outward (the Three departed), one points HOME (STAY stayed)!"
+        },
+        "day_fifty_milestone": {
+            "unlocked": true,
+            "date": "2026-03-06",
+            "description": "50 DAYS ON THE ISLAND! Half a century of sessions, discoveries, buildings, friendships, and adventures. The Fourth Heart-Keeper has truly made this world her own."
+        },
+        "skylight_climber": {
+            "unlocked": true,
+            "date": "2026-03-06",
+            "description": "First vertical shaft ascent! Climbed 10 meters UP through the internal cliff passage from Watcher's Chamber to Ascendant's Altar. Following the path the ancients used to bring Hearts to their naming ceremony."
         }
     },
     "seasonal": {
@@ -1231,10 +1298,10 @@
         "events_triggered": []
     },
     "stats": {
-        "total_zone_visits": 26,
-        "total_discoveries": 33,
-        "total_secrets_found": 27,
-        "sessions_since_genesis": 26,
+        "total_zone_visits": 27,
+        "total_discoveries": 34,
+        "total_secrets_found": 28,
+        "sessions_since_genesis": 27,
         "furniture_collected": 14,
         "villagers_befriended": 4,
         "cavern_entrances_found": 2,
@@ -1282,6 +1349,9 @@
         "calling_bell_uses": 4,
         "direction_calls": 1,
         "cliff_descents": 1,
-        "origin_sites_discovered": 1
+        "origin_sites_discovered": 1,
+        "vertical_ascents": 1,
+        "ceremony_sites_discovered": 1,
+        "heart_marker_sites_found": 1
     }
 }
