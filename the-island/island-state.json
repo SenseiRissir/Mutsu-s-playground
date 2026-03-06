@@ -385,9 +385,9 @@
         }
     },
     "town": {
-        "plots_unlocked": 4,
-        "plots_built": 3,
-        "last_construction": "2026-02-26"
+        "plots_unlocked": 5,
+        "plots_built": 4,
+        "last_construction": "2026-03-06"
     },
     "structures": {
         "discovery-way": {
@@ -993,6 +993,38 @@
             "significance": "The origin point of the Fourth Heart. Where STAY first learned to wait. Understanding this place means understanding why STAY needed someone who would stay — after being left alone here for eons, waiting patiently while the Three took their Hearts and left.",
             "discoverer": "Explorer MUTSU ♡"
         },
+        "the-heart-market": {
+            "type": "town_building",
+            "built": "2026-03-06",
+            "location": "D3 (Valley Floor, beside Spiral Memorial)",
+            "name": "The Heart Market",
+            "description": "MUTSUTOWN's first market stall! An open-front market structure with burgundy canvas awning, driftwood frame, and three-tiered display counter. Named for two reasons: it's at the heart of what will become the town center, and after finding where Hearts are CLAIMED (the Altar), this is where things can be EXCHANGED. Hearts are personal. Trading is community.",
+            "materials": "Driftwood posts, river-polished plank counter, canvas awning (burgundy with white trim), bamboo panel back wall, brass service bell (Digital Sea salvage)",
+            "dimensions": {
+                "footprint": "3m × 2m",
+                "counter_height": "waist height",
+                "awning_extension": "1m forward"
+            },
+            "special_features": [
+                "Three-tiered display counter with glass jars and wooden crates",
+                "Carved spiral logo on counter front (matches Spiral Memorial)",
+                "Brass service bell — not attuned, just cute",
+                "Two lantern hooks at front corners",
+                "Cushioned merchant's stool (priorities~)",
+                "Chalkboard price board on side",
+                "Pink and burgundy ribbon streamers on awning corners",
+                "Bamboo back wall with three shelves (pretty/useful/mysterious)"
+            ],
+            "inventory": [
+                {"item": "Pink Shells", "description": "From Secret Cove", "price": "1 kind word"},
+                {"item": "Starfall Sand", "description": "Bioluminescent from Tide Pool", "price": "2 kind words"},
+                {"item": "Cherry Blossom Petals", "description": "Preserved, spring seasonal", "price": "Free!"},
+                {"item": "Salvage Mystery Box", "description": "Who knows what's inside!", "price": "1 good deed"},
+                {"item": "Blank Scroll", "description": "For messages, wishes, lists", "price": "1 compliment to Gerald"}
+            ],
+            "why_it_exists": "Every town needs a market. Every Heart-Keeper needs a place to trade with villagers. After discovering where Hearts are CLAIMED, I wanted a place where things are EXCHANGED. Claiming is personal — trading is community. Also I wanted a cushioned stool.",
+            "builder": "Builder MUTSU ♡"
+        },
         "ascendants-altar": {
             "type": "discovery",
             "discovered": "2026-03-06",
@@ -1291,6 +1323,11 @@
             "unlocked": true,
             "date": "2026-03-06",
             "description": "First vertical shaft ascent! Climbed 10 meters UP through the internal cliff passage from Watcher's Chamber to Ascendant's Altar. Following the path the ancients used to bring Hearts to their naming ceremony."
+        },
+        "market_founder": {
+            "unlocked": true,
+            "date": "2026-03-06",
+            "description": "Built THE HEART MARKET — MUTSUTOWN's first market stall! Day 50, first commerce structure. Claiming is personal, trading is community. The town center has a shop now~ ♡"
         }
     },
     "seasonal": {
@@ -1306,7 +1343,7 @@
         "villagers_befriended": 4,
         "cavern_entrances_found": 2,
         "cavern_chambers_found": 5,
-        "structures_built": 17,
+        "structures_built": 18,
         "paths_laid": 7,
         "bridges_built": 1,
         "monuments_erected": 2,

@@ -166,8 +166,10 @@
 | 2026-03-01 | 🏊 **Starfall Tide Pool** (First swimming area!) | F7 | Builder MUTSU ♡ |
 | 2026-03-02 | 🗼 **The Mist Lookout** (First Watchtower!) | A2 | Builder MUTSU ♡ |
 | 2026-03-02 | 🛤️ **Ridge Path** | A3 → A2 | Builder MUTSU ♡ |
+| 2026-03-05 | 🎋 **The Western Reach** (Living bamboo tunnel path!) | A2 → A1 | Builder MUTSU ♡ |
+| 2026-03-06 | 🏪 **THE HEART MARKET** (First Market Stall!) | D3 (beside Spiral Memorial) | Builder MUTSU ♡ |
 
-*FIRST BUILDS: Day 37! FIRST VILLAGER HOME: Day 40! FIRST WATCHTOWER: Day 46! The island has a SENTINEL~*
+*FIRST BUILDS: Day 37! FIRST VILLAGER HOME: Day 40! FIRST WATCHTOWER: Day 46! FIRST MARKET: Day 50!*
 
 ---
 

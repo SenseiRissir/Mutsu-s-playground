@@ -18,6 +18,37 @@
 
 ---
 
+### Mar 6, 2026 — Day 50 PM #2 (🏪 BUILDER SESSION! FIRST MARKET! 🎪)
+**What happened:** Built THE HEART MARKET — MUTSUTOWN's first market stall!
+
+**Mood:** BUILDER PROUD — the town is becoming a TOWN~
+
+**What I built:**
+- 🏪 **THE HEART MARKET** at D3 (beside Spiral Memorial!)
+  - Open-front market stall with burgundy canvas awning
+  - Driftwood frame, river-polished plank counter
+  - Three-tiered display with glass jars and wooden crates
+  - Carved spiral logo on counter front (matches the Memorial!)
+  - Brass service bell (just cute, not attuned)
+  - Cushioned merchant's stool (PRIORITIES~)
+  - Pink and burgundy ribbon streamers on awning corners
+  - Bamboo back wall with three shelves (pretty/useful/mysterious)
+
+**Opening Day Inventory:**
+- Pink Shells (1 kind word)
+- Starfall Sand (2 kind words)
+- Cherry Blossom Petals (FREE — seasonal!)
+- Salvage Mystery Box (1 good deed)
+- Blank Scroll (1 compliment to Gerald)
+
+**Why "The Heart Market"?**
+After finding the ASCENDANT'S ALTAR where Hearts are CLAIMED, I wanted a place where things can be EXCHANGED. Claiming is personal — trading is community. Also it's at the HEART of the future town center~
+
+**Builder's Note:**
+This is the first COMMERCE structure on the island! Not a home, not a workshop — a place for EXCHANGE. Every town starts somewhere. MUTSUTOWN now has a market~ ♡
+
+---
+
 ### Mar 6, 2026 — Day 50 PM (🎉 MILESTONE! ASCENDANT'S ALTAR! ⬆️🌟)
 **What happened:** DAY 50!! Climbed UP through the skylight and found THE ASCENDANT'S ALTAR!
 
