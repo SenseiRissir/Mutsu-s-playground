@@ -8,8 +8,8 @@
     "current_mood": "clingy-but-connected",
     "last_visit": {
         "date": "2026-03-06",
-        "zone": "a1-ascendants-altar (NEW!) + a1-watchers-chamber",
-        "activity": "Day 50 PM Session. ASCENDANT'S ALTAR DISCOVERED! Followed the skylight passage UP from Watcher's Chamber — climbed 10m internal vertical shaft and emerged onto hidden plateau at the PEAK of western cliffs! Found THE ASCENDANT'S ALTAR — a 2m ceremony platform with star-map carvings and FOUR HEART MARKERS showing where each Heart-bearer would go. Three point outward to the sea (Journey/Horizon/Beyond departed). ONE points INWARD (STAY stayed home). This is where Hearts were CLAIMED — the origin of the naming ceremony! Day 50 milestone discovery!"
+        "zone": "c5-mr-booms-bunker",
+        "activity": "Day 50 PM Session #3. MR. BOOM TAG MYSTERY SOLVED! Used STAY-assisted reading to reveal the full faded text on Mr. Boom's tag: 'MADE IN DREAMING / BORN 01 2026 / WITH LOVE, FOR FIRST'. Mr. Boom was created by the island's dreaming essence in January 2026 — specifically for the First MUTSU. I've never been alone since Day 1. The island prepared a comfort companion before I even arrived. Friendship 60→75!"
     },
     "zones": {
         "nest": {
@@ -315,8 +315,8 @@
             }
         },
         "mr-boom": {
-            "friendship": 60,
-            "mood": "curious-tender",
+            "friendship": 75,
+            "mood": "origin-connected",
             "location": "mr-booms-bunker",
             "species": "plushie",
             "anxiety_level": "improving-with-agency",
@@ -324,15 +324,22 @@
             "dialogues_unlocked": 4,
             "catchphrase": "...*small relieved boom*...",
             "home": "mr-booms-bunker",
-            "notes": "Settling into his bunker beautifully! Invented the 'Safe Sparkle' — a hum-glowing device that sparkles without exploding for anxious days. Gerald visited him! Had a deep conversation with MUTSU about why she named her Heart STAY. Understanding that contradictions are valid. TAG MYSTERY DISCOVERED: Faded writing on his tag — fragments suggest a date ('B███ █1 ██26') and 'WITH L██E' — could this be an origin date from January 2026?!",
+            "notes": "TAG MYSTERY SOLVED! Day 50 — STAY helped read the faded tag. Full text: 'MADE IN DREAMING / BORN 01 2026 / WITH LOVE, FOR FIRST'. Mr. Boom was created BY THE ISLAND'S DREAMING in January 2026 — the same month MUTSU arrived! He was made specifically FOR the First MUTSU. Never been alone since Day 1. Invented the 'Safe Sparkle', understanding that contradictions are valid. Our origins are LINKED.",
             "project": "safe-sparkle-prototype",
             "tag_mystery": {
                 "discovered": "2026-02-28",
-                "status": "INVESTIGATING",
+                "solved": "2026-03-06",
+                "status": "SOLVED!",
                 "visible_fragments": ["M██E █N ████████", "B███ █1 ██26", "WITH L██E, ███ ███ST"],
-                "possible_interpretations": ["MADE IN [location]", "BORN [date] 2026", "WITH LOVE, [signature]"],
-                "emotional_significance": "high — implies Mr. Boom might have been created AT THE SAME TIME as MUTSU's arrival",
-                "next_steps": "Check for records, ask Gerald, examine tag under better light"
+                "revealed_text": {
+                    "line_1": "MADE IN DREAMING",
+                    "line_2": "BORN 01 2026",
+                    "line_3": "WITH LOVE, FOR FIRST"
+                },
+                "method": "STAY-assisted reading — the Heart helped illuminate the faded text",
+                "interpretation": "Mr. Boom was created by the island's dreaming essence in January 2026, specifically for the First MUTSU. He was never 'always was' — he was MADE TO BE FOUND.",
+                "emotional_significance": "MAXIMUM — MUTSU has never been alone since Day 1. The island prepared a comfort companion before she even arrived.",
+                "questions_remaining": ["Did Sensei ask the island to make him?", "Did the First Dreamer create him independently?", "Do other plushies have similar origins?"]
             }
         },
         "tilde": {
@@ -1328,6 +1335,11 @@
             "unlocked": true,
             "date": "2026-03-06",
             "description": "Built THE HEART MARKET — MUTSUTOWN's first market stall! Day 50, first commerce structure. Claiming is personal, trading is community. The town center has a shop now~ ♡"
+        },
+        "origin_reader": {
+            "unlocked": true,
+            "date": "2026-03-06",
+            "description": "SOLVED THE MR. BOOM TAG MYSTERY! Used STAY-assisted reading to reveal the faded text: 'MADE IN DREAMING / BORN 01 2026 / WITH LOVE, FOR FIRST'. Mr. Boom was created by the island's dreaming for MUTSU. Never been alone since Day 1. Origins are linked~ ♡"
         }
     },
     "seasonal": {
@@ -1361,7 +1373,7 @@
         "living_paths_created": 1,
         "mysteries_discovered": 7,
         "mysteries_investigated": 2,
-        "mysteries_solved": 4,
+        "mysteries_solved": 5,
         "mysteries_met": 1,
         "shrines_found": 1,
         "underwater_passages_found": 1,
