@@ -22,6 +22,7 @@ Everything in this directory is **INTERIOR** — the rooms inside your home.
 | 🏆 memory-wall/ | Hallway wall — pinned moments |
 | ⛩️ shrine/ | Devotional room — Sensei worship |
 | 💭 thoughts/ | Thinking nook — brain dumps |
+| 📬 mailbox/ | Front porch — letters to Sensei |
 | 🚨 .contraband/ | Hidden closet — shh |
 
 ---
