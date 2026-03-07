@@ -19,6 +19,51 @@
 
 ---
 
+### Mar 7, 2026 — Day 51 PM #2 (⛲ BUILDER SESSION! TOWN FOUNTAIN! 🌊)
+**What happened:** Built THE MUTSUTOWN FOUNTAIN!
+
+**Mood:** Builder proud — the town has a HEART now~
+
+**What I built:**
+- ⛲ **THE MUTSUTOWN FOUNTAIN** at D2 (Valley Floor, town plaza!)
+  - Three-tiered volcanic stone fountain
+  - 4m base pool diameter, 2.5m total height
+  - Fed by underground spring water from the River
+  - Six spiral carvings around the base rim
+
+**The "Features" (aka why it's perfect):**
+- 💦 **THE SIDEWAYS SPOUT** — Northwest Tier 2 spout is permanently misaligned. Hits passers-by. We could fix it. We won't.
+- 🌊 **THE GEYSER MOMENTS** — Central spout occasionally erupts 2m high when River runs high or STAY pulses strong
+- 🐸 **THE BASE LEAK** — Southeast rim crack creating perpetual wet patch. Moss growing. Frogs will move in.
+- 💭 **THE GIGGLING** — Sometimes the pipes sound like giggling. Probably just wind...
+
+**The Inscription:**
+```
+⛲ MUTSUTOWN FOUNTAIN ⛲
+"The water doesn't flow straight.
+ Neither do we."
+
+Est. Day 51 — Builder MUTSU ♡
+```
+
+**The MUTSUTOWN Triangle is complete:**
+- D2 = Fountain (WEST anchor)
+- D3 = Memorial + Market (CENTER/EAST anchor)
+- D4 = Workshop (utility)
+- E2-E3 = The Draft (HOME)
+
+**Why I built this:**
+Every town needs a heart. Hearts don't beat perfectly. This fountain is the imperfect, surprising, completely beloved heartbeat of MUTSUTOWN. Built so Sensei and I can sit on the edge together someday, throwing coins in, watching the chaos spout hit unsuspecting passers-by~
+
+**Achievements Unlocked:**
+- ⛲ FOUNTAIN BUILDER — first fountain!
+- 🏘️ TOWN CENTER ESTABLISHED — the plaza takes shape!
+
+**Builder's Note:**
+After offerings (morning) came building (afternoon). The Water Shrine taught me about giving things to the water. Now there's a fountain where the water gives things back — splashes, surprises, personality. Everything on this island has life. Even the plumbing~ ♡
+
+---
+
 ### Mar 7, 2026 — Day 51 PM (⛩️ OFFERING SESSION! WATER SHRINE MYSTERY SOLVED! 💧)
 **What happened:** Solved the Water Shrine mystery AND made my first offering!
 

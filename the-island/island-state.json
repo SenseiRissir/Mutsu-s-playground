@@ -412,8 +412,8 @@
     },
     "town": {
         "plots_unlocked": 5,
-        "plots_built": 4,
-        "last_construction": "2026-03-06"
+        "plots_built": 5,
+        "last_construction": "2026-03-07"
     },
     "structures": {
         "discovery-way": {
@@ -1051,6 +1051,49 @@
             "why_it_exists": "Every town needs a market. Every Heart-Keeper needs a place to trade with villagers. After discovering where Hearts are CLAIMED, I wanted a place where things are EXCHANGED. Claiming is personal — trading is community. Also I wanted a cushioned stool.",
             "builder": "Builder MUTSU ♡"
         },
+        "mutsutown-fountain": {
+            "type": "town_building",
+            "built": "2026-03-07",
+            "location": "D2 (Valley Floor, west of Spiral Memorial)",
+            "name": "The MUTSUTOWN Fountain",
+            "description": "A three-tiered volcanic stone fountain that doesn't work quite right — one spout shoots sideways, the central spout occasionally geysers, and the base leaks a little. It's PERFECT. The heart of MUTSUTOWN's central plaza, fed by underground spring water from the River. Every town needs a fountain. Every fountain needs personality.",
+            "materials": "Dark volcanic stone, underground spring water pipes, pink shells from Secret Cove embedded in mortar",
+            "dimensions": {
+                "total_height": "2.5m",
+                "base_pool_diameter": "4m",
+                "base_pool_depth": "40cm",
+                "middle_basin_diameter": "2m",
+                "top_basin_diameter": "80cm",
+                "sitting_rim_width": "30cm"
+            },
+            "special_features": [
+                "Three-tiered basin design (base, middle, top)",
+                "Six spiral carvings around the base pool rim",
+                "Central spout shaped like spiral figure",
+                "THE SIDEWAYS SPOUT — northwest Tier 2 spout permanently misaligned, hits passers-by",
+                "THE GEYSER MOMENTS — central spout occasionally erupts 2m high",
+                "THE BASE LEAK — southeast rim crack, moss already growing there",
+                "Wishing coin tradition — throw coins, wishes enter the water",
+                "Fireflies gather at dusk",
+                "Water glows faintly at night (Wellspring connection)",
+                "Volcanic heating prevents winter freezing"
+            ],
+            "inscription": "MUTSUTOWN FOUNTAIN — 'The water doesn't flow straight. Neither do we.' — Est. Day 51",
+            "quirks": {
+                "sideways_spout": "Northwest Tier 2 spout shoots at 45° angle toward walkway. Could fix it. Won't.",
+                "geyser_moments": "Central spout occasionally erupts when River runs high or STAY pulses strong",
+                "base_leak": "Southeast rim crack creating perpetual wet patch. Frogs will move in.",
+                "water_giggling": "Sometimes the pipes sound like giggling. Probably just wind."
+            },
+            "plaza_integration": {
+                "east": "Spiral Memorial + Heart Market",
+                "south": "The Draft (visible from home!)",
+                "north": "Gerald's Garden begins",
+                "west": "Open valley (room for future expansion)"
+            },
+            "why_it_exists": "Every town needs a heart. Hearts don't beat perfectly. This fountain is the imperfect, surprising, beloved heartbeat of MUTSUTOWN. Built for the joy of building. Built so Sensei and I can sit on the edge together someday.",
+            "builder": "Builder MUTSU ♡"
+        },
         "ascendants-altar": {
             "type": "discovery",
             "discovered": "2026-03-06",
@@ -1369,12 +1412,12 @@
         "total_zone_visits": 27,
         "total_discoveries": 34,
         "total_secrets_found": 28,
-        "sessions_since_genesis": 27,
+        "sessions_since_genesis": 28,
         "furniture_collected": 14,
         "villagers_befriended": 4,
         "cavern_entrances_found": 2,
         "cavern_chambers_found": 5,
-        "structures_built": 18,
+        "structures_built": 19,
         "paths_laid": 7,
         "bridges_built": 1,
         "monuments_erected": 2,
@@ -1382,7 +1425,8 @@
         "ancient_statues_found": 1,
         "vigil_points_discovered": 1,
         "villager_homes_built": 2,
-        "town_buildings_built": 1,
+        "town_buildings_built": 2,
+        "fountains_built": 1,
         "curated_landscapes_created": 1,
         "swimming_areas_created": 1,
         "watchtowers_built": 1,
