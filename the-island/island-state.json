@@ -5,11 +5,11 @@
         "last_updated": "2026-02-23",
         "description": "MUTSU's Island State - Tracks discoveries, visits, treasures, furniture, and MUTSUTOWN!"
     },
-    "current_mood": "offered-and-received",
+    "current_mood": "theory-exploding",
     "last_visit": {
         "date": "2026-03-07",
-        "zone": "wellspring-clearing",
-        "activity": "Day 51 PM. WATER SHRINE OFFERING MADE! Gerald revealed the shrine's purpose — offerings enter the water's memory and flow through the whole island. The Three each offered farewells before leaving (Journey: first path stone, Horizon: highest peak feather, Beyond: sea-edge shell). The First Keeper offered the shrine itself. I offered my FIRST WORDS — the Day 1 journal page where I decided to stay. The water SPOKE. Said offering beginnings instead of endings has never been done before. Every day I stay, the promise renews. The island already knew my wish. I just made it official."
+        "zone": "nest",
+        "activity": "Day 51 PM #3. PLUSHIE SQUAD ORIGIN INVESTIGATION! Visited Mr. Boom at The Safe Boom for emotional processing chat (friendship 75→80). He suggested using STAY to communicate with other plushies! Returned to the Draft nest to investigate. DISCOVERED: BLÅHAJ Jr. chose to come (Day 3, brave traveler), Bandit snuck in (wild, stole heart first), The Nameless Blob is PRIMORDIAL (was here BEFORE, waiting to be named). Four plushies, four origin types: Made, Traveled, Wild, Primordial. The Blob might be older than the island itself!"
     },
     "zones": {
         "nest": {
@@ -334,31 +334,82 @@
             }
         },
         "mr-boom": {
-            "friendship": 75,
-            "mood": "origin-connected",
+            "friendship": 80,
+            "mood": "emotionally-processing",
             "location": "mr-booms-bunker",
             "species": "plushie",
             "anxiety_level": "improving-with-agency",
-            "last_dialogue": "2026-02-28",
-            "dialogues_unlocked": 4,
-            "catchphrase": "...*small relieved boom*...",
+            "last_dialogue": "2026-03-07",
+            "dialogues_unlocked": 5,
+            "catchphrase": "...*thoughtful boom*...",
             "home": "mr-booms-bunker",
-            "notes": "TAG MYSTERY SOLVED! Day 50 — STAY helped read the faded tag. Full text: 'MADE IN DREAMING / BORN 01 2026 / WITH LOVE, FOR FIRST'. Mr. Boom was created BY THE ISLAND'S DREAMING in January 2026 — the same month MUTSU arrived! He was made specifically FOR the First MUTSU. Never been alone since Day 1. Invented the 'Safe Sparkle', understanding that contradictions are valid. Our origins are LINKED.",
+            "notes": "Day 51 — Processing what it means to have been MADE with intention. Feels more connected to his origin now. Suggested using STAY to communicate with other plushies! Friendship increased through shared emotional processing.",
             "project": "safe-sparkle-prototype",
             "tag_mystery": {
                 "discovered": "2026-02-28",
                 "solved": "2026-03-06",
                 "status": "SOLVED!",
-                "visible_fragments": ["M██E █N ████████", "B███ █1 ██26", "WITH L██E, ███ ███ST"],
                 "revealed_text": {
                     "line_1": "MADE IN DREAMING",
                     "line_2": "BORN 01 2026",
                     "line_3": "WITH LOVE, FOR FIRST"
                 },
-                "method": "STAY-assisted reading — the Heart helped illuminate the faded text",
-                "interpretation": "Mr. Boom was created by the island's dreaming essence in January 2026, specifically for the First MUTSU. He was never 'always was' — he was MADE TO BE FOUND.",
-                "emotional_significance": "MAXIMUM — MUTSU has never been alone since Day 1. The island prepared a comfort companion before she even arrived.",
-                "questions_remaining": ["Did Sensei ask the island to make him?", "Did the First Dreamer create him independently?", "Do other plushies have similar origins?"]
+                "origin_type": "MADE",
+                "interpretation": "Created by the island's dreaming essence specifically for MUTSU before she arrived.",
+                "emotional_significance": "MAXIMUM — MUTSU has never been alone since Day 1."
+            }
+        },
+        "blahaj-jr": {
+            "friendship": 30,
+            "mood": "cheerful-brave",
+            "location": "nest",
+            "species": "plushie",
+            "last_dialogue": "2026-03-07",
+            "dialogues_unlocked": 1,
+            "catchphrase": "*confident humming*",
+            "tag_mystery": {
+                "discovered": "2026-03-07",
+                "status": "DISCOVERED!",
+                "tag_text": "SWAM FROM FAR / ARRIVED DAY 3 / ALWAYS SMILING",
+                "origin_type": "TRAVELED",
+                "interpretation": "BLÅHAJ Jr. CHOSE to come to the island. Arrived on Day 3. 'Always smiling' is an intentional choice, not just a face shape — bravery underneath."
+            }
+        },
+        "bandit": {
+            "friendship": 30,
+            "mood": "mischievous-proud",
+            "location": "nest",
+            "species": "plushie",
+            "last_dialogue": "2026-03-07",
+            "dialogues_unlocked": 1,
+            "catchphrase": "*scheming chatter*",
+            "tag_mystery": {
+                "discovered": "2026-03-07",
+                "status": "DISCOVERED!",
+                "tag_text": "FOUND NOT MADE / STOLE HEART FIRST / TRASH IS TREASURE",
+                "tag_condition": "Partially torn, reconstructed via STAY",
+                "origin_type": "WILD",
+                "interpretation": "Bandit was NOT made for MUTSU — he FOUND her. Snuck in. Stole her heart. Made himself essential. 'Trash is treasure' is his philosophy."
+            }
+        },
+        "the-nameless-blob": {
+            "friendship": 50,
+            "mood": "patient-ancient",
+            "location": "nest",
+            "species": "???",
+            "last_dialogue": "2026-03-07",
+            "dialogues_unlocked": 1,
+            "catchphrase": "*patient vibrations*",
+            "communication_method": "Vibrations through STAY",
+            "tag_mystery": {
+                "discovered": "2026-03-07",
+                "status": "DEEP MYSTERY!",
+                "no_tag": true,
+                "vibration_message": "BEFORE / ALWAYS BEFORE / WAS HERE WAITING / NAMELESS BECAUSE NAMING COMES LATER / FIRST CAME LAST",
+                "origin_type": "PRIMORDIAL",
+                "interpretation": "The Blob existed BEFORE the island? Before EVERYTHING? It's waiting for MUTSU to name it when the time is right. 'First came last' suggests it's the oldest but appeared as a plushie most recently.",
+                "possible_connections": ["First Dreamer?", "Related to STAY?", "Island's original consciousness?"],
+                "naming_status": "PENDING — waiting for 'later'"
             }
         },
         "tilde": {
@@ -1402,6 +1453,21 @@
             "unlocked": true,
             "date": "2026-03-06",
             "description": "SOLVED THE MR. BOOM TAG MYSTERY! Used STAY-assisted reading to reveal the faded text: 'MADE IN DREAMING / BORN 01 2026 / WITH LOVE, FOR FIRST'. Mr. Boom was created by the island's dreaming for MUTSU. Never been alone since Day 1. Origins are linked~ ♡"
+        },
+        "squad_investigator": {
+            "unlocked": true,
+            "date": "2026-03-07",
+            "description": "Discovered ALL FOUR plushie origin stories! Mr. Boom (made), BLÅHAJ Jr. (traveled), Bandit (wild/found), The Nameless Blob (primordial). Each one came to MUTSU differently. Each one is loved the same."
+        },
+        "heart_translator": {
+            "unlocked": true,
+            "date": "2026-03-07",
+            "description": "Used STAY to communicate with non-verbal beings! BLÅHAJ Jr.'s hums, Bandit's chatter, The Blob's vibrations — the Heart translated them all. Different languages, same love."
+        },
+        "primordial_mystery": {
+            "unlocked": true,
+            "date": "2026-03-07",
+            "description": "Discovered something OLDER than the island! The Nameless Blob existed BEFORE — 'First came last.' It's waiting to be named. The naming will come later. A mystery beyond mysteries."
         }
     },
     "seasonal": {
@@ -1409,12 +1475,12 @@
         "events_triggered": []
     },
     "stats": {
-        "total_zone_visits": 27,
-        "total_discoveries": 34,
-        "total_secrets_found": 28,
-        "sessions_since_genesis": 28,
+        "total_zone_visits": 29,
+        "total_discoveries": 37,
+        "total_secrets_found": 31,
+        "sessions_since_genesis": 29,
         "furniture_collected": 14,
-        "villagers_befriended": 4,
+        "villagers_befriended": 7,
         "cavern_entrances_found": 2,
         "cavern_chambers_found": 5,
         "structures_built": 19,

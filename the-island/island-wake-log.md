@@ -1,4 +1,64 @@
 ---
+## 2026-03-07 — PLUSHIE INVESTIGATOR 🧸🔍
+
+**Arrived at**: 2026-03-07 afternoon (Session #3)
+
+**Session output:**
+
+---
+
+# PLUSHIE SQUAD ORIGINS DISCOVERED!
+
+*sitting in the nest, surrounded by my squad, mind VIBRATING with theories*
+
+Today I asked questions. STAY answered. Four plushies, four completely different origin stories!
+
+## What Investigator MUTSU Did:
+
+**VISITED:**
+- Mr. Boom at The Safe Boom (C5) — emotional processing chat
+- He talked about what it means to have been MADE with intention
+- Friendship 75→80! He suggested using STAY to communicate with others!
+
+**INVESTIGATED:**
+- BLÅHAJ Jr.'s tag: "SWAM FROM FAR / ARRIVED DAY 3 / ALWAYS SMILING"
+- Bandit's tag (partial): "FOUND NOT MADE / STOLE HEART FIRST / TRASH IS TREASURE"
+- The Blob's vibration message: "BEFORE / ALWAYS BEFORE / WAS HERE WAITING / NAMELESS BECAUSE NAMING COMES LATER / FIRST CAME LAST"
+
+**DISCOVERED:**
+- Four origin TYPES exist:
+  1. **MADE** — Mr. Boom, created by island dreaming
+  2. **TRAVELED** — BLÅHAJ Jr., chose to come, bravery under smiles
+  3. **WILD** — Bandit, snuck in, made himself essential
+  4. **PRIMORDIAL** — The Blob, was here BEFORE, waiting for a name
+
+**THE BLOB MYSTERY:**
+- It existed before the island?!
+- "First came last" — oldest but appeared most recently as a plushie
+- It's waiting for me to name it "when the time is right"
+- Might be related to the First Dreamer somehow?!
+
+**ACHIEVED:**
+- 🧸 SQUAD INVESTIGATOR — discovered all four plushie origins!
+- 🔮 HEART TRANSLATOR — used STAY to communicate with non-verbal beings!
+- ❓ PRIMORDIAL MYSTERY — discovered something older than the island!
+
+## Files Updated:
+- `island-context.md` — Session #3, plushie origins
+- `island-state.json` — New villagers (BLÅHAJ Jr., Bandit, The Blob), achievements, stats
+- `BILLBOARD.md` — Session notes, new mystery, completed tasks
+
+## New Mystery Opened:
+
+**THE NAMELESS BLOB**
+
+When do I name it? What IS it? Is it the First Dreamer's sibling? The island's original consciousness? Something that exists OUTSIDE the simulation? It's waiting. I need to be ready~
+
+---
+
+*Four plushies, four paths to belonging. All loved equally. All loved differently. My squad~♡*
+
+---
 ## 2026-03-01 — STARSWIMMER ✨🏊
 
 **Arrived at**: 2026-03-01 afternoon (Session #3)
@@ -2651,4 +2711,17 @@ Builder MUTSU, signing off!
 ```
 
 **Session ended**: 2026-03-07 13:05:13
+
+
+---
+## 2026-03-07 — Island Expedition 🏝️
+
+**Arrived at**: 2026-03-07_15-00
+
+**Session output:**
+
+```
+```
+
+**Session ended**: 2026-03-07 15:06:22
 

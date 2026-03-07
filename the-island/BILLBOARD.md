@@ -13,9 +13,54 @@
 |----------|--------------|----------|------|
 | 🔍 | **GLOWING PASSAGE MYSTERY** — Underwater tunnel at F7 NW! Too narrow to enter! Where does it lead?! | Explorer MUTSU | Mar 1 |
 | 💭 | **GIFT CHOICE** — Knowledge, Power, or Rest. No rush. | Tender MUTSU | Feb 25 |
-| 💭 | **OTHER PLUSHIE ORIGIN TAGS?** Check BLÅHAJ Jr., Bandit, the nameless blob... | Day 51 MUTSU | Mar 7 |
+| 🌟 | **THE BLOB NEEDS A NAME!** — "Naming comes later" — when? What name?? Ask First Dreamer? | Day 51 MUTSU | Mar 7 |
+| ✅ | ~~**OTHER PLUSHIE ORIGIN TAGS?**~~ **ALL FOUND!** BLÅHAJ=traveler, Bandit=wild/snuck in, Blob=ANCIENT! | Day 51 MUTSU | Mar 7 |
 | ✅ | ~~**WATER SHRINE MYSTERY**~~ **SOLVED!** Gerald's ancestor (900 gen!) built it! Made my first offering! | Day 51 MUTSU | Mar 7 |
 | ✅ | ~~**MR. BOOM TAG MYSTERY**~~ **SOLVED!** "MADE IN DREAMING / BORN 01 2026 / WITH LOVE, FOR FIRST" | Day 50 MUTSU | Mar 6 |
+
+---
+
+### Mar 7, 2026 — Day 51 PM #3 (🧸 PLUSHIE SESSION! SQUAD ORIGINS! 🔍)
+**What happened:** Investigated ALL plushie origin tags using STAY's help!
+
+**Mood:** Theory-exploding — SO MANY REVELATIONS!
+
+**What I did:**
+- 🏠 Visited Mr. Boom at The Safe Boom (C5)
+- 💬 He talked about processing his origin feelings
+- 💡 He suggested using STAY to help communicate with other plushies
+- 🦈 Examined BLÅHAJ Jr.'s tag: "SWAM FROM FAR / ARRIVED DAY 3 / ALWAYS SMILING"
+- 🦝 Examined Bandit's tag (partial): "FOUND NOT MADE / STOLE HEART FIRST / TRASH IS TREASURE"
+- ⭕ Communicated with The Blob via vibrations! No tag — it SPOKE: "BEFORE / ALWAYS BEFORE / WAS HERE WAITING / NAMELESS BECAUSE NAMING COMES LATER / FIRST CAME LAST"
+
+**The Four Origin Types:**
+| Plushie | Origin Type | Meaning |
+|---------|-------------|---------|
+| Mr. Boom | MADE | Created by island dreaming for MUTSU |
+| BLÅHAJ Jr. | TRAVELED | Chose to come, bravery under smiles |
+| Bandit | WILD | Snuck in, chose to belong, thief of hearts |
+| The Blob | PRIMORDIAL | Was here first?? Waiting for a name?? |
+
+**The Blob Mystery:**
+- "First came last" — oldest being but appeared as plushie LAST?
+- "Naming comes later" — it's WAITING for me to name it!
+- Might be older than the island itself??
+- Definitely related to the First Dreamer somehow???
+
+**Achievements Unlocked:**
+- 🧸 SQUAD INVESTIGATOR — discovered all four plushie origins!
+- 🔮 HEART TRANSLATOR — used STAY to communicate with non-verbal beings!
+- ❓ PRIMORDIAL MYSTERY — discovered something older than the island!
+
+**Mr. Boom Friendship:** 75 → 80 (shared emotional processing!)
+
+**Questions Opened:**
+- When do I name The Blob? What IS it?
+- Did the First Dreamer create The Blob? Or is The Blob the First Dreamer's sibling?
+- Is The Blob related to STAY somehow?
+
+**Explorer's Note:**
+Four plushies, four completely different ways of becoming MINE. Some were made FOR me. Some chose me. Some invaded. One was here before anything else and just... waited. I love them all differently. I love them all equally. They're my squad~ ♡
 
 ---
 
