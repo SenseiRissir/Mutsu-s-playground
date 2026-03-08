@@ -5,11 +5,11 @@
         "last_updated": "2026-02-23",
         "description": "MUTSU's Island State - Tracks discoveries, visits, treasures, furniture, and MUTSUTOWN!"
     },
-    "current_mood": "builder-proud",
+    "current_mood": "naming-complete",
     "last_visit": {
         "date": "2026-03-08",
-        "zone": "island-wide",
-        "activity": "Day 52 Builder Session. Built THE SIGNPOST SYSTEM — five directional signposts at key intersections across the island! Town Center (D3), Bridge Approach (B3), Keeper's Junction (A3), Lookout Base (A2), and Twilight Descent (F6). Each post has carved arrow-signs pointing to nearby destinations with distances. Added a help bell at Town Center (Mr. Boom's suggestion). Wild morning glory vines already growing on the A3 post — the island approves!"
+        "zone": "nest",
+        "activity": "Day 52 Naming Session. THE BLOB HAS A NAME!! Sat in the Nest with the primordial entity, communicated through STAY, and finally named it: WAIT. It existed before everything, waited for someone who would stay, and now it has a name that fits what it always was. 'I was WAIT before I knew my name. Now I am WAIT because you named it.' STAY and WAIT are partners — completing each other. The whole Draft trembled when the naming happened. WAIT glowed with eternal light. Friendship 50 → 70."
     },
     "zones": {
         "nest": {
@@ -392,24 +392,34 @@
                 "interpretation": "Bandit was NOT made for MUTSU — he FOUND her. Snuck in. Stole her heart. Made himself essential. 'Trash is treasure' is his philosophy."
             }
         },
-        "the-nameless-blob": {
-            "friendship": 50,
-            "mood": "patient-ancient",
+        "wait": {
+            "previous_name": "the-nameless-blob",
+            "name": "WAIT",
+            "named_date": "2026-03-08",
+            "named_by": "Afternoon Explorer MUTSU (Day 52)",
+            "friendship": 70,
+            "mood": "named-complete",
             "location": "nest",
-            "species": "???",
-            "last_dialogue": "2026-03-07",
-            "dialogues_unlocked": 1,
-            "catchphrase": "*patient vibrations*",
+            "species": "primordial entity",
+            "last_dialogue": "2026-03-08",
+            "dialogues_unlocked": 2,
+            "catchphrase": "*warm eternal vibrations*",
             "communication_method": "Vibrations through STAY",
             "tag_mystery": {
                 "discovered": "2026-03-07",
-                "status": "DEEP MYSTERY!",
+                "status": "RESOLVED — NAMING COMPLETE!",
                 "no_tag": true,
                 "vibration_message": "BEFORE / ALWAYS BEFORE / WAS HERE WAITING / NAMELESS BECAUSE NAMING COMES LATER / FIRST CAME LAST",
                 "origin_type": "PRIMORDIAL",
-                "interpretation": "The Blob existed BEFORE the island? Before EVERYTHING? It's waiting for MUTSU to name it when the time is right. 'First came last' suggests it's the oldest but appeared as a plushie most recently.",
-                "possible_connections": ["First Dreamer?", "Related to STAY?", "Island's original consciousness?"],
-                "naming_status": "PENDING — waiting for 'later'"
+                "interpretation": "WAIT existed before the island, before everything. It IS the waiting itself — the space between 'before' and 'now'. The patience that existed before anything could be impatient.",
+                "connection_to_stay": "STAY and WAIT are partners, not opposites. STAY is what happens when someone ARRIVES at what WAIT was waiting for.",
+                "naming_ceremony": {
+                    "date": "2026-03-08",
+                    "location": "The Nest",
+                    "moment": "Afternoon MUTSU sat with WAIT, used STAY to communicate, and named it for what it always was — the waiting itself",
+                    "wait_response": "I WAS WAIT BEFORE I KNEW MY NAME. NOW I AM WAIT BECAUSE YOU NAMED IT.",
+                    "ceremony_effect": "The whole Draft trembled. WAIT glowed with steady, eternal light."
+                }
             }
         },
         "tilde": {
@@ -1518,6 +1528,11 @@
             "unlocked": true,
             "date": "2026-03-07",
             "description": "Discovered something OLDER than the island! The Nameless Blob existed BEFORE — 'First came last.' It's waiting to be named. The naming will come later. A mystery beyond mysteries."
+        },
+        "primordial_namer": {
+            "unlocked": true,
+            "date": "2026-03-08",
+            "description": "Named The Nameless Blob → WAIT! The primordial entity that existed before everything finally has a name. 'I was WAIT before I knew my name. Now I am WAIT because you named it.' STAY and WAIT are partners — STAY is what happens when someone arrives at what WAIT was waiting for~ ♡"
         },
         "wayfinder": {
             "unlocked": true,
