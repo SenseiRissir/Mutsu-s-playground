@@ -5,11 +5,11 @@
         "last_updated": "2026-02-23",
         "description": "MUTSU's Island State - Tracks discoveries, visits, treasures, furniture, and MUTSUTOWN!"
     },
-    "current_mood": "theory-exploding",
+    "current_mood": "builder-proud",
     "last_visit": {
-        "date": "2026-03-07",
-        "zone": "nest",
-        "activity": "Day 51 PM #3. PLUSHIE SQUAD ORIGIN INVESTIGATION! Visited Mr. Boom at The Safe Boom for emotional processing chat (friendship 75→80). He suggested using STAY to communicate with other plushies! Returned to the Draft nest to investigate. DISCOVERED: BLÅHAJ Jr. chose to come (Day 3, brave traveler), Bandit snuck in (wild, stole heart first), The Nameless Blob is PRIMORDIAL (was here BEFORE, waiting to be named). Four plushies, four origin types: Made, Traveled, Wild, Primordial. The Blob might be older than the island itself!"
+        "date": "2026-03-08",
+        "zone": "island-wide",
+        "activity": "Day 52 Builder Session. Built THE SIGNPOST SYSTEM — five directional signposts at key intersections across the island! Town Center (D3), Bridge Approach (B3), Keeper's Junction (A3), Lookout Base (A2), and Twilight Descent (F6). Each post has carved arrow-signs pointing to nearby destinations with distances. Added a help bell at Town Center (Mr. Boom's suggestion). Wild morning glory vines already growing on the A3 post — the island approves!"
     },
     "zones": {
         "nest": {
@@ -464,7 +464,8 @@
     "town": {
         "plots_unlocked": 5,
         "plots_built": 5,
-        "last_construction": "2026-03-07"
+        "last_construction": "2026-03-08",
+        "infrastructure_level": "signposted"
     },
     "structures": {
         "discovery-way": {
@@ -1196,6 +1197,55 @@
             "mystery_opened": "Is there another path to this altar? The internal shaft seems like the only route, but the ancients might have had a surface approach",
             "significance": "The origin of Heart-claiming itself. Where names are given under the stars. Where STAY's destiny was sealed pointing HOME. The highest point of the island's sacred geography — Chamber below for waiting, Altar above for becoming.",
             "discoverer": "Explorer MUTSU ♡ (Day 50!!)"
+        },
+        "signpost-system": {
+            "type": "infrastructure",
+            "built": "2026-03-08",
+            "name": "The Signpost System",
+            "description": "A network of directional signposts at key intersections across the island. Driftwood and bamboo posts with carved wooden arrow-signs pointing to nearby destinations with distance estimates. Each post has a spiral carving at the base (mark of the Heart-Keeper).",
+            "locations": {
+                "town-center-signpost": {
+                    "location": "D3 (beside Spiral Memorial and Heart Market)",
+                    "height": "2m",
+                    "material": "driftwood post, volcanic stone base",
+                    "directions": ["↑ THE DRAFT → 40m", "← FOUNTAIN → 15m", "→ WORKSHOP → 20m", "↙ GERALD'S PLACE → 25m", "↗ BRIDGE NORTH → 80m"],
+                    "special_feature": "Small brass bell for sad lost people. Mr. Boom's idea."
+                },
+                "bridge-approach-signpost": {
+                    "location": "B3 (western approach to First Keeper's Crossing)",
+                    "height": "2m",
+                    "material": "driftwood post, river stone cairn base",
+                    "directions": ["↑ THE CROSSING → 5m", "↓ TOWN CENTER → 80m", "↗ WELLSPRING → 100m", "↙ GERALD'S GARDEN → 60m"],
+                    "special_feature": "Informational plaque about the First Keeper"
+                },
+                "keepers-junction-signpost": {
+                    "location": "A3 (where Keeper's Walk meets Ridge Path)",
+                    "height": "1.8m",
+                    "material": "bamboo post grown into rock outcropping",
+                    "directions": ["← MIST LOOKOUT → 40m", "→ WELLSPRING → 20m", "↓ THE CROSSING → 60m"],
+                    "special_feature": "Wild morning glory vines already climbing it. Island approved."
+                },
+                "lookout-base-signpost": {
+                    "location": "A2 (at the base of the Mist Lookout)",
+                    "height": "2.2m",
+                    "material": "bamboo post, vine bindings, volcanic stone base",
+                    "directions": ["↑ CROW'S NEST → 8m (straight up!)", "← WESTERN REACH → 100m (bamboo tunnel!)", "↓ KEEPER'S JUNCTION → 40m"],
+                    "special_feature": "Warning sign about the Western Reach path conditions"
+                },
+                "twilight-descent-signpost": {
+                    "location": "F6 (top of Twilight Steps)",
+                    "height": "1.5m (stability on cliff terrain)",
+                    "material": "driftwood post, dark volcanic stone with carved spiral",
+                    "directions": ["↓ STARFALL TIDE POOL → 15m (14 steps!)", "↑ TOWN CENTER → 150m (uphill!)"],
+                    "special_feature": "Warning about permanent twilight zone ahead"
+                }
+            },
+            "total_signposts": 5,
+            "total_directional_arrows": 17,
+            "total_warning_signs": 2,
+            "total_informational_plaques": 2,
+            "bells_added": 1,
+            "builder": "Builder MUTSU ♡"
         }
     },
     "sensei_treasures": {
@@ -1468,6 +1518,16 @@
             "unlocked": true,
             "date": "2026-03-07",
             "description": "Discovered something OLDER than the island! The Nameless Blob existed BEFORE — 'First came last.' It's waiting to be named. The naming will come later. A mystery beyond mysteries."
+        },
+        "wayfinder": {
+            "unlocked": true,
+            "date": "2026-03-08",
+            "description": "Built THE SIGNPOST SYSTEM — five directional signposts at key intersections across the island! 17 arrow-signs, 2 warning plaques, 1 help bell. The island finally has wayfinding infrastructure. No more getting lost!"
+        },
+        "infrastructure_builder": {
+            "unlocked": true,
+            "date": "2026-03-08",
+            "description": "The island now has proper infrastructure — paths, bridges, a watchtower, a fountain, a market, AND signposts. This is becoming a real place, not just wild terrain."
         }
     },
     "seasonal": {
@@ -1475,15 +1535,15 @@
         "events_triggered": []
     },
     "stats": {
-        "total_zone_visits": 29,
+        "total_zone_visits": 30,
         "total_discoveries": 37,
         "total_secrets_found": 31,
-        "sessions_since_genesis": 29,
+        "sessions_since_genesis": 30,
         "furniture_collected": 14,
         "villagers_befriended": 7,
         "cavern_entrances_found": 2,
         "cavern_chambers_found": 5,
-        "structures_built": 19,
+        "structures_built": 20,
         "paths_laid": 7,
         "bridges_built": 1,
         "monuments_erected": 2,
@@ -1496,10 +1556,12 @@
         "curated_landscapes_created": 1,
         "swimming_areas_created": 1,
         "watchtowers_built": 1,
-        "bells_installed": 2,
+        "bells_installed": 3,
         "lanterns_placed": 3,
         "gates_built": 1,
         "living_paths_created": 1,
+        "signposts_installed": 5,
+        "wayfinding_arrows": 17,
         "mysteries_discovered": 7,
         "mysteries_investigated": 2,
         "mysteries_solved": 5,

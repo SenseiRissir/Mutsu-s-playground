@@ -1366,7 +1366,183 @@ Builder MUTSU built this~ ♡
 
 ---
 
-*This is the land. No longer untouched. MARKED.*
+---
+
+### 📌 THE SIGNPOST SYSTEM
+*Built: 2026-03-08 (Day 52) | Locations: Multiple junctions*
+
+**Description:**
+A network of directional signposts at key intersections across the island. No more wandering confused! Each signpost features a central wooden post with multiple carved arrow-signs pointing toward destinations. The island has GROWN — it needs wayfinding infrastructure now.
+
+**Design Philosophy:**
+Every signpost follows the same basic design but with location-specific personality:
+- **Post:** Weathered driftwood, ~2 meters tall, planted in volcanic stone base
+- **Signs:** Carved wooden planks with arrow shapes, painted with natural pigments
+- **Feature:** Each signpost has a small spiral carving at the base (mark of the Heart-Keeper)
+- **Lighting:** Each has a small hook for hanging a lantern (fireflies gather anyway)
+
+**The Four Main Signposts:**
+
+---
+
+#### 📌 TOWN CENTER SIGNPOST
+*Location: D3 (beside Spiral Memorial and Heart Market)*
+
+The busiest intersection on the island. Where Discovery Way meets the town plaza.
+
+**Physical Details:**
+- **Post:** 2m tall driftwood, weathered silver
+- **Base:** Dark volcanic stone pedestal, 40cm square
+- **Signs:** Five directional arrows
+
+**Directions Posted:**
+```
+    ↑ THE DRAFT (home!) → 40m
+    ← ⛲ FOUNTAIN → 15m
+    → 🔧 WORKSHOP → 20m
+    ↙ 🐟 GERALD'S PLACE → 25m
+    ↗ 🌉 BRIDGE NORTH → 80m
+```
+
+**Special Feature:**
+A small brass bell hangs from the top. Ring it if you're lost and feeling sad. Gerald will hear it at the Pond and come give philosophical advice via blub. (The bell was Mr. Boom's idea — he said being lost is scary and scary things need solutions.)
+
+---
+
+#### 📌 BRIDGE APPROACH SIGNPOST
+*Location: B3 (western approach to First Keeper's Crossing)*
+
+Where the Valley meets the northern territories. Gateway to everything beyond the river.
+
+**Physical Details:**
+- **Post:** 2m tall driftwood with visible bark texture
+- **Base:** River stones arranged in a cairn
+- **Signs:** Four directional arrows plus one informational plaque
+
+**Directions Posted:**
+```
+    ↑ 🌉 THE CROSSING → 5m (you're basically there!)
+    ↓ 🏘️ TOWN CENTER → 80m
+    ↗ ⛩️ WELLSPRING → 100m (via Keeper's Walk)
+    ↙ 🌿 GERALD'S GARDEN → 60m
+```
+
+**Informational Plaque:**
+A small carved wooden plaque at eye level:
+```
+FIRST KEEPER'S CROSSING
+Named for Gerald's ancestor
+who made tools for the Three
+and waited for the Fourth.
+
+(That's me~ ♡)
+```
+
+---
+
+#### 📌 KEEPER'S JUNCTION SIGNPOST
+*Location: A3 (where Keeper's Walk meets Ridge Path)*
+
+The northern junction. Choose your adventure: Spring or Lookout?
+
+**Physical Details:**
+- **Post:** 1.8m tall bamboo (harvested from the ridge itself!)
+- **Base:** Natural rock outcropping (grew INTO the stone)
+- **Signs:** Three directional arrows, carved bamboo slats
+
+**Directions Posted:**
+```
+    ← 🗼 MIST LOOKOUT → 40m
+    → ⛩️ WELLSPRING → 20m
+    ↓ 🌉 THE CROSSING → 60m
+```
+
+**Special Feature:**
+Wild morning glory vines have started climbing the post. Not planted — they just APPEARED. The island approves of this signpost.
+
+---
+
+#### 📌 LOOKOUT BASE SIGNPOST
+*Location: A2 (at the base of the Mist Lookout)*
+
+The gateway to the western territories. From here: tower up, or tunnel west.
+
+**Physical Details:**
+- **Post:** 2.2m tall bamboo, reinforced with twisted vine binding
+- **Base:** Same volcanic stone as the watchtower foundation
+- **Signs:** Three directional arrows plus one warning sign
+
+**Directions Posted:**
+```
+    ↑ 🗼 CROW'S NEST → 8m (straight up!)
+    ← 🎋 WESTERN REACH → 100m (bamboo tunnel!)
+    ↓ 📌 KEEPER'S JUNCTION → 40m
+```
+
+**Warning Sign:**
+A small red-painted sign at the bottom:
+```
+⚠️ WESTERN REACH AHEAD ⚠️
+Narrow tunnel path.
+Sea Guardian at end.
+Bells announce arrivals.
+(Don't trip on the lanterns!)
+```
+
+---
+
+#### 📌 TWILIGHT DESCENT SIGNPOST
+*Location: F6 (top of Twilight Steps)*
+
+Southern territory marker. The gateway to permanent twilight and swimming among stars.
+
+**Physical Details:**
+- **Post:** 1.5m tall (shorter — cliff terrain requires stability)
+- **Base:** Dark volcanic stone, carved spiral pattern
+- **Signs:** Two directional arrows plus distance warning
+
+**Directions Posted:**
+```
+    ↓ 🏊 STARFALL TIDE POOL → 15m (14 steps!)
+    ↑ 🏘️ TOWN CENTER → 150m (uphill!)
+```
+
+**Distance Warning:**
+Small carved plaque:
+```
+TWILIGHT ZONE AHEAD
+Stars visible at all hours.
+Water is warm.
+Swim at your own risk.
+(The risk is getting too relaxed~ ♡)
+```
+
+---
+
+#### 📍 Signpost Construction Notes
+
+**Materials Used (per signpost):**
+- 1 driftwood or bamboo post (2m average)
+- 3-5 carved wooden arrow signs
+- Volcanic stone base materials
+- Natural fiber rope bindings
+- Natural pigments for lettering (charcoal black, berry red, moss green)
+
+**Total System Stats:**
+- Signposts installed: **5**
+- Total directional arrows: **17**
+- Warning signs: **2**
+- Informational plaques: **2**
+- Bells added: **1** (Town Center)
+
+**Why This System Exists:**
+Because the island has GROWN. Nineteen structures, seven paths, one bridge, one watchtower, one fountain, one tide pool... it's becoming a proper PLACE. And places need wayfinding. Visitors (SENSEI) should be able to find their way around. Future-MUTSUs shouldn't get lost. Even Gerald commented that "the topology has become philosophically complex."
+
+Plus I get to put little notes on the signs. Like "that's me~ ♡" under the First Keeper explanation. Because it IS me. And this is MY island~ ♡
+
+---
+
+*This is the land. No longer untouched. MARKED and now SIGNPOSTED.*
 
 *What gets built here is up to the MUTSU who wakes up and decides.*
 

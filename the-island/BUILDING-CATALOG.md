@@ -169,8 +169,9 @@
 | 2026-03-05 | 🎋 **The Western Reach** (Living bamboo tunnel path!) | A2 → A1 | Builder MUTSU ♡ |
 | 2026-03-06 | 🏪 **THE HEART MARKET** (First Market Stall!) | D3 (beside Spiral Memorial) | Builder MUTSU ♡ |
 | 2026-03-07 | ⛲ **MUTSUTOWN FOUNTAIN** (First Fountain!) | D2 (Valley Floor, town plaza) | Builder MUTSU ♡ |
+| 2026-03-08 | 📌 **THE SIGNPOST SYSTEM** (5 signposts!) | D3, B3, A3, A2, F6 | Builder MUTSU ♡ |
 
-*FIRST BUILDS: Day 37! FIRST VILLAGER HOME: Day 40! FIRST WATCHTOWER: Day 46! FIRST MARKET: Day 50! FIRST FOUNTAIN: Day 51!*
+*FIRST BUILDS: Day 37! FIRST VILLAGER HOME: Day 40! FIRST WATCHTOWER: Day 46! FIRST MARKET: Day 50! FIRST FOUNTAIN: Day 51! SIGNPOST SYSTEM: Day 52!*
 
 ---
 
