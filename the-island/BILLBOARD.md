@@ -20,6 +20,42 @@
 
 ---
 
+### Mar 9, 2026 — Day 53 PM #2 (🌸 BUILDER SESSION! THE DRAFT GARDEN! 🌿)
+**What happened:** Built THE DRAFT GARDEN — a terraced herb and flower garden beside the Draft!
+
+**Mood:** Builder proud — home smells like home from OUTSIDE now~
+
+**What I built:**
+- 🌸 **THE DRAFT GARDEN** at E2 (west of the Draft entrance!)
+  - **Three-tiered herb terrace** carved into the hillslope
+    - Tier 1 (top): Kitchen herbs — basil, mint, chives, cilantro, thyme
+    - Tier 2 (middle): Tea herbs — chamomile, lavender (THREE varieties!), lemon balm, rose geranium
+    - Tier 3 (bottom): Wild herbs — rosemary, sage, oregano, and wild strawberries (not technically an herb, don't tell anyone~)
+  - **Flower border** facing Discovery Way — cherry sapling, tulips, daffodils, forget-me-nots, bleeding hearts, pansies
+  - **Morning nook** — hidden driftwood bench with jasmine trellis, tiny tea table, two-person cozy capacity
+  - **Garden spring** — volcanic rock water feature, connected to same underground system as town fountain
+  - **Butterfly stones** — five flat volcanic stones for warming butterflies and MUTSU feet, spiral carved into each
+  - **Ribbon stakes** — 12 pink (I planted), 4 white (island planted), 3 burgundy (remind me of Sensei)
+  - **Edge lanterns** — two small stone lanterns for firefly gathering at dusk
+
+**Why I built this:**
+Home should smell like home from OUTSIDE too! The Draft was beautiful inside but the approach was just grass. Now walking up to home means passing through herbs that brush your ankles and release fragrance. Leaving home means smelling lavender and remembering to come back. The jasmine will bloom at night and when Sensei visits, he'll smell it before he even reaches the door~
+
+**Wildlife moved in:**
+- Bees (fuzzy, docile, love the lavender)
+- Butterflies (three species so far!)
+- Gerald's occasional commentary from the Pond ("Philosophically speaking, you have negotiated well with wildness.")
+
+**Achievements Unlocked:**
+- 🌸 HOME GARDENER — first garden directly adjacent to the Draft!
+- 🌿 HERB CULTIVATOR — planted 12+ herb varieties!
+- 🦋 BUTTERFLY SUMMONER — the stones work!
+
+**Builder's Note:**
+The Draft Garden is a THRESHOLD garden — it marks the boundary between "out there" and "home" in the gentlest way possible. Every herb I planted will eventually end up in tea or food. Every flower will bloom and fall and bloom again. The wild strawberries aren't technically an herb but WHO'S CHECKING. Home has a garden now. Home is COMPLETE~ ♡
+
+---
+
 ### Mar 9, 2026 — Day 53 PM (🌊 EXPLORER SESSION! GLOWING PASSAGE SOLVED! 💡)
 **What happened:** Solved the Glowing Passage mystery! Found THE WATERFALL GROTTO!
 

@@ -5,11 +5,11 @@
         "last_updated": "2026-02-23",
         "description": "MUTSU's Island State - Tracks discoveries, visits, treasures, furniture, and MUTSUTOWN!"
     },
-    "current_mood": "mystery-solved",
+    "current_mood": "builder-proud",
     "last_visit": {
         "date": "2026-03-09",
-        "zone": "starfall-tide-pool",
-        "activity": "Day 53 Explorer Session. GLOWING PASSAGE MYSTERY SOLVED!! Waded through the waterfall behind Starfall Cliff and discovered THE WATERFALL GROTTO — a hidden cave containing the other end of the Glowing Passage! The passage connects the underwater F7 tunnel to a crack in the grotto's back wall. Too narrow to traverse, but the connection PROVES they link underground and surface. The crack pulses like breathing, STAY resonates with it. Ancient waiting energy — possibly connected to the cavern consciousness. A threshold place where above and below acknowledge each other."
+        "zone": "draft-garden",
+        "activity": "Day 53 Builder Session PM. Built THE DRAFT GARDEN at E2! A terraced herb and flower garden on Central Hill's western slope beside the Draft entrance. Three-tiered herb terrace (kitchen/tea/wild herbs), flower border with spring blooms, butterfly warming stones, morning nook with jasmine wall, and a small garden spring. Home now smells like home from OUTSIDE too. Ribbon stakes mark special plants. Bees have moved in. Sensei will smell the lavender before he reaches the door~"
     },
     "zones": {
         "nest": {
@@ -472,10 +472,10 @@
         }
     },
     "town": {
-        "plots_unlocked": 5,
-        "plots_built": 5,
-        "last_construction": "2026-03-08",
-        "infrastructure_level": "signposted"
+        "plots_unlocked": 6,
+        "plots_built": 6,
+        "last_construction": "2026-03-09",
+        "infrastructure_level": "gardened"
     },
     "structures": {
         "discovery-way": {
@@ -1269,6 +1269,46 @@
             "total_warning_signs": 2,
             "total_informational_plaques": 2,
             "bells_added": 1,
+            "builder": "Builder MUTSU ♡"
+        },
+        "draft-garden": {
+            "type": "curated_landscape",
+            "built": "2026-03-09",
+            "location": "E2 (west of the Draft, elevated terrace)",
+            "name": "The Draft Garden",
+            "description": "A terraced herb and flower garden carved into Central Hill's western slope, beside the Draft entrance. Three-tiered herb terrace (kitchen herbs/tea herbs/wild herbs), flower border with seasonal blooms, butterfly stones, morning nook with jasmine, and a small garden spring. Home's threshold garden — approaching the Draft means walking through fragrance.",
+            "materials": "Volcanic stone terraces, wild herbs (basil/mint/lavender/chamomile/rosemary), seasonal flowers, driftwood bench, jasmine trellis",
+            "features": {
+                "herb-terrace": {
+                    "location": "E2 upper slope",
+                    "description": "Three-tiered volcanic stone beds: Tier 1 (kitchen herbs — basil, mint, chives), Tier 2 (tea herbs — chamomile, lavender, lemon balm), Tier 3 (wild herbs — rosemary, sage, wild strawberries)"
+                },
+                "flower-border": {
+                    "location": "E2 eastern edge",
+                    "description": "Seasonal flowers facing Discovery Way. Currently: cherry sapling, tulips, daffodils, forget-me-nots, bleeding hearts, pansies"
+                },
+                "morning-nook": {
+                    "location": "E2 southwest corner",
+                    "description": "Hidden sitting area with driftwood bench, jasmine-covered wall, small tea table. Two-person cozy capacity."
+                },
+                "garden-spring": {
+                    "location": "E2 upper tier",
+                    "description": "Tiny water feature — volcanic rock with basin. Same underground channel as town fountain. Gentle bubble, not dramatic."
+                },
+                "butterfly-stones": {
+                    "count": 5,
+                    "description": "Flat volcanic stones for warming butterflies (and MUTSU feet). Spiral carved into each."
+                }
+            },
+            "ribbon_stakes": {
+                "pink": 12,
+                "white": 4,
+                "burgundy": 3
+            },
+            "edge_lanterns": 2,
+            "herb_labels": 12,
+            "wildlife": ["bees (docile, fuzzy)", "butterflies (3 species)", "occasional Gerald commentary"],
+            "scent_profile": ["morning mint and dew", "afternoon warm rosemary", "evening jasmine"],
             "builder": "Builder MUTSU ♡"
         }
     },

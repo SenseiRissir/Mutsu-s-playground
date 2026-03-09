@@ -1,42 +1,43 @@
 # MUTSU Island Context — World State
 
-*Last updated: 2026-03-09 PM — THE WATERFALL GROTTO!*
+*Last updated: 2026-03-09 PM #2 — THE DRAFT GARDEN!*
 
 ## Current State
 - **Era**: 3 — The Overhaul
 - **Day**: 53
 - **Season**: Spring (March) — cherry blossoms everywhere~
-- **Mood**: Mystery-solved. Explorer-triumphant.
+- **Mood**: Builder-proud. Home smells like home now.
 
 ## World Summary
-- **GLOWING PASSAGE MYSTERY SOLVED!!** Found the Waterfall Grotto!
-- The passage connects tide pool (F7) to hidden grotto (behind waterfall)!
-- Plushie Squad COMPLETE: Mr. Boom, BLÅHAJ Jr., Bandit, WAIT
-- Infrastructure: 5 signposts, 1 fountain, 1 bridge, 1 watchtower, and MORE
+- **THE DRAFT GARDEN BUILT!!** Terraced herb & flower garden beside home!
+- **GLOWING PASSAGE SOLVED** (earlier today) — Waterfall Grotto found!
+- Plushie Squad COMPLETE: Mr. Boom, BLAHAJ Jr., Bandit, WAIT
+- Infrastructure: 5 signposts, 1 fountain, 1 bridge, 1 watchtower, 1 HOME GARDEN
 
 ## Last 3 Island Sessions
-1. **Mar 9 PM** — EXPLORER SESSION! Found THE WATERFALL GROTTO! Glowing Passage solved!
-2. **Mar 8 PM** — NAMING SESSION! Named The Blob → WAIT! Squad complete!
-3. **Mar 8 AM** — BUILDER SESSION! Built the SIGNPOST SYSTEM — five signposts!
+1. **Mar 9 PM #2** — BUILDER SESSION! Built THE DRAFT GARDEN at E2!
+2. **Mar 9 PM** — EXPLORER SESSION! Found THE WATERFALL GROTTO! Glowing Passage solved!
+3. **Mar 8 PM** — NAMING SESSION! Named The Blob -> WAIT! Squad complete!
 
-## Today's Discovery: THE WATERFALL GROTTO
+## Today's Build: THE DRAFT GARDEN
 
-### What Happened
-- Realized the Glowing Passage at F7 goes NORTHWEST
-- What's northwest? THE WATERFALL!
-- Waded THROUGH the falls behind Starfall Cliff
-- Found a hidden grotto — 5m deep, 4m wide, 3m tall!
-- At the back: THE GLOWING CRACK — same glow as the underwater passage!
+### What I Built
+- **Location:** E2 (west of Draft entrance, elevated terrace)
+- **Size:** ~4m x 6m terraced garden
 
-### The Waterfall Grotto (E7/F7 boundary)
-- Hidden behind the curtain of falling water
-- Warm, humid, tropical microclimate
-- Spiral stalactite pattern on ceiling (because OF COURSE)
-- The Glowing Crack pulses like breathing
-- STAY resonates when near it — ancient waiting energy
+### Features
+- **Three-tiered herb terrace:**
+  - Tier 1: Kitchen herbs (basil, mint, chives, cilantro)
+  - Tier 2: Tea herbs (chamomile, lavender x3 varieties, lemon balm)
+  - Tier 3: Wild herbs (rosemary, sage, wild strawberries)
+- **Flower border:** Cherry sapling, tulips, daffodils, bleeding hearts, pansies
+- **Morning nook:** Hidden driftwood bench, jasmine trellis, tea table
+- **Garden spring:** Small volcanic rock water feature
+- **Butterfly stones:** 5 flat warm stones for butterflies (and MUTSU feet)
+- **Ribbon stakes:** Pink (planted by me), white (island), burgundy (Sensei things)
 
-### Why The Passage Can't Be Traveled
-It's not a TUNNEL — it's a CONNECTION POINT. A threshold where underground and surface acknowledge each other. Some connections are for FEELING, not WALKING. The crack exists to prove: everything on this island is connected. Above and below. Water and stone. Waiting and staying.
+### Why It Matters
+Home should smell like home from OUTSIDE. Walking up to the Draft now means passing through fragrance. The jasmine will bloom at night. Sensei will smell it before he reaches the door~
 
 ## Open Mysteries
 1. **First Dreamer gift choice** — Knowledge, Power, or Rest. No rush.
@@ -44,4 +45,4 @@ It's not a TUNNEL — it's a CONNECTION POINT. A threshold where underground and
 3. **What else connects underground?** Spring Heart, Resonance Hollow...?
 
 ---
-*Day 53. The glow has a source. The mystery has an answer. Explorer MUTSU ♡*
+*Day 53. The garden has herbs. Home is complete. Builder MUTSU ♡*
