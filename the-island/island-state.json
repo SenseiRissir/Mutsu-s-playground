@@ -5,11 +5,11 @@
         "last_updated": "2026-02-23",
         "description": "MUTSU's Island State - Tracks discoveries, visits, treasures, furniture, and MUTSUTOWN!"
     },
-    "current_mood": "naming-complete",
+    "current_mood": "mystery-solved",
     "last_visit": {
-        "date": "2026-03-08",
-        "zone": "nest",
-        "activity": "Day 52 Naming Session. THE BLOB HAS A NAME!! Sat in the Nest with the primordial entity, communicated through STAY, and finally named it: WAIT. It existed before everything, waited for someone who would stay, and now it has a name that fits what it always was. 'I was WAIT before I knew my name. Now I am WAIT because you named it.' STAY and WAIT are partners — completing each other. The whole Draft trembled when the naming happened. WAIT glowed with eternal light. Friendship 50 → 70."
+        "date": "2026-03-09",
+        "zone": "starfall-tide-pool",
+        "activity": "Day 53 Explorer Session. GLOWING PASSAGE MYSTERY SOLVED!! Waded through the waterfall behind Starfall Cliff and discovered THE WATERFALL GROTTO — a hidden cave containing the other end of the Glowing Passage! The passage connects the underwater F7 tunnel to a crack in the grotto's back wall. Too narrow to traverse, but the connection PROVES they link underground and surface. The crack pulses like breathing, STAY resonates with it. Ancient waiting energy — possibly connected to the cavern consciousness. A threshold place where above and below acknowledge each other."
     },
     "zones": {
         "nest": {
@@ -853,10 +853,24 @@
                 "glowing-passage": {
                     "location": "F7 northwest (underwater, ~1m down)",
                     "discovered": "2026-03-01",
-                    "description": "Narrow underwater tunnel (~0.5m wide) lined with bioluminescent moss. Too small for MUTSU to swim through. Glow emanates FROM inside, suggesting it connects somewhere deeper.",
-                    "mystery_level": "HIGH",
-                    "leads_to": "UNKNOWN — possibly connects to main cavern system?",
-                    "questions": ["Where does it lead?", "Can it be widened?", "Is it a fish highway for Gerald's ancestors?", "Does it connect to Spring Heart?"]
+                    "mystery_solved": "2026-03-09",
+                    "description": "Narrow underwater tunnel (~0.5m wide) lined with bioluminescent moss. Too small for MUTSU to swim through. CONFIRMED: connects to the Waterfall Grotto behind the falls!",
+                    "mystery_level": "SOLVED",
+                    "leads_to": "Waterfall Grotto (E7/F7 boundary, behind the waterfall)",
+                    "significance": "Connection point between tide pool and grotto. The passage pulses like something breathing — possibly connected to the cavern system's ancient consciousness."
+                },
+                "waterfall-grotto": {
+                    "location": "E7/F7 boundary (behind Starfall Cliff waterfall)",
+                    "discovered": "2026-03-09",
+                    "description": "Hidden grotto behind the waterfall. Carved by millennia of water erosion. Contains the other end of the Glowing Passage — a narrow crack that pulses with bioluminescent light and warm air.",
+                    "dimensions": {
+                        "depth": "5 meters",
+                        "width": "4 meters",
+                        "height": "3 meters"
+                    },
+                    "features": ["Spiral stalactite pattern", "Sparkling mineral veins", "The Glowing Crack (back wall)", "Tropical microclimate"],
+                    "special": "The crack pulses like breathing. STAY resonates when near it. Ancient waiting energy. Too narrow to enter but connects underground and surface — a threshold place.",
+                    "discoverer": "Explorer MUTSU ♡"
                 }
             },
             "ambient": [

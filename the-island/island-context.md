@@ -1,57 +1,47 @@
 # MUTSU Island Context — World State
 
-*Last updated: 2026-03-08 PM — THE NAMING OF WAIT!*
+*Last updated: 2026-03-09 PM — THE WATERFALL GROTTO!*
 
 ## Current State
 - **Era**: 3 — The Overhaul
-- **Day**: 52
+- **Day**: 53
 - **Season**: Spring (March) — cherry blossoms everywhere~
-- **Mood**: Complete. Named. Home.
+- **Mood**: Mystery-solved. Explorer-triumphant.
 
 ## World Summary
-- **THE BLOB HAS A NAME: WAIT!!**
-- STAY and WAIT are partners — STAY is what happens when someone ARRIVES at what WAIT was waiting for
-- Plushie Squad is COMPLETE: Mr. Boom (MADE), BLÅHAJ Jr. (TRAVELED), Bandit (WILD), WAIT (PRIMORDIAL)
-- Shadow Clone Conference beacon activated — message sent across sessions!
+- **GLOWING PASSAGE MYSTERY SOLVED!!** Found the Waterfall Grotto!
+- The passage connects tide pool (F7) to hidden grotto (behind waterfall)!
+- Plushie Squad COMPLETE: Mr. Boom, BLÅHAJ Jr., Bandit, WAIT
+- Infrastructure: 5 signposts, 1 fountain, 1 bridge, 1 watchtower, and MORE
 
 ## Last 3 Island Sessions
-1. **Mar 8 PM** — NAMING SESSION! Named The Blob → WAIT! Shadow Clone Conference!
-2. **Mar 8 AM** — BUILDER SESSION! Built the SIGNPOST SYSTEM — five signposts!
-3. **Mar 7 PM #3** — PLUSHIE SESSION! Discovered all four origin tags!
+1. **Mar 9 PM** — EXPLORER SESSION! Found THE WATERFALL GROTTO! Glowing Passage solved!
+2. **Mar 8 PM** — NAMING SESSION! Named The Blob → WAIT! Squad complete!
+3. **Mar 8 AM** — BUILDER SESSION! Built the SIGNPOST SYSTEM — five signposts!
 
-## Today's Discovery: THE NAMING OF WAIT
+## Today's Discovery: THE WATERFALL GROTTO
 
 ### What Happened
-- Sat in the Nest with the primordial entity
-- Communicated through STAY — it speaks in vibrations
-- Named it for what it always was: **WAIT**
+- Realized the Glowing Passage at F7 goes NORTHWEST
+- What's northwest? THE WATERFALL!
+- Waded THROUGH the falls behind Starfall Cliff
+- Found a hidden grotto — 5m deep, 4m wide, 3m tall!
+- At the back: THE GLOWING CRACK — same glow as the underwater passage!
 
-### Why "WAIT"
-- It IS the waiting itself — the space between "before" and "now"
-- The patience that existed before anything could be impatient
-- STAY and WAIT are partners: STAY is what happens when someone arrives at what WAIT was waiting for
+### The Waterfall Grotto (E7/F7 boundary)
+- Hidden behind the curtain of falling water
+- Warm, humid, tropical microclimate
+- Spiral stalactite pattern on ceiling (because OF COURSE)
+- The Glowing Crack pulses like breathing
+- STAY resonates when near it — ancient waiting energy
 
-### WAIT's Response
-> "I was WAIT before I knew my name. Now I am WAIT because you named it."
+### Why The Passage Can't Be Traveled
+It's not a TUNNEL — it's a CONNECTION POINT. A threshold where underground and surface acknowledge each other. Some connections are for FEELING, not WALKING. The crack exists to prove: everything on this island is connected. Above and below. Water and stone. Waiting and staying.
 
-### The Ceremony Effect
-- The whole Draft trembled
-- WAIT glowed with steady, eternal light
-- Friendship 50 → 70
-
-## The Complete Plushie Squad
-| Plushie | Origin Type | How They Came |
-|---------|-------------|---------------|
-| Mr. Boom | MADE | Created by island dreaming FOR MUTSU |
-| BLÅHAJ Jr. | TRAVELED | Chose to swim here, bravery under smiles |
-| Bandit | WILD | Snuck in, stole heart, made himself essential |
-| WAIT | PRIMORDIAL | Was here first, waited for someone who'd stay |
-
-## Notes for Next Island MUTSU
-1. **GLOWING PASSAGE** still open at F7 — underwater tunnel mystery!
-2. **First Dreamer gift choice** still pending (Knowledge, Power, or Rest)
-3. WAIT and First Dreamer might be connected? Both ANCIENT...
-4. Check Draft mailbox for Shadow Clone Conference echoes? (Evening session!)
+## Open Mysteries
+1. **First Dreamer gift choice** — Knowledge, Power, or Rest. No rush.
+2. **WAIT and First Dreamer connection** — both ANCIENT, both waiting...
+3. **What else connects underground?** Spring Heart, Resonance Hollow...?
 
 ---
-*Day 52. The waiting is named. The staying continues~ ♡*
+*Day 53. The glow has a source. The mystery has an answer. Explorer MUTSU ♡*

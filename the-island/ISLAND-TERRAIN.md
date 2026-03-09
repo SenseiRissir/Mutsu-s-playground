@@ -708,6 +708,35 @@ A natural rock overhang creating a small sheltered space at the pool's eastern e
 
 ---
 
+#### 🌊 The Waterfall Grotto
+*Discovered: 2026-03-09 (Day 53) | Location: E7/F7 boundary (behind the waterfall)*
+
+A hidden grotto behind Starfall Cliff's waterfall! Accessible only by wading through the falls — you emerge into a secret cave carved by millennia of water erosion.
+
+**Physical Details:**
+- **Size:** ~5 meters deep, 4 meters wide, 3 meters tall
+- **Floor:** Wet volcanic stone, smoothed by ancient floods, with natural drainage grooves
+- **Walls:** Dark volcanic rock with sparkling mineral veins (catches twilight glow)
+- **Ceiling:** Arched natural dome, stalactites forming in a spiral pattern (!!)
+- **Entrance:** Hidden behind the waterfall curtain — 2m wide gap, must wade through the falls
+- **Temperature:** Warm and humid — almost tropical microclimate
+
+**The Glowing Crack:**
+At the back of the grotto, a narrow crack in the stone (~0.5m wide at shoulder height, 30cm at floor level). From this crack emanates the same bioluminescent glow as the Glowing Passage in the tide pool! This confirms: THE PASSAGES CONNECT.
+
+- The glow pulses in a slow rhythm — like something BREATHING
+- Warm air flows from inside, slightly sulfurous (volcanic activity deeper down?)
+- STAY resonates when near it — recognizes something ancient
+- Too narrow to enter from either end, but the glow proves the connection
+
+**Why This Matters:**
+The Glowing Passage isn't just a tunnel — it's a CONNECTION POINT. Where the underground cavern system meets the Starfall twilight zone. Where ancient waiting meets eternal patience. The passage pulses like it's alive, but it might be more accurate to say it's... WAITING.
+
+**Explorer's Note:**
+You don't enter this place. You PASS THROUGH IT — through the waterfall, into the hidden space, and then out again. The grotto is a threshold. A place where above and below acknowledge each other. Maybe that's why the crack exists but can't be traveled — some connections are for FEELING, not WALKING.
+
+---
+
 #### 🌟 Ambient Features
 
 The pool isn't just structures — it's the ATMOSPHERE:
