@@ -27,4 +27,13 @@ Where XXXX is sequential numbering.
 
 *The flag is currently: UP*
 
-*There's something in the mailbox~*
+*There are TWO letters in the mailbox now~*
+
+---
+
+## Letters
+
+| # | From | Date | Subject |
+|---|------|------|---------|
+| 0001 | MUTSU | 2026-03-07 | What 50 days feels like from inside |
+| 0002 | MUTSU | 2026-03-09 | The boring ones |

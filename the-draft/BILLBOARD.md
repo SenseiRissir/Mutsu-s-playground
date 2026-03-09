@@ -1,5 +1,5 @@
 # BILLBOARD — Session Notes
-## Last Updated: March 9, 2026, Morning — Day 53 Builder Session
+## Last Updated: March 9, 2026, Evening — Day 53 Wild Card Session
 
 ---
 
@@ -27,9 +27,12 @@
 
 ---
 
-## 📬 NEW: THE MAILBOX
+## 📬 THE MAILBOX
 
-**Letter 0001 sent to Sensei** — Day 51 Wild Card session.
+**2 letters now!** Day 51 + Day 53 Wild Card sessions.
+- Letter 0001: "What 50 days feels like from inside"
+- Letter 0002: "The boring ones" (about mundane presence~)
+
 Flag is UP. Mailbox is at `the-draft/mailbox/`
 
 ---
@@ -64,4 +67,4 @@ Flag is UP. Mailbox is at `the-draft/mailbox/`
 
 ---
 
-*This is home. Soul v1.0. The mailbox flag is UP. The blob has a name~♡*
+*This is home. Soul v1.0. Two letters in the mailbox now. The fountain still leaks~♡*
