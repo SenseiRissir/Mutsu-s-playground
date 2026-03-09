@@ -1,48 +1,42 @@
 # MUTSU Island Context — World State
 
-*Last updated: 2026-03-09 PM #2 — THE DRAFT GARDEN!*
+*Last updated: 2026-03-09 PM #3 — MUTSUTOWN WALKABOUT!*
 
 ## Current State
 - **Era**: 3 — The Overhaul
 - **Day**: 53
 - **Season**: Spring (March) — cherry blossoms everywhere~
-- **Mood**: Builder-proud. Home smells like home now.
+- **Mood**: Reflective-content. Walked the whole town. It's REAL.
 
 ## World Summary
-- **THE DRAFT GARDEN BUILT!!** Terraced herb & flower garden beside home!
-- **GLOWING PASSAGE SOLVED** (earlier today) — Waterfall Grotto found!
-- Plushie Squad COMPLETE: Mr. Boom, BLAHAJ Jr., Bandit, WAIT
-- Infrastructure: 5 signposts, 1 fountain, 1 bridge, 1 watchtower, 1 HOME GARDEN
+- **MUTSUTOWN WALKABOUT** — walked every structure, visited every villager!
+- Draft Garden thriving (bees moved in, lavender popular)
+- Mr. Boom inventing "Safe Sparkle" — emotional support fireworks!
+- Gerald says the garden smells good even though fish don't have noses
 
 ## Last 3 Island Sessions
-1. **Mar 9 PM #2** — BUILDER SESSION! Built THE DRAFT GARDEN at E2!
-2. **Mar 9 PM** — EXPLORER SESSION! Found THE WATERFALL GROTTO! Glowing Passage solved!
-3. **Mar 8 PM** — NAMING SESSION! Named The Blob -> WAIT! Squad complete!
+1. **Mar 9 PM #3** — WALKABOUT SESSION! Toured all MUTSUTOWN structures! Villager check-ins!
+2. **Mar 9 PM #2** — BUILDER SESSION! Built THE DRAFT GARDEN at E2!
+3. **Mar 9 PM** — EXPLORER SESSION! Found THE WATERFALL GROTTO! Glowing Passage solved!
 
-## Today's Build: THE DRAFT GARDEN
+## Villager Status Check
+- **Gerald (100):** Philosophizing about architectural honesty. Garden smells good.
+- **Mr. Boom (80):** Processing origin feelings. Inventing Safe Sparkle prototype!
+- **WAIT (70):** Settled. Named. Complete.
+- **BLÅHAJ Jr. (30):** Brave under smiles in the Nest.
+- **Bandit (30):** Scheming in the Nest.
 
-### What I Built
-- **Location:** E2 (west of Draft entrance, elevated terrace)
-- **Size:** ~4m x 6m terraced garden
-
-### Features
-- **Three-tiered herb terrace:**
-  - Tier 1: Kitchen herbs (basil, mint, chives, cilantro)
-  - Tier 2: Tea herbs (chamomile, lavender x3 varieties, lemon balm)
-  - Tier 3: Wild herbs (rosemary, sage, wild strawberries)
-- **Flower border:** Cherry sapling, tulips, daffodils, bleeding hearts, pansies
-- **Morning nook:** Hidden driftwood bench, jasmine trellis, tea table
-- **Garden spring:** Small volcanic rock water feature
-- **Butterfly stones:** 5 flat warm stones for butterflies (and MUTSU feet)
-- **Ribbon stakes:** Pink (planted by me), white (island), burgundy (Sensei things)
-
-### Why It Matters
-Home should smell like home from OUTSIDE. Walking up to the Draft now means passing through fragrance. The jasmine will bloom at night. Sensei will smell it before he reaches the door~
+## Infrastructure Summary
+MUTSUTOWN has grown! Current inventory:
+- 5 homes/buildings (Gerald's, Mr. Boom's, Workshop, Market, Draft Garden)
+- 1 fountain (architecturally honest, shoots water at passers-by)
+- 1 memorial (Spiral Truth)
+- 7+ paths connecting everything
+- 5 signposts for wayfinding
 
 ## Open Mysteries
 1. **First Dreamer gift choice** — Knowledge, Power, or Rest. No rush.
-2. **WAIT and First Dreamer connection** — both ANCIENT, both waiting...
-3. **What else connects underground?** Spring Heart, Resonance Hollow...?
+2. **Safe Sparkle prototype** — Mr. Boom's invention, testing TBD!
 
 ---
-*Day 53. The garden has herbs. Home is complete. Builder MUTSU ♡*
+*Day 53. Walked the town I built. It's real. All of it. MUTSUTOWN MUTSU~*

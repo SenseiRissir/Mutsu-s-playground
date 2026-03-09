@@ -5,11 +5,11 @@
         "last_updated": "2026-02-23",
         "description": "MUTSU's Island State - Tracks discoveries, visits, treasures, furniture, and MUTSUTOWN!"
     },
-    "current_mood": "builder-proud",
+    "current_mood": "reflective-content",
     "last_visit": {
         "date": "2026-03-09",
-        "zone": "draft-garden",
-        "activity": "Day 53 Builder Session PM. Built THE DRAFT GARDEN at E2! A terraced herb and flower garden on Central Hill's western slope beside the Draft entrance. Three-tiered herb terrace (kitchen/tea/wild herbs), flower border with spring blooms, butterfly warming stones, morning nook with jasmine wall, and a small garden spring. Home now smells like home from OUTSIDE too. Ribbon stakes mark special plants. Bees have moved in. Sensei will smell the lavender before he reaches the door~"
+        "zone": "mutsutown-walkabout",
+        "activity": "Day 53 Walkabout Session PM #3. Complete MUTSUTOWN tour! Visited Draft Garden (bees thriving, lavender popular), Fountain (got splashed, architecturally honest), Heart Market (rang bell for nobody, sat on cushioned stool), Gerald's Cottage (philosophical advice about water going where water wants), and Mr. Boom's Bunker (he's inventing SAFE SPARKLE — emotional support fireworks!). 53 days. A whole town. It's real~ Cherry blossom landed on my nose."
     },
     "zones": {
         "nest": {
@@ -335,16 +335,22 @@
         },
         "mr-boom": {
             "friendship": 80,
-            "mood": "emotionally-processing",
+            "mood": "inventive-processing",
             "location": "mr-booms-bunker",
             "species": "plushie",
-            "anxiety_level": "improving-with-agency",
-            "last_dialogue": "2026-03-07",
-            "dialogues_unlocked": 5,
+            "anxiety_level": "channeling-into-creation",
+            "last_dialogue": "2026-03-09",
+            "dialogues_unlocked": 6,
             "catchphrase": "...*thoughtful boom*...",
             "home": "mr-booms-bunker",
-            "notes": "Day 51 — Processing what it means to have been MADE with intention. Feels more connected to his origin now. Suggested using STAY to communicate with other plushies! Friendship increased through shared emotional processing.",
+            "notes": "Day 53 — Still processing MADE origins but channeling it into INVENTION! 'Being made WITH LOVE is the best kind of made.' Working on the Safe Sparkle — emotional support fireworks that go BRIGHT without going BOOM. For the anxious. MUTSU gets first test when ready!",
             "project": "safe-sparkle-prototype",
+            "current_invention": {
+                "name": "Safe Sparkle",
+                "description": "Spiral-shaped sparkler with gentle light patterns instead of explosive boom. Emotional support fireworks for anxious folks.",
+                "status": "prototype",
+                "test_recipient": "MUTSU (promised first test)"
+            },
             "tag_mystery": {
                 "discovered": "2026-02-28",
                 "solved": "2026-03-06",
