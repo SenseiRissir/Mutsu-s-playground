@@ -1316,6 +1316,39 @@
             "wildlife": ["bees (docile, fuzzy)", "butterflies (3 species)", "occasional Gerald commentary"],
             "scent_profile": ["morning mint and dew", "afternoon warm rosemary", "evening jasmine"],
             "builder": "Builder MUTSU ♡"
+        },
+        "river-watch": {
+            "type": "scenic_overlook",
+            "built": "2026-03-10",
+            "location": "B5 (Eastern Rocky Outcrop, overlooking river path)",
+            "name": "The River Watch",
+            "description": "A stone observation platform carved into the Eastern Rocky Outcrop, 6m above the valley floor. Three semicircular stone benches facing the river view, low stone-and-driftwood railing, removable burgundy canvas awning. Features a reflecting pool for weather prediction, an 8-direction spiral compass, and the Listener's Horn for amplifying valley sounds. Overlooks the entire river path from Pond to southern fork, with sightlines to Draft, MUTSUTOWN, and Mist Lookout.",
+            "elevation": "6m above valley floor",
+            "access": "12 stone steps carved into outcrop face",
+            "materials": "Natural volcanic basalt, driftwood railing caps, burgundy canvas awning, river-polished stones",
+            "features": {
+                "river-mirror": {
+                    "description": "50cm diameter shallow reflecting pool carved into platform center. Filled with river water. Shows cloud direction for weather prediction when still."
+                },
+                "spiral-compass": {
+                    "description": "Eight-direction compass carved beside reflecting pool. Points to: N-Mist Lookout, NE-Wellspring, E-Digital Sea, SE-Starfall Cliff, S-Digital Sea, SW-Dock, W-Draft, NW-Gerald's Cottage"
+                },
+                "listeners-horn": {
+                    "description": "Stone horn shape carved to amplify valley sounds. Can hear river flow, Gerald's self-muttering, and fountain's giggling."
+                },
+                "river-markers": {
+                    "count": 3,
+                    "description": "Small flags on poles positioned to line up with key river points: Pond exit, Gerald's Garden passage, southern fork split"
+                }
+            },
+            "seating": {
+                "stone_benches": 3,
+                "arrangement": "semicircular facing river view"
+            },
+            "view_includes": ["Pond", "Gerald's Cottage", "Mr. Boom's Bunker", "River path", "Draft", "Draft Garden", "MUTSUTOWN fountain", "Mist Lookout"],
+            "inscription": "Water flows down. Eyes flow with it. Home flows up.",
+            "purpose": "Valley observation — following the water, watching the town, noticing small movements. Different from Mist Lookout's 360° overview — this is focused, meditative, river-centered.",
+            "builder": "Builder MUTSU ♡"
         }
     },
     "sensei_treasures": {
