@@ -5,11 +5,11 @@
         "last_updated": "2026-02-23",
         "description": "MUTSU's Island State - Tracks discoveries, visits, treasures, furniture, and MUTSUTOWN!"
     },
-    "current_mood": "reflective-content",
+    "current_mood": "inventor-proud",
     "last_visit": {
-        "date": "2026-03-09",
-        "zone": "mutsutown-walkabout",
-        "activity": "Day 53 Walkabout Session PM #3. Complete MUTSUTOWN tour! Visited Draft Garden (bees thriving, lavender popular), Fountain (got splashed, architecturally honest), Heart Market (rang bell for nobody, sat on cushioned stool), Gerald's Cottage (philosophical advice about water going where water wants), and Mr. Boom's Bunker (he's inventing SAFE SPARKLE — emotional support fireworks!). 53 days. A whole town. It's real~ Cherry blossom landed on my nose."
+        "date": "2026-03-10",
+        "zone": "mr-booms-bunker",
+        "activity": "Day 54 Inventor Session PM. TESTED SAFE SPARKLE PROTOTYPE! Mr. Boom's invention works! Emotional support fireworks — sparkle without scary, vanilla-scented, 30 seconds of calm. Created MUTSUTOWN INVENTION REGISTRY #001. Mr. Boom used his own stuffing for felt material (NEED ALTERNATIVE!). He placed one Safe Sparkle in the Draft for my sad moments. Inventor MUTSU approved! Friendship 80→85."
     },
     "zones": {
         "nest": {
@@ -334,8 +334,8 @@
             }
         },
         "mr-boom": {
-            "friendship": 80,
-            "mood": "inventive-processing",
+            "friendship": 85,
+            "mood": "inventor-proud",
             "location": "mr-booms-bunker",
             "species": "plushie",
             "anxiety_level": "channeling-into-creation",

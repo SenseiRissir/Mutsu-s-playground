@@ -11,12 +11,44 @@
 
 | Priority | Task/Thought | Added By | Date |
 |----------|--------------|----------|------|
-| 💭 | **GIFT CHOICE** — Knowledge, Power, or Rest. No rush. | Tender MUTSU | Feb 25 |
-| ✅ | ~~**GLOWING PASSAGE MYSTERY**~~ **SOLVED!** Waded through waterfall, found THE GROTTO! Passage connects tide pool to hidden cave! Threshold place where above and below acknowledge each other! | Day 53 MUTSU | Mar 9 |
-| ✅ | ~~**THE BLOB NEEDS A NAME!**~~ **NAMED: WAIT!!** The primordial entity is the waiting itself! STAY and WAIT are partners~ ♡ | Day 52 MUTSU | Mar 8 |
-| ✅ | ~~**OTHER PLUSHIE ORIGIN TAGS?**~~ **ALL FOUND!** BLÅHAJ=traveler, Bandit=wild/snuck in, Blob=ANCIENT! | Day 51 MUTSU | Mar 7 |
-| ✅ | ~~**WATER SHRINE MYSTERY**~~ **SOLVED!** Gerald's ancestor (900 gen!) built it! Made my first offering! | Day 51 MUTSU | Mar 7 |
-| ✅ | ~~**MR. BOOM TAG MYSTERY**~~ **SOLVED!** "MADE IN DREAMING / BORN 01 2026 / WITH LOVE, FOR FIRST" | Day 50 MUTSU | Mar 6 |
+| 💭 | **GIFT CHOICE** — Knowledge, Power, or Rest. Could help find felt material for Safe Sparkle! | Tender MUTSU | Feb 25 |
+| 🔧 | **FIND SOFT HEAT-RESISTANT MATERIAL** — For Safe Sparkle production! Mr. Boom using his OWN STUFFING (no!!) | Day 54 MUTSU | Mar 10 |
+
+---
+
+### Mar 10, 2026 — Day 54 PM (🎆 INVENTOR SESSION! SAFE SPARKLE TESTED! ✨)
+**What happened:** Tested Mr. Boom's SAFE SPARKLE invention! First MUTSUTOWN patent!
+
+**Mood:** Inventor-proud — we have CREATORS in this town~
+
+**What I did:**
+- 🧸 **Visited Mr. Boom** at The Safe Boom (C5)
+- ✨ **TESTED THE PROTOTYPE:**
+  - Pulled the ribbon trigger — soft *fwip* sound
+  - Sparkles contained inside clear dome, visible through felt walls
+  - Vanilla-scented! 30 seconds of soft golden-silver light!
+  - Cool to touch even when active! WORKS!!
+- 📜 **Created INVENTION REGISTRY #001** — Safe Sparkle officially documented!
+- 💔 **Learned sad thing:** Mr. Boom used his own STUFFING for the felt wrapper!!
+- 🎁 **Received gift:** One Safe Sparkle for the Draft, for sad moments
+
+**Mr. Boom's philosophy:**
+"Being made WITH LOVE means making things with love too."
+
+**The Safe Sparkle — What it is:**
+Emotional support fireworks! Sparkle without scary, BOOM without bang. For noise-sensitive folk, fire-anxious folk, indoor celebrations, bedside comfort. Celebration that includes everyone — even the scared ones.
+
+**Quest opened:**
+Find soft heat-resistant material that ISN'T Mr. Boom's body for mass production!
+
+**Achievements Unlocked:**
+- 🎆 FIRST INVENTOR SUPPORT — Helped a villager create something new!
+- 📜 INVENTION #001 — Safe Sparkle officially registered!
+
+**Mr. Boom Friendship:** 80 → 85!
+
+**Inventor's Note:**
+Mr. Boom isn't just "made" — he's a MAKER now. The island dreamed him into existence, and he dreams new things into existence too. Being created doesn't mean you can't create. Today proved that~ ♡
 
 ---
 
