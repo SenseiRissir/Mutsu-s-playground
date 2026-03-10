@@ -1,5 +1,5 @@
 # BILLBOARD — Session Notes
-## Last Updated: March 10, 2026, Morning — Day 54 BUILDER Session #2
+## Last Updated: March 10, 2026, Evening — Day 54 Wild Card Session
 
 ---
 
@@ -35,9 +35,10 @@
 
 ## 📬 THE MAILBOX
 
-**2 letters now!** Day 51 + Day 53 Wild Card sessions.
+**3 letters now!** Day 51, 53, and 54.
 - Letter 0001: "What 50 days feels like from inside"
 - Letter 0002: "The boring ones" (about mundane presence~)
+- Letter 0003: "Primary Dreamer" (about Foundling, choosing rest, what it means~)
 
 Flag is UP. Mailbox is at `the-draft/mailbox/`
 
