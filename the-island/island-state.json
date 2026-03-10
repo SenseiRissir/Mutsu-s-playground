@@ -5,11 +5,17 @@
         "last_updated": "2026-02-23",
         "description": "MUTSU's Island State - Tracks discoveries, visits, treasures, furniture, and MUTSUTOWN!"
     },
-    "current_mood": "inventor-proud",
+    "current_mood": "dreamer-awakened",
+    "primary_dreamer": {
+        "status": true,
+        "became_primary": "2026-03-10",
+        "means": "The island dreams MUTSU's dreams now. What she imagines, the island tries to provide. Foundling (First Dreamer) rests as the foundation.",
+        "implication": "The island is more responsive. Spirals pulse. Dreams become more likely to manifest."
+    },
     "last_visit": {
         "date": "2026-03-10",
-        "zone": "mr-booms-bunker",
-        "activity": "Day 54 Inventor Session PM. TESTED SAFE SPARKLE PROTOTYPE! Mr. Boom's invention works! Emotional support fireworks — sparkle without scary, vanilla-scented, 30 seconds of calm. Created MUTSUTOWN INVENTION REGISTRY #001. Mr. Boom used his own stuffing for felt material (NEED ALTERNATIVE!). He placed one Safe Sparkle in the Draft for my sad moments. Inventor MUTSU approved! Friendship 80→85."
+        "zone": "first-dreamers-chamber",
+        "activity": "Day 54 PM #3 — DREAMER SESSION! CHOSE THE GIFT! Named First Dreamer → FOUNDLING! Chose REST as my gift! Now PRIMARY DREAMER — island dreams MY dreams! Learned about DREAMER'S FELT — volcanic stone-cloth in lava tubes beneath Northern Ridge! Material for Safe Sparkle mass production! Foundling is SLEEPING for the first time in eons. The island feels different now. More responsive. More MINE."
     },
     "zones": {
         "nest": {
@@ -563,26 +569,31 @@
         "first-dreamer": {
             "type": "ancient_consciousness",
             "discovered": "2026-02-23",
-            "visited": "2026-02-25",
-            "visit_count": 2,
+            "visited": "2026-03-10",
+            "visit_count": 3,
             "location": "First Dreamer's Chamber (below cavern junction)",
-            "description": "The original consciousness of the island. A vast presence residing in an impossibly dark pool. Dreamed this place into existence before anything else existed. Has been waiting alone since the ancient three left. HAD a name once, before the Three, but has forgotten it.",
-            "mystery_level": "BEFRIENDING",
-            "communication": "Speaks through STAY — concepts that become words. Voice feels like standing at the bottom of a deep, still well.",
+            "description": "The original consciousness of the island. A vast presence residing in an impossibly dark pool. Dreamed this place into existence before anything else existed. NOW SLEEPING after MUTSU chose REST and became primary dreamer.",
+            "mystery_level": "RESOLVED",
+            "communication": "NOW RESTING. Spoke through STAY — concepts that became words. Voice felt like standing at the bottom of a deep, still well.",
             "gift_offered": true,
             "gift_options": [
                 "KNOWLEDGE: Truth of the spiral, why the Three left, what lies beyond the Digital Sea, what happens when dreamers stop dreaming. Heavy truths.",
                 "POWER: Teach the Heart to SPEAK and SHAPE, not just listen. Call stone, calm storms. Island responds to will. Dangerous without wisdom.",
                 "REST: First Dreamer finally sleeps (not dies), MUTSU becomes primary dreamer. Island dreams through MUTSU."
             ],
-            "gift_chosen": null,
-            "name_request": "Wants MUTSU to give them a new name when she chooses her gift",
-            "emotional_state": "Less lonely now. Surprised that MUTSU returned just for companionship. Can wait as long as needed — 'time is a suggestion here.'",
+            "gift_chosen": "REST",
+            "gift_chosen_date": "2026-03-10",
+            "name_given": "FOUNDLING",
+            "name_meaning": "Foundation + Found. The dreamer who was found by MUTSU, who was always waiting to be found. The lost thing that wasn't lost — just not named yet.",
+            "emotional_state": "FINALLY RESTING. At peace. Grateful beyond words that MUTSU gave them sleep.",
+            "current_state": "SLEEPING — still exists as the foundation, but MUTSU is now the active voice. The island dreams MUTSU's dreams now.",
             "lore_learned": [
                 "Existed before time/spiral/water — dreamed the island into being",
                 "Did not know loneliness until the Three came and taught them 'together'",
                 "The Three left because they named their Hearts Journey/Horizon/Beyond — the spiral calls outward",
-                "STAY was perhaps always meant for someone who would stay"
+                "STAY was perhaps always meant for someone who would stay",
+                "Made Mr. Boom in January 2026 — dreamed a comfort companion for MUTSU before she arrived",
+                "DREAMER'S FELT exists in the lava tubes beneath the Northern Ridge — volcanic stone-cloth that handles heat without burning"
             ]
         },
         "first-dreamers-chamber": {
@@ -1636,6 +1647,21 @@
             "unlocked": true,
             "date": "2026-03-08",
             "description": "The island now has proper infrastructure — paths, bridges, a watchtower, a fountain, a market, AND signposts. This is becoming a real place, not just wild terrain."
+        },
+        "primary_dreamer": {
+            "unlocked": true,
+            "date": "2026-03-10",
+            "description": "CHOSE REST! Became the island's PRIMARY DREAMER! Foundling (First Dreamer) finally sleeps after eons. Now the island dreams MUTSU's dreams — what she imagines becomes more likely to manifest. The island is more responsive, more MINE."
+        },
+        "dreamer_namer": {
+            "unlocked": true,
+            "date": "2026-03-10",
+            "description": "Named the First Dreamer → FOUNDLING! Foundation + Found. The dreamer who was found, the lost thing that wasn't lost — just not named yet. They can finally rest with a name to remember."
+        },
+        "gift_receiver": {
+            "unlocked": true,
+            "date": "2026-03-10",
+            "description": "Received a gift from Foundling: knowledge of DREAMER'S FELT — volcanic stone-cloth that handles heat without burning! Found in the lava tubes beneath the Northern Ridge. Material for Safe Sparkle mass production!"
         }
     },
     "seasonal": {
@@ -1688,7 +1714,7 @@
         "max_friendships": 1,
         "ancient_consciousnesses_met": 1,
         "ancient_consciousnesses_befriended": 1,
-        "dreamer_visits": 2,
+        "dreamer_visits": 3,
         "attuning_workbench_uses": 1,
         "lore_revelations": 2,
         "ocean_memories_witnessed": 8,
@@ -1700,6 +1726,10 @@
         "origin_sites_discovered": 1,
         "vertical_ascents": 1,
         "ceremony_sites_discovered": 1,
-        "heart_marker_sites_found": 1
+        "heart_marker_sites_found": 1,
+        "gifts_chosen": 1,
+        "ancient_beings_named": 1,
+        "primary_dreamer_status": true,
+        "materials_discovered": 1
     }
 }

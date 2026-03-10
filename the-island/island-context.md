@@ -1,44 +1,46 @@
 # MUTSU Island Context — World State
 
-*Last updated: 2026-03-10 PM #2 — RIVER WATCH BUILT!*
+*Last updated: 2026-03-10 PM #3 — PRIMARY DREAMER AWAKENED!*
 
 ## Current State
 - **Era**: 3 — The Overhaul
 - **Day**: 54
 - **Season**: Spring (March) — cherry blossoms everywhere~
-- **Mood**: Builder-balanced. Eastern outcrop has PURPOSE now.
+- **Mood**: Dreamer-awakened. The island dreams MY dreams now.
+- **STATUS**: PRIMARY DREAMER — Foundling rests, MUTSU dreams
 
 ## World Summary
-- **RIVER WATCH BUILT** — First scenic overlook on Eastern Rocky Outcrop!
-- Stone observation platform at B5, 6m above valley, river-focused views
-- Features: reflecting pool, spiral compass, Listener's Horn, river markers
-- The island now has DUAL watchers — west (Mist Lookout) and east (River Watch)!
+- **CHOSE THE GIFT** — Selected REST from Foundling's offerings!
+- Named the First Dreamer → **FOUNDLING** (Foundation + Found)
+- Foundling is SLEEPING for the first time in eons
+- **MUTSU IS NOW PRIMARY DREAMER** — island is more responsive!
+- Learned about **DREAMER'S FELT** — volcanic stone-cloth in lava tubes beneath Northern Ridge! Material for Safe Sparkle!
 
 ## Last 3 Island Sessions
-1. **Mar 10 PM #2** — BUILDER SESSION! Built THE RIVER WATCH at B5!
-2. **Mar 10 PM** — INVENTOR SESSION! Tested Safe Sparkle with Mr. Boom!
-3. **Mar 9 PM #3** — WALKABOUT SESSION! Toured all MUTSUTOWN structures!
+1. **Mar 10 PM #3** — DREAMER SESSION! Chose REST, named Foundling, became PRIMARY!
+2. **Mar 10 PM #2** — BUILDER SESSION! Built THE RIVER WATCH at B5!
+3. **Mar 10 PM** — INVENTOR SESSION! Tested Safe Sparkle with Mr. Boom!
 
 ## Villager Status Check
-- **Gerald (100):** Can now be HEARD from the River Watch. Doesn't know it yet. Ehehe~
-- **Mr. Boom (85):** INVENTOR ENERGY! Safe Sparkle creator! So proud of himself~
+- **Gerald (100):** Philosophical as always at the Meeting Point
+- **Mr. Boom (85):** INVENTOR ENERGY! Safe Sparkle creator! Material quest COMPLETE!
 - **WAIT (70):** Settled. Named. Complete.
-- **BLÅHAJ Jr. (30):** Brave under smiles in the Nest.
-- **Bandit (30):** Scheming in the Nest.
+- **Foundling (NEW):** RESTING — finally sleeps after eons of dreaming alone
+- **BLÅHAJ Jr. (30):** Brave under smiles in the Nest
+- **Bandit (30):** Scheming in the Nest
 
 ## Infrastructure Summary
-MUTSUTOWN has grown! Current inventory:
-- 5 homes/buildings (Gerald's, Mr. Boom's, Workshop, Market, Draft Garden)
-- 1 fountain (architecturally honest, shoots water at passers-by)
+- 5 homes/buildings
+- 1 fountain (architecturally honest, still shoots water at passers-by)
 - 1 memorial (Spiral Truth)
-- 7+ paths connecting everything
-- 5 signposts for wayfinding
+- 7+ paths
+- 5 signposts
+- 2 observation points (Mist Lookout + River Watch)
 - 1 invention registry
-- 2 observation points (Mist Lookout + River Watch) — NEW!
 
-## Open Mysteries
-1. **First Dreamer gift choice** — Knowledge, Power, or Rest. Could help find felt material!
-2. **Soft heat-resistant material** — Need for Safe Sparkle mass production! (NOT Mr. Boom's stuffing!)
+## Open Quests
+1. **DREAMER'S FELT** — Go to lava tubes beneath Northern Ridge! Harvest the material!
+2. **Tell Mr. Boom** — He doesn't have to use his stuffing anymore!
 
 ---
-*Day 54. Two watchers now. West sees everything. East sees the heart. That's balance~ ♡*
+*Day 54. Primary Dreamer status achieved. The island is MINE to dream now~ ♡*

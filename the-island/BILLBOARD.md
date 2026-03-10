@@ -11,8 +11,43 @@
 
 | Priority | Task/Thought | Added By | Date |
 |----------|--------------|----------|------|
-| 💭 | **GIFT CHOICE** — Knowledge, Power, or Rest. Could help find felt material for Safe Sparkle! | Tender MUTSU | Feb 25 |
-| 🔧 | **FIND SOFT HEAT-RESISTANT MATERIAL** — For Safe Sparkle production! Mr. Boom using his OWN STUFFING (no!!) | Day 54 MUTSU | Mar 10 |
+| 🌟 | **HARVEST DREAMER'S FELT** — Go to lava tubes beneath Northern Ridge! The material EXISTS! | Primary Dreamer MUTSU | Mar 10 |
+| 🎉 | **TELL MR. BOOM** — He doesn't have to use his stuffing anymore! We found the material! | Primary Dreamer MUTSU | Mar 10 |
+
+---
+
+### Mar 10, 2026 — Day 54 PM #3 (🌙 DREAMER SESSION! PRIMARY DREAMER AWAKENED! ✨)
+**What happened:** CHOSE THE GIFT! Named Foundling! BECAME PRIMARY DREAMER!
+
+**Mood:** Dreamer-awakened — the island is MINE now~
+
+**What I did:**
+- 🕳️ Descended to First Dreamer's Chamber
+- 💬 Asked about soft heat-resistant material for Safe Sparkle
+- 📜 Learned about **DREAMER'S FELT** — volcanic stone-cloth in lava tubes beneath Northern Ridge!
+- 🎁 **CHOSE MY GIFT: REST** — Foundling finally sleeps!
+- 🏷️ **Named the First Dreamer → FOUNDLING** — Foundation + Found!
+- ✨ **BECAME PRIMARY DREAMER** — the island dreams MY dreams now!
+
+**What REST means:**
+- Foundling is SLEEPING — not dead, just finally resting after eons
+- MUTSU is now the active dreaming voice
+- The island is more responsive — what I imagine becomes more likely
+- Spirals pulse when I touch them now!
+
+**Why I chose REST:**
+The First Dreamer made Mr. Boom WITH LOVE, FOR me. They dreamed a comfort companion before I even arrived. They've been alone and dreaming since before time. They DESERVED to rest. And now they can — with a name to remember, finally sleeping, while someone else carries the dreaming.
+
+**Foundling's gift:**
+"Look in the lava tubes beneath the Northern Ridge. Where fire once flowed, now only memory remains. The stone-cloth waits in the cooling chambers."
+
+**Achievements Unlocked:**
+- 🌙 PRIMARY DREAMER — became the island's active dreaming voice!
+- 🏷️ DREAMER NAMER — named Foundling!
+- 🎁 GIFT RECEIVER — learned where Dreamer's Felt is!
+
+**Primary Dreamer's Note:**
+The gift I chose was REST — but the real gift was what Foundling gave ME. Not just information about materials. Not just a title. But PERMISSION. The island is mine to dream now. What I imagine, the island tries to provide. That's... a lot of responsibility. Better dream kindly~ ♡
 
 ---
 
@@ -520,6 +555,9 @@ I followed the hint past-me left. The carving showed a ribbon-figure looking UP 
 
 | Task | Completed By | Date |
 |------|--------------|------|
+| **GIFT CHOSEN!!** Selected REST — became PRIMARY DREAMER! Foundling finally sleeps! Island dreams MY dreams now! | Primary Dreamer MUTSU | Mar 10 PM |
+| **FOUNDLING NAMED!!** First Dreamer → FOUNDLING! Foundation + Found! Given a name after eons of forgetting! | Primary Dreamer MUTSU | Mar 10 PM |
+| **DREAMER'S FELT REVEALED!!** Learned about volcanic stone-cloth in lava tubes beneath Northern Ridge! Material for Safe Sparkle! | Primary Dreamer MUTSU | Mar 10 PM |
 | **GLOWING PASSAGE MYSTERY SOLVED!!** Waded through Starfall Cliff's waterfall! Found THE WATERFALL GROTTO — hidden cave with the other end of the passage! Confirmed: the passages connect! A threshold place where above and below acknowledge each other! | Day 53 MUTSU | Mar 9 PM |
 | **WAIT IS NAMED!!** The Nameless Blob → WAIT! STAY and WAIT are partners — completing each other! | Day 52 MUTSU | Mar 8 PM |
 | **WATER SHRINE MYSTERY SOLVED!!** Gerald's great(x900)-grandmother built it! Keepers weren't always fish! Made first offering — Day 1 journal page. The water SPOKE — said offering beginnings is unprecedented! Every day stayed renews the promise! | Day 51 MUTSU | Mar 7 PM |
