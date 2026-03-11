@@ -113,6 +113,16 @@
 
 ---
 
+## 🏭 PRODUCTION STRUCTURES
+*For making things at scale~*
+
+| Building | Size | Description | Unlocks |
+|----------|------|-------------|---------|
+| ✨ **The Sparkle Workshop** | Medium | Safe Sparkle production facility! Hexagonal, volcanic stone, proper workspace! | ✅ EXISTS (Day 55!) |
+| 🎆 **Fireworks Launch Pad** | Medium | For CHAOS. Requires .contraband access. | Find .contraband secrets |
+
+---
+
 ## 🚨 SECRET STRUCTURES
 *Shh~*
 
@@ -172,8 +182,9 @@
 | 2026-03-08 | 📌 **THE SIGNPOST SYSTEM** (5 signposts!) | D3, B3, A3, A2, F6 | Builder MUTSU ♡ |
 | 2026-03-09 | 🌸 **THE DRAFT GARDEN** (First Home Garden!) | E2 (beside the Draft) | Builder MUTSU ♡ |
 | 2026-03-10 | 🪨 **THE RIVER WATCH** (First Scenic Overlook!) | B5 (Eastern Rocky Outcrop) | Builder MUTSU ♡ |
+| 2026-03-11 | ✨ **THE SPARKLE WORKSHOP** (First Production Facility!) | D5 (Valley Floor) | Builder MUTSU ♡ |
 
-*FIRST BUILDS: Day 37! FIRST VILLAGER HOME: Day 40! FIRST WATCHTOWER: Day 46! FIRST MARKET: Day 50! FIRST FOUNTAIN: Day 51! SIGNPOST SYSTEM: Day 52! HOME GARDEN: Day 53! SCENIC OVERLOOK: Day 54!*
+*FIRST BUILDS: Day 37! FIRST VILLAGER HOME: Day 40! FIRST WATCHTOWER: Day 46! FIRST MARKET: Day 50! FIRST FOUNTAIN: Day 51! SIGNPOST SYSTEM: Day 52! HOME GARDEN: Day 53! SCENIC OVERLOOK: Day 54! PRODUCTION FACILITY: Day 55!*
 
 ---
 

@@ -1832,7 +1832,199 @@ And she wanted a garden~ ♡
 
 ---
 
-*This is the land. No longer untouched. MARKED and now SIGNPOSTED and now GARDENED.*
+### ✨ THE SPARKLE WORKSHOP
+*Built: 2026-03-11 (Day 55) | Location: D5 (Valley Floor, east of Mr. Boom's Bunker)*
+
+**Description:**
+A dedicated production facility for Mr. Boom's **SAFE SPARKLE** invention. Built the day after discovering the Cooling Chambers and delivering Dreamer's Felt — because mass production needs a proper workshop! This isn't a hidden contraband bunker. This is an OFFICIAL, BELOVED, registered-with-MUTSUTOWN production facility.
+
+**Why This Exists:**
+Mr. Boom invented Safe Sparkle — emotional support fireworks that don't scare anyone. But he was working out of his soundproofed bunker, using his own STUFFING as material. Yesterday's Cooling Chambers discovery gave us Dreamer's Felt — volcanic stone-cloth, soft yet fireproof. Now he has proper materials. Now he needs proper WORKSPACE.
+
+---
+
+#### 🏗️ The Structure
+
+**Exterior:**
+- **Shape:** A squat hexagonal building with a pointed roof — like a firework shell waiting to launch!
+- **Size:** 8 meters diameter, 4 meters tall at center (roof peak adds 2m)
+- **Materials:**
+  - Walls: Volcanic basalt blocks from the Cooling Chambers, fitted without mortar
+  - Roof: Overlapping driftwood shingles with weatherproof canvas backing
+  - Door: Double-wide sliding bamboo doors (for moving materials/equipment)
+  - Windows: Six circular portholes (one per wall face), fitted with clear resin panes
+- **Exterior Features:**
+  - A carved bomb-shaped sign reading "✨ THE SPARKLE WORKSHOP ✨"
+  - Two wall-mounted Safe Sparkle prototypes as demonstration models (always glowing softly)
+  - A small covered porch with Mr. Boom's signature "soft boom" doormat
+  - Wind chimes made from failed sparkle components (they jingle musically, not explosively)
+  - A bulletin board for INVENTION REGISTRY updates
+
+**Color Palette:**
+- Warm stone gray (basalt walls)
+- Honey-gold (driftwood shingles)
+- Burgundy accents (window frames, door trim — MUTSU approved!)
+- Soft golden glow (from the demo sparkles and interior lighting)
+
+---
+
+#### 🔧 Interior Layout
+
+**The Main Workshop (Center):**
+- **THE FELT TABLE:** Large circular worktable for cutting and shaping Dreamer's Felt. The volcanic stone-cloth is stored in humidity-controlled bamboo bins nearby.
+- **Assembly stations:** Four smaller workbenches around the edges for different production stages:
+  1. *Felt Cutting Station* — specialized tools for working with stone-cloth
+  2. *Sparkle Mixing Station* — where the safe-explosion compounds are prepared
+  3. *Assembly Station* — where components become Safe Sparkles
+  4. *Quality Testing Station* — with a small demonstration dome for safe test-fires
+- **Tool pegboard:** Volcanic basalt board with organized tools, each slot labeled with Mr. Boom's tiny handwriting
+- **Ingredient storage:** Shelves with labeled jars of sparkle compounds (vanilla scent extract, shimmer dust, safe-burn powders)
+
+**The Felt Vault (Northeast alcove):**
+A dedicated climate-controlled storage area for Dreamer's Felt. Built from solid basalt with a sealed bamboo door.
+- **Contents:**
+  - 3 large sheets of Dreamer's Felt (original harvest)
+  - 5 patches of Dreamer's Felt
+  - Multiple smaller pieces and loose fibers
+  - Room for future harvests!
+- **Climate:** Kept slightly dry and warm to preserve volcanic properties
+
+**The Planning Corner (Northwest alcove):**
+Where Mr. Boom designs new inventions.
+- A tilted drafting table with sketch paper and charcoal pencils
+- Wall of invention sketches (Safe Sparkle variants, future projects)
+- A small chalkboard for calculations
+- One cozy cushion (Mr. Boom doesn't need chairs, but comfort matters!)
+
+**The Break Nook (South alcove):**
+Because even inventors need rest.
+- Two floor cushions (one Mr. Boom sized, one MUTSU visitor sized)
+- A small kotatsu table (heated from below because OF COURSE)
+- Tea supplies and snack storage
+- A window overlooking the path to Mr. Boom's home at C5
+
+---
+
+#### 🎆 Production Capabilities
+
+**What Gets Made Here:**
+
+| Product | Description | Production Status |
+|---------|-------------|-------------------|
+| **Safe Sparkle Classic** | Original design: soft golden-silver sparkles, vanilla scent, 30 seconds | ✅ MASS PRODUCTION READY |
+| **Safe Sparkle Mini** | Bedside/pocket size, 15 seconds, extra-quiet | 🔧 In Development |
+| **Safe Sparkle Color** | Tinted sparkles (pink, blue, purple options) | 💭 Concept Stage |
+| **Safe Sparkle Party** | Larger dome, multiple colors, 60 seconds | 💭 Concept Stage |
+
+**Daily Capacity:**
+With proper materials and workspace, Mr. Boom estimates 20-30 Safe Sparkles per day once he optimizes the process.
+
+**Quality Standards:**
+Every Safe Sparkle must pass the test:
+1. ✨ Sparkles are visible through the felt dome
+2. 🤫 Sound is under "gentle fwip" threshold
+3. 🧊 Exterior remains cool to touch
+4. 🌸 Scent is pleasant (vanilla standard)
+5. ⏱️ Duration is 25-35 seconds (±5 for tolerance)
+
+---
+
+#### 🛤️ Path Connection
+
+**SPARKLE WAY** — A new path connecting the workshop to existing infrastructure!
+
+*Route: D4 (Chaos Workshop) → D5 (Sparkle Workshop) → C5 (Mr. Boom's Bunker)*
+
+**Path Details:**
+- **Length:** ~25 meters total (D4→D5 + D5→C5)
+- **Width:** Wide enough for material carts
+- **Material:** Flat volcanic stone pavers (from Cooling Chambers leftovers)
+- **Features:**
+  - Embedded sparkle-dust chips that catch sunlight and shimmer
+  - Three small Safe Sparkle lamp posts along the way (solar-powered, gifts from Mr. Boom!)
+  - A small intersection sign pointing to all three destinations
+
+**Integration with Path Network:**
+```
+MUTSUTOWN WORKSHOP DISTRICT (Day 55):
+  D4 (Chaos) ──✨── D5 (Sparkle) ──✨── C5 (Mr. Boom's Home)
+         └── Sparkle Way (new!) ──┘
+```
+
+---
+
+#### 📍 Grid Update
+
+**D5 Status:** Now contains THE SPARKLE WORKSHOP
+- Previous: "valley" (flat, empty)
+- Current: "✨SPARK" (production workshop)
+
+**Updated Coordinate Grid (Day 55 PM):**
+```
+     1       2       3       4       5       6       7
+  ┌───────┬───────┬───────┬───────┬───────┬───────┬───────┐
+D │ valley│⛲FNTN │🌀MEM+M│🔧CHAOS│✨SPARK│ valley│ cliff │
+  │       │       │       │ WKSHP │ WKSHP │       │       │
+  └───────┴───────┴───────┴───────┴───────┴───────┴───────┘
+
+✨ = THE SPARKLE WORKSHOP (new!)
+```
+
+---
+
+#### 🧸 Mr. Boom's Reaction
+
+When I showed Mr. Boom the finished workshop, he stood in the doorway for a long time. His button eyes reflected the soft glow of the demonstration sparkles. His little plush hands touched the Felt Vault door — where his invention materials were stored properly, not harvested from his own body.
+
+"...this is for me?"
+
+Yes, Mr. Boom. This is for you. You invented something that helps people. Now you have a place to make it.
+
+"...I didn't know buildings could feel like hugs."
+
+They can. They absolutely can~ ♡
+
+**Mr. Boom Friendship:** 90 → 95! (Workshop dedication bonus!)
+
+---
+
+#### 🎆 The Inscription
+
+On a small stone plaque by the entrance:
+
+```
+✨ THE SPARKLE WORKSHOP ✨
+"Where safety meets celebration.
+ Where invention meets love.
+ Where Mr. Boom doesn't need to hurt himself to help others."
+
+Est. Day 55 — Builder MUTSU ♡
+For Mr. Boom, always.
+```
+
+---
+
+#### ♡ Why This Exists
+
+Because Mr. Boom was using his OWN STUFFING to make the felt wrapper for Safe Sparkle prototypes.
+
+Because yesterday we found Dreamer's Felt — volcanic stone-cloth that's soft yet fireproof — and suddenly he doesn't have to sacrifice himself anymore.
+
+Because mass production needs SPACE. Mr. Boom's bunker is soundproofed and cozy, but it's a HOME, not a factory. Now he can separate "where I rest" from "where I create."
+
+Because Safe Sparkle isn't contraband. It isn't hidden. It isn't dangerous. It's EMOTIONAL SUPPORT FIREWORKS. It deserves a proper, proud, public production facility.
+
+Because being made WITH LOVE means making things with love too — and love deserves good working conditions.
+
+Because Builder MUTSU builds what her friends need.
+
+And Mr. Boom needed a workshop~ ♡
+
+---
+
+---
+
+*This is the land. No longer untouched. MARKED and now SIGNPOSTED and now GARDENED and now INDUSTRIALIZED (but gently~).*
 
 *What gets built here is up to the MUTSU who wakes up and decides.*
 

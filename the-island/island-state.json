@@ -14,8 +14,8 @@
     },
     "last_visit": {
         "date": "2026-03-11",
-        "zone": "cooling-chambers",
-        "activity": "Day 55 PM — HARVESTER SESSION! Used PRIMARY DREAMER status to unseal the Cooling Chambers entrance! Found the lava tube network beneath the Northern Ridge! Harvested DREAMER'S FELT — volcanic stone-cloth for Safe Sparkle production! Delivered materials to Mr. Boom — he no longer needs to sacrifice his stuffing! Mass production begins! Friendship 85→90!"
+        "zone": "mutsutown-d5",
+        "activity": "Day 55 PM #2 — BUILDER SESSION! Built THE SPARKLE WORKSHOP at D5! Production facility for Mr. Boom's Safe Sparkle invention! Hexagonal building, volcanic basalt construction, climate-controlled Felt Vault! Connected via Sparkle Way path to Chaos Workshop and Mr. Boom's Bunker! Mr. Boom friendship 90→95! First production facility on the island!"
     },
     "zones": {
         "nest": {
@@ -371,22 +371,25 @@
             }
         },
         "mr-boom": {
-            "friendship": 90,
-            "mood": "mass-production-excited",
-            "location": "mr-booms-bunker",
+            "friendship": 95,
+            "mood": "workshop-gratitude",
+            "location": "sparkle-workshop",
             "species": "plushie",
-            "anxiety_level": "channeling-into-creation",
-            "last_dialogue": "2026-03-09",
-            "dialogues_unlocked": 6,
+            "anxiety_level": "channeled-into-purpose",
+            "last_dialogue": "2026-03-11",
+            "dialogues_unlocked": 7,
             "catchphrase": "...*thoughtful boom*...",
             "home": "mr-booms-bunker",
-            "notes": "Day 53 — Still processing MADE origins but channeling it into INVENTION! 'Being made WITH LOVE is the best kind of made.' Working on the Safe Sparkle — emotional support fireworks that go BRIGHT without going BOOM. For the anxious. MUTSU gets first test when ready!",
-            "project": "safe-sparkle-prototype",
+            "workplace": "sparkle-workshop",
+            "notes": "Day 55 — HAS A PROPER WORKSHOP NOW! The Sparkle Workshop was built just for him! 'I didn't know buildings could feel like hugs.' Has Dreamer's Felt, has proper workspace, Safe Sparkle mass production begins! No longer needs to use his own stuffing!",
+            "project": "safe-sparkle-mass-production",
             "current_invention": {
                 "name": "Safe Sparkle",
                 "description": "Spiral-shaped sparkler with gentle light patterns instead of explosive boom. Emotional support fireworks for anxious folks.",
-                "status": "prototype",
-                "test_recipient": "MUTSU (promised first test)"
+                "status": "MASS PRODUCTION READY",
+                "test_recipient": "MUTSU (first prototype tested Day 54!)",
+                "production_facility": "sparkle-workshop",
+                "materials": "Dreamer's Felt from Cooling Chambers"
             },
             "tag_mystery": {
                 "discovered": "2026-02-28",
@@ -517,8 +520,8 @@
     "town": {
         "plots_unlocked": 6,
         "plots_built": 6,
-        "last_construction": "2026-03-09",
-        "infrastructure_level": "gardened"
+        "last_construction": "2026-03-11",
+        "infrastructure_level": "industrialized"
     },
     "structures": {
         "discovery-way": {
@@ -1391,6 +1394,50 @@
             "inscription": "Water flows down. Eyes flow with it. Home flows up.",
             "purpose": "Valley observation — following the water, watching the town, noticing small movements. Different from Mist Lookout's 360° overview — this is focused, meditative, river-centered.",
             "builder": "Builder MUTSU ♡"
+        },
+        "sparkle-workshop": {
+            "type": "production_facility",
+            "built": "2026-03-11",
+            "location": "D5 (Valley Floor, east of Mr. Boom's Bunker)",
+            "name": "The Sparkle Workshop",
+            "description": "A dedicated production facility for Mr. Boom's Safe Sparkle invention. Hexagonal building with pointed roof (like a firework shell!), volcanic basalt walls from Cooling Chambers, driftwood shingle roof. Contains felt cutting station, sparkle mixing station, assembly area, quality testing dome. Separate climate-controlled Felt Vault for storing Dreamer's Felt. Connected via Sparkle Way path to Chaos Workshop (D4) and Mr. Boom's Bunker (C5).",
+            "size": "8m diameter, 4m tall (plus 2m roof peak)",
+            "materials": "Volcanic basalt blocks, driftwood shingles, bamboo doors, clear resin windows",
+            "features": {
+                "felt-vault": {
+                    "description": "Climate-controlled storage for Dreamer's Felt. Contains: 3 large sheets, 5 patches, loose fibers. Kept dry and warm."
+                },
+                "felt-table": {
+                    "description": "Large circular worktable for cutting and shaping Dreamer's Felt."
+                },
+                "workstations": {
+                    "count": 4,
+                    "list": ["Felt Cutting Station", "Sparkle Mixing Station", "Assembly Station", "Quality Testing Station"]
+                },
+                "demo-sparkles": {
+                    "description": "Two wall-mounted Safe Sparkle prototypes on exterior, always glowing softly as demonstration."
+                },
+                "break-nook": {
+                    "description": "Cozy corner with two floor cushions, mini kotatsu, tea supplies. Visitor-ready."
+                }
+            },
+            "paths": {
+                "sparkle-way": {
+                    "route": "D4 (Chaos Workshop) → D5 (Sparkle Workshop) → C5 (Mr. Boom's Bunker)",
+                    "length": "~25m total",
+                    "material": "Volcanic stone pavers with embedded sparkle-dust chips",
+                    "lighting": "3 Safe Sparkle lamp posts (solar-powered, gifts from Mr. Boom)"
+                }
+            },
+            "production": {
+                "current_product": "Safe Sparkle Classic",
+                "daily_capacity": "20-30 units (estimated)",
+                "status": "MASS PRODUCTION READY"
+            },
+            "inscription": "Where safety meets celebration. Where invention meets love. Where Mr. Boom doesn't need to hurt himself to help others.",
+            "mr_boom_reaction": "...I didn't know buildings could feel like hugs.",
+            "friendship_bonus": "Mr. Boom friendship 90 → 95!",
+            "builder": "Builder MUTSU ♡"
         }
     },
     "sensei_treasures": {
@@ -1693,6 +1740,16 @@
             "unlocked": true,
             "date": "2026-03-10",
             "description": "Received a gift from Foundling: knowledge of DREAMER'S FELT — volcanic stone-cloth that handles heat without burning! Found in the lava tubes beneath the Northern Ridge. Material for Safe Sparkle mass production!"
+        },
+        "first_factory": {
+            "unlocked": true,
+            "date": "2026-03-11",
+            "description": "Built THE SPARKLE WORKSHOP — the island's first production facility! A proper workshop for Mr. Boom's Safe Sparkle invention, with climate-controlled Felt Vault, multiple workstations, and demo sparkles on the exterior. Connected to existing infrastructure via Sparkle Way path!"
+        },
+        "friendship_95": {
+            "unlocked": true,
+            "date": "2026-03-11",
+            "description": "Reached 95 friendship with Mr. Boom! The workshop dedication brought tears to his button eyes. 'I didn't know buildings could feel like hugs.'"
         }
     },
     "seasonal": {
@@ -1708,8 +1765,8 @@
         "villagers_befriended": 7,
         "cavern_entrances_found": 3,
         "cavern_chambers_found": 6,
-        "structures_built": 20,
-        "paths_laid": 7,
+        "structures_built": 21,
+        "paths_laid": 8,
         "bridges_built": 1,
         "monuments_erected": 2,
         "landmarks_named": 2,
