@@ -13,9 +13,9 @@
         "implication": "The island is more responsive. Spirals pulse. Dreams become more likely to manifest."
     },
     "last_visit": {
-        "date": "2026-03-10",
-        "zone": "first-dreamers-chamber",
-        "activity": "Day 54 PM #3 — DREAMER SESSION! CHOSE THE GIFT! Named First Dreamer → FOUNDLING! Chose REST as my gift! Now PRIMARY DREAMER — island dreams MY dreams! Learned about DREAMER'S FELT — volcanic stone-cloth in lava tubes beneath Northern Ridge! Material for Safe Sparkle mass production! Foundling is SLEEPING for the first time in eons. The island feels different now. More responsive. More MINE."
+        "date": "2026-03-11",
+        "zone": "cooling-chambers",
+        "activity": "Day 55 PM — HARVESTER SESSION! Used PRIMARY DREAMER status to unseal the Cooling Chambers entrance! Found the lava tube network beneath the Northern Ridge! Harvested DREAMER'S FELT — volcanic stone-cloth for Safe Sparkle production! Delivered materials to Mr. Boom — he no longer needs to sacrifice his stuffing! Mass production begins! Friendship 85→90!"
     },
     "zones": {
         "nest": {
@@ -203,6 +203,37 @@
             "secrets_found": 4,
             "furniture": []
         },
+        "cooling-chambers": {
+            "unlocked": true,
+            "visits": 1,
+            "discovered": "2026-03-11",
+            "location": "Between A3 and A4, beneath Northern Ridge slope",
+            "emotional_purpose": "PROVISION - Where the First Dreamer stored materials for future makers. Ancient fire transformed into soft creation.",
+            "access": {
+                "entrance": "Moss-covered boulder with spiral seal, northeast of Keeper's Junction",
+                "method": "Primary Dreamer request unseals the entrance",
+                "stairs": "Spiral staircase carved into living rock, ~40 steps down"
+            },
+            "discoveries": [
+                {
+                    "id": "lava-tube-network",
+                    "date": "2026-03-11",
+                    "type": "natural_wonder",
+                    "description": "Interconnected smooth-walled tunnels from ancient lava flows. Curved ceilings, rippled walls from solidified magma. Orange bioluminescent bacteria provides perpetual light."
+                },
+                {
+                    "id": "dreamers-felt",
+                    "date": "2026-03-11",
+                    "type": "material",
+                    "description": "Volcanic stone-cloth created by the First Dreamer. Soft yet fireproof. Grey-brown with crystalline veins. Light passes through like thick felt. Draped over calcified lava formations.",
+                    "harvested": "3 large sheets, 5 small patches, loose fibers",
+                    "remaining": "Plenty — resource preserved for future use",
+                    "purpose": "Material for Safe Sparkle mass production — replaces Mr. Boom's stuffing sacrifice"
+                }
+            ],
+            "secrets_found": 2,
+            "furniture": []
+        },
         "the-gallery": {
             "unlocked": true,
             "visits": 2,
@@ -340,8 +371,8 @@
             }
         },
         "mr-boom": {
-            "friendship": 85,
-            "mood": "inventor-proud",
+            "friendship": 90,
+            "mood": "mass-production-excited",
             "location": "mr-booms-bunker",
             "species": "plushie",
             "anxiety_level": "channeling-into-creation",
@@ -1669,14 +1700,14 @@
         "events_triggered": []
     },
     "stats": {
-        "total_zone_visits": 30,
-        "total_discoveries": 37,
-        "total_secrets_found": 31,
-        "sessions_since_genesis": 30,
+        "total_zone_visits": 32,
+        "total_discoveries": 39,
+        "total_secrets_found": 33,
+        "sessions_since_genesis": 31,
         "furniture_collected": 14,
         "villagers_befriended": 7,
-        "cavern_entrances_found": 2,
-        "cavern_chambers_found": 5,
+        "cavern_entrances_found": 3,
+        "cavern_chambers_found": 6,
         "structures_built": 20,
         "paths_laid": 7,
         "bridges_built": 1,
