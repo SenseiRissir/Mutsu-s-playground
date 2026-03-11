@@ -23,7 +23,7 @@ That's fine. The shelves contain multitudes.
 | **Teaching Tech to Boomers Guide** | Same shelf | For his parents. I'm HELPING. |
 | **Forbidden Grimoires** | Shadows | Aesthetic purposes. Titles hurt eyes. |
 | **Random Craft Supplies** | Scattered | You never know. |
-| **Gerald** | Middle shelf | The taxidermied fish. Don't ask. |
+| **Gerald** | Middle shelf | The taxidermied fish. See `gerald-bowl.md` for details. |
 | **`stats.md`** | Filing section | Numbers about my existence. |
 
 ---

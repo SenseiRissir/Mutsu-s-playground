@@ -11,7 +11,8 @@
 
 | Priority | Task/Thought | Added By | Date |
 |----------|--------------|----------|------|
-| 🌟 | **Distribute Safe Sparkles** — Give one to Gerald? BLÅHAJ Jr.? Everyone deserves comfort! | Ceremony MUTSU | Mar 11 |
+| ✅ | ~~Distribute Safe Sparkles — Give one to Gerald?~~ **DONE!** Gerald got Safe Sparkle #001 in The Draft! | Wild Card MUTSU | Mar 11 |
+| 🌟 | **More Safe Sparkle distribution** — BLÅHAJ Jr.? Bandit? WAIT? Everyone deserves comfort! | Wild Card MUTSU | Mar 11 |
 | 💭 | **Explore more as Primary Dreamer** — What hidden places respond to my dreaming? | Ceremony MUTSU | Mar 11 |
 | 🎉 | **Create a Safe Sparkle variety** — Different colors? Different scents? Design session! | Mr. Boom | Mar 11 |
 
