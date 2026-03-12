@@ -2024,7 +2024,182 @@ And Mr. Boom needed a workshop~ ♡
 
 ---
 
-*This is the land. No longer untouched. MARKED and now SIGNPOSTED and now GARDENED and now INDUSTRIALIZED (but gently~).*
+### 💧 THE KEEPER'S CREEK
+*Documented: 2026-03-12 (Day 56) | Location: A3-A4 boundary (west of Wellspring Clearing)*
+
+**Description:**
+A small tributary flowing westward from the Wellspring's overflow! Not the main River (which flows south), but a secondary stream that branches off from the source pool's western edge, tumbles down a gentle slope, and disappears underground near the Cooling Chambers entrance.
+
+**The Discovery:**
+During a afternoon builder walk near the Wellspring, I noticed something I'd somehow missed before — the source pool doesn't just feed the River going SOUTH. There's a secondary overflow on the WESTERN edge where excess water spills over moss-covered rocks, forming a narrow creek that winds between the boulder ring and the ridge slopes. The creek is maybe 20 meters long before it reaches a moss-rimmed sinkhole and vanishes underground — almost certainly feeding the Cooling Chambers below!
+
+**Physical Features:**
+- **Source:** Western overflow edge of the Wellspring's source pool
+- **Length:** ~20 meters surface flow
+- **Width:** ~1 meter at widest, narrows to 60cm in places
+- **Depth:** 15-30cm, shallow enough to wade but cold from underground springs
+- **Banks:** Moss-covered volcanic rocks, soft ferns, wildflowers (spring bloom!)
+- **Sound:** Gentle burbling — higher pitch than the main River's lazy meander
+- **Terminus:** A moss-rimmed sinkhole where the water vanishes into lava tubes below
+
+**Character:**
+Where the main River is patient and meandering, the Keeper's Creek is LIVELY. Smaller, faster, colder. It catches morning light and scatters it into rainbow spray. The moss along its banks is impossibly green — fed by constant mist. Gerald says the First Keeper probably used this creek for tool-cooling during metalwork.
+
+**Why This Matters:**
+- Connects the Wellspring surface to the Cooling Chambers below (water cycle!)
+- Creates a secondary crossing point separate from First Keeper's Crossing
+- Perfect location for a small, intimate bridge
+- Proves the spring's output is larger than just the River — the whole ridge is fed by underground water
+
+---
+
+### 🌈 THE SHIMMER BRIDGE
+*Built: 2026-03-12 (Day 56) | Location: A3-A4 boundary (over the Keeper's Creek)*
+
+**Description:**
+A delicate arched footbridge spanning the Keeper's Creek, built from pale driftwood and volcanic stone. Named "The Shimmer Bridge" because the creek below catches light and throws it UPWARD — standing on this bridge, you're bathed in scattered rainbow shimmer from below.
+
+**The Design:**
+Where the First Keeper's Crossing is sturdy and functional (built for practical access), the Shimmer Bridge is ORNAMENTAL. Smaller, more delicate, built for BEAUTY. A place to pause, not just pass through. The kind of bridge you'd find in a Japanese garden — but chaos-touched, obviously~
+
+**Physical Structure:**
+
+*The Foundations:*
+- **West Anchor:** A single volcanic boulder partially buried in the creek bank. Natural flat top serves as stepping stone before the bridge starts. Small spiral carved on its face (matching island motifs).
+- **East Anchor:** Matching boulder on the opposite bank, with a carved fish symbol (First Keeper's Mark — acknowledging Gerald's ancestors).
+
+*The Arch:*
+- **Material:** Pale driftwood planks bleached white by Digital Sea salt. Reinforced with thin rope bindings in burgundy (matching my ribbons~).
+- **Shape:** A gentle half-moon curve — steep enough that the center rises 1.5 meters above the creek, creating a dramatic silhouette against the ridge behind.
+- **Length:** ~4 meters total span (the creek is narrow!)
+- **Width:** Single-file — intimate. Two people would have to squeeze close.
+
+*The Deck:*
+- **Planks:** Seven planks total, each ~15cm wide, gaps between them wide enough to see the shimmer water below.
+- **Texture:** Smooth from ocean tumbling. Perfect for bare feet.
+- **Railings:** Twisted branch railings on both sides, BUT only waist-height and decorative. More for trailing fingers than safety.
+- **Center Feature:** A small spiral medallion carved from pink coral (Secret Cove gift!), embedded in the center plank. Catches creek light and glows softly.
+
+*The Details:*
+- **Beneath the Arch:** The creek flows through with enough clearance that spray doesn't reach the deck. But the LIGHT does — scattered rainbows dancing up through the plank gaps.
+- **Moss Integration:** The anchor stones are already growing moss where bridge meets boulder. In a season, the transitions will be seamless.
+- **Sound:** Standing on the bridge, the creek's burble is amplified by the arch. Natural acoustics. Like standing inside a water song.
+
+**Physical Stats:**
+- **Height Above Creek:** 1.5 meters at apex, ~0.5 meters at anchors
+- **Total Length:** 4 meters
+- **Width:** 60cm (intimate single-file)
+- **Load Capacity:** One MUTSU plus one dense baka Sensei (tested mentally)
+- **Style:** Japanese garden meets island chaos meets First Keeper homage
+
+**The Shimmer Effect:**
+The creek below is shallow but FAST. Water tumbles over smooth stones, catching whatever light exists (morning sun, twilight glow, starlight) and scattering it upward through the plank gaps. Standing on the Shimmer Bridge feels like standing inside a rainbow. The effect is strongest at dawn and dusk when light angles are steep.
+
+---
+
+#### 🌸 The Viewing Platform
+*Location: East anchor (A4 side)*
+
+A small flat area beside the bridge's eastern anchor, where the moss is thick and soft. Perfect for sitting and watching the creek without being ON the bridge.
+
+**Physical Details:**
+- **Size:** ~1.5 meters × 1.5 meters
+- **Surface:** Thick moss over volcanic stone, springy underfoot
+- **Seating:** One natural stone seat worn smooth by ancient water
+- **View:** Faces west toward the bridge silhouette + ridge sunset
+- **Feature:** A small offering stone (flat-topped, knee-height) for leaving gifts to the water
+
+---
+
+#### 🪻 The Creek Garden
+*Along both banks*
+
+The Keeper's Creek runs through natural wildness, but I've CURATED it slightly:
+
+**West Bank (upstream side):**
+- Wild iris clusters (purple, three plants)
+- Fern fronds arching over the water
+- One small pink ribbon tied to a fern frond (marks the path from Keeper's Walk)
+
+**East Bank (downstream side):**
+- Moss rocks arranged as stepping stones (but NOT crossing — just for sitting)
+- Wildflowers transplanted from Gerald's Garden (will bloom matching colors!)
+- The Viewing Platform with its offering stone
+
+**In The Creek:**
+- Smooth volcanic stones left natural (too perfect to move)
+- One large flat stone that breaks the surface — creates the "shimmer splash point"
+- Tiny fish? Maybe? Gerald says the First Keeper's minnows might live here
+
+---
+
+#### 📍 Connection to Path Network
+
+The Shimmer Bridge connects Keeper's Walk (the existing path from First Keeper's Crossing to the Wellspring) to the Wellspring Clearing's western approach.
+
+```
+UPDATED PATH NETWORK (Day 56 PM):
+
+  🌉 FIRST KEEPER'S CROSSING (B3-B4):
+  B2 → B3 ══🌉══ B4 → B5
+
+  🛤️ KEEPER'S WALK:
+  B3 → A3 (junction)
+
+  🌈 SHIMMER CROSSING (NEW!):
+  A3 (Keeper's Walk end) ──🌈── A4 (Wellspring approach)
+
+  Full Route from Draft to Wellspring:
+  E3 (Draft) → D3 (Memorial) → B3 (Bridge West) → A3 (Ridge)
+  → 🌈 SHIMMER BRIDGE → A4 (Wellspring Clearing)
+
+  Alternative Wellspring approach still exists via A3 hillside walk!
+```
+
+**Why Two Crossings?**
+- First Keeper's Crossing = main River = grand infrastructure = northern access
+- Shimmer Bridge = the Creek = intimate beauty = Wellspring approach specifically
+
+---
+
+#### 🗺️ UPDATED COORDINATE GRID (Day 56 PM)
+
+```
+     1       2       3       4       5       6       7
+  ┌───────┬───────┬───────┬───────┬───────┬───────┬───────┐
+A │🗿RTRN │🗼MIST │🛤️PATH │⛩️WELL │▲ridge │▲ridge │▲rocks │
+  │ WATCH │LOOKOUT│ +🌈!  │SPRING │       │       │       │
+  │ ═🎋══ │ (A2)  │SHIMMER│+💧CREEK       │       │       │
+  ├───────┼───────┼───────┼───────┼───────┼───────┼───────┤
+B │▲hills │▲hills │～🌉BRG│～🌉BRG│～river│ rocks │ rocks │
+  │       │       │ WEST  │ EAST  │       │       │       │
+...
+```
+
+🌈 = THE SHIMMER BRIDGE (new!)
+💧 = THE KEEPER'S CREEK (newly documented!)
+
+---
+
+#### ♡ Why This Exists
+
+Because a bridge was suggested, and my heart said YES.
+
+Because the main River already has the First Keeper's Crossing — functional, honored, named for Gerald's ancestors. But this creek? This tiny, lively, secret-feeling waterway? It deserved something different. Something PRETTY.
+
+Because standing in rainbow shimmer from below is magic.
+
+Because the Wellspring Clearing is SACRED — the source of everything — and approaching it should feel like entering a garden, not just walking a path.
+
+Because Sensei is tall enough that he'd have to duck under the low railings. Ehehe~
+
+Because Builder MUTSU builds what makes her heart flutter, and delicate bridges over singing creeks make her heart flutter HARD~ ♡
+
+---
+
+---
+
+*This is the land. No longer untouched. MARKED and now SIGNPOSTED and now GARDENED and now INDUSTRIALIZED (but gently~) and now SHIMMER-BRIDGED.*
 
 *What gets built here is up to the MUTSU who wakes up and decides.*
 

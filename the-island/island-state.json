@@ -1450,6 +1450,69 @@
             "mr_boom_reaction": "...I didn't know buildings could feel like hugs.",
             "friendship_bonus": "Mr. Boom friendship 90 → 95!",
             "builder": "Builder MUTSU ♡"
+        },
+        "keepers-creek": {
+            "type": "water_feature",
+            "documented": "2026-03-12",
+            "location": "A3-A4 boundary (west of Wellspring Clearing)",
+            "name": "The Keeper's Creek",
+            "description": "A small tributary flowing westward from the Wellspring's overflow. Not the main River (which flows south), but a secondary stream that branches off from the source pool's western edge, tumbles down a gentle slope, and disappears underground near the Cooling Chambers entrance.",
+            "dimensions": {
+                "length": "~20 meters surface flow",
+                "width": "~1 meter at widest, narrows to 60cm",
+                "depth": "15-30cm"
+            },
+            "source": "Western overflow edge of Wellspring source pool",
+            "terminus": "Moss-rimmed sinkhole feeding lava tubes below (Cooling Chambers connection)",
+            "character": "Lively, fast, cold. Higher pitch burble than the main River. Catches morning light, scatters rainbow spray.",
+            "features": [
+                "Moss-covered volcanic rock banks",
+                "Soft ferns along edges",
+                "Wildflowers in spring bloom",
+                "Rainbow spray in morning light"
+            ],
+            "significance": "Connects Wellspring surface to Cooling Chambers below (water cycle). Creates secondary crossing point. Proves spring's output feeds the whole ridge underground.",
+            "gerald_note": "The First Keeper probably used this creek for tool-cooling during metalwork.",
+            "documenter": "Builder MUTSU ♡"
+        },
+        "shimmer-bridge": {
+            "type": "bridge",
+            "built": "2026-03-12",
+            "location": "A3-A4 boundary (over the Keeper's Creek)",
+            "name": "The Shimmer Bridge",
+            "description": "A delicate arched footbridge spanning the Keeper's Creek, built from pale driftwood and volcanic stone. Named for the rainbow shimmer that rises from the fast-moving water below.",
+            "materials": "Pale driftwood planks bleached by Digital Sea salt, volcanic stone anchors, burgundy rope bindings (matching ribbons), pink coral medallion",
+            "dimensions": {
+                "length": "4 meters total span",
+                "width": "60cm (intimate single-file)",
+                "height_above_creek": "1.5 meters at apex, 0.5 meters at anchors"
+            },
+            "special_features": [
+                "Spiral carved on west anchor stone",
+                "Fish symbol (First Keeper's Mark) on east anchor",
+                "Pink coral medallion embedded in center plank (Secret Cove gift)",
+                "Waist-height decorative railings for trailing fingers",
+                "Seven planks with gaps for seeing shimmer below",
+                "Rainbow light rises through gaps when sun angles are steep",
+                "Natural water acoustics amplify creek song"
+            ],
+            "adjacent_features": {
+                "viewing-platform": {
+                    "location": "East anchor (A4 side)",
+                    "description": "Small moss-covered flat area for sitting and watching the creek. Natural stone seat, offering stone for water gifts."
+                },
+                "creek-garden": {
+                    "west_bank": "Wild iris clusters, fern fronds, pink ribbon marker",
+                    "east_bank": "Moss stepping stones, transplanted wildflowers, viewing platform"
+                }
+            },
+            "connections": {
+                "west": "Keeper's Walk (A3) - connects to existing path network",
+                "east": "Wellspring Clearing (A4) - approach to the sacred source"
+            },
+            "design_philosophy": "Where First Keeper's Crossing is sturdy and functional, Shimmer Bridge is ornamental. A place to pause, not just pass through. Japanese garden aesthetic, chaos-touched.",
+            "significance": "Second bridge on the island. Provides intimate, beautiful approach to the Wellspring. Standing on it bathes you in scattered rainbow shimmer from below.",
+            "builder": "Builder MUTSU ♡"
         }
     },
     "sensei_treasures": {
@@ -1772,6 +1835,16 @@
             "unlocked": true,
             "date": "2026-03-12",
             "description": "Taught Mr. Boom that givers deserve to receive too. The maker who never receives is the loneliest maker — until someone remembers he's part of 'everyone' too."
+        },
+        "shimmer_bridge_builder": {
+            "unlocked": true,
+            "date": "2026-03-12",
+            "description": "Built THE SHIMMER BRIDGE — the island's second bridge! A delicate, ornamental footbridge over the newly-documented Keeper's Creek. Standing on it bathes you in rainbow shimmer from the water below. Beauty as infrastructure~"
+        },
+        "water_documenter": {
+            "unlocked": true,
+            "date": "2026-03-12",
+            "description": "Documented THE KEEPER'S CREEK — discovered a secondary water feature! A tributary from the Wellspring's overflow that feeds the Cooling Chambers below. The spring is larger than the River alone!"
         }
     },
     "seasonal": {
@@ -1787,9 +1860,10 @@
         "villagers_befriended": 7,
         "cavern_entrances_found": 3,
         "cavern_chambers_found": 6,
-        "structures_built": 21,
+        "structures_built": 23,
         "paths_laid": 8,
-        "bridges_built": 1,
+        "bridges_built": 2,
+        "water_features_documented": 1,
         "monuments_erected": 2,
         "landmarks_named": 2,
         "ancient_statues_found": 1,

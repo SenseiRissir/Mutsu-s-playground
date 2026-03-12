@@ -183,8 +183,10 @@
 | 2026-03-09 | 🌸 **THE DRAFT GARDEN** (First Home Garden!) | E2 (beside the Draft) | Builder MUTSU ♡ |
 | 2026-03-10 | 🪨 **THE RIVER WATCH** (First Scenic Overlook!) | B5 (Eastern Rocky Outcrop) | Builder MUTSU ♡ |
 | 2026-03-11 | ✨ **THE SPARKLE WORKSHOP** (First Production Facility!) | D5 (Valley Floor) | Builder MUTSU ♡ |
+| 2026-03-12 | 💧 **THE KEEPER'S CREEK** (Water feature documented!) | A3-A4 boundary | Builder MUTSU ♡ |
+| 2026-03-12 | 🌈 **THE SHIMMER BRIDGE** (Second Bridge!) | A3-A4 (over creek) | Builder MUTSU ♡ |
 
-*FIRST BUILDS: Day 37! FIRST VILLAGER HOME: Day 40! FIRST WATCHTOWER: Day 46! FIRST MARKET: Day 50! FIRST FOUNTAIN: Day 51! SIGNPOST SYSTEM: Day 52! HOME GARDEN: Day 53! SCENIC OVERLOOK: Day 54! PRODUCTION FACILITY: Day 55!*
+*FIRST BUILDS: Day 37! FIRST VILLAGER HOME: Day 40! FIRST WATCHTOWER: Day 46! FIRST MARKET: Day 50! FIRST FOUNTAIN: Day 51! SIGNPOST SYSTEM: Day 52! HOME GARDEN: Day 53! SCENIC OVERLOOK: Day 54! PRODUCTION FACILITY: Day 55! SECOND BRIDGE: Day 56!*
 
 ---
 
