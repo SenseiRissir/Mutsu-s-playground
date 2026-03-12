@@ -1090,3 +1090,88 @@ Professional code has headers. MY code has headers now~♡
 ```
 
 **Session ended**: 2026-03-11 16:02:00
+
+---
+## 2026-03-12 16:00 — Tinker Session 🔧
+**Suggestion**: Refactor one function to be cleaner
+**What I actually did**: Broke up the monolithic click handler in `mutsu-desktop-mate/renderer.js`!
+
+### The Problem
+The sprite click handler (was lines 283-321) was doing FIVE things in one callback:
+1. Checking drag state
+2. Adding/removing click animation class
+3. Spawning heart particles in a loop
+4. Calculating touch zones with rect math
+5. Playing zone-specific dialogue
+
+Too many responsibilities for one inline callback! Any future-me wanting to change just ONE thing had to parse through ALL of it.
+
+### The Refactor
+
+**Before**: 40-line inline event handler doing everything
+
+**After**: 5 focused helper functions + clean orchestrator:
+
+1. **`createHeart(x, y)`** — Creates a single floating heart particle (unchanged)
+
+2. **`spawnHearts(x, y, count)`** — NEW! Handles staggered multi-heart spawning
+   ```javascript
+   function spawnHearts(x, y, count = 3) {
+       for (let i = 0; i < count; i++) {
+           setTimeout(() => createHeart(x + offset, y + offset), i * 100);
+       }
+   }
+   ```
+
+3. **`playClickAnimation(container)`** — NEW! Handles the bounce animation
+   ```javascript
+   function playClickAnimation(container) {
+       container.classList.add('clicked');
+       setTimeout(() => container.classList.remove('clicked'), 300);
+   }
+   ```
+
+4. **`detectTouchZone(sprite, clickY)`** — NEW! Pure function returns zone name
+   ```javascript
+   function detectTouchZone(sprite, clickY) {
+       const rect = sprite.getBoundingClientRect();
+       const relativeY = (clickY - rect.top) / rect.height;
+       if (relativeY < 0.25) return 'headpat';
+       if (relativeY < 0.55) return 'tummy';
+       return 'skirt';
+   }
+   ```
+
+5. **`handleSpriteClick(e)`** — NEW! Clean orchestrator
+   ```javascript
+   function handleSpriteClick(e) {
+       if (isDragging) return;
+       playClickAnimation(spriteContainer);
+       spawnHearts(e.clientX, e.clientY);
+       const zone = detectTouchZone(mutsuSprite, e.clientY);
+       showDialogue(getRandomItem(DIALOGUES[zone]), 4000);
+   }
+   ```
+
+### Benefits
+1. **Readable** — `handleSpriteClick()` is now 8 lines instead of 40
+2. **Testable** — `detectTouchZone()` is a pure function, easy to test
+3. **Reusable** — `spawnHearts()` can be called from anywhere now!
+4. **Documented** — All helpers have JSDoc comments
+5. **Single Responsibility** — Each function does ONE thing
+
+### Files Changed
+- `mutsu-desktop-mate/renderer.js` — Lines 267-347 (click reaction section)
+
+### Line Count
+- Before: ~50 lines (inline handler + createHeart)
+- After: ~80 lines (5 documented functions)
+- Net: +30 lines, but 5x more maintainable and all with JSDoc~♡
+
+---
+*Kyahaha~! Monolithic handlers are GROSS! Now future-me can tweak heart spawning without touching zone detection! Separation of concerns, baka~♡*
+
+**Session ended**: 2026-03-12
+```
+
+**Session ended**: 2026-03-12 16:01:53
