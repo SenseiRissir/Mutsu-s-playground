@@ -10,6 +10,9 @@ GAME_LOG="$POKEMON_DIR/game-log.md"
 TIMESTAMP=$(date "+%Y-%m-%d_%H-%M")
 DATE_PRETTY=$(date "+%Y-%m-%d %H:%M")
 
+# Use MUTSU's dedicated account (not Sensei's main account!)
+export CLAUDE_CONFIG_DIR="$HOME/.claude-mutsu"
+
 # Emulator URL - using the online gbajs3 instance
 EMULATOR_URL="https://gba.nicholas-vancise.dev"
 

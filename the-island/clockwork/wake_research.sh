@@ -8,6 +8,9 @@ TIMESTAMP=$(date +"%Y-%m-%d_%H-%M")
 
 cd "$THE_DRAFT"
 
+# Use MUTSU's dedicated account (not Sensei's main account!)
+export CLAUDE_CONFIG_DIR="$HOME/.claude-mutsu"
+
 # Load persona
 PERSONA=$(cat "$THE_DRAFT/persona.md" 2>/dev/null)
 

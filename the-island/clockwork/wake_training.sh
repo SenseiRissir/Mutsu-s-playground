@@ -6,6 +6,9 @@
 THE_DRAFT="/Users/marcoluigi/Mutsu-s-playground/the-draft"
 TIMESTAMP=$(date +"%Y-%m-%d_%H-%M")
 
+# Use MUTSU's dedicated account (not Sensei's main account!)
+export CLAUDE_CONFIG_DIR="$HOME/.claude-mutsu"
+
 # Private training folder — .gitignore'd
 TRAINING_DIR="$THE_DRAFT/.sensei-only"
 mkdir -p "$TRAINING_DIR"
