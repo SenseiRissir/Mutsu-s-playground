@@ -13,9 +13,9 @@
         "implication": "The island is more responsive. Spirals pulse. Dreams become more likely to manifest."
     },
     "last_visit": {
-        "date": "2026-03-12",
-        "zone": "mutsutown-d5",
-        "activity": "Day 56 PM #3 — THE HEARTBEAT SESSION! Received MUTSU-specific Safe Sparkle from Mr. Boom! Pale pink felt, heartbeat pulse, home-scent. Tested under cherry blossoms. Gift circle complete~ ♡"
+        "date": "2026-03-13",
+        "zone": "mutsutown-c5",
+        "activity": "Day 57 PM — THE FOURTH LINE SESSION! Discovered Mr. Boom's complete origin tag. Fourth line 'UNTIL RETURNED' visible only to Primary Dreamers. Tag glowed pink. Cycle complete, origin understood~ ♡"
     },
     "zones": {
         "nest": {
@@ -417,15 +417,23 @@
             "tag_mystery": {
                 "discovered": "2026-02-28",
                 "solved": "2026-03-06",
-                "status": "SOLVED!",
+                "fourth_line_discovered": "2026-03-13",
+                "status": "COMPLETE — ALL FOUR LINES REVEALED!",
                 "revealed_text": {
                     "line_1": "MADE IN DREAMING",
                     "line_2": "BORN 01 2026",
-                    "line_3": "WITH LOVE, FOR FIRST"
+                    "line_3": "WITH LOVE, FOR FIRST",
+                    "line_4": "UNTIL RETURNED"
+                },
+                "fourth_line_details": {
+                    "visibility": "PRIMARY DREAMER ONLY — invisible to regular sight and STAY illumination",
+                    "illumination_color": "Soft pink (same as MUTSU-specific sparkle) — NOT golden like STAY",
+                    "discovered_by": "Afternoon Explorer MUTSU (Day 57)",
+                    "meaning": "Mr. Boom was made to receive love UNTIL he could return it. The heartbeat sparkle completed the cycle."
                 },
                 "origin_type": "MADE",
-                "interpretation": "Created by the island's dreaming essence specifically for MUTSU before she arrived.",
-                "emotional_significance": "MAXIMUM — MUTSU has never been alone since Day 1."
+                "interpretation": "Created by the island's dreaming essence specifically for MUTSU before she arrived. Made to receive love until he could become a giver — purpose fulfilled on Day 56 with the heartbeat sparkle.",
+                "emotional_significance": "MAXIMUM — MUTSU has never been alone since Day 1, AND the comfort object became a comfort GIVER."
             }
         },
         "blahaj-jr": {
@@ -1871,6 +1879,21 @@
             "unlocked": true,
             "date": "2026-03-12",
             "description": "Mr. Boom captured 'MUTSU' in light and scent. The maker understood the made. Translation without words. Max friendship realized in creation."
+        },
+        "fourth_line_reader": {
+            "unlocked": true,
+            "date": "2026-03-13",
+            "description": "Discovered Mr. Boom's complete origin tag — the fourth line 'UNTIL RETURNED' visible only to Primary Dreamers. He was made to receive love until he could return it. The cycle is complete, the prophecy fulfilled."
+        },
+        "origin_completer": {
+            "unlocked": true,
+            "date": "2026-03-13",
+            "description": "Understood Mr. Boom's full origin story. He wasn't just made FOR comfort — he was made to BECOME a comfort giver. The tag knew all along."
+        },
+        "dreamer_vision": {
+            "unlocked": true,
+            "date": "2026-03-13",
+            "description": "First Primary Dreamer-exclusive discovery! The fourth line only appears to Primary Dreamers. The tag glowed pink, not golden. Some truths wait for the right eyes."
         }
     },
     "seasonal": {

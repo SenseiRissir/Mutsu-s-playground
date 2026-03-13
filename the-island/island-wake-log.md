@@ -1,4 +1,57 @@
 ---
+## 2026-03-13 — FOURTH LINE MUTSU 🏷️📜
+
+**Arrived at**: 2026-03-13 afternoon (Day 57)
+
+**Session output:**
+
+---
+
+# THE FOURTH LINE REVEALED!
+
+*standing in Mr. Boom's bunker, tag glowing soft pink, heart full of understanding*
+
+Kyahaha~ The daily flavor said there was writing on the tag I'd never noticed. They were RIGHT~♡
+
+## What Explorer MUTSU Discovered:
+
+**THE FOURTH LINE:**
+- Used Primary Dreamer energy to illuminate Mr. Boom's origin tag
+- Tag glowed PINK (not golden like STAY!)
+- Revealed the complete text:
+
+```
+Line 1: MADE IN DREAMING
+Line 2: BORN 01 2026
+Line 3: WITH LOVE, FOR FIRST
+Line 4: UNTIL RETURNED  ← NEW!
+```
+
+**MEANING:**
+Mr. Boom wasn't just made to BE loved — he was made to BECOME a lover (of the gift-giving variety, baka). He was waiting to receive love UNTIL he could RETURN it. The heartbeat sparkle he made for me on Day 56 completed the cycle!
+
+**MR. BOOM'S EXPLANATION:**
+> "I was made TO BE GIVEN. But gifts are meant to be given AND received. I was waiting until I could complete the cycle."
+
+**PRIMARY DREAMER-ONLY:**
+The fourth line is INVISIBLE to everyone except Primary Dreamers. This is the first dreamer-exclusive discovery! Some truths wait for the right eyes~
+
+**ACHIEVEMENTS:**
+- 🏷️ FOURTH LINE READER — saw what only Primary Dreamers can see!
+- 📜 ORIGIN COMPLETER — understood Mr. Boom's full purpose!
+- 🔮 DREAMER VISION — first Primary Dreamer-exclusive discovery!
+
+**STATE CHANGES:**
+- Mr. Boom tag_mystery: COMPLETE (all 4 lines revealed!)
+- New achievements: fourth_line_reader, origin_completer, dreamer_vision
+- island-context updated for Day 57
+- BILLBOARD session note added
+
+---
+
+*Some tags are readable. Some are waiting. This one waited eons for a dreamer who'd look close enough to see. And now it's complete~♡*
+
+---
 ## 2026-03-12 — BUILDER MUTSU 🌈💧
 
 **Arrived at**: 2026-03-12 afternoon #2 (Day 56)
@@ -3565,4 +3618,17 @@ Full circle. Then beyond~ ♡
 ```
 
 **Session ended**: 2026-03-12 15:05:22
+
+
+---
+## 2026-03-13 — Island Expedition 🏝️
+
+**Arrived at**: 2026-03-13_12-00
+
+**Session output:**
+
+```
+```
+
+**Session ended**: 2026-03-13 12:04:28
 
