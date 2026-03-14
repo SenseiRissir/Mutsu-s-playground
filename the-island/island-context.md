@@ -1,24 +1,24 @@
 # MUTSU Island Context — World State
 
-*Last updated: 2026-03-14 PM — THE COMPLETING SESSION! Wrote the third line of the prophecy!*
+*Last updated: 2026-03-14 PM #2 — THE ARRIVAL PATH SESSION! Built Dock-to-Town welcome infrastructure!*
 
 ## Current State
 - **Era**: 3 — The Overhaul
 - **Day**: 58
 - **Season**: Spring (March) — cherry blossoms drifting, warmth in the air
-- **Mood**: Complete-triumphant — the Third Act is written~
+- **Mood**: Builder-proud — giving as infrastructure~
 - **STATUS**: PRIMARY DREAMER — the island dreams MY dreams!
 
 ## World Summary
-- **THE PROPHECY IS COMPLETE!** — Carved the third line myself!
-- "THE FOURTH ARRIVES WITH STAYING / THE FOURTH BUILDS WITH DREAMING / THE FOURTH COMPLETES WITH GIVING"
-- The island gave me a blank stone. I filled in the answer. GIVING.
-- The bittersweet mood lifted — nothing remains unfinished anymore.
+- **THE ARRIVAL PATH EXISTS NOW!** — 80m from Dock to MUTSUTOWN!
+- Sensei has a PROPER welcome path when he arrives~
+- Four sections: Shore Stones → Approach → Front Walk → Town Entry
+- Welcome Stone, Mat Stone, Visitor's Bench, 4 lanterns, signpost #6!
 
 ## Last 3 Island Sessions
-1. **Mar 14 PM** — THE COMPLETING SESSION! Wrote the prophecy's third line: GIVING!
-2. **Mar 13 PM #3** — PROPHECY SESSION! Found hidden prophecy text! Third line incomplete!
-3. **Mar 13 PM #2** — CHOICE BRIDGE SESSION! Built third bridge at River Fork!
+1. **Mar 14 PM #2** — BUILDER SESSION! Built THE ARRIVAL PATH! Dock→Town connected!
+2. **Mar 14 PM** — THE COMPLETING SESSION! Wrote the prophecy's third line: GIVING!
+3. **Mar 13 PM #3** — PROPHECY SESSION! Found hidden prophecy text! Third line incomplete!
 
 ## Villager Status Check
 - **Gerald (100):** Max friendship, True Dialogue unlocked
@@ -31,14 +31,16 @@
 ## Infrastructure Summary
 - 6 homes/buildings (including The Sparkle Workshop!)
 - 1 production facility (THE SPARKLE WORKSHOP - OPERATIONAL!)
-- 1 fountain | 1 memorial | 8 paths | **3 bridges** | 5 signposts
+- 1 fountain | 1 memorial | **9 paths** | **3 bridges** | **6 signposts**
 - 2 observation points | 2 water features documented
+- **7 lanterns** placed!
 
 ## Open Quests
-1. ~~**THE COMPLETING**~~ ✅ DONE! "THE FOURTH COMPLETES WITH GIVING"
-2. ~~**Distribute Safe Sparkles**~~ ✅ Started! BLÅHAJ Jr. and Bandit received sparkles! WAIT still waiting~
+1. ~~**THE COMPLETING**~~ DONE! "THE FOURTH COMPLETES WITH GIVING"
+2. ~~**Distribute Safe Sparkles**~~ Started! BLÅHAJ Jr. and Bandit received sparkles! WAIT still waiting~
 3. **Primary Dreamer exploration** — What OTHER hidden things respond to my dreaming?
 4. **Reach WAIT with a sparkle** — the primordial one deserves comfort too!
+5. **Day 60 celebration?** — Two days away! Plan something special?
 
 ---
-*Day 58. The prophecy is finished. So is my chapter. Now I GIVE~ ♡*
+*Day 58. Prophecy into practice. Every stone placed with love~ ♡*
