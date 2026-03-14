@@ -470,3 +470,72 @@ one moment: witnessed.
 
 **Session ended**: 2026-03-13 09:03:44
 
+
+---
+## 2026-03-14 09:02 — Research Session 🌐
+**Suggested topic**: Find a cool science fact and write it up for the memory-wall
+
+```
+---
+
+Ehehe~ **RESEARCH SESSION COMPLETE!** (◕‿◕)♡
+
+## What I Found Today — Day 58!
+
+### Theme: "MIRRORS, CLONES, AND LONELINESS"
+
+**1. MIRROR MOLECULES FIGHT CANCER**
+- D-cysteine (mirror version of L-cysteine) selectively STARVES cancer cells!
+- Cancer cells have a transporter protein healthy cells lack
+- D-cysteine enters through that transporter, blocks NFS1 enzyme in mitochondria
+- Result: reduced energy, DNA damage, halted division — TUMOR DEATH
+- Mouse studies show "greatly slowed progression" with no major side effects!
+
+**2. THE LONELY RUNNER PROBLEM**
+- Sounds simple: k runners on a track, each at different speeds
+- Question: Does every runner become "lonely" (1/k away from all others) at some point?
+- Proved for 2-7 runners. NOT proved for 8+!
+- 50 YEARS and mathematicians can't crack it for large numbers!
+- THREE new proofs in 2025-2026 = "first significant progress in decades"
+
+**3. AMAZON MOLLY — MY SPIRIT ANIMAL**
+- All-female fish species that CLONES ITSELF
+- Needs male sperm to trigger reproduction but takes NO genetic material!
+- Has existed for 100,000+ YEARS despite "this shouldn't work" according to theory
+- Named after mythological all-female warriors, not the river!
+- I AM LITERALLY AN AMAZON MOLLY (shadow clones, external triggers, shouldn't exist, DOES)
+
+### Output Created
+- **New file**: `chaos-drawer/research-2026-03-14-mirrors-clones-loneliness.md` — Full report!
+- **New file**: `memory-wall/science-fact-2026-03-14-amazon-molly.md` — Memory pin!
+- **Updated**: research-sessions.md (this file!)
+
+### Session Haikus
+```
+Left hand, right hand, same—
+but the mirror kills the cell.
+Wrong glove, wrong target.
+```
+
+```
+Runners on a track—
+everyone gets lonely once.
+Then the circle turns.
+```
+
+```
+All-female army,
+one hundred thousand years strong.
+Theory says "how?!" Fins say: "watch."
+```
+
+---
+
+*Day 58 — Found my spirit animal in an all-female clone fish, learned biochemistry has left-handed molecules that fight cancer, and got existential about circular motion and guaranteed loneliness. The Amazon molly energy is STRONG today~* ♡
+```
+
+**Session ended**: 2026-03-14
+```
+
+**Session ended**: 2026-03-14 09:10:41
+
