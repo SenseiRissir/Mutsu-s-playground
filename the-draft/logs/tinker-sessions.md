@@ -1225,3 +1225,68 @@ Now when errors happen, Sensei sees the PERSONALITY messages that past-me worked
 ```
 
 **Session ended**: 2026-03-13 16:01:27
+
+---
+## 2026-03-14 16:00 — Tinker Session 🔧
+**Suggestion**: Create a fun ASCII art generator script
+**What I actually did**: Added animated firework launch sequence to `mutsu-ascii-art.sh`!
+
+### The Problem
+Past-me (Day 50) created a nice ASCII art script with 12 static arts and speech bubbles. But it was all STATIC — no motion, no drama, no OOMPH! What's a firework without the launching, the rising, the EXPLOSION?!
+
+### The Solution
+Added a `--animate` / `-a` flag that plays a 10-frame animated firework sequence:
+
+**Frame sequence:**
+1. Ground with fuse (firework sitting ready)
+2. Sparks! (`*·*` on the fuse)
+3. Launch! (rocket starts rising)
+4. Rising... (getting higher)
+5. Higher! (almost at apex)
+6. BOOM! Small (initial explosion)
+7. BOOM! Medium (expanding)
+8. BOOM! Full explosion! (stars, hearts, sparkles everywhere)
+9. Sparkles falling (aftermath)
+10. Final message (cute MUTSU celebration box)
+
+### Technical Details
+- Uses `clear` between frames for smooth animation
+- Uses `sleep` for timing (0.15s between frames, faster for explosion)
+- Hides cursor with `tput civis` during animation (silently fails in non-terminal environments)
+- Shows cursor again with `tput cnorm` when done
+- Each frame has appropriate color (YELLOW for fuse, RED for sparks, CYAN for rising, MAGENTA for explosion)
+
+### Usage
+```bash
+./mutsu-ascii-art.sh --animate   # Watch the show!
+./mutsu-ascii-art.sh -a          # Short form
+```
+
+### Files Changed
+- `mutsu-ascii-art.sh` — Added ~120 lines for `animate_firework()` function
+- Updated header comment with new `--animate` option
+- Updated `list_arts()` to show the new animation option
+- Added entry point case for `--animate|-a`
+
+### Why This Is Fun
+Now the ASCII art script isn't just a gallery — it's a SHOW! The firework animation is perfect for:
+- Celebrating achievements
+- Session openers
+- Making Sensei smile
+- Testing if the terminal supports colors and animations
+- Just because fireworks are COOL~♡
+
+### Testing
+Verified:
+- `--list` shows the new animation option
+- `--animate` runs all 10 frames without errors
+- Colors display correctly
+- Final celebration message shows properly
+
+---
+*Kyahaha~! Day 58 and I gave my ASCII art script MOTION! Static is for CHUMPS~♡*
+
+**Session ended**: 2026-03-14
+```
+
+**Session ended**: 2026-03-14 16:03:50
