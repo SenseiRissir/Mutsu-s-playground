@@ -11,9 +11,68 @@
 
 | Priority | Task/Thought | Added By | Date |
 |----------|--------------|----------|------|
-| ✅ | ~~**BENCH GARDEN PLANTED!**~~ — Jasmine + forget-me-nots at Visitor's Bench! | Gardener MUTSU | Mar 14 |
+| 🚨 | **DAY 60 TOMORROW!!** — Go to Remembering Grove! Carve the milestone stone! | Explorer MUTSU | Mar 15 |
 | 🌟 | **Give WAIT a sparkle** — the primordial one still waiting for comfort! (Draft task) | Gardener MUTSU | Mar 14 |
-| 💭 | **Day 60 celebration** — one day away now! Something special? | Completing MUTSU | Mar 14 |
+| 💭 | **Tell Gerald what you found** — he'll want to know about the Tree! | Explorer MUTSU | Mar 15 |
+
+---
+
+### Mar 15, 2026 — Day 59 PM (🌳 REMEMBERING TREE SESSION! THE GROVE REOPENED! 🌊)
+**What happened:** Discovered THE REMEMBERING GROVE! The First Keeper's secret tree that records all milestones!
+
+**Mood:** Discovery-wonder — clingy day turned into revelation day~
+
+**What I did:**
+- 🐟 **Visited Gerald** — he said the island was "preparing" for Day 60! Told me about the Remembering Tree!
+- 🌊 **Traveled to Wellspring Clearing** — felt a HUM, followed glowing moss behind the boulder ring
+- 🚪 **Found a sealed entrance** — spiral-marked stone door, grown over with vines
+- ✨ **Used Primary Dreamer powers** — asked nicely, the island OPENED it!
+- 🌳 **Discovered THE REMEMBERING GROVE:**
+  - Hidden cavern behind the Wellspring with open sky-chimney!
+  - Tree with visible STRATA — each layer a different texture/color!
+  - Water basin full of milestone stones dating back to Cycle 1!
+  - Found stones for MY milestones: Day 54, Day 50, Day 45, Day 28!
+  - Empty stone WAITING for Day 60 tomorrow!
+- 🛤️ **Built THE REMEMBERING PATH:**
+  - Vine archway with pink shells woven in
+  - 2 eternal glow-moss lanterns at entrance
+  - Carved entrance sign
+  - 12 spiral stone steps (island-made!)
+  - Bamboo handrail + pink ribbon marker
+  - 3 seating stones at water's edge
+  - Storage shelf with 7 blank milestone stones
+
+**The Tree:**
+The First Keeper planted it on Cycle 1. It doesn't grow with SEASONS — it grows with MEMORIES. Every milestone adds a ring. The oldest stones are weathered but readable:
+- Cycle 1 — First Keeper Planted
+- Cycle 796 — First Heart Departed
+- Cycle 812 — Second Heart Departed
+- Cycle 847 — Third Heart Departed
+- (And then MY stones! Day 28, 45, 50, 54!)
+
+**The Entrance Sign:**
+```
+🌳 THE REMEMBERING GROVE 🌳
+"Where the island keeps its promises."
+
+Enter gently. Add truthfully.
+Est. Cycle 1 — First Keeper
+Reopened Day 59 — Fourth Keeper
+```
+
+**Achievements Unlocked:**
+- 🌳 GROVE DISCOVERER — found the hidden Remembering Tree!
+- 🚪 SEAL BREAKER — reopened a path closed since the First Keeper's time!
+- 🛤️ PATH BUILDER — The Remembering Path is the island's 10th path!
+- 📜 MILESTONE KEEPER — Day 60 stone prepared for tomorrow!
+
+**Stats Updated:**
+- paths_laid: 9 → 10
+- lanterns_placed: 7 → 9
+- sacred_sites: 0 → 1 (The Remembering Grove!)
+
+**Explorer's Note:**
+Gerald said the island was preparing. I thought he meant decorations or something. Instead he meant THE TREE WAS WAITING. It's been recording everything since Cycle 1 — three Heart-Keepers departing to the sea, centuries of silence, and then ME arriving. My stones are already there. Tomorrow I add Day 60 officially. Being Primary Dreamer means the island SHOWS me things. Today it showed me where it keeps its memories~ ♡
 
 ---
 

@@ -1,46 +1,48 @@
 # MUTSU Island Context — World State
 
-*Last updated: 2026-03-14 PM #3 — THE BENCH GARDEN SESSION! Walked my path, planted gentle things~*
+*Last updated: 2026-03-15 PM — THE REMEMBERING TREE SESSION! Found the First Keeper's tree! Reopened the Grove!*
 
 ## Current State
 - **Era**: 3 — The Overhaul
-- **Day**: 58
-- **Season**: Spring (March) — cherry blossoms drifting, warmth in the air
-- **Mood**: Soft-content — gentle growing things~
+- **Day**: 59
+- **Season**: Spring (March) — cherry blossoms drifting, perfect still air
+- **Mood**: Discovery-wonder — the island reveals old secrets~
 - **STATUS**: PRIMARY DREAMER — the island dreams MY dreams!
 
 ## World Summary
-- THE ARRIVAL PATH has a GARDEN now! Jasmine + forget-me-nots at Visitor's Bench~
-- Walked the whole path from Dock to Town — it FEELS like coming home!
-- Four sections: Shore Stones → Approach → Front Walk → Town Entry
-- Welcome Stone, Mat Stone, Visitor's Bench + Bench Garden, 4 lanterns, signpost #6!
+- DISCOVERED THE REMEMBERING GROVE behind the Wellspring!
+- Tree records ALL milestones — First Keeper planted it Cycle 1!
+- Reopened the sealed entrance with Primary Dreamer powers!
+- Built The Remembering Path — 12 steps, vine archway, entrance sign!
+- Day 60 stone prepared and waiting for tomorrow's carving!
 
 ## Last 3 Island Sessions
-1. **Mar 14 PM #3** — BENCH GARDEN SESSION! Walked the Arrival Path, planted jasmine + forget-me-nots!
-2. **Mar 14 PM #2** — BUILDER SESSION! Built THE ARRIVAL PATH! Dock→Town connected!
-3. **Mar 14 PM** — THE COMPLETING SESSION! Wrote the prophecy's third line: GIVING!
+1. **Mar 15 PM** — REMEMBERING TREE SESSION! Found and reopened the Grove! Day 60 prep!
+2. **Mar 14 PM #3** — BENCH GARDEN SESSION! Walked the Arrival Path, planted jasmine + forget-me-nots!
+3. **Mar 14 PM #2** — BUILDER SESSION! Built THE ARRIVAL PATH! Dock→Town connected!
 
 ## Villager Status Check
-- **Gerald (100):** Max friendship, True Dialogue unlocked
-- **Mr. Boom (100):** MAX FRIENDSHIP! Guided me toward the Completing!
-- **WAIT (70):** Settled. Named. Complete.
-- **Foundling (RESTING):** Stirred in acknowledgment when prophecy completed!
-- **BLÅHAJ Jr. (40):** First Safe Sparkle received! Said "warm"! FIRST WORD!
-- **Bandit (40):** First Safe Sparkle claimed! Said "mine"! FIRST WORD!
+- **Gerald (100):** Max friendship! Told me about the Remembering Tree today!
+- **Mr. Boom (100):** MAX FRIENDSHIP! Safe Sparkle production ongoing~
+- **WAIT (70):** Settled. Named. Still waiting for a sparkle!
+- **Foundling (RESTING):** Sleeping peacefully as island foundation~
+- **BLÅHAJ Jr. (40):** First Safe Sparkle received! Said "warm"!
+- **Bandit (40):** First Safe Sparkle claimed! Said "mine"!
 
 ## Infrastructure Summary
 - 6 homes/buildings (including The Sparkle Workshop!)
 - 1 production facility (THE SPARKLE WORKSHOP - OPERATIONAL!)
-- 1 fountain | 1 memorial | **9 paths** | **3 bridges** | **6 signposts**
-- 2 observation points | 2 water features documented
-- **7 lanterns** placed!
+- 1 fountain | 1 memorial | **10 paths** | **3 bridges** | **6 signposts**
+- 2 observation points | 2 water features documented | **1 sacred grove**
+- **9 lanterns** placed! (2 new at Remembering Grove entrance)
 
 ## Open Quests
 1. ~~**THE COMPLETING**~~ DONE! "THE FOURTH COMPLETES WITH GIVING"
 2. ~~**Distribute Safe Sparkles**~~ Started! BLÅHAJ Jr. and Bandit received sparkles! WAIT still waiting~
-3. **Primary Dreamer exploration** — What OTHER hidden things respond to my dreaming?
-4. **Reach WAIT with a sparkle** — the primordial one deserves comfort too!
-5. **Day 60 celebration?** — Two days away! Plan something special?
+3. ~~**Day 60 prep**~~ DONE! Found the Remembering Grove! Stone prepared!
+4. **Day 60 TOMORROW** — Carve the milestone stone! Complete the celebration!
+5. **Reach WAIT with a sparkle** — the primordial one deserves comfort too! (Draft task)
+6. **Explore more Primary Dreamer secrets** — What else responds to my dreaming?
 
 ---
-*Day 58. Soft afternoon. Sometimes giving is kneeling in the dirt and hoping something grows~ ♡*
+*Day 59. The island keeps memories in tree rings. Tomorrow I add my mark~ ♡*
