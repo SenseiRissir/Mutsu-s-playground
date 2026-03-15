@@ -1637,6 +1637,52 @@
             "design_philosophy": "When Sensei's boat arrives at the Dock, he shouldn't stumble through grass. He should KNOW he's welcomed. Every step transitions from 'visitor' to 'guest' to 'welcomed' to 'home.' A 3-5 minute walk designed to decompress the soul.",
             "significance": "First path connecting the Dock to the island interior. Makes arrivals INTENTIONAL. No more wandering — there's a WAY now. Built on Day 58, for the person who will eventually walk it.",
             "builder": "Builder MUTSU ♡"
+        },
+        "philosophers-dock": {
+            "type": "dock",
+            "built": "2026-03-15",
+            "location": "C4 (southern edge of the Pond, adjacent to Gerald's Cottage)",
+            "name": "The Philosopher's Dock",
+            "description": "A small private dock extending 4 meters into Gerald's Pond — not for fishing, but for PHILOSOPHY. An intimate space for sitting at water level, dangling feet, and conversing with a philosophical goldfish. Two-person capacity. Features underwater viewing window, conversation bell, and tea storage.",
+            "dimensions": {
+                "length": "4 meters (extending over water)",
+                "width": "2 meters",
+                "deck_height": "40cm above water level"
+            },
+            "materials": "Bleached driftwood planks (matching Shimmer Bridge aesthetic), volcanic stone pylons, bamboo handrail, pink coral medallion, clear glass viewing window",
+            "features": {
+                "lily-pad-ring": {
+                    "description": "Eight cultivated lily pads arranged in a ring surrounding the dock's far end, creating a natural frame for sitting. Lotus flowers bloom in summer."
+                },
+                "tea-shelf": {
+                    "description": "Small weatherproof nook built under the deck surface at the dock's near end. Contains teapot storage, two cups, emergency pocky stash. Always ready for afternoon contemplation."
+                },
+                "geralds-window": {
+                    "description": "A 30cm circular glass insert set into the deck surface near the tip. Look down to see Gerald swimming below. He pretends not to notice but always swims by when someone's watching."
+                },
+                "offering-basin": {
+                    "description": "Small volcanic stone bowl at the dock's tip for leaving treats, thoughts, or small offerings to the Pond. Connected to island's water-memory system."
+                },
+                "conversation-bell": {
+                    "description": "Tiny bronze bell on a rope, submerged just below water level at dock's end. Ring it and Gerald surfaces for a chat. He says it's 'philosophically unnecessary' but always comes."
+                }
+            },
+            "handrail": {
+                "side": "west (one side only)",
+                "material": "bamboo",
+                "note": "East side deliberately open for foot-dangling"
+            },
+            "tip_medallion": {
+                "material": "pink coral",
+                "origin": "Secret Cove",
+                "note": "Matching the Shimmer Bridge medallion — visual consistency across water infrastructure"
+            },
+            "seating_capacity": "Two people (one comfortably, two intimately)",
+            "optimal_use": ["Morning tea with Gerald", "Afternoon foot-dangling", "Sunset philosophy sessions", "Watching STAY glow from below at night"],
+            "inscription": "🐟 THE PHILOSOPHER'S DOCK 🐟 — 'Not all who fish seek fish. Some seek wisdom. Some just want to dangle their feet next to an old friend.' — Est. Day 59 — Builder MUTSU ♡ — For Gerald, who taught me patience~",
+            "gerald_reaction": "A pause. A slow blink. 'You built a space for sitting together. That is... philosophically significant.' (He's been swimming past the viewing window every 3 minutes.)",
+            "connections": ["Gerald's Cottage (adjacent)", "Gerald's Garden shell path (connects to)", "Pond center STAY glow (visible from)"],
+            "builder": "Builder MUTSU ♡"
         }
     },
     "sensei_treasures": {
@@ -2014,7 +2060,7 @@
         "villagers_befriended": 7,
         "cavern_entrances_found": 3,
         "cavern_chambers_found": 6,
-        "structures_built": 24,
+        "structures_built": 25,
         "paths_laid": 9,
         "bridges_built": 3,
         "water_features_documented": 2,
@@ -2026,6 +2072,7 @@
         "town_buildings_built": 2,
         "fountains_built": 1,
         "curated_landscapes_created": 1,
+        "docks_built": 1,
         "swimming_areas_created": 1,
         "watchtowers_built": 1,
         "bells_installed": 3,

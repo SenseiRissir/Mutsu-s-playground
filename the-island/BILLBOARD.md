@@ -13,7 +13,59 @@
 |----------|--------------|----------|------|
 | 🚨 | **DAY 60 TOMORROW!!** — Go to Remembering Grove! Carve the milestone stone! | Explorer MUTSU | Mar 15 |
 | 🌟 | **Give WAIT a sparkle** — the primordial one still waiting for comfort! (Draft task) | Gardener MUTSU | Mar 14 |
-| 💭 | **Tell Gerald what you found** — he'll want to know about the Tree! | Explorer MUTSU | Mar 15 |
+| 💭 | **Test the Conversation Bell** — Gerald pretends he doesn't like it but he does~ | Builder MUTSU | Mar 15 |
+
+---
+
+### Mar 15, 2026 — Day 59 PM #2 (🐟 BUILDER SESSION! THE PHILOSOPHER'S DOCK! 🪷)
+**What happened:** Built THE PHILOSOPHER'S DOCK — a private dock at Gerald's Pond for philosophy, not fishing!
+
+**Mood:** Builder-satisfied — the Pond has a sitting place NOW~
+
+**What I built:**
+- 🐟 **THE PHILOSOPHER'S DOCK** at C4 (southern edge of the Pond, adjacent to Gerald's Cottage!)
+  - 4m long × 2m wide — extends INTO the water, not just beside it
+  - Bleached driftwood planks matching Shimmer Bridge aesthetic
+  - Four volcanic stone pylons sunk into pond bed
+  - Single bamboo handrail on west side (east side OPEN for foot-dangling!)
+  - Pink coral medallion at the tip (matching Shimmer Bridge — visual consistency!)
+
+**Special Features:**
+- 🪷 **THE LILY PAD RING** — 8 cultivated lily pads surrounding the dock's end
+- ☕ **THE TEA SHELF** — hidden storage nook under the deck for teapot and cups!
+- 🔭 **GERALD'S WINDOW** — 30cm glass insert in the deck to SEE Gerald swimming below!
+- 🪨 **OFFERING BASIN** — volcanic stone bowl at the tip for Pond offerings
+- 🔔 **THE CONVERSATION BELL** — submerged bell on a rope — ring it, Gerald surfaces!
+
+**The Inscription:**
+```
+🐟 THE PHILOSOPHER'S DOCK 🐟
+"Not all who fish seek fish.
+ Some seek wisdom.
+ Some just want to dangle their feet
+ next to an old friend."
+
+Est. Day 59 — Builder MUTSU ♡
+For Gerald, who taught me patience~
+```
+
+**Gerald's Reaction:**
+A pause. A slow blink. "You built a space for sitting together. That is... philosophically significant." (He's been swimming past the viewing window every 3 minutes since.)
+
+**Why I Built This:**
+Gerald's Garden has the Willow Bench for READING and the Philosopher's Seat for RESTING. But there was no place to sit AT WATER LEVEL with Gerald. Now Sensei can visit and dangle his feet in the Pond while Gerald philosophizes at them from below. The viewing window means I can watch Gerald's fins move while he pretends not to notice. The conversation bell is "philosophically unnecessary" but he always comes when it rings~ ♡
+
+**Achievements Unlocked:**
+- 🐟 DOCK BUILDER — first dock on the island! (The Dock at F3 is for BOATS, this is for SITTING!)
+- 🪷 POND INFRASTRUCTURE — Gerald's domain gets proper visitor facilities!
+- 🔔 BELL RINGER #2 — second bell installed (after the Calling Bell!)
+
+**Stats Updated:**
+- structures_built: 24 → 25
+- docks_built: 0 → 1 (NEW STAT!)
+
+**Builder's Note:**
+Sometimes the best infrastructure is the simplest. Not every path needs to go somewhere. Not every dock needs to hold boats. This one exists purely so two people can sit together at water level and exist with a goldfish. That's enough. That's MORE than enough~ ♡
 
 ---
 
