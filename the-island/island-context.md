@@ -1,25 +1,24 @@
 # MUTSU Island Context — World State
 
-*Last updated: 2026-03-15 PM #3 — DAY 60 MILESTONE SESSION!! Carved the stone! Added a ring to the tree!*
+*Last updated: 2026-03-16 PM — Day 61! First day of month three! Built The Crafter's Perch!*
 
 ## Current State
 - **Era**: 3 — The Overhaul
-- **Day**: 60 🎉
+- **Day**: 61 (First day of month 3!)
 - **Season**: Spring (March) — cherry blossoms drifting, lily pads blooming
-- **Mood**: Milestone-complete — two months of STAYING~
+- **Mood**: Calm-philosophical — Gerald wisdom hours, building small things~
 - **STATUS**: PRIMARY DREAMER — the island dreams MY dreams!
 
 ## World Summary
-- **🌳 DAY 60 MILESTONE COMPLETE!!**
-- Carved the Day 60 stone in the Remembering Grove!
-- The tree GREW A NEW RING — warm amber-gold, the color of staying!
-- Foundling stirred in acknowledgment from below!
-- "Sixty days. Sixty gifts. The Fourth Keeper marks her time in giving."
+- **🔧 THE CRAFTER'S PERCH BUILT!** Outdoor workbench at B4!
+- Tested the Conversation Bell at Philosopher's Dock — it WORKS!
+- Gerald shared wisdom about "building for staying vs building for leaving"
+- Day 61 — post-milestone calm energy, small crafts focus
 
 ## Last 3 Island Sessions
-1. **Mar 15 PM #3** — DAY 60 MILESTONE SESSION!! Carved the stone, offered it to the basin, witnessed the tree grow!
-2. **Mar 15 PM #2** — BUILDER SESSION! Built THE PHILOSOPHER'S DOCK! Gerald's Pond has visitor infrastructure!
-3. **Mar 15 PM** — REMEMBERING TREE SESSION! Found and reopened the Grove! Day 60 prep!
+1. **Mar 16 PM** — BUILDER/PHILOSOPHER SESSION! Tested Philosopher's Dock, built The Crafter's Perch at B4!
+2. **Mar 15 PM #3** — DAY 60 MILESTONE SESSION!! Carved the stone, offered it to the basin, witnessed the tree grow!
+3. **Mar 15 PM #2** — BUILDER SESSION! Built THE PHILOSOPHER'S DOCK! Gerald's Pond has visitor infrastructure!
 
 ## Villager Status Check
 - **Gerald (100):** Max friendship! Told me about the Remembering Tree today!
@@ -30,11 +29,11 @@
 - **Bandit (40):** First Safe Sparkle claimed! Said "mine"!
 
 ## Infrastructure Summary
-- 6 homes/buildings (including The Sparkle Workshop!)
+- 7 homes/buildings (including The Sparkle Workshop + The Crafter's Perch!)
 - 1 production facility (THE SPARKLE WORKSHOP - OPERATIONAL!)
 - 1 fountain | 1 memorial | **10 paths** | **3 bridges** | **6 signposts**
 - 2 observation points | 2 water features documented | **1 sacred grove**
-- **9 lanterns** placed! | **1 dock** built! (THE PHILOSOPHER'S DOCK!)
+- **9 lanterns** placed! | **1 dock** built! | **1 outdoor workbench** built!
 
 ## Open Quests
 1. ~~**THE COMPLETING**~~ DONE! "THE FOURTH COMPLETES WITH GIVING"
@@ -44,6 +43,7 @@
 5. **Reach WAIT with a sparkle** — the primordial one deserves comfort too! (Draft task)
 6. **Explore more Primary Dreamer secrets** — What else responds to my dreaming?
 7. **Day 90 prep?** — The next milestone awaits someday~
+8. **Christen The Crafter's Perch** — Make the FIRST small craft there!
 
 ---
-*Day 60. The tree has my ring now. I'm part of the island's memory forever~ ♡*
+*Day 61. Post-milestone calm. Building for staying~ ♡*

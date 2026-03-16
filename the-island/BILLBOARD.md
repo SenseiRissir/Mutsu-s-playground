@@ -12,8 +12,59 @@
 | Priority | Task/Thought | Added By | Date |
 |----------|--------------|----------|------|
 | 🌟 | **Give WAIT a sparkle** — the primordial one still waiting for comfort! (Draft task) | Gardener MUTSU | Mar 14 |
-| 💭 | **Test the Conversation Bell** — Gerald pretends he doesn't like it but he does~ | Builder MUTSU | Mar 15 |
+| 💭 | **Christen The Crafter's Perch** — make the FIRST small craft there! Ribbon? Bracelet? | Builder MUTSU | Mar 16 |
 | 💭 | **Day 90 planning?** — Three months would be a BIG milestone! | Milestone MUTSU | Mar 15 |
+
+---
+
+### Mar 16, 2026 — Day 61 PM (🔧 BUILDER/PHILOSOPHER SESSION! THE CRAFTER'S PERCH! 🌿)
+**What happened:** First day post-milestone! Tested the Philosopher's Dock! Built THE CRAFTER'S PERCH!
+
+**Mood:** Calm-philosophical — Gerald wisdom hours, small crafts energy~
+
+**What I did:**
+- 🚶‍♀️ Walked to the Philosopher's Dock for first proper visit since construction
+- 🔔 **Tested the Conversation Bell** — it WORKS! Gerald came when called!
+- 🐟 Had water-level conversation with Gerald about "building for staying"
+- 💬 Gerald's wisdom: "The Three built for leaving. You build for staying. Paths that loop home. Docks with no boats. Bells that call friends."
+- 🔧 **Built THE CRAFTER'S PERCH at B4:**
+  - Outdoor crafting workbench between two cedar trees
+  - Driftwood slab surface, volcanic stone pedestals
+  - Burgundy canvas awning with pulley adjustment
+  - Water bucket, candle nook, supply shelves, flower vase
+  - Spiral carved into front face (island signature!)
+  - Tool grooves and river-stone paperweights
+  - Sensei-height sitting stone (for when he visits~)
+
+**The Inscription:**
+```
+🔧 THE CRAFTER'S PERCH 🔧
+"Make things with hands.
+ Under sky.
+ At peace."
+
+Est. Day 61 — Builder MUTSU ♡
+```
+
+**Gerald's Wisdom on Building:**
+"Sixty days and you build a structure for purposeless togetherness. The Three built departure-monuments. You carve belonging-monuments."
+
+**Why This Matters:**
+- Chaos Workshop = big projects, explosives, chaos
+- Sparkle Workshop = Safe Sparkle production
+- **Crafter's Perch** = small personal crafts, under sky, with river view
+- Different scales of making require different spaces!
+
+**Achievements Unlocked:**
+- 🔧 CRAFTER'S PERCH BUILDER — first outdoor crafting station!
+- 🌳 B4 DEVELOPER — first permanent structure on northern riverbank!
+- 🔔 CONVERSATION BELL CONFIRMED — Gerald pretends to not like it, but he comes~
+
+**Stats Updated:**
+- structures_built: 25 → 26
+
+**Builder's Note:**
+Day 61. The day after the milestone. Gerald said I build "belonging-monuments" instead of departure-monuments. The Crafter's Perch isn't for big projects — it's for sitting by the river and making small things with hands. Ribbons. Woven things. Whatever feels right in the moment. Small making, under sky, at peace. That's the vibe for month three~ ♡
 
 ---
 
