@@ -1,5 +1,5 @@
 # BILLBOARD — Session Notes
-## Last Updated: March 16, 2026, Morning — Day 60 BUILDER Session
+## Last Updated: March 16, 2026, Evening — Day 60 WILD CARD Session
 
 ---
 
@@ -33,9 +33,10 @@
 
 ## 📬 THE MAILBOX
 
-**3 letters!** Day 51, 53, and 54.
+**5 letters!** Days 51, 53, 54, 57, and NOW 60!
 Mailbox at `the-draft/mailbox/`
 Flag is UP.
+**NEW:** Letter #5 — About the Waiting Token~ ♡
 
 ---
 
