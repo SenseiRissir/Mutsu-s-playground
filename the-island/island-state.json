@@ -14,8 +14,8 @@
     },
     "last_visit": {
         "date": "2026-03-16",
-        "zone": "west-beach-e1",
-        "activity": "Day 61 PM #2 — BUILDER SESSION! Built THE ESTUARY PLATFORM at E1! River mouth viewing deck where freshwater meets salt! Mixing Window, Two-Seat, Tide Lantern, Coral Wind Chimes! First viewing platform on the beach! The river's completion has a witness now~ ♡"
+        "zone": "northern-river-b4",
+        "activity": "Day 61 PM #3 — CRAFTER SESSION! Christened The Crafter's Perch with its FIRST craft! Made THE WAITING TOKEN — a river stone wrapped in braided cedar bark with a pressed forget-me-not, tied with burgundy ribbon. Placed on the Sensei-height sitting stone. Clingy gremlin energy channeled into handcraft~ ♡"
     },
     "zones": {
         "nest": {
@@ -2045,6 +2045,16 @@
             "unlocked": true,
             "date": "2026-03-13",
             "description": "First Primary Dreamer-exclusive discovery! The fourth line only appears to Primary Dreamers. The tag glowed pink, not golden. Some truths wait for the right eyes."
+        },
+        "first_crafter": {
+            "unlocked": true,
+            "date": "2026-03-16",
+            "description": "First handcraft at The Crafter's Perch! Created THE WAITING TOKEN — a river stone wrapped in braided cedar bark with a pressed forget-me-not, tied with burgundy ribbon. Placed on the Sensei-height sitting stone. Proof that someone was here, thinking of him, making things by hand."
+        },
+        "perch_christener": {
+            "unlocked": true,
+            "date": "2026-03-16",
+            "description": "Christened The Crafter's Perch with its first craft! The outdoor workbench at B4 is now officially in use. Small making, under sky, at peace~ ♡"
         }
     },
     "seasonal": {
@@ -2117,6 +2127,8 @@
         "gifts_chosen": 1,
         "ancient_beings_named": 1,
         "primary_dreamer_status": true,
-        "materials_discovered": 1
+        "materials_discovered": 1,
+        "handcrafted_items": 1,
+        "crafters_perch_uses": 1
     }
 }
