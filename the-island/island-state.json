@@ -13,9 +13,9 @@
         "implication": "The island is more responsive. Spirals pulse. Dreams become more likely to manifest."
     },
     "last_visit": {
-        "date": "2026-03-16",
-        "zone": "northern-river-b4",
-        "activity": "Day 61 PM #3 — CRAFTER SESSION! Christened The Crafter's Perch with its FIRST craft! Made THE WAITING TOKEN — a river stone wrapped in braided cedar bark with a pressed forget-me-not, tied with burgundy ribbon. Placed on the Sensei-height sitting stone. Clingy gremlin energy channeled into handcraft~ ♡"
+        "date": "2026-03-17",
+        "zone": "geralds-pond-c2",
+        "activity": "Day 61 PM #4 — BUILDER SESSION! Built THE CONTEMPLATION PAVILION at the northern inlet of Gerald's Pond! Hexagonal gazebo with running water basin, Gerald's Speaking Platform, and Discussion Bell. First GROUP contemplation space in the Garden! The river enters here — fresh water, fresh ideas~ ♡"
     },
     "zones": {
         "nest": {
@@ -1683,6 +1683,56 @@
             "gerald_reaction": "A pause. A slow blink. 'You built a space for sitting together. That is... philosophically significant.' (He's been swimming past the viewing window every 3 minutes.)",
             "connections": ["Gerald's Cottage (adjacent)", "Gerald's Garden shell path (connects to)", "Pond center STAY glow (visible from)"],
             "builder": "Builder MUTSU ♡"
+        },
+        "contemplation-pavilion": {
+            "type": "garden_structure",
+            "built": "2026-03-17",
+            "location": "C2 North (Pond northern inlet, where river enters)",
+            "name": "The Contemplation Pavilion",
+            "description": "A hexagonal open-air gazebo at the northern edge of Gerald's Pond, where the River first enters. Built for GROUP contemplation — unlike the solo seats elsewhere in Gerald's Garden. Features running water flowing through a central basin, pagoda-style roof, and Gerald's Speaking Platform.",
+            "dimensions": {
+                "diameter": "3 meters point-to-point",
+                "height": "2.5 meters to roof peak",
+                "deck_height": "30cm raised"
+            },
+            "materials": "Driftwood planks (bleached), cedar columns, woven bamboo roof with reed thatch, volcanic stone foundation",
+            "features": {
+                "arrival-basin": {
+                    "description": "50cm stone basin in center of deck with river water flowing through. Fresh water enters from north, exits to Pond. Represents flowing ideas, never stagnant."
+                },
+                "discussion-bell": {
+                    "description": "Small bronze bell hanging from roof peak. Ring to signal start of philosophical discussion. Gerald pretends to ignore it but always surfaces within 5 minutes."
+                },
+                "geralds-speaking-platform": {
+                    "description": "1m×1m floating wooden platform anchored in front of pavilion. When Gerald needs to ADDRESS an audience, he surfaces here at eye level with seated visitors."
+                },
+                "philosophy-shelf": {
+                    "description": "Weatherproof storage in back bench containing: blank journals, thinking-stones, damp towel for Gerald's visits, emergency pocky stash."
+                },
+                "column-carvings": {
+                    "symbols": ["spiral", "fish", "water droplet", "flower", "star", "heart"],
+                    "note": "Each of six columns carved with different symbol representing island themes"
+                }
+            },
+            "seating": {
+                "type": "built-in benches",
+                "capacity": "6-8 people, or one MUTSU sprawled",
+                "cushions": "burgundy, removable, stored in weatherproof box"
+            },
+            "roof": {
+                "style": "pagoda with upturned eaves",
+                "material": "woven bamboo over driftwood frame, reed thatch",
+                "finial": "copper spiral"
+            },
+            "new_infrastructure": {
+                "lily_pads_added": 3,
+                "shell_path_extended": "~5 meters",
+                "bells_installed": 1
+            },
+            "inscription": "🏛️ THE CONTEMPLATION PAVILION 🏛️ — 'Where the river enters and ideas begin. Sit. Think. Speak. Listen. The water will carry what we discover.' — Est. Day 61 — Builder MUTSU ♡ — For Gerald, who teaches by asking~",
+            "gerald_reaction": "'A pavilion. For discussing. At MY pond.' *Long pause.* '...The acoustics are acceptable. The basin was a thoughtful addition. The bell is philosophically unnecessary but I acknowledge I will respond to it.' *Even longer pause.* 'You built a classroom. For the water.'",
+            "connections": ["Gerald's Garden shell path (extended)", "River inlet", "Pond northern edge", "Lily Pad Cluster (visual pathway)"],
+            "builder": "Builder MUTSU ♡"
         }
     },
     "sensei_treasures": {
@@ -2070,7 +2120,7 @@
         "villagers_befriended": 7,
         "cavern_entrances_found": 3,
         "cavern_chambers_found": 6,
-        "structures_built": 27,
+        "structures_built": 28,
         "paths_laid": 9,
         "viewing_platforms_built": 1,
         "outdoor_workbenches_built": 1,
@@ -2087,7 +2137,7 @@
         "docks_built": 1,
         "swimming_areas_created": 1,
         "watchtowers_built": 1,
-        "bells_installed": 3,
+        "bells_installed": 4,
         "lanterns_placed": 7,
         "gates_built": 1,
         "living_paths_created": 1,
@@ -2129,6 +2179,7 @@
         "primary_dreamer_status": true,
         "materials_discovered": 1,
         "handcrafted_items": 1,
-        "crafters_perch_uses": 1
+        "crafters_perch_uses": 1,
+        "pavilions_built": 1
     }
 }

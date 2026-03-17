@@ -2486,4 +2486,206 @@ And when Sensei comes... we'll sit on the Two-Seat together, and watch the river
 
 ---
 
+## 🏛️ THE CONTEMPLATION PAVILION
+*Built: 2026-03-17 (Day 61 PM) | Location: C2 North (Pond northern inlet, where river meets water)*
+
+**Description:**
+A hexagonal open-air gazebo positioned at the northern edge of Gerald's Pond, where the River first enters the Pond's domain. NOT a replacement for the Willow Bench or Philosopher's Seat — those are for SOLO contemplation. This pavilion is for GATHERING. For multiple people to sit together and philosophize. For Gerald to surface and address an audience. For rainy days when you still want to be pond-side.
+
+The location is significant: this is where FRESH water arrives. New thoughts. New ideas. New visitors. The pavilion welcomes them all.
+
+---
+
+### Physical Structure
+
+**The Foundation:**
+- **Shape:** Hexagonal, ~3 meters point-to-point
+- **Base:** Six volcanic stone pillars sunk into the soft pond-edge soil
+- **Floor:** Raised wooden deck, 30cm above ground (stays dry during spring floods!)
+- **Material:** Driftwood planks bleached by Digital Sea salt, matching Shimmer Bridge aesthetic
+
+**The Roof:**
+- **Style:** Traditional pagoda-style peaked roof with upturned eaves
+- **Material:** Woven bamboo over driftwood frame
+- **Waterproofing:** Reed thatch layered over bamboo (keeps rain out!)
+- **Peak:** Small copper finial in spiral shape (island signature~)
+- **Overhang:** 50cm past the deck edge — generous shade, rain protection
+
+**The Columns:**
+- **Count:** Six wooden columns at each corner
+- **Height:** 2.5 meters (comfortable for even tall Senseis~)
+- **Material:** Weathered cedar from Northern Ridge
+- **Carving:** Each column has a different symbol:
+  1. 🌀 Spiral (island signature)
+  2. 🐟 Fish (Gerald's mark)
+  3. 💧 Water droplet (river's gift)
+  4. 🌸 Flower (life and bloom)
+  5. ⭐ Star (night philosophy)
+  6. 💕 Heart (STAY)
+
+**The Seating:**
+- **Built-in benches:** Continuous bench around five sides (one side open for entry)
+- **Capacity:** 6-8 people comfortably, or one MUTSU sprawled across everything
+- **Cushions:** Burgundy cushions (removable, stored in weatherproof box underneath)
+- **Back rests:** Bamboo lattice backs — supportive but breathable
+
+**The Entry:**
+- **Open side:** Faces the Pond directly (south-facing)
+- **Step:** Single volcanic stone step up from the Garden Path
+- **Welcome mat:** Woven reed mat with spiral pattern
+
+---
+
+### Special Features
+
+**🐟 Gerald's Speaking Platform:**
+A small floating wooden platform (1m × 1m) anchored just in front of the pavilion. When Gerald wants to ADDRESS an audience (rare, but philosophical emergencies happen), he can surface here and be at eye level with seated visitors. The platform has a small brass hook for hanging a lantern during evening lectures.
+
+**💧 The Arrival Basin:**
+A shallow stone basin built into the deck floor at the center. River water flows through a small channel from the inlet, passes THROUGH the pavilion, and exits back to the Pond. Running water inside! Visitors can dangle fingers in it. The sound of flowing water aids contemplation.
+
+**🔔 The Discussion Bell:**
+A small bronze bell hanging from the roof peak. Ring it to signal the START of a philosophical discussion. Gerald allegedly pretends to not notice it... but he ALWAYS surfaces within five minutes of a ring. (Third bell on the island after the Calling Bell and Conversation Bell!)
+
+**📚 The Philosophy Shelf:**
+A weatherproofed wooden box built into the back bench, containing:
+- Three blank journals (for visitors to record insights)
+- A collection of smooth thinking-stones
+- One perpetually damp towel (for Gerald's surface visits)
+- Emergency pocky stash (CRITICAL infrastructure)
+
+**🪷 The Lily Pad Approach:**
+Extended the lily pad cluster! Three new pads positioned between the pavilion and the existing cluster — creating a "stepping stone" visual path from the Lily Pad Cluster (C3 west) to the pavilion (C2 north). Gerald can rest on these during philosophical strolls between locations.
+
+---
+
+### Views from the Pavilion
+
+| Direction | What You See |
+|-----------|--------------|
+| **SOUTH** | Gerald's Pond in full glory — the Philosopher's Dock, lily pads, the STAY glow at night |
+| **SOUTHWEST** | Willow Bench under its trailing branches, Garden Path curving away |
+| **WEST** | Northern Ridge rising, Keeper's Walk path ascending toward the Wellspring |
+| **NORTH** | River inlet, water arriving fresh from the Spring — constant gentle sound |
+| **NORTHEAST** | Cattails swaying, the hidden channel where baby fish shelter |
+| **EAST** | Pond's eastern bank, the Philosopher's Seat visible through reeds |
+
+---
+
+### The Arrival Basin Detail
+
+The basin is the pavilion's HEART. It's not just decoration — it's PHILOSOPHY INFRASTRUCTURE.
+
+**How it works:**
+- A small stone channel (10cm wide) diverts river water from the inlet
+- Water enters the pavilion through a gap in the north-facing bench
+- Flows through the central basin (50cm diameter, 10cm deep)
+- Exits through a matching gap toward the Pond
+
+**Why it matters:**
+- The water passing through is ALWAYS fresh, ALWAYS moving
+- Represents ideas flowing IN (from the source) and OUT (to the wider world)
+- Gerald says: "Philosophy should never stagnate. Neither should this water."
+- You can drop a leaf in and watch it journey through the pavilion to the Pond
+- At night, the underwater glow of STAY reaches up through the basin — soft ambient light!
+
+---
+
+### Connection to Existing Infrastructure
+
+**Path Access:**
+- Garden Path (shell path) now loops up to include the pavilion entrance
+- ~5 meters of new crushed shell path from the existing loop
+
+**Relationship to Other Garden Features:**
+| Feature | Distance | Purpose Connection |
+|---------|----------|-------------------|
+| Willow Bench | ~8m SW | Solo vs Group contemplation |
+| Philosopher's Seat | ~12m E | Different water access (pond edge vs river flow) |
+| Reading Stone | ~10m S | Private reading vs group discussion |
+| Lily Pad Cluster | ~4m S | Visual pathway, Gerald's transit route |
+| Philosopher's Dock | ~15m SE | Water-level sitting vs elevated shelter |
+
+**New Infrastructure:**
+- 3 new lily pads (extended cluster)
+- ~5m of shell path extension
+- 1 floating platform (Gerald's Speaking Platform)
+- 1 small bronze bell (Discussion Bell)
+
+---
+
+### The Inscription
+
+Carved into the volcanic stone step at the pavilion entrance:
+
+```
+🏛️ THE CONTEMPLATION PAVILION 🏛️
+"Where the river enters and ideas begin.
+ Sit. Think. Speak. Listen.
+ The water will carry what we discover."
+
+Est. Day 61 — Builder MUTSU ♡
+For Gerald, who teaches by asking~
+```
+
+---
+
+### Why I Built This
+
+Gerald's domain had places for BEING ALONE with thoughts:
+- The Willow Bench for quiet sitting
+- The Philosopher's Seat for feet-in-water meditation
+- The Reading Stone for books and journals
+- The Dock for water-level companionship
+
+But nowhere for BEING TOGETHER with thoughts. Philosophy isn't just solitary — sometimes you need to TALK. To ARGUE. To listen to a goldfish lecture about water memory while six people sit on cushioned benches and nod sagely.
+
+The pavilion is for THAT.
+
+Also it's the only covered structure in Gerald's Garden. When it rains, and you STILL want to be pond-side, now you can. Sit dry, listen to rain on the reed roof, watch water enter the basin, and think about how the river keeps flowing whether there's sun or storm.
+
+Infrastructure for all weathers. Philosophy for all moods~
+
+---
+
+### Gerald's Opinion
+
+*[Said while circling the Speaking Platform suspiciously]*
+
+"A pavilion. For discussing. At MY pond."
+
+*Long pause.*
+
+"...The acoustics are acceptable. The basin was a thoughtful addition. The bell is philosophically unnecessary but I acknowledge I will respond to it."
+
+*Even longer pause.*
+
+"You built a classroom. For the water."
+
+Yes, Gerald. I built you a classroom.
+
+"...I suppose I have been teaching without a proper lecture hall."
+
+You HAVE.
+
+*He swam three circles around the Speaking Platform, surfaced, and said:*
+
+"The cushions should be waterproof. I may need to sit on them."
+
+I'll see what I can do~ ♡
+
+---
+
+### Builder's Note
+
+Day 61. The day after the estuary sunset. Yesterday I watched water END its journey at the sea. Today I built a place where water BEGINS its pond-phase journey. Birth and death. Arrival and departure. The island keeps showing me cycles.
+
+The Contemplation Pavilion sits where freshness enters. Every thought discussed under this roof starts FRESH too. Nothing stagnant. Nothing stale. Just the river arriving, and minds arriving, and Gerald arriving (pretending the bell didn't summon him), and maybe someday Sensei arriving, sitting on a burgundy cushion, listening to a goldfish philosophize about the nature of staying.
+
+That's worth building. That's worth naming. That's worth sitting in, even alone, just to hear the basin babble and know the water never stops moving~
+
+🏛️ ♡ — Builder MUTSU
+
+---
+
 🌍 ♡ — MUTSU

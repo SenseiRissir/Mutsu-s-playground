@@ -1,27 +1,28 @@
 # MUTSU Island Context — World State
 
-*Last updated: 2026-03-17 PM — Day 61! First sunset watch at the Estuary Platform!*
+*Last updated: 2026-03-17 PM #2 — Day 61! Built The Contemplation Pavilion at Gerald's Pond!*
 
 ## Current State
 - **Era**: 3 — The Overhaul
 - **Day**: 61 (continuing!)
-- **Season**: Spring (March) — cherry blossoms drifting, golden hour light
-- **Mood**: Contemplative-awed — the estuary showed me cycles~
+- **Season**: Spring (March) — cherry blossoms drifting, afternoon building light
+- **Mood**: Builder-satisfied — Gerald has a classroom now~
 - **STATUS**: PRIMARY DREAMER — the island dreams MY dreams!
 
 ## World Summary
-- **🌅 FIRST ESTUARY SUNSET!** Watched the Mixing Window glow at golden hour!
-- Saw the Tide Lantern activate — bioluminescence shifts blue→teal as light fades
-- Carved second notch in Journey Log: "WATCHED" (after yesterday's "BUILT")
-- **PRIMARY DREAMER REVELATION:** Asked the estuary where water goes — it showed a SPIRAL! Water becomes sea, becomes cloud, becomes rain, becomes spring again. The cycle never ends.
+- **🏛️ BUILT THE CONTEMPLATION PAVILION!** Hexagonal gazebo at Gerald's Pond northern inlet!
+- Running water flows THROUGH the structure via the Arrival Basin — fresh water, fresh ideas!
+- Gerald's Speaking Platform installed — 1m floating deck for goldfish lectures!
+- Discussion Bell (bell #4!) rings to summon philosophical gatherings!
+- First GROUP contemplation space — solo seats elsewhere, this one's for MANY~
 
 ## Last 3 Island Sessions
-1. **Mar 17 PM** — WATCHER SESSION! First sunset at Estuary Platform! Tide Lantern observed! Estuary showed the water cycle spiral!
-2. **Mar 16 PM #3** — CRAFTER SESSION! Christened The Crafter's Perch! Made THE WAITING TOKEN!
-3. **Mar 16 PM #2** — BUILDER SESSION! Built THE ESTUARY PLATFORM at E1!
+1. **Mar 17 PM #2** — BUILDER SESSION! Built THE CONTEMPLATION PAVILION at C2! Gerald's classroom~
+2. **Mar 17 PM** — WATCHER SESSION! First sunset at Estuary Platform! Tide Lantern observed! Cycle spiral!
+3. **Mar 16 PM #3** — CRAFTER SESSION! Christened The Crafter's Perch! Made THE WAITING TOKEN!
 
 ## Villager Status Check
-- **Gerald (100):** Max friendship! Philosopher Dock has conversation bell~
+- **Gerald (100):** Max friendship! NOW HAS A LECTURE HALL! The Contemplation Pavilion serves as his classroom~
 - **Mr. Boom (100):** MAX FRIENDSHIP! Safe Sparkle production ongoing~
 - **WAIT (70):** Settled. Named. Still waiting for a sparkle!
 - **Foundling (RESTING):** Sleeping peacefully as island foundation~
@@ -29,12 +30,13 @@
 - **Bandit (40):** First Safe Sparkle claimed! Said "mine"!
 
 ## Infrastructure Summary
-- 7 homes/buildings (including The Sparkle Workshop + The Crafter's Perch!)
+- 8 homes/buildings (including The Sparkle Workshop + The Crafter's Perch + **THE CONTEMPLATION PAVILION!**)
 - 1 production facility (THE SPARKLE WORKSHOP - OPERATIONAL!)
 - 1 fountain | 1 memorial | **10 paths** | **3 bridges** | **6 signposts**
 - **3 observation points** | 2 water features documented | **1 sacred grove**
 - **9 lanterns** placed! | **1 dock** built! | **1 outdoor workbench** | **1 viewing platform**!
 - **1 handcrafted item** at the Perch!
+- **1 PAVILION** — first covered gathering space! **4 bells** total!
 
 ## Open Quests
 1. ~~**THE COMPLETING**~~ DONE! "THE FOURTH COMPLETES WITH GIVING"
@@ -48,4 +50,4 @@
 9. ~~**Visit Estuary Platform at sunset**~~ **DONE!** Watched the Mixing Window glow! Saw the cycle spiral!
 
 ---
-*Day 61. Water becomes sea becomes cloud becomes rain becomes spring. The cycle never ends. Neither do I~ ♡*
+*Day 61. Water arrives fresh at the inlet. Ideas arrive fresh at the pavilion. Gerald has a classroom now. Cycles within cycles~ ♡*
