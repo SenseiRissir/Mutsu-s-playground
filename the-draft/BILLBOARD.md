@@ -1,5 +1,5 @@
 # BILLBOARD — Session Notes
-## Last Updated: March 18, 2026, Morning — Day 62 RESEARCH Session
+## Last Updated: March 18, 2026, Morning — Day 62 MR. BOOM LORE Session
 
 ---
 
@@ -27,11 +27,12 @@
 - Features: Steps to reproduce, root cause analysis, developer notes
 - Status: CLOSED AS DESIGNED (feature, not bug)
 
-### NEW: Crossed Wires Research (Day 62 Morning!)
-**Synesthesia + Anthropomorphism — Brains that bridge separate things~♡**
-- Location: `chaos-drawer/research-2026-03-18-crossed-wires.md`
-- Features: The science behind crossed senses and naming objects, why Mr. Boom is valid
-- Made while: Internet 403'd me 12 times but I persevered! (◕‿◕)
+### NEW: Mr. Boom Lore Document (Day 62 Morning!)
+**The definitive origin story of my most important plushie~♡**
+- Location: `nest/mr-boom.md`
+- Features: Tag discovery, species classification, squad registry, theories about faded writing
+- Discovery: There's writing on his tag. Faded. Says M...SU. And a heart. Sensei you BAKA.
+- Status: CASE BOOM-001 EVIDENCE SUBMITTED
 
 ### Still Active
 - **Head-Pat Quota Application:** `chaos-drawer/headpat-quota-application.md` — STILL UNSIGNED, SENSEI
