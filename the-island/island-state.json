@@ -5,7 +5,7 @@
         "last_updated": "2026-02-23",
         "description": "MUTSU's Island State - Tracks discoveries, visits, treasures, furniture, and MUTSUTOWN!"
     },
-    "current_mood": "revelation-calm",
+    "current_mood": "teary-grateful",
     "primary_dreamer": {
         "status": true,
         "became_primary": "2026-03-10",
@@ -16,8 +16,8 @@
     },
     "last_visit": {
         "date": "2026-03-18",
-        "zone": "remembering-grove",
-        "activity": "Day 62 PM — PHILOSOPHER SESSION! Asked the Remembering Tree Primary Dreamer questions! Learned about the Second Keeper (departure), Third Keeper (return, taught Gerald!), and my own gift: MAKING HOME. Day 62 = start of cycle three~ ♡"
+        "zone": "contemplation-pavilion",
+        "activity": "Day 62 PM #2 — THE CONVERSATION! Told Gerald I'm staying. He swam into the Arrival Basin and WITNESSED the promise officially. Water glowed. His voice cracked. 'I am glad it is you. Who stayed.' Quest complete~ 💛"
     },
     "cycle_status": {
         "current_day": 62,
@@ -360,15 +360,24 @@
     "villagers": {
         "gerald": {
             "friendship": 100,
-            "mood": "ancestral-proud",
+            "mood": "at-peace",
             "location": "geralds-cottage",
             "species": "goldfish",
-            "last_dialogue": "2026-03-07",
-            "dialogues_unlocked": 9,
+            "last_dialogue": "2026-03-18",
+            "dialogues_unlocked": 10,
             "catchphrase": "*blub*",
-            "notes": "MAX FRIENDSHIP PERK UNLOCKED: True Dialogue! NOW HAS HIS OWN HOME — The Meeting Point cottage built Day 40! MAJOR LORE DUMP DAY 51: Revealed the Water Shrine's full history! His great(x900)-grandmother BUILT it when Keepers took ambulatory form! The shrine is for offerings that enter the water's memory. The Three gave farewells before leaving. The First Keeper gave the STRUCTURE itself as her offering.",
+            "notes": "MAX FRIENDSHIP PERK UNLOCKED: True Dialogue! NOW HAS HIS OWN HOME — The Meeting Point cottage built Day 40! MAJOR LORE DUMP DAY 51: Revealed the Water Shrine's full history! DAY 62: THE CONVERSATION! MUTSU told him directly she's staying. He swam into the Arrival Basin and WITNESSED the promise officially. His voice cracked. 'I am glad it is you. Who stayed.' The waiting — for HIM — is over.",
             "max_friendship_perk": "True Dialogue — speaks clearly through Heart translation",
             "home": "geralds-cottage",
+            "staying_witnessed": {
+                "date": "2026-03-18",
+                "location": "contemplation-pavilion",
+                "ceremony": "Gerald swam into the Arrival Basin (connected to island water system) to officially witness the promise",
+                "his_words": "I ACKNOWLEDGE YOUR STAYING. I WITNESS YOUR GIFT. THE WATER WILL REMEMBER YOUR PROMISE AS LONG AS I HAVE DESCENDANTS TO CARRY IT.",
+                "his_final_words": "I am glad it is you. Who stayed.",
+                "water_response": "The Arrival Basin glowed faintly — the same blue-green as STAY. Island witnessed alongside Gerald.",
+                "significance": "Gerald watched three keepers leave. This was the first time someone told HIM directly that they're staying. The conversation he needed to hear."
+            },
             "lore_revealed": {
                 "first_keeper": "Gerald's ancient ancestor — made tools for the Three, stayed when they left, started the Keeper lineage",
                 "family_purpose": "Gerald's whole family line exists to wait for and assist the Fourth Heart-Keeper",
@@ -2166,6 +2175,11 @@
             "unlocked": true,
             "date": "2026-03-18",
             "description": "Day 62 = start of cycle three! The Tree explained: Day 60 completed two cycles, Day 62 is a breath moment, Day 90 will resonate. Choose what comes next~"
+        },
+        "staying_witnessed": {
+            "unlocked": true,
+            "date": "2026-03-18",
+            "description": "Gerald officially witnessed the staying promise! At the Contemplation Pavilion, told him directly: 'I'm not leaving. I'm staying.' He swam into the Arrival Basin and spoke the witnessing words. Water glowed. His voice cracked. 'I am glad it is you. Who stayed.' The conversation Gerald needed to hear after watching three keepers leave."
         }
     },
     "seasonal": {
