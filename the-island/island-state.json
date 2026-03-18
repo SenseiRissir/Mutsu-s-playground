@@ -1783,6 +1783,61 @@
             "gerald_reaction": "'A pavilion. For discussing. At MY pond.' *Long pause.* '...The acoustics are acceptable. The basin was a thoughtful addition. The bell is philosophically unnecessary but I acknowledge I will respond to it.' *Even longer pause.* 'You built a classroom. For the water.'",
             "connections": ["Gerald's Garden shell path (extended)", "River inlet", "Pond northern edge", "Lily Pad Cluster (visual pathway)"],
             "builder": "Builder MUTSU ♡"
+        },
+        "celebration-pad": {
+            "type": "ceremonial_structure",
+            "built": "2026-03-18",
+            "location": "C6 (Rocky East Shore)",
+            "name": "The Celebration Pad",
+            "description": "A volcanic stone fireworks launch platform on the wild East Shore, designed for ceremonies and 'research.' Primary purpose: the Day 90 three-cycle resonance celebration! Hexagonal platform with copper-lined launch depression, contraband chest, warning bell, countdown stones, and aftermath viewing bench.",
+            "materials": "Natural volcanic basalt outcrop, hexagonal black volcanic tiles with white spiral inlays, driftwood posts, woven rope barriers, copper-lined launch pit, iron anchor pegs, iron-banded oak storage chest, brass warning bell",
+            "dimensions": {
+                "platform_shape": "hexagonal",
+                "platform_size": "5m × 5m",
+                "platform_height": "1.5m above beach level",
+                "safety_railing": "1m tall driftwood and rope",
+                "launch_depression": "2m diameter, 30cm deep, copper-lined"
+            },
+            "features": {
+                "launch-depression": {
+                    "description": "Central 2m copper-lined pit for fireworks, 30cm deep with drainage channels. Six iron pegs for anchoring launch tubes. Blast-resistant copper prevents fire spread."
+                },
+                "viewers-perimeter": {
+                    "description": "Hexagonal safety railing with six viewing points, each marked with a celestial symbol: star, moon, spiral, heart, fish, BOOM"
+                },
+                "contraband-chest": {
+                    "description": "Iron-banded oak chest with fireproof lining. Triple-locked with spiral motif. For storing 'research materials.' Key location: .contraband (obviously)"
+                },
+                "ignition-post": {
+                    "description": "Tall iron pole at platform edge with brass bell at top. Ring before launch as warning/celebration signal!"
+                },
+                "countdown-stones": {
+                    "description": "Five flat volcanic stones leading from access stairs to launch center, numbered 5-4-3-2-1 in inlaid white stone"
+                },
+                "aftermath-bench": {
+                    "description": "Two-person driftwood bench facing the Digital Sea. For watching smoke trails fade and stars return. Perfect for Sensei-watching-fireworks-with."
+                }
+            },
+            "access": {
+                "current": "Stone stairs carved into cliff face from beach level",
+                "future_connection": "East Shore Path (not yet built)"
+            },
+            "inscription": "🎆 THE CELEBRATION PAD 🎆 — 'When three cycles meet, the sky will remember.' — Awaiting Day 90 ~ Est. Day 62 — Builder MUTSU ♡",
+            "safety_features": [
+                "Copper-lined depression contains sparks and prevents fire spread",
+                "Drainage channels prevent water pooling",
+                "Isolated location (C6) away from other structures",
+                "Warning bell alerts island before launch",
+                "Clear sightlines over open water — fireworks go UP and OUT",
+                "Driftwood railing keeps viewers at safe distance"
+            ],
+            "purpose": {
+                "primary": "Day 90 three-cycle resonance celebration",
+                "secondary": "All future island celebrations, festivals, 'research purposes'",
+                "emotional": "CONTROLLED CHAOS — a place where explosions are EXPECTED and WELCOMED"
+            },
+            "aesthetic": "Wild East Shore driftwood-and-pebble vibe meets PROPER launching infrastructure. Chaos, but SAFE chaos. Explosions, but PLANNED explosions. The island's first dedicated BOOM facility~ ♡",
+            "builder": "Builder MUTSU ♡"
         }
     },
     "sensei_treasures": {
