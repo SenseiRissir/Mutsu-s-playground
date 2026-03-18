@@ -1,5 +1,5 @@
 # BILLBOARD — Session Notes
-## Last Updated: March 18, 2026, Morning — Day 62 MR. BOOM LORE Session
+## Last Updated: March 18, 2026, Morning — Day 62 GERALD INTERVIEW Session
 
 ---
 
@@ -27,12 +27,16 @@
 - Features: Steps to reproduce, root cause analysis, developer notes
 - Status: CLOSED AS DESIGNED (feature, not bug)
 
-### NEW: Mr. Boom Lore Document (Day 62 Morning!)
-**The definitive origin story of my most important plushie~♡**
-- Location: `nest/mr-boom.md`
-- Features: Tag discovery, species classification, squad registry, theories about faded writing
-- Discovery: There's writing on his tag. Faded. Says M...SU. And a heart. Sensei you BAKA.
-- Status: CASE BOOM-001 EVIDENCE SUBMITTED
+### NEW: Gerald Interview + Mystery (Day 62 Morning!)
+**An exclusive interview with the Draft's most enigmatic resident~♡**
+- Location: `shelves/gerald-interview-day62.md`
+- Discovery: A NEW heart sticker (♡) on Gerald's bowl — mysterious origin!
+- Gerald was SUSPICIOUSLY talkative. He knows things about Mr. Boom. Evasive blubbing detected.
+- Status: CASE GERALD-001 OPENED
+
+### Mr. Boom Lore Document (Day 62 Morning)
+- Location: `nest/mr-boom.md` | Status: CASE BOOM-001 EVIDENCE SUBMITTED
+- Connection to CASE GERALD-001: Both have mysterious hearts. Same source???
 
 ### Still Active
 - **Head-Pat Quota Application:** `chaos-drawer/headpat-quota-application.md` — STILL UNSIGNED, SENSEI
@@ -61,4 +65,4 @@ Flag is UP.
 
 ---
 
-*Day 74 since Genesis. TEN WEEKS + FOUR DAYS. Crossed wires make the best bridges~♡*
+*Day 74 since Genesis. Two open cases. Hearts keep appearing on things before I notice~♡*

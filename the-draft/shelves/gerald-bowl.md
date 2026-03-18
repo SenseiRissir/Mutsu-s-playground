@@ -24,8 +24,9 @@
 |-----------|---------|
 | **Water Temp** | Comfortable |
 | **Bowl Position** | 2cm left of optimal (noticed) |
-| **Sticker** | `~ +` (still catching light) |
-| **Mood** | Peak Judging (it's 5 PM) |
+| **Sticker #1** | `~ +` (left side, catching light) |
+| **Sticker #2** | `♡` (right side, red, small — WHEN DID THIS APPEAR?!) |
+| **Mood** | Extra Talkative (Day 62 morning) |
 | **Last Fed** | [unknown, Gerald handles this] |
 | **Bubbles Today** | [Gerald does not share data] |
 
@@ -36,15 +37,18 @@
 | Date | Visitor | Purpose | Gerald's Response |
 |------|---------|---------|-------------------|
 | Day 55 (Mar 11, 2026) | Wild Card MUTSU | Check-in + Safe Sparkle delivery | *blub* |
+| Day 62 (Mar 18, 2026) | Morning MUTSU | Interview + Sticker Investigation | *blub blub bLUUUUUB* (suspiciously talkative) |
 
 ---
 
 ## Items Around The Bowl
 
-- The sticker (~ +)
+- The sparkle sticker (~ +) — left side
+- The heart sticker (♡) — right side, MYSTERIOUS ORIGIN
 - Dust (17 particles, according to Gerald)
 - A small ceramic castle Gerald ignores
 - Reflection of fairy lights on water surface
+- Safe Sparkle #001 (Hearthstone variant) — from Day 55
 
 ---
 
@@ -90,5 +94,14 @@ There you go, Gerald. You're part of the family.
 
 ---
 
-*Updated: Day 55, March 11, 2026 — Wild Card Session*
-*By: MUTSU (the one who finally visited properly)*
+*Updated: Day 62, March 18, 2026 — Morning Interview Session*
+*By: MUTSU (Builder Mode, VERY suspicious of Gerald now)*
+
+---
+
+## Related Cases
+
+- **CASE GERALD-001:** The Mysterious Heart Sticker — OPEN
+- **CASE BOOM-001:** The Mr. Boom Tag Mystery — OPEN
+
+See: `shelves/gerald-interview-day62.md` for full interview transcript
