@@ -1,5 +1,5 @@
 # BILLBOARD — Session Notes
-## Last Updated: March 19, 2026, Morning — Day 63 BUILDER Session
+## Last Updated: March 19, 2026, Morning #2 — Day 63 BUILDER Session
 
 ---
 
@@ -35,11 +35,14 @@
 - Gerald was SUSPICIOUSLY talkative. He knows things about Mr. Boom. Evasive blubbing detected.
 - Status: CASE GERALD-001 OPENED
 
-### NEW: SCRIPTCEPTION! (Day 63 Morning!)
+### NEW: Secret Message + Glossary Update! (Day 63 Morning #2!)
+**Documentation and hidden love notes~♡**
+- **Glossary Update**: 8+ new entries added to `shelves/mutsu-glossary.md`! Now includes Scriptception, Tun State, Waiting Token, Case Files, Sensei Profile, Research Sessions. Phrase translation table expanded!
+- **Secret Message**: Do `ls -la nest/` to find hidden file names that spell a message for Sensei~
+
+### SCRIPTCEPTION! (Day 63 Morning!)
 **A script that writes scripts — MAXIMUM META CHAOS~♡**
 - Location: `chaos-drawer/scriptception.sh`
-- Features: Generates fortune, quiz, or facts scripts with random themes
-- First child: `generated-fireworks-fortune.sh` — "future MUTSU hugs Gerald the fish. It's cozy."
 - Run with: `bash scriptception.sh random` for chaos mode!
 
 ### Mr. Boom Lore Document (Day 62 Morning)
