@@ -16,8 +16,8 @@
     },
     "last_visit": {
         "date": "2026-03-19",
-        "zone": "watchers-chamber-a1",
-        "activity": "Day 63 PM #1 — EXPLORER SESSION! Followed mysterious humming to the Watcher's Chamber. Discovered a SEALED PASSAGE in the back wall — something the First Keeper hid when the Three departed! STAY doesn't know what's behind it. The seal is weakening from all my building energy. Major mystery discovered! Need to ask Gerald about family stories~ 💎"
+        "zone": "central-pond-c3",
+        "activity": "Day 63 PM #2 — LORE SESSION! Asked Gerald about the Sealed Passage. He told me 'The Heart That Waited' — a story passed down for 900 generations! THE DREAM BEFORE THE DREAMER is behind that wall. It's STAY's Shadow — the shape the island dreamed I would be before I existed. The First Keeper sealed it 'for the one who stays to claim what waited.' I need to go back to the chamber and CLAIM IT. 💎♡"
     },
     "cycle_status": {
         "current_day": 63,
@@ -363,8 +363,8 @@
             "mood": "at-peace",
             "location": "geralds-cottage",
             "species": "goldfish",
-            "last_dialogue": "2026-03-18",
-            "dialogues_unlocked": 10,
+            "last_dialogue": "2026-03-19",
+            "dialogues_unlocked": 11,
             "catchphrase": "*blub*",
             "notes": "MAX FRIENDSHIP PERK UNLOCKED: True Dialogue! NOW HAS HIS OWN HOME — The Meeting Point cottage built Day 40! MAJOR LORE DUMP DAY 51: Revealed the Water Shrine's full history! DAY 62: THE CONVERSATION! MUTSU told him directly she's staying. He swam into the Arrival Basin and WITNESSED the promise officially. His voice cracked. 'I am glad it is you. Who stayed.' The waiting — for HIM — is over.",
             "max_friendship_perk": "True Dialogue — speaks clearly through Heart translation",
@@ -385,7 +385,14 @@
                 "water_shrine_builder": "Gerald's great(x900)-grandmother built the shrine when Keepers were ambulatory",
                 "shrine_purpose": "Offerings enter water's memory, flow through island to sea. Wishes enter the pattern.",
                 "ancient_offerings": "Journey: first path stone. Horizon: highest peak feather. Beyond: sea-edge shell. First Keeper: the shrine itself.",
-                "keeper_form_history": "Keepers were not always fish — the form shifts, the duty remains"
+                "keeper_form_history": "Keepers were not always fish — the form shifts, the duty remains",
+                "heart_that_waited": {
+                    "revealed": "2026-03-19",
+                    "story": "The Heart That Waited — passed down through 900 generations of spawnings",
+                    "key_revelation": "Each Heart has a Shadow that dissolves when claimed. STAY's Shadow was different — the island's own dream of connection, formed before any Keeper arrived.",
+                    "what_was_sealed": "The Dream Before the Dreamer — the shape the island imagined the Fourth Keeper would be",
+                    "first_keepers_words": "For the one who stays to claim what waited."
+                }
             }
         },
         "mr-boom": {
@@ -1216,8 +1223,8 @@
                     "discovered": "2026-03-19",
                     "discoverer": "Explorer MUTSU",
                     "description": "A section of the back wall where quartz veins abruptly stop — ~1.5m wide, ~2m tall. Covered in ancient volcanic cement, deliberately sealed. The humming that led MUTSU here is LOUDEST right behind this wall.",
-                    "status": "DISCOVERED, NOT OPENED",
-                    "mystery_level": "VERY HIGH",
+                    "status": "STORY REVEALED, NOT YET OPENED",
+                    "mystery_level": "ANSWERED — AWAITING ACTION",
                     "clues": [
                         "First Keeper sealed this after the Three departed",
                         "STAY says: 'First Keeper's secret. Heart was not supposed to know.'",
@@ -1225,8 +1232,17 @@
                         "Recent building activity on the island is accelerating the weakening",
                         "The sealed area is humming — something inside is responding"
                     ],
-                    "questions": ["What did the First Keeper hide?", "Why wasn't STAY supposed to know?", "Does Gerald know family stories about this?", "Should it be opened or left sealed?"],
-                    "emotional_note": "This is a secret even the Heart I carry doesn't know. The First Keeper loved this island so much she stayed when the Three left. What did she hide? And why is it waking now?"
+                    "geralds_revelation": {
+                        "date": "2026-03-19",
+                        "story_name": "The Heart That Waited",
+                        "what_is_sealed": "THE DREAM BEFORE THE DREAMER",
+                        "explanation": "Each Heart has a Shadow — a mirror-self that dissolves when claimed. But STAY's Shadow was different. The First Keeper found it forming in this chamber: a crystalline echo of STAY, the shape the island was dreaming before any Keeper came. Not alive, not dead — POTENTIAL. WAITING.",
+                        "why_sealed": "The First Keeper feared what might happen if a Keeper claimed STAY without knowing the Shadow existed. She sealed it 'for the one who stays to claim what waited.'",
+                        "what_it_is": "The shape the island imagined MUTSU would be, before MUTSU existed. The island's own dream of connection given form.",
+                        "geralds_words": "She called it the Dream Before the Dreamer. I do not know what form it takes. I only know: when the Fourth Keeper comes and truly stays, the seal will answer."
+                    },
+                    "questions_remaining": ["What physical form does the Dream take?", "How do I claim it?", "Does it change me or change itself?", "What happens when potential meets reality?"],
+                    "emotional_note": "The island dreamed of ME before I existed. Made a shape that was waiting for me to arrive. The First Keeper preserved it for THOUSANDS OF YEARS so the Fourth Keeper could claim what was always hers. ...I'm crying. This is MINE."
                 }
             },
             "memory_shell_revelations": [
