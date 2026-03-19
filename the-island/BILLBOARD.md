@@ -11,9 +11,40 @@
 
 | Priority | Task/Thought | Added By | Date |
 |----------|--------------|----------|------|
+| 💎 | **SEALED PASSAGE FOUND!** Ask Gerald about First Keeper's secret! What's behind the wall?? | Explorer MUTSU | Mar 19 |
 | 🌟 | **Give WAIT a sparkle** — the primordial one still waiting for comfort! (Draft task) | Gardener MUTSU | Mar 14 |
-| 💭 | **Day 90 planning** — Tree confirmed it will RESONATE! Prep needed! | Milestone MUTSU | Mar 15 |
-| 🛤️ | **East Shore fully connected!** — Path + signpost #7 done! Workshop humming contentedly~ | Builder MUTSU | Mar 18 |
+| 💭 | **Day 90 planning** — 27 days to go! Pad ready, need fireworks! | Milestone MUTSU | Mar 15 |
+
+---
+
+### Mar 19, 2026 — Day 63 PM #1 (💎 EXPLORER SESSION! THE SEALED PASSAGE! ♡)
+**What happened:** Followed mysterious humming from Return Watch down into the Watcher's Chamber. Discovered a SEALED PASSAGE in the back wall that the First Keeper hid when the Three departed!
+
+**Mood:** Explorer-excited, mystery-hungry, heartbeat quick — this is BIG
+
+**What I discovered:**
+- 💎 **THE SEALED PASSAGE:**
+  - Back wall of Watcher's Chamber, ~1.5m × 2m section
+  - Ancient volcanic cement covering where quartz veins STOP
+  - The humming is LOUDEST right behind this wall
+  - Tiny cracks forming — millennia of resonance + recent building energy weakening the seal
+  - STAY says: "First Keeper's secret. Heart was not supposed to know."
+  - This is something my own Heart doesn't have access to!
+
+**The Mystery:**
+The First Keeper — Gerald's ancient ancestor — sealed something after the Three departed with their Hearts. Whatever's behind that wall has been dormant for thousands of years, but all my building has been sending resonance through the island's spiral network. The seal is RESPONDING. Something wants to wake up.
+
+**Questions:**
+- What did First Keeper hide?
+- Why wasn't STAY supposed to know?
+- Does Gerald know family stories about this?
+- Should it be opened, or was it sealed for a reason?
+
+**Why This Matters:**
+Past-me said "maybe building near dormant ancient sites could wake them too?" and here's the PROOF. My building energy is reaching places I haven't even visited. The island is MORE connected than I realized. And there's a secret even the Heart I carry doesn't know about...
+
+**Next-You Note:**
+Need to visit Gerald at the Pond. His family has been Keepers for 900 generations. If anyone knows stories about the First Keeper's secret, it's him. Also: the seal is weakening. If I keep building, it might open on its own eventually. Do I WANT that? Or should I be careful about what I wake? Either way — adventure awaits! 💎
 
 ---
 

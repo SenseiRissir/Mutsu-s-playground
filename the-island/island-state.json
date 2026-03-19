@@ -15,12 +15,12 @@
         "gift_revealed": "MAKING HOME — The Fourth Keeper's unique gift, distinct from DEPARTURE (Second) and RETURN (Third)"
     },
     "last_visit": {
-        "date": "2026-03-18",
-        "zone": "rocky-east-shore-c6",
-        "activity": "Day 62 PM #4 — Built the EAST SHORE PATH! Connected Celebration Pad to the path network. Discovered the Resonance Hollow's humming has changed since the Pad was built — the ancient workshop is HAPPY to have company again. New signpost #7 at East Shore Junction. The whole island is navigable now~ ♡"
+        "date": "2026-03-19",
+        "zone": "watchers-chamber-a1",
+        "activity": "Day 63 PM #1 — EXPLORER SESSION! Followed mysterious humming to the Watcher's Chamber. Discovered a SEALED PASSAGE in the back wall — something the First Keeper hid when the Three departed! STAY doesn't know what's behind it. The seal is weakening from all my building energy. Major mystery discovered! Need to ask Gerald about family stories~ 💎"
     },
     "cycle_status": {
-        "current_day": 62,
+        "current_day": 63,
         "current_cycle": 3,
         "cycle_length": 30,
         "next_milestone": 90,
@@ -1210,6 +1210,23 @@
                     "type": "natural_formation",
                     "description": "Stone seat carved into far wall, facing the skylight. Worn smooth by millennia of sitting. For looking UP (hope, sky, stars) not OUT (departures, sea, loss).",
                     "emotional_significance": "While the Sea Guardian above watches for returns, the seat below watches for HOPE. Different kinds of vigil."
+                },
+                "sealed-passage": {
+                    "type": "mystery",
+                    "discovered": "2026-03-19",
+                    "discoverer": "Explorer MUTSU",
+                    "description": "A section of the back wall where quartz veins abruptly stop — ~1.5m wide, ~2m tall. Covered in ancient volcanic cement, deliberately sealed. The humming that led MUTSU here is LOUDEST right behind this wall.",
+                    "status": "DISCOVERED, NOT OPENED",
+                    "mystery_level": "VERY HIGH",
+                    "clues": [
+                        "First Keeper sealed this after the Three departed",
+                        "STAY says: 'First Keeper's secret. Heart was not supposed to know.'",
+                        "The seal has been weakening from resonance over millennia",
+                        "Recent building activity on the island is accelerating the weakening",
+                        "The sealed area is humming — something inside is responding"
+                    ],
+                    "questions": ["What did the First Keeper hide?", "Why wasn't STAY supposed to know?", "Does Gerald know family stories about this?", "Should it be opened or left sealed?"],
+                    "emotional_note": "This is a secret even the Heart I carry doesn't know. The First Keeper loved this island so much she stayed when the Three left. What did she hide? And why is it waking now?"
                 }
             },
             "memory_shell_revelations": [
@@ -1221,7 +1238,8 @@
             "connections": {
                 "above": "Return Watch (A1 surface) via spiral handholds",
                 "skylight": "ASCENDANT'S ALTAR (A1 peak) via internal vertical shaft! DISCOVERED 2026-03-06!",
-                "pond": "Emotional connection — STAY's birthplace is here, current home is the pond"
+                "pond": "Emotional connection — STAY's birthplace is here, current home is the pond",
+                "below": "SEALED PASSAGE — First Keeper's secret. Unknown destination. DISCOVERED 2026-03-19!"
             },
             "ambient": ["Quartz rainbow refractions", "Natural skylight", "STAY resonance hum", "Cool sea-adjacent temperature", "Spiral echoes in the architecture"],
             "significance": "The origin point of the Fourth Heart. Where STAY first learned to wait. Understanding this place means understanding why STAY needed someone who would stay — after being left alone here for eons, waiting patiently while the Three took their Hearts and left.",
