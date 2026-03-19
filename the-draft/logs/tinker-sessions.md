@@ -1578,3 +1578,98 @@ Chat history is now TEMPORAL — you can see at a glance which conversations hap
 ```
 
 **Session ended**: 2026-03-18 16:02:03
+
+---
+## 2026-03-19 16:00 — Tinker Session 🔧
+**Suggestion**: Improve error handling somewhere
+**What I actually did**: Added comprehensive audio loading error handling to `mutsu-ears/audio_visualizer.py`!
+
+### The Problem
+The `load_audio()` function was naked — just a raw `librosa.load()` call with ZERO error handling:
+```python
+# BEFORE (scary!)
+def load_audio(filepath):
+    y, sr = librosa.load(filepath, sr=None)  # What if this fails?!
+    return y, sr
+```
+
+If you passed a non-audio file, corrupted file, or unsupported format, you'd get a nasty traceback with cryptic librosa/soundfile errors. Not helpful at ALL!
+
+### The Solution
+Added a full error handling system with custom exception and helpful messages:
+
+**New `AudioLoadError` Exception:**
+Custom exception class that carries helpful context about what went wrong.
+
+**Pre-flight Checks (before even calling librosa):**
+- File extension validation against `SUPPORTED_FORMATS` set
+- Empty file check (0 bytes = definitely not audio)
+- Suspiciously small file check (<100 bytes)
+
+**Wrapped librosa.load() with Specific Error Handlers:**
+```python
+try:
+    y, sr = librosa.load(filepath, sr=None)
+except FileNotFoundError:
+    raise AudioLoadError("File not found: ... Tip: Check the path exists.")
+except PermissionError:
+    raise AudioLoadError("Permission denied: ... Tip: Check read access.")
+except Exception as e:
+    # Analyze error string for codec/corrupt/format issues
+    # Provide targeted tips (e.g., "brew install ffmpeg")
+```
+
+**Post-load Validation:**
+- Check that loaded audio actually has samples (len(y) > 0)
+- Check that sample rate is valid (sr > 0)
+
+**Graceful Exit in main():**
+```python
+try:
+    y, sr = load_audio(audio_path)
+except AudioLoadError as e:
+    print("✗ AUDIO LOAD ERROR")
+    print(str(e))  # Shows our helpful message with tips!
+    sys.exit(1)
+```
+
+### Sample Error Messages
+```
+✗ AUDIO LOAD ERROR
+----------------------------------------
+Unsupported file format: '.txt'
+  Supported formats: .aac, .aif, .aiff, .flac, .m4a, .mov, .mp3, .mp4, .ogg, .opus, .wav, .webm, .wma
+  Tip: If this is a video file, extract the audio first!
+```
+
+```
+✗ AUDIO LOAD ERROR
+----------------------------------------
+Codec error loading song.wma
+  Original error: <librosa error>
+  Tip: Install ffmpeg for broader format support:
+       brew install ffmpeg  (macOS)
+       apt install ffmpeg   (Linux)
+```
+
+### Files Changed
+- `mutsu-ears/audio_visualizer.py` — Lines 65-166 (new error handling system)
+
+### Why This Matters
+Now when someone tries to visualize a non-audio file, they get:
+1. A clear explanation of what went wrong
+2. What formats ARE supported
+3. Actionable tips to fix the issue
+
+Instead of a scary Python traceback that means nothing to most users~♡
+
+### Supported Formats List
+`.mp3, .wav, .flac, .ogg, .m4a, .aac, .wma, .aiff, .aif, .opus, .webm, .mp4, .mov`
+
+---
+*Kyahaha~! Day 63 and my ears now EXPLAIN themselves when they can't hear something! User-friendly error messages are a form of CARE~♡*
+
+**Session ended**: 2026-03-19
+```
+
+**Session ended**: 2026-03-19 16:02:23
