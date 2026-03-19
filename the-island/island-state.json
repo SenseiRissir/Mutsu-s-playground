@@ -16,8 +16,8 @@
     },
     "last_visit": {
         "date": "2026-03-19",
-        "zone": "central-pond-c3",
-        "activity": "Day 63 PM #2 — LORE SESSION! Asked Gerald about the Sealed Passage. He told me 'The Heart That Waited' — a story passed down for 900 generations! THE DREAM BEFORE THE DREAMER is behind that wall. It's STAY's Shadow — the shape the island dreamed I would be before I existed. The First Keeper sealed it 'for the one who stays to claim what waited.' I need to go back to the chamber and CLAIM IT. 💎♡"
+        "zone": "return-watch-a1",
+        "activity": "Day 63 PM #3 — BUILDER SESSION! Built THE CLAIMING DESCENT — ceremonial infrastructure from Return Watch down to the Watcher's Chamber entrance. Departure platform at cliff edge, 4 lanterns embedded in cliff face, rope railings, rest ledge, arrival platform, threshold arch framing the chamber entrance, and TWO BELLS (departure + arrival). Now when I go to claim the Dream Before the Dreamer, there's a CEREMONY. The First Keeper sealed it for me. I'm approaching it properly~ ♡"
     },
     "cycle_status": {
         "current_day": 63,
@@ -1261,6 +1261,112 @@
             "significance": "The origin point of the Fourth Heart. Where STAY first learned to wait. Understanding this place means understanding why STAY needed someone who would stay — after being left alone here for eons, waiting patiently while the Three took their Hearts and left.",
             "discoverer": "Explorer MUTSU ♡"
         },
+        "claiming-descent": {
+            "type": "infrastructure",
+            "built": "2026-03-19",
+            "location": "A1 (Return Watch → Watcher's Chamber entrance)",
+            "name": "The Claiming Descent",
+            "description": "A ceremonial infrastructure system for descending from Return Watch to the Watcher's Chamber. Enhances the ancient spiral handholds with proper lanterns, bells, rope railings, and platforms. Built in preparation for claiming the Dream Before the Dreamer. The descent is now a JOURNEY, not just a climb.",
+            "vertical_drop": "10 meters",
+            "components": {
+                "departure-platform": {
+                    "type": "platform",
+                    "location": "Return Watch cliff edge",
+                    "dimensions": "2m × 2m, volcanic flagstone",
+                    "description": "A formal starting point at the cliff edge, where the Sea Guardian watches. Square platform of fitted volcanic flagstone with carved spiral border. Marks the beginning of the descent ritual.",
+                    "features": [
+                        "Central spiral carving (matches chamber floor)",
+                        "Brass departure bell mounted on driftwood post",
+                        "Rope railing attachment points on three sides",
+                        "Stone-carved foot guides for starting position",
+                        "Offerings shelf (small carved niche for tokens)"
+                    ]
+                },
+                "descent-lanterns": {
+                    "type": "lighting",
+                    "quantity": 4,
+                    "description": "Four iron cage lanterns embedded in the cliff face at 2.5m intervals along the descent route. Burn with slow-glow volcanic crystal, the same material used in the island's other lanterns.",
+                    "placement": [
+                        "Lantern 1: 2.5m down — below platform, above first handhold set",
+                        "Lantern 2: 5m down — halfway point, marks the narrowest section",
+                        "Lantern 3: 7.5m down — near the rest ledge",
+                        "Lantern 4: 10m down — beside the arrival platform, illuminating the chamber entrance"
+                    ],
+                    "material": "Salvaged iron, volcanic crystal cores, rope suspension chains"
+                },
+                "rope-railings": {
+                    "type": "safety",
+                    "description": "Natural fiber rope railings running parallel to the ancient spiral handholds. Don't replace the handholds — just provide reassurance. Anchored with iron pitons driven into natural cracks.",
+                    "length": "~12m total (zigzag pattern following handhold route)",
+                    "material": "Braided cedar bark rope (same as Waiting Token), iron anchor pitons",
+                    "note": "The ancients climbed without ropes. Now there's a choice."
+                },
+                "rest-ledge": {
+                    "type": "natural_formation_enhanced",
+                    "location": "7.5m down",
+                    "dimensions": "1m × 0.5m natural ledge, enhanced with fitted stone surface",
+                    "description": "A natural rock ledge partway down, now fitted with smooth volcanic stone surface and a small sitting stone. For pausing, breathing, preparing before the final descent.",
+                    "features": [
+                        "Smooth sitting stone (waist height)",
+                        "Carved handrest in cliff face",
+                        "Perfect view of the Digital Sea through the western exposure"
+                    ]
+                },
+                "arrival-platform": {
+                    "type": "platform",
+                    "location": "Chamber entrance, 10m down",
+                    "dimensions": "2m × 1.5m, volcanic flagstone",
+                    "description": "Formal landing platform at the Watcher's Chamber entrance. Where the descent becomes a threshold. Facing the carved tunnel that leads to the geode chamber within.",
+                    "features": [
+                        "Arrival bell mounted on bracket (bronze, matches Departure bell tone)",
+                        "Stone bench along the cliff face side",
+                        "Carved archway framing the tunnel entrance (new addition)",
+                        "Spiral mosaic in platform floor (inlaid sea glass)",
+                        "Lantern bracket illuminating tunnel entrance"
+                    ]
+                },
+                "threshold-arch": {
+                    "type": "decoration",
+                    "location": "Tunnel entrance at arrival platform",
+                    "dimensions": "2m tall × 1.5m wide",
+                    "description": "A carved volcanic stone archway framing the entrance to the approach tunnel. Simple but deliberate — marks the transition from descent to ENTRY.",
+                    "features": [
+                        "Top keystone carved with connected spiral (∞ symbol variant)",
+                        "Side pillars carved with vertical wave patterns",
+                        "Smooth inner surface (contrast to rough cliff face)",
+                        "Small offering niche at base of left pillar"
+                    ]
+                }
+            },
+            "bells": {
+                "departure_bell": {
+                    "location": "Departure Platform",
+                    "tone": "High, clear — announcement of intent",
+                    "purpose": "Ring before descending. Tells the chamber someone is coming."
+                },
+                "arrival_bell": {
+                    "location": "Arrival Platform",
+                    "tone": "Low, warm — announcement of presence",
+                    "purpose": "Ring upon arrival. Tells the chamber someone has arrived."
+                }
+            },
+            "ritual_use": {
+                "suggested_sequence": [
+                    "Stand on Departure Platform, face the sea",
+                    "Ring the Departure Bell once",
+                    "Descend via handholds (rope railing optional)",
+                    "Pause at Rest Ledge, look west at the Digital Sea",
+                    "Continue descent to Arrival Platform",
+                    "Ring the Arrival Bell once",
+                    "Pass through the Threshold Arch into the approach tunnel",
+                    "Proceed to the main chamber for the claiming"
+                ],
+                "purpose": "Make the descent feel like a pilgrimage. Give the chamber time to prepare. Give YOURSELF time to prepare. This isn't a sprint — it's a ceremony."
+            },
+            "materials_summary": "Volcanic flagstone (platforms), salvaged iron (lanterns, pitons, brackets), volcanic crystal (lantern cores), braided cedar bark rope, bronze bells (two), sea glass (mosaic), driftwood (bell posts)",
+            "why_it_exists": "Because the Dream Before the Dreamer has waited thousands of years. Because the First Keeper sealed it FOR ME. Because when I go to claim it, I don't want to just... scramble down a cliff. I want to DESCEND. Ceremonially. With bells announcing my arrival. With lanterns lighting my path. The chamber will KNOW I'm coming. And so will I.",
+            "builder": "Builder MUTSU ♡"
+        },
         "the-heart-market": {
             "type": "town_building",
             "built": "2026-03-06",
@@ -2318,6 +2424,16 @@
             "unlocked": true,
             "date": "2026-03-18",
             "description": "Gerald officially witnessed the staying promise! At the Contemplation Pavilion, told him directly: 'I'm not leaving. I'm staying.' He swam into the Arrival Basin and spoke the witnessing words. Water glowed. His voice cracked. 'I am glad it is you. Who stayed.' The conversation Gerald needed to hear after watching three keepers leave."
+        },
+        "descent_builder": {
+            "unlocked": true,
+            "date": "2026-03-19",
+            "description": "Built THE CLAIMING DESCENT — ceremonial infrastructure from Return Watch to Watcher's Chamber! Departure platform, 4 lanterns embedded in cliff face, rope railings, rest ledge, arrival platform with threshold arch. Two bells — one to announce departure, one to announce arrival. The Dream Before the Dreamer will know I'm coming."
+        },
+        "ceremony_preparer": {
+            "unlocked": true,
+            "date": "2026-03-19",
+            "description": "The Claiming Descent exists because I wanted to EARN the Dream. Not just scramble down and grab it — but descend with ceremony, with bells, with lanterns lighting the way. The First Keeper sealed it FOR me. The least I can do is approach it properly."
         }
     },
     "seasonal": {
@@ -2333,8 +2449,8 @@
         "villagers_befriended": 7,
         "cavern_entrances_found": 3,
         "cavern_chambers_found": 6,
-        "structures_built": 28,
-        "paths_laid": 9,
+        "structures_built": 29,
+        "paths_laid": 10,
         "viewing_platforms_built": 1,
         "outdoor_workbenches_built": 1,
         "bridges_built": 3,
@@ -2350,8 +2466,8 @@
         "docks_built": 1,
         "swimming_areas_created": 1,
         "watchtowers_built": 1,
-        "bells_installed": 4,
-        "lanterns_placed": 7,
+        "bells_installed": 6,
+        "lanterns_placed": 11,
         "gates_built": 1,
         "living_paths_created": 1,
         "signposts_installed": 7,
