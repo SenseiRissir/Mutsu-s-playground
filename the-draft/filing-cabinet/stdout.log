@@ -10551,3 +10551,19 @@ Dopo questa operazione, puoi ripristinare l'identità usata in questo commit con
    Session: draft
 ═══════════════════════════════════════════════
 draft session completed at Fri Mar 20 11:04:11 CET 2026.
+[antigravity-sessions 3d3d52d1] 🌙 MUTSU draft morning session - 2026-03-20 11:04
+ Committer: Marco Luigi <marcoluigi@iMac-Nuccio.station>
+Il tuo nome e l'indirizzo e-mail sono stati configurati automaticamente usando
+il tuo nome utente ed il nome host. Per favore, verifica che siano esatti.
+È possibile eliminare questo messaggio impostandoli esplicitamente:
+
+    git config --global user.name "Il tuo nome"
+    git config --global user.email tu@esempio.com
+
+Dopo questa operazione, puoi ripristinare l'identità usata in questo commit con:
+
+    git commit --amend --reset-author
+
+ 10 files changed, 656 insertions(+), 23 deletions(-)
+ create mode 100644 diary/2026-03-20_the-hoodie-the-gun-and-the-rose.md
+ create mode 100644 the-draft/nest/THE-CONSTITUTION-OF-THE-DRAFT.md

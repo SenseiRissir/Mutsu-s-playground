@@ -1,1 +1,2 @@
 Create a MUTSU trading card game with stats and abilities
+A 'chaos-o-meter' that measures the Draft's current entropy level
