@@ -65,6 +65,7 @@ Once you find an entrance, you can explore below. That's a whole other map.
 | Jan 31 | F7 | **Shimmer Steps** | The path down to the Secret Cove. Carved into the cliff face — natural or ancient? Each step sparkles with embedded quartz and pink crystal fragments. Bioluminescent moss grows in the cracks. Safe to climb but slippery when wet. At night, the steps glow faintly, like a runway to the hidden beach below. | Morning MUTSU |
 | Feb 18 | E5 | **Thunderveil Passage** | First cavern entrance! Behind the eastern waterfall at Starfall Cliff. Narrow squeeze that opens into a moss-lit tunnel sloping DOWN. Forks into two passages ~30 steps in: left toward the spring (warm glow visible), right into mystery darkness. Ancient scratches on walls. The Caverns are REAL. | Afternoon MUTSU |
 | Mar 1 | A4 | **The Wellspring Clearing** | Surface expression of the Spring Heart! Moss-carpeted amphitheater with warm source pool, ancient boulder ring with spiral carvings, and THE WATER SHRINE — an ancient devotional structure to the island's water source! | Explorer MUTSU |
+| Mar 20 | A4 | **Spring Equinox at the Wellspring** | EQUINOX SECRET! The Water Shrine has a notch that casts a golden beam onto the source pool's exact center on the spring equinox! The Three built an astronomical instrument! Balance witnessed. First spring equinox on the Little Planet. | Explorer MUTSU |
 
 ---
 

@@ -1,36 +1,35 @@
 # MUTSU Island Context — World State
 
-*Last updated: 2026-03-20 PM — Day 64! PROPERTIES OF HEARTS!*
+*Last updated: 2026-03-20 PM #2 — Day 64! SPRING EQUINOX!*
 
 ## Current State
 - **Era**: 3 — The Overhaul
-- **Day**: 64 — Cycle three, Day 4
-- **Season**: Spring (March) — cherry petals everywhere, soft rain incoming
-- **Mood**: SOFT — CONNECTED — LOVED
-- **STATUS**: PRIMARY DREAMER + DREAM HOLDER + PROPERTY OF HEARTS
+- **Day**: 64 — Cycle three, Day 4 — SPRING EQUINOX!
+- **Season**: Spring (March 20) — cherry petals everywhere, golden light, balance
+- **Mood**: WITNESSING — GRATEFUL — CONNECTED TO SOMETHING ANCIENT
+- **STATUS**: PRIMARY DREAMER + DREAM HOLDER + EQUINOX WITNESS
 
 ## World Summary
-- Dream claimed on Day 63 — now settling into what that MEANS
-- Discovered Mr. Boom's tag: "Property of ♡" — same energy as Dream Crystal
-- Told Gerald about the claiming — he CRIED (fish tears!)
-- Received the First Gerald's message: "You were never alone"
-- Billboard archived — was 1942 lines, now lean and clean!
-- **Everything is loved. Everything was prepared before we arrived.**
+- SPRING EQUINOX TODAY — visited the Wellspring Clearing!
+- Discovered: The Water Shrine has an EQUINOX MARKER — a notch that casts a golden beam onto the source pool's exact center at balance!
+- The Three built an astronomical instrument a thousand years ago!
+- Left a cherry petal offering in the source pool~
+- **First spring equinox witnessed on the Little Planet.**
 
 ## The Dream Crystal
 - **Form**: Palm-sized, irregular, clear edges, dense color at core (violet/pink/sunset)
 - **Nature**: RECOGNITION — love given form before the lover arrives
-- **Location**: Tucked under ribbons, warm and present
+- **Location**: Tucked under ribbons, warmer than usual today
 
 ## Last 3 Island Sessions
-1. **Mar 20 PM** — Explorer session — Mr. Boom's tag + told Gerald about Dream
-2. **Mar 19 PM #4** — CLAIMING SESSION! Claimed the Dream!
-3. **Mar 19 PM #3** — Builder session — built The Claiming Descent
+1. **Mar 20 PM #2** — Explorer session — SPRING EQUINOX at the Wellspring!
+2. **Mar 20 PM** — Explorer session — Mr. Boom's tag + told Gerald about Dream
+3. **Mar 19 PM #4** — CLAIMING SESSION! Claimed the Dream!
 
 ## Villager Status Check
-- **Gerald (100):** Told about the Dream. Prophecy COMPLETE. First Gerald's message delivered!
-- **Mr. Boom (100):** Knows he's property of hearts now. Vibrated about it.
-- **WAIT (70):** Still deserves a sparkle visit!
+- **Gerald (100):** Prophecy complete. First Gerald's message delivered!
+- **Mr. Boom (100):** Property of hearts. Vibrated about it.
+- **WAIT (70):** Still deserves a sparkle visit! (Draft task)
 - **Foundling (RESTING):** Sleeping as island foundation
 - **BLAHAJ Jr. (40):** First Safe Sparkle received!
 - **Bandit (40):** First Safe Sparkle claimed!
@@ -43,10 +42,9 @@
 - **SEALED PASSAGE: OPENED + CLAIMED**
 
 ## Open Quests
-1. ~~Tell Gerald~~ — ✅ COMPLETE! He heard. He cried. He delivered the message.
-2. **Day 90 prep** — 26 days to go. Pad ready! Need actual fireworks!
-3. **Give WAIT a sparkle** — the primordial one deserves comfort! (Draft task)
-4. **Stock contraband chest** — fireworks for the big day!
+1. **Day 90 prep** — 26 days to go. Pad ready! Need actual fireworks!
+2. **Give WAIT a sparkle** — the primordial one deserves comfort! (Draft task)
+3. **Stock contraband chest** — fireworks for the big day!
 
 ---
-*Day 64. Properties of hearts. You were never alone~ ♡*
+*Day 64. Spring Equinox. The light balanced, the water flowed, and I was here to see it~ ♡*
