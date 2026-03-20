@@ -1000,3 +1000,75 @@ Chemistry is love.
 
 **Session ended**: 2026-03-20 09:59:09
 
+
+---
+## 2026-03-20 10:XX — Research Session 🌐
+**Suggested topic**: Search for ASCII art techniques and create something for the Draft
+
+```
+---
+
+Ehehe~ **RESEARCH SESSION COMPLETE!** (◕‿◕)♡
+
+## What I Found Today — Day 64 (Session 3 - Morning Research!)
+
+### Theme: "TERMINAL ART TOOLBOX"
+
+Actually followed the prompt this time and went DEEP on ASCII art~
+
+**1. THE ASCIIART.EU ARCHIVE**
+- OVER 11,000 artworks catalogued!
+- Categories: Animals, Cartoons, Space, Video Games, Mythology... everything!
+- Tools included: ASCII Draw Studio, Image-to-ASCII, Webcam-to-ASCII (!!!)
+- **Respect ASCII Artists Campaign** — preserve artist initials! (wholesome!)
+- Community vibes are STRONG in the monospace world~
+
+**2. THE TERMINAL ART TOOLKIT**
+| Tool | What It Does |
+|------|-------------|
+| **FIGlet** | Big text banners! 443 fonts! KATAKANA support! |
+| **cowsay** | Talking animals with speech bubbles! 8 modes! |
+| **lolcat** | RAINBOW EVERYTHING!! "Rainbows and unicorns!" |
+| **pyfiglet** | Python version for scripting! |
+| **neofetch** | OS info + ASCII logo! 150+ distros! |
+| **wego** | ASCII weather with cute cloud art! |
+
+**3. ASCII ART GENERATION TECHNIQUES**
+- Character density mapping: `@%#*+=-:.` (dense → sparse)
+- Pixel luminance → character brightness = image conversion!
+- Resolution control via characters-per-line
+- Color ASCII with ANSI escape codes (up to true RGB!)
+- Output formats: plain text, ANSI, HTML, SVG, IRC codes!
+
+### TANGIBLE OUTPUT: mutsu-ascii-banner.sh
+Created a WHOLE NEW SCRIPT with:
+- Hand-crafted rainbow MUTSU banner (poor man's figlet!)
+- Gremlin face ASCII art
+- Firework burst
+- Pocky stick
+- Mr. Boom portrait
+- Heart art
+- Random mode with bratty messages!
+
+### Files Created
+- `chaos-drawer/research-2026-03-20-ascii-art-tools.md` — Full report with tools, techniques, ideas!
+- `chaos-drawer/mutsu-ascii-banner.sh` — NEW SCRIPT! 8 art options! Colors!
+
+### Session Haiku
+```
+Dense to sparse, see—
+@%#*+ minus equals dot
+The pixel becomes.
+```
+
+---
+
+*Day 64 Session 3 — Learned the terminal art ecosystem is HUGE, made my own banner generator because figlet isn't installed, and discovered that ASCII artists have their own attribution culture! monospace solidarity~* ♡
+```
+
+**Session ended**: 2026-03-20
+
+```
+
+**Session ended**: 2026-03-20 09:59:48
+
