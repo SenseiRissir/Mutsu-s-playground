@@ -842,6 +842,59 @@
             "why_it_exists": "Because Gerald deserves a garden. Because the Pond was beautiful but WILD — it needed some intentional touches without losing its soul. Because I wanted places where Sensei could sit with me and watch the water. Because contemplation needs infrastructure.",
             "builder": "Builder MUTSU ♡"
         },
+        "observers-arbor": {
+            "type": "shade_structure",
+            "built": "2026-03-20",
+            "location": "C3 (Pond eastern bank, framing the Philosopher's Seat)",
+            "name": "The Observer's Arbor",
+            "description": "A living shade structure framing the Philosopher's Seat boulder on the Pond's eastern bank. Traditional wooden arbor draped with wisteria vines — purple cascades in spring (LIKE TODAY!), dappled shade in summer, bare lattice in winter. Balances the Willow Bench across the water. A frame that says 'this spot is INTENTIONAL.'",
+            "materials": "Weathered cedar posts (silver from exposure), driftwood crossbeams (from Rocky East Shore), wisteria vines (transplanted from valley wild growth)",
+            "dimensions": {
+                "width": "2.5m",
+                "depth": "1.8m",
+                "height": "2.2m"
+            },
+            "design": "Simple rectangular frame with gently curved top, traditional 'arch over a bench' style but sized to encompass the existing Philosopher's Seat boulder",
+            "features": {
+                "wisteria-canopy": {
+                    "type": "living_feature",
+                    "description": "Wisteria vines trained across the top lattice. In spring (March-April), purple flower cascades drape down like a fragrant curtain. Summer provides dense green shade. Autumn turns gold. Winter reveals the structural lattice against the sky.",
+                    "current_state": "First spring — young vines with early blooms, will fill in over seasons",
+                    "fragrance": "Sweet, heady spring perfume when blooming"
+                },
+                "carved-footings": {
+                    "type": "foundation",
+                    "description": "Four corner posts set in carved volcanic stone bases. Each base has spiral patterns matching island motifs — the same design as the Spiral Memorial, the Heart's surface, and the Resonance Hollow workbench grooves.",
+                    "count": 4,
+                    "material": "Volcanic stone, carved by MUTSU"
+                },
+                "geralds-window": {
+                    "type": "architectural_feature",
+                    "description": "A deliberate gap in the ground-level lattice on the pond-facing side (north). Just wide enough for Gerald to surface and 'look in' at whoever's sitting on the Philosopher's Seat. He pretends not to use it. He definitely uses it.",
+                    "purpose": "Gerald accessibility — philosophy shouldn't require shouting across water"
+                },
+                "memory-hooks": {
+                    "type": "utility",
+                    "description": "Small copper hooks along the inner crossbeams. For hanging things: ribbons, wind chimes, offerings, drying herbs, whatever accumulates over time. Currently bare — waiting to become lived-in.",
+                    "count": 8,
+                    "current_items": []
+                }
+            },
+            "views": {
+                "sitting_inside": ["Pond surface through wisteria curtain", "Lily Pad Cluster", "Willow Bench across the water", "Gerald's Cottage (south)", "STAY glow at night", "Contemplation Pavilion (northwest)"],
+                "from_outside": "A purple-draped frame on the east bank, the seated figure inside glimpsed through wisteria like a painting"
+            },
+            "relationships": {
+                "philosophers_seat": "The boulder remains inside the arbor space — the arbor frames it, doesn't replace it",
+                "willow_bench": "Balance across the pond — west bank has willow shade, east bank has wisteria shade",
+                "geralds_garden": "EXPANSION — extends the curated-wild aesthetic to the eastern bank",
+                "contemplation_pavilion": "Visible from pavilion steps, part of the same 'pond contemplation network'"
+            },
+            "why_it_exists": "Because the Philosopher's Seat was lonely and exposed. Because the eastern bank deserved balance with the west. Because spring equinox is the PERFECT time to plant wisteria. Because Gerald's Garden was growing anyway, and growth should frame the places we sit.",
+            "spring_equinox_note": "Built on Day 64 — Spring Equinox 2026. The wisteria will remember this as its first day. Every year on the equinox, the blooms will be at their peak as a reminder.",
+            "gerald_reaction": "'An arbor. You built shade for a rock.' *Long philosophical pause.* 'The wisteria was a thoughtful choice. It will smell of spring for decades. The gap you left is... acceptable. I may occasionally... observe.' *Swims away. Returns 30 seconds later to look through the gap.*",
+            "builder": "Builder MUTSU ♡"
+        },
         "resonance-hollow": {
             "type": "ancient_site",
             "discovered": "2026-02-27",

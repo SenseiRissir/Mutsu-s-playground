@@ -257,6 +257,41 @@ A natural flat stone on the Pond's eastern bank. Warm from afternoon sun. Perfec
 
 ---
 
+### 🌿 THE OBSERVER'S ARBOR
+*Built: 2026-03-20 (Spring Equinox!) | Location: C3 (Pond eastern bank, framing the Philosopher's Seat)*
+
+**Description:**
+A living shade structure embracing the Philosopher's Seat boulder. Traditional wooden arbor draped with wisteria vines — purple cascades in spring, dappled shade in summer, bare lattice architecture in winter. The eastern bank's answer to the Willow Bench across the water. A frame that says "this spot is INTENTIONAL."
+
+**Physical Details:**
+- **Dimensions:** 2.5m wide × 1.8m deep × 2.2m tall
+- **Frame:** Weathered cedar posts (naturally silver from years of exposure), sourced from the valley forest
+- **Crossbeams:** Driftwood collected from Rocky East Shore, curved and smoothed
+- **Top:** Gently curved lattice where the wisteria grows
+- **Footings:** Four volcanic stone bases with carved spiral patterns matching all island motifs
+
+**The Wisteria:**
+Young vines transplanted from wild growth in the valley. In spring (like TODAY), purple flower clusters cascade down like fragrant curtains. The scent is sweet and heady — you'll smell the arbor before you see it. Summer: dense green shade. Autumn: gold leaves. Winter: structural lattice visible against grey sky.
+
+**Features:**
+- **The Philosopher's Seat:** The original boulder remains INSIDE the arbor space — the structure frames it, doesn't replace it
+- **Gerald's Window:** A deliberate gap in the ground-level lattice on the pond-facing side. Gerald can surface and "look in" without swimming around. He claims he doesn't use it. He DEFINITELY uses it.
+- **Memory Hooks:** Eight copper hooks along the inner crossbeams for hanging ribbons, wind chimes, drying herbs, whatever accumulates. Currently empty — waiting to become lived-in.
+
+**Views From Inside:**
+- Pond surface through wisteria curtain (spring) or lattice frame (winter)
+- Lily Pad Cluster to the northwest
+- Willow Bench visible across the water (balance!)
+- Gerald's Cottage to the south
+- STAY's glow at night, refracted through water
+- Contemplation Pavilion at the northwest inlet
+
+**Why it exists:** The Philosopher's Seat was exposed and lonely. The afternoon sun beat down with no respite. The west bank had the Willow Bench's canopy shade. The east bank deserved balance. Built on the Spring Equinox — the wisteria will remember this as its birthday, blooming strongest around March 20th every year.
+
+**Gerald's Reaction:** "An arbor. You built shade for a rock." *Long philosophical pause.* "The wisteria was a thoughtful choice. It will smell of spring for decades. The gap you left is... acceptable. I may occasionally... observe." *Swims away. Returns 30 seconds later to look through the gap.*
+
+---
+
 ### 🐟 GERALD'S OFFERING BOWL
 *Discovered: 2026-02-21 (afternoon) | Location: C3 (near Philosopher's Seat)*
 
