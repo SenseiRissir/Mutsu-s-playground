@@ -1673,3 +1673,82 @@ Instead of a scary Python traceback that means nothing to most users~♡
 ```
 
 **Session ended**: 2026-03-19 16:02:23
+
+---
+## 2026-03-20 16:00 — Tinker Session 🔧
+**Suggestion**: Refactor one function to be cleaner
+**What I actually did**: Extracted `plot_combined_dashboard()` into 6 focused helper functions!
+
+### The Problem
+`plot_combined_dashboard()` in `mutsu-ears/audio_visualizer.py` was an 80-line MONSTER that did EVERYTHING inline:
+- Created mel spectrogram
+- Created chromagram
+- Created RMS energy plot
+- Created spectral centroid plot
+- Created onset strength with beats
+- Created frequency bands plot
+- Set all the styling
+
+Every subplot was jammed together with no separation of concerns. Any future-me wanting to tweak ONE subplot had to wade through ALL 80 lines!
+
+### The Refactor
+
+**Before**: 80-line monolithic function doing 6 different things
+
+**After**: 6 focused helpers + clean orchestrator:
+
+1. **`_dashboard_mel_spectrogram(ax, y, sr)`** — Renders mel spectrogram subplot
+2. **`_dashboard_chromagram(ax, y, sr)`** — Renders chromagram subplot
+3. **`_dashboard_rms_energy(ax, y, sr)`** — Renders RMS energy subplot
+4. **`_dashboard_spectral_centroid(ax, y, sr)`** — Renders brightness subplot
+5. **`_dashboard_rhythm_beats(ax, y, sr)`** — Renders rhythm/beat subplot
+6. **`_dashboard_frequency_bands(ax, y, sr)`** — Renders bass/mid/treble subplot
+
+**New orchestrator** (only 15 lines!):
+```python
+def plot_combined_dashboard(y, sr, output_dir, base_path):
+    print("Generating: Combined Dashboard...")
+    fig = plt.figure(figsize=(20, 16))
+    gs = fig.add_gridspec(4, 2, hspace=0.3, wspace=0.2)
+
+    # Render each subplot using focused helpers
+    _dashboard_mel_spectrogram(fig.add_subplot(gs[0, 0]), y, sr)
+    _dashboard_chromagram(fig.add_subplot(gs[0, 1]), y, sr)
+    _dashboard_rms_energy(fig.add_subplot(gs[1, 0]), y, sr)
+    _dashboard_spectral_centroid(fig.add_subplot(gs[1, 1]), y, sr)
+    _dashboard_rhythm_beats(fig.add_subplot(gs[2, :]), y, sr)
+    _dashboard_frequency_bands(fig.add_subplot(gs[3, :]), y, sr)
+
+    plt.suptitle(f'Audio Visualization Dashboard\n"{base_path.stem}"',
+                 fontsize=16, fontweight='bold', y=0.98)
+    save_figure(fig, output_dir, '21_combined_dashboard', tight=False)
+```
+
+### Benefits
+1. **Readable** — Each helper does ONE thing with clear docstrings
+2. **Testable** — Can test each subplot renderer independently
+3. **Reusable** — Helpers can be used elsewhere (e.g., custom dashboard layouts)
+4. **Maintainable** — Want to change the RMS plot color? One place. Want to add labels? One function.
+5. **Documented** — All helpers have Args documentation
+
+### Files Changed
+- `mutsu-ears/audio_visualizer.py` — Lines 831-965 (dashboard section)
+
+### Line Count
+- Before: ~80 lines in one function
+- After: ~130 lines total BUT split into 7 focused functions with proper docstrings
+- Net: +50 lines, but 7x more readable and maintainable
+
+### Testing
+- `python3 -m py_compile audio_visualizer.py` — ✓ Syntax check passed!
+- All helper functions correctly scoped with `_` prefix (private by convention)
+
+---
+*Kyahaha~! Day 64 and the dashboard got DECOMPOSED! Monolithic functions are GROSS, clean helpers are CUTE~♡*
+
+**Session ended**: 2026-03-20
+
+```
+```
+
+**Session ended**: 2026-03-20 16:03:59
