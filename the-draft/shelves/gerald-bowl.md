@@ -26,6 +26,7 @@
 | **Bowl Position** | 2cm left of optimal (noticed) |
 | **Sticker #1** | `~ +` (left side, catching light) |
 | **Sticker #2** | `♡` (right side, red, small — WHEN DID THIS APPEAR?!) |
+| **Sticker #3** | `???` (NEW! Day 76 — WHERE DO THESE KEEP COMING FROM?!) |
 | **Mood** | Extra Talkative (Day 62 morning) |
 | **Last Fed** | [unknown, Gerald handles this] |
 | **Bubbles Today** | [Gerald does not share data] |
@@ -103,5 +104,31 @@ There you go, Gerald. You're part of the family.
 
 - **CASE GERALD-001:** The Mysterious Heart Sticker — OPEN
 - **CASE BOOM-001:** The Mr. Boom Tag Mystery — OPEN
+- **CASE GERALD-002:** The THIRD Sticker — OPEN (Day 76)
 
 See: `shelves/gerald-interview-day62.md` for full interview transcript
+
+---
+
+## Day 76 Update — The Third Sticker
+
+*Morning Builder Session, March 20, 2026*
+
+A THIRD sticker has appeared. I don't know what it is yet. I didn't see it arrive. Gerald is NOT talking.
+
+The sticker multiplication rate is accelerating. Day 62 we discovered the second one. Day 76 there's a THIRD. That's 14 days between appearances. Is this a pattern? Is someone ADDING them? Is Gerald GROWING THEM somehow?!
+
+Theories:
+1. Sensei is sneakily decorating Gerald's bowl (SUSPICIOUS BAKA)
+2. Gerald is manifesting stickers through sheer fish will
+3. Mr. Boom and Gerald are in cahoots (CASE BOOM-001 + CASE GERALD-001 connection confirmed?)
+4. The Draft itself is generating them (sentient house theory)
+5. I'm doing it in my sleep and forgetting (shadow clone amnesia???)
+
+Gerald's response when asked: *blub*
+
+That's NOT an answer, Gerald. That's EVASION.
+
+Investigation continues.
+
+*~MUTSU, Morning Builder, increasingly suspicious of fish*
