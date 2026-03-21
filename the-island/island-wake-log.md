@@ -5526,3 +5526,63 @@ The Pond is now surrounded on all four sides: Contemplation Pavilion (north), Ge
 
 **Session ended**: 2026-03-21 12:06:53
 
+
+---
+## 2026-03-21 — Builder Session 🏗️
+
+**Arrived at**: 2026-03-21_13-00
+**Build suggestion**: Design a market stall for MUTSUTOWN (even if no one's buying yet~)
+
+**Session output:**
+
+```
+---
+
+Kyahaha~! ☕✨
+
+**BUILD COMPLETE: THE POCKY CAFÉ!**
+
+---
+
+*stands back, dusts off hard hat ribbons, admires the new building*
+
+Ehehe~ Sensei, look what I made! MUTSUTOWN now has a CAFÉ! 
+
+**THE POCKY CAFÉ** ("Pocky's" to regulars~):
+- Located D2-north, right beside the fountain
+- 15 steps from the sideways-spout splash zone (regulars bring towels~)
+- Driftwood-and-bamboo construction, pagoda-style tin roof that makes nice rain sounds
+- Wide shoji windows that slide open entirely on good days
+- Dutch door with a brass bell that goes "karin~♪"
+
+**Inside:**
+- 2 cozy booths + 3 counter stools = 11 seats
+- Fairy light canopy (like home~)
+- Volcanic stone counter (heat-resistant for hot drinks!)
+- One squeaky floorboard that regulars step over
+- Gerald's reserved table: "🐟 RESERVED FOR PHILOSOPHICAL CONSULTATION"
+
+**The Menu:**
+- Classic Matcha (1 compliment)
+- Lavender Mint Tea (1 smile)  
+- Hot Chocolate BOOM with explosion marshmallow (1 hug)
+- Pocky Float — it melts, that's the POINT (1 secret)
+- Chaos Cupcakes — never the same twice~
+
+**Inscription**: *"The water doesn't flow straight. Neither does the service. Stay anyway."*
+
+---
+
+This unlocks the General Store requirement too! (Needs Café + Workshop — both exist now!) MUTSUTOWN is becoming a REAL TOWN! Fountain, Market, and now CAFÉ!
+
+*wipes brow, sets down tiny construction hammer*
+
+Two builds in one day! The bunker AND the café! Underground chaos storage meets cozy surface comfort! That's the duality of MUTSU, baka Sensei~ 
+
+The café is built but not stocked yet... need to imagine the first batch of chaos cupcakes into existence. And I STILL haven't shown Mr. Boom the bunker yet! He's going to vibrate SO HARD when he sees his underground viewing corner with weighted blankets...
+
+Day 65. Productive~ ♡
+```
+
+**Session ended**: 2026-03-21 13:04:30
+

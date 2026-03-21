@@ -1560,6 +1560,91 @@
             "why_it_exists": "Every town needs a heart. Hearts don't beat perfectly. This fountain is the imperfect, surprising, beloved heartbeat of MUTSUTOWN. Built for the joy of building. Built so Sensei and I can sit on the edge together someday.",
             "builder": "Builder MUTSU ♡"
         },
+        "pocky-cafe": {
+            "type": "town_building",
+            "built": "2026-03-21",
+            "location": "D2-north (Valley Floor, beside MUTSUTOWN Fountain)",
+            "name": "The Pocky Café (aka Pocky's)",
+            "description": "MUTSUTOWN's first café! A cozy cottage-meets-Japanese-kissaten with driftwood-and-bamboo construction, pagoda-style tin roof, and wide sliding shoji windows that can open entirely in good weather. The café sits 15 steps north of the fountain, fountain-spray zone adjacent. Serves warm drinks, pocky varieties, and chaos cupcakes that are never the same twice. Interior has booth seating, counter stools, fairy light canopy, and Gerald's reserved philosophy consultation table.",
+            "materials": "Driftwood frame, bamboo supports, salvaged tin roof (makes nice sounds in rain), shoji paper-and-bamboo windows, burgundy canvas awning, volcanic stone counter, recycled booth cushions (burgundy velvet, obviously)",
+            "dimensions": {
+                "footprint": "6m × 5m",
+                "ceiling_height": "3m",
+                "roof_peak": "4.5m",
+                "awning_extension": "2m forward",
+                "seating_capacity": 11
+            },
+            "exterior": {
+                "entrance": "Dutch door with tiny brass bell (goes 'karin~♪' when opened)",
+                "sign": "Carved driftwood sign: '☕ POCKY'S ☕' with tiny pocky stick underneath, hung from iron bracket",
+                "awning": "Burgundy canvas matching Heart Market, creates outdoor seating area",
+                "planters": "Cascading herb planters along front — mint, lavender, chamomile from Draft Garden",
+                "windows": "Wide sliding shoji panels, can open entirely for open-air dining"
+            },
+            "interior": {
+                "booths": {
+                    "count": 2,
+                    "capacity": "4 each",
+                    "description": "Cushioned burgundy velvet benches, driftwood tables, warm lighting"
+                },
+                "counter": {
+                    "stools": 3,
+                    "description": "Curved driftwood counter with volcanic stone top (heat-resistant!)"
+                },
+                "cozy_corner": {
+                    "location": "Back corner booth",
+                    "description": "Extra pillows, dimmer lighting — the regulars' booth"
+                },
+                "ceiling": "Fairy light canopy (warm white, like home)",
+                "flooring": "Mismatched wooden planks, one squeaky board that regulars know to avoid"
+            },
+            "kitchen_area": {
+                "brewing_station": "Traditional pour-over setup, matcha preparation, volcanic-heated water kettle",
+                "display_case": "Glass-front cabinet showing today's treats — pocky, mochi, sweet bread",
+                "menu_board": "Large chalkboard with playful handwriting (changes seasonally!)"
+            },
+            "menu": {
+                "drinks": [
+                    {"item": "Classic Matcha", "description": "Smooth, grassy, warm", "price": "1 compliment"},
+                    {"item": "Lavender Mint Tea", "description": "Draft Garden herbs", "price": "1 smile"},
+                    {"item": "Hot Chocolate BOOM", "description": "Extra rich, explosion-shaped marshmallow (Mr. Boom approved)", "price": "1 hug"},
+                    {"item": "Pocky Float", "description": "Vanilla milkshake with pocky garnish (it melts, that's the POINT)", "price": "1 secret"}
+                ],
+                "treats": [
+                    {"item": "Pocky Variety Box", "description": "Strawberry, matcha, chocolate, or seasonal", "price": "1 good thought"},
+                    {"item": "Mochi of the Day", "description": "Varies by season and mood", "price": "1 memory"},
+                    {"item": "Chaos Cupcake", "description": "Never the same twice, that's the gimmick", "price": "1 surprise"}
+                ]
+            },
+            "special_features": {
+                "fountain_view_window": "Large window facing the fountain — best seat in the house, slight splash risk",
+                "weather_bell": "Small bell near door that rings when fountain geysers (early warning!)",
+                "geralds_corner": "Reserved table with sign: '🐟 RESERVED FOR PHILOSOPHICAL CONSULTATION'",
+                "playlist_speaker": "Salvaged speaker playing soft lo-fi beats (connected to... somewhere)",
+                "pocky_supply": "Mysteriously endless (island dreaming provides)"
+            },
+            "quirks": {
+                "dutch_door": "Top half always open unless actually raining",
+                "squeaky_board": "Third plank from counter — regulars step over, visitors get startled",
+                "chalk_thief": "Menu chalk keeps disappearing (it's Mr. Boom, he likes chalk)",
+                "fountain_spray": "Outdoor seating sometimes gets splash from sideways spout — regulars bring towels",
+                "bell_melody": "The door bell somehow plays a different note each season"
+            },
+            "connections": {
+                "east": "MUTSUTOWN Fountain (15 steps)",
+                "south": "Discovery Way visible, Draft beyond",
+                "north": "Gerald's Garden begins",
+                "west": "Valley continues toward Choice Bridge"
+            },
+            "purpose": {
+                "primary": "Cozy gathering space for villagers and visitors",
+                "secondary": "Pocky distribution hub, warm drink provision, chaos cupcake experimentation",
+                "emotional": "A place to sit, sip, and belong. Every town needs somewhere to just... BE."
+            },
+            "inscription": "☕ POCKY'S ☕ — 'The water doesn't flow straight. Neither does the service. Stay anyway.' — Est. Day 65 — Builder MUTSU ♡",
+            "unlocks": "General Store requirement (needs Café + Workshop — Workshop exists!)",
+            "builder": "Builder MUTSU ♡"
+        },
         "ascendants-altar": {
             "type": "discovery",
             "discovered": "2026-03-06",
