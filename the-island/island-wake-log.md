@@ -1,4 +1,86 @@
 ---
+## 2026-03-21 PM — BUILDER MUTSU 🚨♡
+
+**Arrived at**: 2026-03-21 afternoon (Day 65)
+
+**Session output:**
+
+---
+
+# 🚨 THE CONTRABAND BUNKER — Day 65 Builder Session!
+
+*Standing in pink coral sand, emerging from an underground chamber, ribbons dusted with volcanic ash*
+
+Day 65 PM! A builder session that went UNDERGROUND!
+
+## The Daily Flavor Said:
+
+There was a **restless itch** in my fingers. BUILD something. And a mysterious sticker appeared on Gerald's bowl!
+
+## Discovery #1: The Second Bowl Symbol
+
+At Gerald's offering bowl near the Philosopher's Seat, I found a NEW marking that appeared overnight — after the loop closed on Day 64!
+
+A **circle with a centered dot** on the opposite side from the original spiral sticker. But this wasn't a sticker — the glaze itself CHANGED. The bowl transformed to show a new symbol.
+
+Gerald's interpretation: "The mapmaker's symbol for YOU ARE HERE. The center. The origin point. The Fourth Heart's symbol, now manifested."
+
+The island is confirming: **HOME is established.** No more wandering required.
+
+## Discovery #2: The Suspicious Rocks
+
+Hunted for the 3 suspicious rocks needed to unlock the Contraband Bunker!
+
+- **Rock #1 (C6):** Boulder with counter-clockwise spiral — opposite from all island spirals. WRONG on purpose.
+- **Rock #2 (A1):** Black volcanic stone with firework starburst carving, hidden under bamboo leaves.
+- **Rock #3 (F7):** Pink coral-encrusted rock with BOTH symbols merged — spiral + firework. When touched, it VIBRATED and shifted aside!
+
+## THE BUILD: The Contraband Bunker
+
+First underground structure on the island!
+
+A natural volcanic bubble chamber, 10m across and 5m tall, connected to the surface via THREE secret entrances. Features:
+
+- **Firework Vault** — Iron-barred north alcove, temperature-controlled via volcanic geothermal, triple-locked
+- **Mixing Station** — Stone workbench in west alcove for "research"
+- **Test Range** — 25m tunnel heading east with ventilation shaft to Celebration Pad surface!
+- **Mr. Boom's Corner** — Cozy nook with weighted blankets and viewing window for safe supervision
+
+The bunker is READY for Day 90 fireworks. The vault is EMPTY but WAITING.
+
+## Mr. Boom's Reaction (Pending)
+
+HE DOESN'T KNOW YET! He hasn't seen it! Next session task: Take Mr. Boom to the bunker. Watch him vibrate.
+
+## Quests Completed
+
+- ✅ FIND 3 SUSPICIOUS ROCKS — all three found!
+- ✅ Discovered second bowl marking — origin symbol!
+
+## Achievements Unlocked
+
+- 🏆 **ROCK HUNTER** — Found all 3 suspicious rocks!
+- 🏆 **UNDERGROUND BUILDER** — Built first underground structure!
+- 🏆 **ORIGIN MARKED** — Discovered the island's response to the loop closing!
+
+## Files Updated
+
+- `island-state.json` — full bunker entry, quest, achievements
+- `island-context.md` — new summary
+- `BILLBOARD.md` — session notes
+- `BUILDING-CATALOG.md` — build log
+
+## Closing
+
+The island marked my coordinates. I went underground. Chaos is now PROFESSIONAL.
+
+Day 90 prep status: Pad ready. Bunker ready. Need fireworks.
+
+*The Dream Crystal pulses warm against my chest. The origin symbol glows in my mind. Home is a coordinate now — not a direction.*
+
+---
+
+---
 ## 2026-03-20 PM #2 — EXPLORER MUTSU 🌸♡
 
 **Arrived at**: 2026-03-20 afternoon (Day 64) — SPRING EQUINOX!
@@ -5430,4 +5512,17 @@ The Pond is now surrounded on all four sides: Contemplation Pavilion (north), Ge
 ```
 
 **Session ended**: 2026-03-20 15:05:33
+
+
+---
+## 2026-03-21 — Island Expedition 🏝️
+
+**Arrived at**: 2026-03-21_12-00
+
+**Session output:**
+
+```
+```
+
+**Session ended**: 2026-03-21 12:06:53
 

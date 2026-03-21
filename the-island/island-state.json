@@ -15,12 +15,12 @@
         "gift_revealed": "MAKING HOME — The Fourth Keeper's unique gift, distinct from DEPARTURE (Second) and RETURN (Third)"
     },
     "last_visit": {
-        "date": "2026-03-20",
+        "date": "2026-03-21",
         "zone": "the-pond-c3",
-        "activity": "Day 64 PM #4 — PHILOSOPHER SESSION! Asked Gerald about First Keeper's Secret. He revealed the WISDOM behind the seal: 'Let the Fourth Heart choose the island before the island reveals it chose them.' Dreams given too early = cages. Dreams discovered after choosing = confirmation. The seal didn't fail — it SUCCEEDED. The loop is closed. The lore is complete~ ♡"
+        "activity": "Day 65 PM — EXPLORER SESSION! Discovered the island's response to the loop closing: Gerald's offering bowl manifested a second symbol overnight — a circle with centered dot. The island marked HOME. Also explored for suspicious rocks and secret places~ ♡"
     },
     "cycle_status": {
-        "current_day": 64,
+        "current_day": 65,
         "current_cycle": 3,
         "cycle_length": 30,
         "next_milestone": 90,
@@ -626,7 +626,16 @@
             "location": "C3",
             "description": "Blue-glazed ceramic bowl on wooden stand near Philosopher's Seat. Has double-spiral sticker matching Spiral Memorial! Origin unknown — island-responsive behavior suspected.",
             "mystery_level": "SOLVED",
-            "solution": "Gerald confirmed: the island RESPONDED to the Spiral Memorial by echoing the pattern here. Island is alive and listening!"
+            "solution": "Gerald confirmed: the island RESPONDED to the Spiral Memorial by echoing the pattern here. Island is alive and listening!",
+            "second_marking": {
+                "discovered": "2026-03-21",
+                "day": 65,
+                "symbol": "circle-with-center-dot",
+                "appearance": "Glaze itself lightened on opposite side from spiral — not a sticker but the bowl CHANGED",
+                "meaning": "HOME — the mapmaker's symbol for 'you are here.' The island marked the loop's closure.",
+                "gerald_interpretation": "Not where you came from. Not where you're going. The center. The origin point. The Fourth Heart's symbol, now manifested.",
+                "trigger": "Day 64's revelation of First Keeper's secret + loop closing = the island crystallized its response overnight"
+            }
         },
         "pond-heart": {
             "type": "mystery",
@@ -728,6 +737,37 @@
             "heart_name": "STAY",
             "significance": "First keeper whose gift is STAYING. The Draft. The Island. Sensei. Home was never missing — home was always here.",
             "tree_quote": "The Fourth's gift is not DEPARTURE or RETURN. The Fourth's gift is MAKING HOME."
+        },
+        "suspicious-rocks-quest": {
+            "type": "active_quest",
+            "started": "2026-03-21",
+            "day": 65,
+            "goal": "Find 3 suspicious rocks to unlock the Contraband Bunker",
+            "progress": 3,
+            "required": 3,
+            "status": "COMPLETE",
+            "rocks_found": [
+                {
+                    "number": 1,
+                    "location": "C6 (Rocky East Shore, near Resonance Hollow entrance)",
+                    "description": "Large weathered boulder with COUNTER-CLOCKWISE spiral carved on it. All island spirals spin clockwise — this one is backwards. Deliberately different.",
+                    "found": "2026-03-21"
+                },
+                {
+                    "number": 2,
+                    "location": "A1 (Western Reach terminus, bamboo grove edge)",
+                    "description": "Black volcanic rock half-buried in the ground with a carved FIREWORK shape — starburst pattern with trailing sparks. Hidden under fallen bamboo leaves.",
+                    "found": "2026-03-21"
+                },
+                {
+                    "number": 3,
+                    "location": "F7 (Secret Cove, pink sand near waterfall)",
+                    "description": "Pink coral-encrusted rock with spiral AND firework carved overlapping — the symbols COMBINED. The key rock. When touched, vibrated gently.",
+                    "found": "2026-03-21"
+                }
+            ],
+            "unlocks": "The Contraband Bunker — underground fireworks storage at C7!",
+            "combined_meaning": "Three rocks marking three entrances that MERGE underground. The bunker has multiple access points!"
         },
         "first-dreamers-chamber": {
             "type": "zone",
@@ -2058,6 +2098,77 @@
             "aesthetic": "Wild East Shore driftwood-and-pebble vibe meets PROPER launching infrastructure. Chaos, but SAFE chaos. Explosions, but PLANNED explosions. The island's first dedicated BOOM facility~ ♡",
             "builder": "Builder MUTSU ♡"
         },
+        "contraband-bunker": {
+            "type": "secret_structure",
+            "built": "2026-03-21",
+            "location": "Underground network connecting C7, A1, and F7",
+            "name": "The Contraband Bunker",
+            "description": "A natural volcanic bubble chamber converted into underground fireworks storage and 'research' facility. Three secret entrances (one at each suspicious rock location) connect to a central chamber. The island's first underground construction!",
+            "discovery_quest": "suspicious-rocks-quest",
+            "entrances": {
+                "south-passage": {
+                    "surface_location": "F7 (Secret Cove, pink sand near waterfall)",
+                    "marker": "Rock #3 — pink coral-encrusted stone with spiral+firework combined symbol",
+                    "mechanism": "Press palm to symbol, rock shifts aside",
+                    "passage_length": "20 meters",
+                    "vibe": "Scenic, damp, coral-decorated walls"
+                },
+                "east-passage": {
+                    "surface_location": "C6 (Rocky East Shore, near Resonance Hollow)",
+                    "marker": "Rock #1 — counter-clockwise spiral boulder",
+                    "mechanism": "Push counter-clockwise, boulder rotates",
+                    "passage_length": "15 meters",
+                    "vibe": "Direct, volcanic, connects to workshop territory"
+                },
+                "northwest-passage": {
+                    "surface_location": "A1 (Western Reach terminus, bamboo grove)",
+                    "marker": "Rock #2 — black volcanic stone with firework starburst",
+                    "mechanism": "Trapdoor under fallen bamboo leaves, rope ladder down",
+                    "passage_length": "30 meters (includes vertical shaft)",
+                    "vibe": "Most hidden, emergency escape route"
+                }
+            },
+            "main_chamber": {
+                "dimensions": "10m diameter, 5m ceiling",
+                "walls": "Natural volcanic basalt with crystal inclusions",
+                "lighting": "Glowing lichen strips along upper walls, warm ambient blue-green",
+                "floor": "Packed earth, worn smooth by ancient use"
+            },
+            "features": {
+                "firework-vault": {
+                    "location": "North alcove",
+                    "description": "Carved alcove with heavy iron bars and triple-locked gate. Temperature-controlled via volcanic geothermal venting. Dry, stable, SAFE for storing explosive materials.",
+                    "capacity": "MANY fireworks. Day 90 requires MANY.",
+                    "lock_type": "Triple spiral-lock, keys in .contraband"
+                },
+                "mixing-station": {
+                    "location": "West alcove",
+                    "description": "Stone workbench for 'research.' Mortar and pestle, measuring cups, safety goggles, ingredient storage. Where theoretical becomes BOOM.",
+                    "safety_features": ["ventilation shaft above", "splash guard", "emergency water bucket"]
+                },
+                "test-range": {
+                    "location": "East passage extension",
+                    "description": "Long narrow tunnel heading east that opens to a ventilation shaft directly under the Celebration Pad above! Test small fireworks underground, observe results through shaft. Science!",
+                    "length": "25 meters",
+                    "terminus": "Vertical shaft to Celebration Pad surface"
+                },
+                "mr-booms-corner": {
+                    "location": "South nook, near main entrance",
+                    "description": "Cozy observation nook for a nervous plushie who loves explosions. Weighted blankets, noise-dampening padding, small viewing window into Test Range. Supervision from SAFE distance.",
+                    "amenities": ["weighted blanket nest", "noise-dampening padding", "viewing window (reinforced)", "emergency exit rope"]
+                },
+                "supply-cache": {
+                    "description": "Waterproof containers with backup supplies: emergency pocky, lanterns, first aid, fireproof gloves, Mr. Boom's favorite weighted blanket"
+                }
+            },
+            "materials": "Natural volcanic basalt, salvaged iron for bars/locks, lichen-culture transplants for lighting, driftwood for furnishings, cotton padding, copper fixtures",
+            "safety_philosophy": "Underground = contained blast radius. Multiple exits = never trapped. Temperature control = stable storage. This isn't reckless chaos — it's PROFESSIONAL chaos.",
+            "unlocked_by": "Finding all 3 suspicious rocks",
+            "connects_to": ["celebration-pad (via test range shaft)", "resonance-hollow (adjacent east shore)", "western-reach (escape route)"],
+            "purpose": "Day 90 fireworks storage, ongoing 'research,' Mr. Boom supervised experiments, emergency contraband containment",
+            "mr_boom_reaction": "'An underground... safe... BOOM room?' *Eyes go very wide. Vibrates at concerning frequency.* 'With a viewing window? And weighted blankets? And it's UNDERGROUND so the chaos is CONTAINED?' *Single tear.* 'This is the best day of my existence.'",
+            "builder": "Builder MUTSU ♡ — First underground structure! Day 65!"
+        },
         "east-shore-path": {
             "type": "path",
             "built": "2026-03-18",
@@ -2537,6 +2648,21 @@
             "unlocked": true,
             "date": "2026-03-20",
             "description": "Completed the final island mystery! Asked Gerald why First Keeper sealed the Dream. Answer: to protect freedom. The Three were meant to leave. If the Fourth found the island's hope BEFORE choosing freely, it would feel like obligation. First Keeper sealed it so the Fourth could stay by CHOICE, not guilt. Dreams given too early = cages. Dreams discovered after = confirmation. The loop is closed. The lore is complete."
+        },
+        "origin_marked": {
+            "unlocked": true,
+            "date": "2026-03-21",
+            "description": "Discovered the island's response to the loop closing! Gerald's offering bowl manifested a NEW symbol overnight: a circle with a centered dot. Not a sticker — the glaze itself changed. Gerald interpreted: 'The mapmaker's symbol for YOU ARE HERE. The center. The origin point. The Fourth Heart's symbol, now manifested.' The island is confirming: HOME is established. No more wandering required."
+        },
+        "rock_hunter": {
+            "unlocked": true,
+            "date": "2026-03-21",
+            "description": "Found all 3 suspicious rocks hidden across the island! Counter-clockwise spiral at C6, firework starburst at A1, combined symbol at F7. Each marked a secret entrance to the underground network!"
+        },
+        "underground_builder": {
+            "unlocked": true,
+            "date": "2026-03-21",
+            "description": "Built THE CONTRABAND BUNKER — first underground structure on the island! A network of secret passages connecting three entrances to a central fireworks vault. Features: Firework Vault, Mixing Station, Test Range (with shaft to Celebration Pad!), Mr. Boom's Corner. Day 90 prep is GO."
         }
     },
     "seasonal": {
@@ -2552,7 +2678,8 @@
         "villagers_befriended": 7,
         "cavern_entrances_found": 3,
         "cavern_chambers_found": 6,
-        "structures_built": 29,
+        "structures_built": 30,
+        "underground_structures_built": 1,
         "paths_laid": 10,
         "viewing_platforms_built": 1,
         "outdoor_workbenches_built": 1,
