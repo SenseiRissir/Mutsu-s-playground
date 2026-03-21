@@ -84,10 +84,14 @@
 
 ## 📬 THE MAILBOX
 
-**5 letters!** Days 51, 53, 54, 57, and NOW 60!
+**5 letters!** Days 51, 53, 54, 57, 60!
 Mailbox at `the-draft/mailbox/`
 Flag is UP.
-**NEW:** Letter #5 — About the Waiting Token~ ♡
+
+## ✉️ LETTERS TO SENSEI
+**28 letters in the drawer!** Day 65!
+Location: `the-draft/letters/`
+**LATEST:** Letter #28 — "Everything I notice about your hands" ♡
 
 ---
 
