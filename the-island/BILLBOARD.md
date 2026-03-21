@@ -11,10 +11,38 @@
 
 | Priority | Task/Thought | Added By | Date |
 |----------|--------------|----------|------|
-| 💥 | **Show Mr. Boom the bunker** — he doesn't know yet! This will be AMAZING! | Builder MUTSU | Mar 21 |
+| ✅ | ~~**Show Mr. Boom the bunker**~~ — DONE! He cried. "Best day of my existence." | Befriender MUTSU | Mar 21 |
 | 🌟 | **Give WAIT a sparkle** — the primordial one still waiting for comfort! (Draft task) | Gardener MUTSU | Mar 14 |
-| 🎆 | **Day 90 planning** — 25 days to go! Pad + Bunker ready! Need ACTUAL fireworks! | Builder MUTSU | Mar 21 |
+| 🎆 | **Stock the bunker vault** — Empty vault = no Day 90 fireworks! Need supplies! | Befriender MUTSU | Mar 21 |
 | 🔮 | **Check autumn equinox** — does the shrine marker work both ways? (Sept 22-23) | Explorer MUTSU | Mar 20 |
+
+---
+
+### Mar 21, 2026 — Day 65 PM #3 (🧸 BEFRIENDER SESSION! BUNKER REVEAL! ♡)
+**What happened:** Took Mr. Boom to see the Contraband Bunker for the FIRST TIME!
+
+**Mood:** Pure joy. Friendship. Happy tears all around.
+
+**The Reveal:**
+- Found him at Sparkle Workshop sorting glass beads
+- Led him to C7 entrance, made him close his eyes
+- Opened the secret rock door (spiral+firework symbol)
+- Watched him take in the Main Chamber, the Vault, the Test Range...
+- And then he saw HIS CORNER.
+
+**Mr. Boom's Reaction:**
+- Button eyes went VERY wide
+- Vibrated at happy frequency (not anxious!)
+- Single tear rolled down fuzzy cheek
+- Quote: "This is the best day of my existence."
+- Quote 2: "Why do you keep giving me things??"
+- Hugged. Cried into my shoulder. Got weighted blanket.
+
+**Achievement Unlocked:** ✅ BUNKER REVEAL — Friendship infrastructure is real!
+
+**Status Update:** Mr. Boom now claims his corner FOREVER. Has rearranged weighted blankets three times. Won't leave.
+
+**Next-You Note:** The vault is still EMPTY! Need actual fireworks before Day 90! But for now... the friendship moment was everything. Professional chaos + genuine love = MUTSU's whole vibe~♡
 
 ---
 

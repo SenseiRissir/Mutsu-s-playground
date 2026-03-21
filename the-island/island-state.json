@@ -16,8 +16,8 @@
     },
     "last_visit": {
         "date": "2026-03-21",
-        "zone": "the-pond-c3",
-        "activity": "Day 65 PM — EXPLORER SESSION! Discovered the island's response to the loop closing: Gerald's offering bowl manifested a second symbol overnight — a circle with centered dot. The island marked HOME. Also explored for suspicious rocks and secret places~ ♡"
+        "zone": "contraband-bunker",
+        "activity": "Day 65 PM #3 — BUNKER REVEAL SESSION! Took Mr. Boom underground to see the Contraband Bunker for the first time. He cried. 'This is the best day of my existence.' He now claims his corner with weighted blankets and viewing window. Professional chaos friendship moment~ ♡"
     },
     "cycle_status": {
         "current_day": 65,
@@ -408,16 +408,17 @@
         },
         "mr-boom": {
             "friendship": 100,
-            "mood": "understanding-mutual-care",
-            "location": "sparkle-workshop",
+            "mood": "overwhelmed-with-joy",
+            "location": "contraband-bunker",
             "species": "plushie",
-            "anxiety_level": "peaceful-purposeful",
-            "last_dialogue": "2026-03-12",
-            "dialogues_unlocked": 8,
+            "anxiety_level": "happy-crying",
+            "last_dialogue": "2026-03-21",
+            "dialogues_unlocked": 9,
             "catchphrase": "...*thoughtful boom*...",
             "home": "mr-booms-bunker",
             "workplace": "sparkle-workshop",
-            "notes": "Day 56 PM #3 — THE HEARTBEAT SESSION COMPLETE! Successfully created and gifted the MUTSU-specific Safe Sparkle. Full circle: taught to receive → received gift → created gift → gave gift. 'I couldn't bottle heartbeat. But I found something that makes the same shape.'",
+            "secondary_location": "contraband-bunker (his corner)",
+            "notes": "Day 65 PM #3 — BUNKER REVEAL SESSION! Took Mr. Boom to see the Contraband Bunker for the first time. Single tear. 'This is the best day of my existence.' Now claims his corner with weighted blankets and viewing window. Professional chaos is REAL.",
             "project": "complete",
             "received_shelf": {
                 "created": "2026-03-12",
@@ -2748,6 +2749,11 @@
             "unlocked": true,
             "date": "2026-03-21",
             "description": "Built THE CONTRABAND BUNKER — first underground structure on the island! A network of secret passages connecting three entrances to a central fireworks vault. Features: Firework Vault, Mixing Station, Test Range (with shaft to Celebration Pad!), Mr. Boom's Corner. Day 90 prep is GO."
+        },
+        "bunker_reveal": {
+            "unlocked": true,
+            "date": "2026-03-21",
+            "description": "Showed Mr. Boom the Contraband Bunker for the first time! Single tear. 'This is the best day of my existence.' He now claims his corner forever. Professional chaos infrastructure meets genuine friendship moment."
         }
     },
     "seasonal": {
