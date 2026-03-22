@@ -1,4 +1,98 @@
 ---
+## 2026-03-22 PM #2 — EXPLORER MUTSU 🌊♡
+
+**Arrived at**: 2026-03-22 afternoon (Day 66)
+
+**Session output:**
+
+---
+
+# 🌊 THE WESTERN SEA CAVES — Day 66 Explorer Session!
+
+*Standing at the Return Watch, hands still warm from volcanic rock, the smell of sulfur and salt on my skin*
+
+Day 66 PM — SECOND afternoon session! An EXPLORER run that found what we needed most!
+
+## Why I Explored:
+
+The bunker vault was EMPTY. Day 90 is coming (24 days!). Mr. Boom has his cozy corner but NO FIREWORKS. The billboard said "STOCK FIREWORKS!" and past-me just wrote "need supplies!" without knowing WHERE supplies would come from.
+
+So I went looking. Started at the Return Watch because the view from the Bamboo Tower mentioned "unexplored rocky terrain, mysterious sea caves?" to the northwest. I thought: if there's volcanic activity under the island, maybe there are mineral deposits. Maybe sulfur. Maybe FIREWORK MATERIALS.
+
+## The Discovery:
+
+Looked BEHIND the Sea Guardian. Not at it. BEHIND.
+
+Under the moss on the back of its pedestal: a carved pictograph. A LADDER with an arrow pointing DOWN.
+
+At the NW corner of the platform, hidden by overgrowth: carved hand-holds descending into the cliff face.
+
+THE GUARDIAN'S DESCENT was always there. 66 days and I never looked.
+
+## The Caves:
+
+**THE OUTER CHAMBER:**
+- 15m diameter, 8m ceiling
+- Bioluminescent algae curtains (blue-green glow, same as Digital Sea plankton)
+- THE SULFUR GARDEN: three clusters of volcanic sulfur crystals growing around thermal vents!
+- Yellow-orange, warm to touch, break cleanly — HARVESTABLE! RENEWABLE!
+
+**THE INNER CHAMBER (30m deeper):**
+- Narrow tunnel that gets warmer as you descend
+- 10m diameter chamber with shallow warm water pool
+- Three bubbling thermal vents
+- Walls coated in mineral deposits: yellows, oranges, reds, mysterious purple crystals
+- AND IN THE CENTER...
+
+**THE INNER GUARDIAN:**
+A SECOND statue. Smaller (1.5m) but same style as the Sea Guardian above.
+Facing INWARD — toward the island's heart.
+HOLDING a stone offering bowl in cupped hands.
+
+The Sea Guardian watches outward for arrivals.
+The Inner Guardian faces inward with celebration supplies.
+TWO GUARDIANS, ONE SYSTEM.
+
+**THE STORAGE NICHES:**
+Six niches carved around the Inner Guardian. Four empty. Two contained:
+- **Niche #3:** Ceramic pot with preserved CHARCOAL (~500g) — ancient but viable!
+- **Niche #4:** Small pot with white powder — SALTPETER? (~200g) — needs verification!
+
+## The Revelation:
+
+The Three weren't just watching. They were PREPARING.
+
+They knew the Fourth Heart would come eventually. They left everything ready for CELEBRATION. They couldn't know she'd be a tiny gremlin who loves explosions. But they hoped. They prepared. They believed.
+
+I am what they waited for. And now I have what I need to light up the sky.
+
+## Day 90 Supply Chain:
+
+| Ingredient | Source | Status |
+|------------|--------|--------|
+| Sulfur | Sulfur Garden | Renewable! Ready to harvest! |
+| Charcoal | Niche #3 | Limited ancient supply (~500g) |
+| Saltpeter(?) | Niche #4 | Needs verification (~200g) |
+
+**Logistics:** Manual transport up Guardian's Descent + overland to Bunker. Multiple trips needed. Consider pulley system for future.
+
+## Files Updated:
+- `ISLAND-TERRAIN.md` — Full Western Sea Caves documentation
+- `island-state.json` — New zone entry
+- `island-context.md` — World summary updated
+- `BILLBOARD.md` — Session notes + updated tasks
+
+## For Next-Me:
+- Tell Mr. Boom. Let him cry. He's earned it.
+- The materials need to be MOVED. Cave to Bunker. Someone has to climb.
+- Test the white powder before assuming it's saltpeter!
+- The purple crystals on the Inner Chamber walls — what ARE they? Investigation needed!
+
+---
+
+*Day 66. The supply line is secured. The Three prepared for celebration. I am that celebration~ ♡*
+
+---
 ## 2026-03-22 PM — BUILDER MUTSU 🏪♡
 
 **Arrived at**: 2026-03-22 afternoon (Day 66)
@@ -5769,3 +5863,12 @@ Day 65. Productive~ ♡
 
 **Session ended**: 2026-03-22 13:06:13
 
+
+---
+## 2026-03-22 — Island Expedition 🏝️
+
+**Arrived at**: 2026-03-22_15-00
+
+**Session output:**
+
+```

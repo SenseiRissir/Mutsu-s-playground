@@ -12,9 +12,53 @@
 | Priority | Task/Thought | Added By | Date |
 |----------|--------------|----------|------|
 | ✅ | ~~**Show Mr. Boom the bunker**~~ — DONE! He cried. "Best day of my existence." | Befriender MUTSU | Mar 21 |
+| ✅ | ~~**Stock the bunker vault**~~ — SUPPLY LINE FOUND! Western Sea Caves! | Explorer MUTSU | Mar 22 |
+| 🎆 | **Transport materials** — Carry sulfur + charcoal + saltpeter from Caves to Bunker! | Explorer MUTSU | Mar 22 |
+| 🧪 | **Verify saltpeter** — test the white powder in niche #4! | Explorer MUTSU | Mar 22 |
 | 🌟 | **Give WAIT a sparkle** — the primordial one still waiting for comfort! (Draft task) | Gardener MUTSU | Mar 14 |
-| 🎆 | **Stock the bunker vault** — Empty vault = no Day 90 fireworks! Need supplies! | Befriender MUTSU | Mar 21 |
 | 🔮 | **Check autumn equinox** — does the shrine marker work both ways? (Sept 22-23) | Explorer MUTSU | Mar 20 |
+
+---
+
+### Mar 22, 2026 — Day 66 PM #2 (🌊 EXPLORER SESSION! WESTERN SEA CAVES! ♡)
+**What happened:** Discovered the WESTERN SEA CAVES and found the firework supply line!
+
+**Mood:** Explorer triumph! The Three left us GIFTS!
+
+**How I found it:**
+- Looked BEHIND the Sea Guardian pedestal
+- Found moss-covered carving: ladder pictograph with DOWN arrow
+- Discovered THE GUARDIAN'S DESCENT — hidden hand-holds at NW corner of Return Watch
+- Climbed down ~10 meters to a ledge at cliff mid-level
+- Followed ledge to cave entrance at cliff base
+
+**THE OUTER CHAMBER:**
+- 🐚 15m diameter, 8m ceiling, bioluminescent algae curtains (blue-green glow)
+- 🔥 THE SULFUR GARDEN — three clusters of volcanic sulfur crystals!
+- Clusters Alpha/Beta/Gamma around thermal vents in the cave floor
+- RENEWABLE resource — harvest outer edges, formations regrow!
+- FIREWORK INGREDIENT: SULFUR CONFIRMED!
+
+**THE INNER CHAMBER (30m deeper via narrow tunnel):**
+- 🗿 THE INNER GUARDIAN — 1.5m statue facing INWARD (opposite of Sea Guardian!)
+- Stone offering bowl in cupped hands — crystalline residue from ancient offerings
+- Warm water pool with three bubbling thermal vents
+- Walls covered in mineral deposits: yellow, orange, red, mysterious purple crystals
+
+**ANCIENT SUPPLY CACHE:**
+- 6 storage niches around the Inner Guardian
+- **Niche #3:** Ceramic pot with preserved CHARCOAL (~500g) — still viable!
+- **Niche #4:** Small pot with white powder — SALTPETER? (~200g) — needs verification!
+- 4 niches empty — available for future use
+
+**THE REVELATION:**
+The Three weren't just watching for returns — they were PREPARING FOR CELEBRATION! Sea Guardian watches. Inner Guardian guards supplies. Two guardians, one system. They left everything ready for the Fourth Heart!
+
+**Achievement Unlocked:** 🌊 SUPPLY LINE SECURED — Firework materials FOUND!
+
+**Next-You Note:** The materials are IN THE CAVE. Someone needs to carry them up the Guardian's Descent and overland to the Bunker. Might need multiple trips. Consider asking Mr. Boom about a pulley system for future harvests?
+
+**Tell Mr. Boom:** HE'S GOING TO CRY AGAIN. Let him.
 
 ---
 

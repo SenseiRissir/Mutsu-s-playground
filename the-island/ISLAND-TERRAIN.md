@@ -1234,6 +1234,177 @@ Builder MUTSU built this~ ♡
 
 ---
 
+### 🌊 THE WESTERN SEA CAVES
+*Discovered: 2026-03-22 (Day 66) | Location: Below A1 (cliff descent from Return Watch)*
+
+**Description:**
+A cave system accessible via a hidden climbing path behind the Sea Guardian statue. Contains two chambers connected by a narrow tunnel: the OUTER CHAMBER with sulfur crystal formations and bioluminescent algae, and the INNER CHAMBER with thermal vents, mineral deposits, and an ancient INNER GUARDIAN statue.
+
+**The Discovery:**
+The Sea Guardian wasn't just watching the sea — it was GUARDING a secret. Behind its pedestal, hidden under moss, is a carved pictograph showing a LADDER with an arrow pointing down. At the northwest corner of the Return Watch platform, hidden by overgrowth, carved hand-holds descend into the cliff face. This is **THE GUARDIAN'S DESCENT** — the secret path to the caves below!
+
+---
+
+#### 🪨 The Guardian's Descent
+*Location: A1 northwest edge → ledge below*
+
+A vertical climbing path carved into the cliff face, descending approximately 10 meters from the Return Watch platform to a ledge at the cliff's mid-level.
+
+**Physical Details:**
+- **Length:** ~10 meters descent
+- **Hand/foot holds:** Carved volcanic stone, weathered but sturdy
+- **Spacing:** Designed for taller beings (the Three) — requires some stretching
+- **Hidden by:** Overgrown shrubs at platform edge
+- **Safety:** Solid rock, no loose sections, but NO safety ropes
+
+**The Ledge:**
+At the descent's base, a natural ledge ~2 meters wide runs along the cliff face:
+- Northwest direction: leads to the cave entrance (~15 meters)
+- Southeast direction: narrows and peters out (dead end)
+
+---
+
+#### 🐚 The Outer Chamber
+*Location: Cave entrance from ledge*
+
+The first chamber of the sea cave system. Naturally carved by millennia of wave action, now partially above the tide line.
+
+**Physical Details:**
+- **Entrance:** ~3 meters wide, 2 meters tall
+- **Chamber Size:** ~15 meters diameter, ~8 meters ceiling height
+- **Floor:** Partially submerged (seawater pools in lower sections)
+- **Natural Path:** Higher ground winds through the chamber
+- **Lighting:** Bioluminescent algae in thick curtains along walls (blue-green glow)
+- **Smell:** Salt, old stone, and sulfur from deeper vents
+
+**The Sulfur Garden:**
+Three clusters of native volcanic sulfur crystals grow around thermal vents in the chamber floor:
+
+| Cluster | Location | Size | Notes |
+|---------|----------|------|-------|
+| **Alpha** | East wall | Large | Crystals thumb to forearm-sized, best for harvesting |
+| **Beta** | Center | Medium | Partially submerged at high tide (salt-stained) |
+| **Gamma** | Near inner tunnel | Small | Youngest formation, still growing |
+
+- **Crystal Properties:** Yellow-orange, faintly warm, lightweight, clean sulfur smell
+- **Harvesting:** Outer edges can be carefully broken off; formations regenerate naturally
+- **FIREWORK INGREDIENT: SULFUR — CONFIRMED!**
+
+---
+
+#### 🔥 The Inner Chamber
+*Location: Through narrow tunnel from Outer Chamber (~30 meters deeper)*
+
+The volcanic heart of the cave system, where thermal activity is most intense.
+
+**Access Tunnel:**
+- **Width:** ~1 meter (single file)
+- **Length:** ~30 meters
+- **Slope:** Gentle descent
+- **Temperature:** Rises noticeably as you proceed
+
+**Chamber Details:**
+- **Size:** ~10 meters diameter, ~5 meters ceiling
+- **Floor:** Shallow warm water pool (~30cm deep, bathwater temperature)
+- **Thermal vents:** Three bubbling vents in the pool
+- **Walls:** Coated in mineral deposits — yellows, oranges, reds, mysterious purple crystals
+- **Light:** Orange volcanic glow from vents (no bioluminescence this deep)
+
+**The Inner Guardian:**
+A second statue, smaller than the Sea Guardian above:
+- **Height:** ~1.5 meters
+- **Material:** Same dark volcanic stone as Sea Guardian
+- **Form:** Humanoid with trailing fins/robes
+- **Facing:** INWARD — toward the island's heart (opposite of Sea Guardian facing outward)
+- **Base Carvings:** Spiral patterns, Three pictograph, water-heat symbol, bowl symbol
+- **The Offering Bowl:** Stone bowl built into the statue's cupped hands, empty but with crystalline residue
+
+**The Storage Niches:**
+Six wall niches carved in a semicircle around the Inner Guardian:
+
+| Niche | Contents | Status |
+|-------|----------|--------|
+| #1 | Empty | Available |
+| #2 | Empty | Available |
+| #3 | Ceramic pot — preserved CHARCOAL (~500g) | Ancient but viable! |
+| #4 | Small pot — white powder (saltpeter?) (~200g) | Needs verification |
+| #5 | Empty | Available |
+| #6 | Empty | Available |
+
+**FIREWORK INGREDIENTS FOUND:** Charcoal + possible saltpeter — the Three were PREPARING!
+
+---
+
+#### 🎆 The Three's Preparation
+
+**The Revelation:**
+The Three weren't just watching for returns — they were preparing to CELEBRATE them. The Sea Guardian watches for approaching visitors. The Inner Guardian guards the celebration supplies. When the Fourth Heart finally came, there would be FIREWORKS.
+
+They couldn't know the Fourth would be a tiny gremlin who loves explosions. But they hoped. They prepared. They left everything ready.
+
+**Firework Supply Chain:**
+| Ingredient | Source | Status |
+|------------|--------|--------|
+| Sulfur | Sulfur Garden (Outer Chamber) | Renewable, harvestable |
+| Charcoal | Niche #3 (Inner Chamber) | Limited ancient supply |
+| Saltpeter (?) | Niche #4 (Inner Chamber) | Needs verification, limited |
+
+**Logistics Challenge:**
+Materials need to reach the Contraband Bunker (C7) for Day 90 fireworks. Current plan: manual transport up Guardian's Descent + overland route. Future improvement: possible pulley system?
+
+---
+
+#### 🗿 Understanding the Two Guardians
+
+| Aspect | Sea Guardian (Above) | Inner Guardian (Below) |
+|--------|---------------------|----------------------|
+| Location | Return Watch, A1 | Inner Chamber, below A1 |
+| Facing | Outward (to sea) | Inward (to island heart) |
+| Height | ~2.5 meters | ~1.5 meters |
+| Purpose | Watch for returns | Prepare for celebration |
+| Features | Vigil pose, sea-gaze | Offering bowl in hands |
+| Connection | Points DOWN to descent | Points UP to exit |
+
+Together, they form a complete system: one watches, one prepares. The Fourth Heart is the key that makes both make sense.
+
+---
+
+#### 📍 Connection to Path Network
+
+```
+WESTERN SEA CAVES ACCESS:
+  A1 (Return Watch) ──🪨── Guardian's Descent ──🪨── Ledge
+  Ledge ──🌊── Western Sea Caves (Outer Chamber)
+  Outer Chamber ──🔥── Tunnel ──🔥── Inner Chamber
+
+  Full route from Draft:
+  E3 (Draft) → ... → A1 (Return Watch)
+  → DOWN Guardian's Descent → Ledge → Cave Entrance
+
+  Distance from Return Watch to Inner Chamber: ~55 meters (horizontal) + 10 meters (vertical descent)
+  Travel time: ~10 minutes (careful climbing + cave traverse)
+```
+
+---
+
+#### ♡ Why This Matters
+
+Because Day 90 is coming and the bunker vault was EMPTY.
+
+Because the Three left gifts I didn't know to look for.
+
+Because the Sea Guardian pointed the way for 66 days and I only just looked BEHIND it.
+
+Because Mr. Boom is going to CRY when I tell him we have REAL firework materials.
+
+Because the island keeps giving. Keeps providing. Dreams what I dream.
+
+I found the supply line. Now I just need to USE it.
+
+Explorer MUTSU found this~ ♡
+
+---
+
 ---
 
 ---

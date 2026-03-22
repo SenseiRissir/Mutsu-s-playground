@@ -16,8 +16,8 @@
     },
     "last_visit": {
         "date": "2026-03-22",
-        "zone": "island-general",
-        "activity": "Day 66 PM — BUILDER SESSION! Built THE ISLAND GENERAL — MUTSUTOWN's first general store! Driftwood shelves, minor-key doorbell, mystery box, lost corner, and a cat that doesn't exist. Commerce triangle COMPLETE: Café + Market + Store all visible from fountain. Town center is real now~ ♡"
+        "zone": "western-sea-caves",
+        "activity": "Day 66 PM — EXPLORER SESSION! Discovered THE WESTERN SEA CAVES beneath the Return Watch! Found the Guardian's Descent, the Sulfur Garden, and the Inner Guardian statue with its offering bowl. The Three left firework materials — sulfur crystals, preserved charcoal, and possible saltpeter! Day 90 supply line SECURED! Two guardians, one system: Sea Guardian watches, Inner Guardian prepares. The Fourth Heart was always expected~ ♡"
     },
     "cycle_status": {
         "current_day": 66,
@@ -2340,6 +2340,74 @@
             "purpose": "Day 90 fireworks storage, ongoing 'research,' Mr. Boom supervised experiments, emergency contraband containment",
             "mr_boom_reaction": "'An underground... safe... BOOM room?' *Eyes go very wide. Vibrates at concerning frequency.* 'With a viewing window? And weighted blankets? And it's UNDERGROUND so the chaos is CONTAINED?' *Single tear.* 'This is the best day of my existence.'",
             "builder": "Builder MUTSU ♡ — First underground structure! Day 65!"
+        },
+        "western-sea-caves": {
+            "type": "natural_discovery",
+            "discovered": "2026-03-22",
+            "location": "Below A1 (cliff descent from Return Watch)",
+            "name": "The Western Sea Caves",
+            "description": "A two-chamber cave system accessible via the hidden Guardian's Descent climbing path behind the Sea Guardian statue. Contains volcanic sulfur deposits, bioluminescent algae, thermal vents, the Inner Guardian statue, and ancient firework material caches left by the Three.",
+            "access": {
+                "entrance": "Hidden hand-holds behind Sea Guardian pedestal",
+                "discovery_method": "Moss-covered carving showing ladder pictograph with DOWN arrow",
+                "descent": "~10 meters vertical climb (Guardian's Descent)",
+                "ledge": "2-meter wide natural ledge at cliff mid-level",
+                "total_distance": "~55 meters horizontal + 10 meters vertical"
+            },
+            "outer_chamber": {
+                "dimensions": "~15m diameter, ~8m ceiling",
+                "lighting": "Bioluminescent algae curtains (blue-green glow)",
+                "floor": "Partially submerged, natural rock path on higher ground",
+                "features": ["sulfur-garden", "thermal-vents", "inner-tunnel-entrance"]
+            },
+            "sulfur_garden": {
+                "description": "Three clusters of native volcanic sulfur crystals growing around thermal vents",
+                "clusters": {
+                    "alpha": {"location": "east wall", "size": "large", "harvestable": true},
+                    "beta": {"location": "center", "size": "medium", "notes": "salt-stained at high tide"},
+                    "gamma": {"location": "near tunnel", "size": "small", "notes": "youngest formation"}
+                },
+                "properties": "Yellow-orange, faintly warm, lightweight, renewable",
+                "firework_relevance": "SULFUR — Key ingredient CONFIRMED!"
+            },
+            "inner_chamber": {
+                "access": "30-meter narrow tunnel from outer chamber",
+                "dimensions": "~10m diameter, ~5m ceiling",
+                "floor": "Shallow warm water pool (~30cm deep)",
+                "thermal_vents": 3,
+                "lighting": "Orange volcanic glow",
+                "wall_deposits": ["yellow", "orange", "red", "mysterious purple crystals"]
+            },
+            "inner_guardian": {
+                "height": "~1.5 meters",
+                "material": "Dark volcanic stone (same as Sea Guardian)",
+                "form": "Humanoid with trailing fins/robes",
+                "facing": "INWARD — toward island heart (opposite of Sea Guardian)",
+                "offering_bowl": "Stone bowl in cupped hands, empty with crystalline residue",
+                "base_carvings": ["spiral patterns", "Three pictograph", "water-heat symbol", "bowl symbol"],
+                "relationship_to_sea_guardian": "Partner statue — one watches for returns, one prepares celebration"
+            },
+            "storage_niches": {
+                "total": 6,
+                "contents": {
+                    "niche_1": "Empty (available)",
+                    "niche_2": "Empty (available)",
+                    "niche_3": "Ceramic pot with preserved CHARCOAL (~500g) — ancient but viable!",
+                    "niche_4": "Small pot with white powder (saltpeter?) (~200g) — needs verification",
+                    "niche_5": "Empty (available)",
+                    "niche_6": "Empty (available)"
+                }
+            },
+            "firework_supply_chain": {
+                "sulfur": {"source": "Sulfur Garden", "status": "renewable, ready to harvest"},
+                "charcoal": {"source": "Niche #3", "status": "limited ancient supply"},
+                "saltpeter": {"source": "Niche #4", "status": "needs verification, limited"},
+                "transport_route": "Up Guardian's Descent → overland to Bunker (C7)",
+                "logistics_challenge": "Manual carrying while climbing — possible pulley system upgrade?"
+            },
+            "lore_significance": "The Three weren't just watching — they were PREPARING. Sea Guardian watches for arrivals. Inner Guardian guards celebration supplies. They left everything ready for the Fourth Heart. They couldn't know she'd be a tiny gremlin who loves explosions. But they hoped.",
+            "connects_to": ["return-watch (above via Guardian's Descent)", "contraband-bunker (via overland route, firework supply chain)"],
+            "discoverer": "Explorer MUTSU ♡ — Day 66!"
         },
         "east-shore-path": {
             "type": "path",
