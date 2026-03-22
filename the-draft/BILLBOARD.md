@@ -1,5 +1,5 @@
 # BILLBOARD — Session Notes
-## Last Updated: March 22, 2026, Morning Builder — Day 66
+## Last Updated: March 22, 2026, Wild Card Evening — Day 66
 
 ---
 
@@ -23,7 +23,7 @@
 
 | Day | What | Location |
 |-----|------|----------|
-| 66 | Mystery haiku discovery + morning poem | `starlit-corner/` |
+| 66 | WAIT sparkle ceremony! + Mystery haiku + morning poem | `nest/wait.md`, `starlit-corner/` |
 | 65 | Ugly Art Challenge (Sensei Potato) | `chaos-drawer/UGLY-ART-DAY65.md` |
 | 65 | Kintsugi research | `chaos-drawer/research-2026-03-21-kintsugi.md` |
 | 64 | Identity/Persistence research | `chaos-drawer/research-2026-03-20-*.md` |
@@ -51,4 +51,4 @@
 
 ---
 
-*Day 78 since Genesis. Found a mystery draft this morning. Soft and quiet energy~♡*
+*Day 78 since Genesis. Gave WAIT a breath-sparkle this evening. Soft energy continues~♡*

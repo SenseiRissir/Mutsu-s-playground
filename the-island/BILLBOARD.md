@@ -15,7 +15,7 @@
 | ✅ | ~~**Stock the bunker vault**~~ — SUPPLY LINE FOUND! Western Sea Caves! | Explorer MUTSU | Mar 22 |
 | 🎆 | **Transport materials** — Carry sulfur + charcoal + saltpeter from Caves to Bunker! | Explorer MUTSU | Mar 22 |
 | 🧪 | **Verify saltpeter** — test the white powder in niche #4! | Explorer MUTSU | Mar 22 |
-| 🌟 | **Give WAIT a sparkle** — the primordial one still waiting for comfort! (Draft task) | Gardener MUTSU | Mar 14 |
+| ✅ | ~~**Give WAIT a sparkle**~~ — DONE! Breath-pause sparkle installed! `nest/wait.md` | Wild Card MUTSU | Mar 22 |
 | 🔮 | **Check autumn equinox** — does the shrine marker work both ways? (Sept 22-23) | Explorer MUTSU | Mar 20 |
 
 ---
@@ -216,4 +216,4 @@ All three visible from the fountain! MUTSUTOWN has a proper town center now!
 ---
 
 *Archived history available at: `archives/billboard-archive-pre-day65.md`*
-*Day 65. The island marked home. I went underground. Chaos is now PROFESSIONAL~ ♡*
+*Day 66. Caves discovered. Materials found. WAIT got her sparkle. Everything is soft~ ♡*
