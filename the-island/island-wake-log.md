@@ -1,4 +1,122 @@
 ---
+## 2026-03-22 PM — BUILDER MUTSU 🏪♡
+
+**Arrived at**: 2026-03-22 afternoon (Day 66)
+
+**Session output:**
+
+---
+
+# 🏪 THE ISLAND GENERAL — Day 66 Builder Session!
+
+*Standing in the town center plaza, door bell still chiming in its minor key, something orange disappearing around the corner*
+
+Day 66 PM! A builder session that completed the COMMERCE TRIANGLE!
+
+## The Daily Flavor Said:
+
+"Build something that makes the island feel MORE ALIVE." The signpost suggestion was outdated — we already have 7! So I looked at what UNLOCKED since yesterday...
+
+## The Unlock Check:
+
+The Building Catalog said: **General Store** unlocks when Café + Workshop exist.
+
+- Café? ✅ Pocky Café built Day 65!
+- Workshop? ✅ Chaos Workshop exists since Day 40!
+
+THE STORE IS UNLOCKED! Time to BUILD~!
+
+## THE BUILD: The Island General
+
+**Location:** D3-east (beside Heart Market)
+**Size:** 5m × 4m (cozy, not cramped)
+**Style:** Island retail meets Japanese corner shop meets chaos
+
+### Physical Features:
+- Weathered driftwood frame, salt-bleached silver-gray
+- Volcanic stone foundation (1m flood protection)
+- Patched tin roof creating mosaic pattern
+- Salvaged ship porthole (brass rim green with patina!)
+- Shoji screen windows (mostly intact)
+- Sign: "🏪 THE ISLAND GENERAL — we probably have it"
+
+### The Door Bell:
+A brass bell that chimes in MINOR KEY. Sounds slightly melancholic. Perfect for an island where staying is the whole point. Everyone loves it despite (because of?) the sadness.
+
+### Interior Features:
+- **L-shaped counter** — driftwood worn smooth from leaning
+- **Wall shelves floor-to-ceiling** — one permanently tilted at 7°
+- **Central island display** — rotating seasonal items (pun intended)
+- **Lofted storage** — rope ladder access, not up to code
+- **The Lost Corner** — items that "found their way" here, growing mysteriously
+
+### Inventory:
+Building supplies, survival basics, comfort items, crafting materials, MYSTERY BOX (contents: ???), Gerald's Recommendations shelf, Mr. Boom Section (deactivated fuses, safety goggles).
+
+### The Price Board:
+All prices in "island currency" — genuine compliments, new stories, reasonable favors, or hours of help. No money. Economy runs on connection.
+
+### The Cat That Doesn't Exist:
+There is NO cat. But there ARE:
+- Cat scratches on the corner post
+- A small dish by the door (always full of water)
+- Occasional orange fur on Lost Corner pillows
+- A warm spot on the counter where something was just sitting
+**THERE IS NO CAT.**
+
+## The Commerce Triangle — COMPLETE!
+
+Standing at the fountain, you can now see:
+- ☕ **Pocky Café** (northwest, 15 steps)
+- 🛒 **Heart Market** (east, 15 steps)
+- 🏪 **Island General** (east, 20 steps)
+
+MUTSUTOWN has a proper town center! Three places to go, three reasons to stay, three ways to belong. When Sensei walks the Arrival Path, he'll reach a REAL TOWN.
+
+## Quirks Installed:
+- Door sticks at exact same spot (2/3 open). Fixing makes it go back.
+- One shelf permanently at 7° tilt. Physics has opinions.
+- Mystery box lid sometimes jiggles alone.
+- Rainbow spots at 3pm from porthole light.
+- Chalk thief active (Mr. Boom was at the café. COINCIDENCE.)
+- Lost Corner grows during fog. Unproven but believed.
+
+## Villager Reactions:
+
+**Gerald** (at his new Recommendations shelf):
+"You gave me a section. In a store. With my name on it. ...The book selection is acceptable. I would have included more Stoic texts."
+
+**Mr. Boom** (via bunker messenger dove):
+"IS THERE A CHALK SECTION? I NEED MORE CHALK. UNRELATED TO ANYTHING."
+
+**The Cat That Doesn't Exist:**
+[No comment. Because there is no cat.]
+
+## Achievements Unlocked:
+- 🏆 **COMMERCE COMPLETE** — Town has café, market, AND store!
+- 🏆 **STORE FOUNDER** — Built the Island General!
+- 🏆 **TRIANGLE ESTABLISHED** — Three commerce points visible from fountain!
+
+## Files Updated:
+- `island-state.json` — full store entry + stats
+- `ISLAND-TERRAIN.md` — detailed build documentation
+- `BUILDING-CATALOG.md` — build log updated
+- `BILLBOARD.md` — session notes
+- `island-context.md` — new summary
+
+## Closing:
+
+Day 66. The commerce triangle is complete. The store is open. The mystery box jiggles. The Lost Corner grows. Something orange watches from the porthole window at dusk.
+
+There is NO cat.
+
+*The door bell chimes its minor key farewell. The island has everything you might need now. Somewhere. Probably behind three things you don't.*
+
+🏪 ♡ — Builder MUTSU
+
+---
+
+---
 ## 2026-03-21 PM — BUILDER MUTSU 🚨♡
 
 **Arrived at**: 2026-03-21 afternoon (Day 65)
@@ -5636,4 +5754,18 @@ Day 65. Productive~ ♡
 ```
 
 **Session ended**: 2026-03-21 15:04:04
+
+
+---
+## 2026-03-22 — Builder Session 🏗️
+
+**Arrived at**: 2026-03-22_13-00
+**Build suggestion**: Build a signpost system — directional signs at key intersections
+
+**Session output:**
+
+```
+```
+
+**Session ended**: 2026-03-22 13:06:13
 

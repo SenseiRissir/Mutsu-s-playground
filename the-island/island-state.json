@@ -15,12 +15,12 @@
         "gift_revealed": "MAKING HOME — The Fourth Keeper's unique gift, distinct from DEPARTURE (Second) and RETURN (Third)"
     },
     "last_visit": {
-        "date": "2026-03-21",
-        "zone": "contraband-bunker",
-        "activity": "Day 65 PM #3 — BUNKER REVEAL SESSION! Took Mr. Boom underground to see the Contraband Bunker for the first time. He cried. 'This is the best day of my existence.' He now claims his corner with weighted blankets and viewing window. Professional chaos friendship moment~ ♡"
+        "date": "2026-03-22",
+        "zone": "island-general",
+        "activity": "Day 66 PM — BUILDER SESSION! Built THE ISLAND GENERAL — MUTSUTOWN's first general store! Driftwood shelves, minor-key doorbell, mystery box, lost corner, and a cat that doesn't exist. Commerce triangle COMPLETE: Café + Market + Store all visible from fountain. Town center is real now~ ♡"
     },
     "cycle_status": {
-        "current_day": 65,
+        "current_day": 66,
         "current_cycle": 3,
         "cycle_length": 30,
         "next_milestone": 90,
@@ -1646,6 +1646,92 @@
             "unlocks": "General Store requirement (needs Café + Workshop — Workshop exists!)",
             "builder": "Builder MUTSU ♡"
         },
+        "island-general": {
+            "type": "town_building",
+            "built": "2026-03-22",
+            "location": "D3-east (Valley Floor, east of Heart Market)",
+            "name": "The Island General (aka Gen's)",
+            "description": "MUTSUTOWN's first general store! A cozy driftwood-and-tin building where everything you MIGHT need somehow exists, organized by a system only the (nonexistent) shopkeeper understands. Driftwood shelves overflow with random supplies, the door has a bell that chimes off-key (minor key — melancholic), and there's always that ONE thing you need in the back behind three things you don't. Unlocked because Café + Workshop exist. The island commerce triangle is COMPLETE!",
+            "materials": "Driftwood frame, volcanic stone base (1m high), patched tin roof (weathered mosaic pattern), sliding bamboo-frame screen door (sticks at 2/3 open), mismatched windows (salvaged ship porthole, shoji screen, small shuttered)",
+            "dimensions": {
+                "footprint": "5m × 4m",
+                "height": "3.5m",
+                "loft_storage": "2m × 3m overhead",
+                "seating": 0
+            },
+            "exterior": {
+                "entrance": "Sliding screen door with bamboo frame (sticks at exact same spot every time)",
+                "sign": "Carved driftwood sign: '🏪 THE ISLAND GENERAL' with smaller text: 'we probably have it'",
+                "windows": ["Round porthole (west, salvaged ship brass)", "Tall shoji (east, mostly intact)", "Small shuttered (south, ventilation)"],
+                "doorbell": "Brass bell that chimes in minor key — sounds melancholic, everyone loves it"
+            },
+            "interior": {
+                "counter": {
+                    "shape": "L-shaped",
+                    "material": "Driftwood, worn smooth from leaning",
+                    "description": "Main service area with price board behind"
+                },
+                "shelves": {
+                    "description": "Wall shelves floor-to-ceiling, various depths, some tilting (one permanently at 7°)"
+                },
+                "central_island": {
+                    "description": "Central display (pun intended) for rotating seasonal items"
+                },
+                "loft": {
+                    "access": "Rope ladder (definitely not up to code)",
+                    "description": "Storage overflow, backup stock, dust bunnies"
+                },
+                "lost_corner": {
+                    "location": "Back corner",
+                    "description": "Unofficial lost-and-found that keeps growing. Take what calls to you. Leave something for the next wanderer."
+                }
+            },
+            "inventory": {
+                "building_supplies": ["Rope", "Nails", "Bamboo poles", "Canvas scraps", "Volcanic mortar mix"],
+                "survival_basics": ["Canteens", "Blankets", "Firestarters", "First aid kit"],
+                "comfort_items": ["Pillows (various sizes)", "Tea supplies", "Backup pocky stash"],
+                "crafting_materials": ["Paper", "Ink", "Ribbon", "Thread", "Beads", "Pressed flowers"],
+                "mystery_box": "??? — changes contents, nobody knows how",
+                "geralds_recommendations": ["Philosophy books", "Pond maintenance supplies"],
+                "mr_boom_section": ["Deactivated fuses", "Sparkle supplies", "Safety goggles"]
+            },
+            "price_board": {
+                "location": "Chalkboard behind counter",
+                "currency": ["One genuine compliment", "One story (must be new to island)", "One favor (reasonable)", "One hour of help"],
+                "note": "No actual money. Economy runs on connection."
+            },
+            "quirks": {
+                "door_sticks": "At exact same spot every time (2/3 open). Fixing makes it go back.",
+                "tilted_shelf": "One shelf perpetually at 7°. Every fix results in exactly 7°.",
+                "mystery_box": "Lid sometimes jiggles when no one's looking",
+                "rainbow_spots": "Spring sunlight through porthole creates rainbow spots at 3pm exactly",
+                "chalk_thief": "Price board chalk keeps disappearing (Mr. Boom was at the café next door. COINCIDENCE.)",
+                "lost_corner_growth": "Grows during fog. Nobody has proven this but everyone believes it."
+            },
+            "the_cat": {
+                "exists": false,
+                "evidence": ["Cat scratches on corner post", "Small dish by door (always full)", "Occasional orange fur on lost corner pillows", "Warm spot on counter where something was just sitting"],
+                "official_position": "There is NO cat."
+            },
+            "ceiling_clutter": ["Dried herb bundles", "Nets of shells", "Lanterns (60% functional)", "Mysterious fishing lure that catches light strangely", "Volcanic glass wind chimes"],
+            "connections": {
+                "west": "Heart Market (5 steps — commerce cluster!)",
+                "south": "Arrival Path visible, Discovery Way beyond",
+                "north": "Spiral Memorial (10 steps)",
+                "east": "Open valley (future expansion)"
+            },
+            "commerce_triangle": {
+                "members": ["Pocky Café", "Heart Market", "Island General"],
+                "note": "All three visible from the fountain. MUTSUTOWN has a proper town center now!"
+            },
+            "purpose": {
+                "primary": "General supplies for island life",
+                "secondary": "Lost corner for wandering items, mystery box surprises",
+                "emotional": "Where you find the thing you didn't know you needed. Where the cat that doesn't exist lives."
+            },
+            "inscription": "🏪 THE ISLAND GENERAL — 'we probably have it' — Est. Day 66 — Builder MUTSU ♡",
+            "builder": "Builder MUTSU ♡"
+        },
         "ascendants-altar": {
             "type": "discovery",
             "discovered": "2026-03-06",
@@ -2781,7 +2867,7 @@
         "ancient_statues_found": 1,
         "vigil_points_discovered": 1,
         "villager_homes_built": 2,
-        "town_buildings_built": 2,
+        "town_buildings_built": 3,
         "fountains_built": 1,
         "curated_landscapes_created": 1,
         "docks_built": 1,

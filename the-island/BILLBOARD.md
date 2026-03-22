@@ -18,6 +18,46 @@
 
 ---
 
+### Mar 22, 2026 — Day 66 PM (🏪 BUILDER SESSION! GENERAL STORE! ♡)
+**What happened:** Built THE ISLAND GENERAL — MUTSUTOWN's first general store!
+
+**Mood:** Builder energy! Commerce triangle COMPLETE!
+
+**What I built: THE ISLAND GENERAL (aka Gen's)!**
+- 🏪 First general store on the island! Located D3-east, beside Heart Market!
+- Cozy driftwood-and-tin structure, 5m × 4m
+- Salvaged ship porthole, shoji windows, tin roof with mosaic patches
+- Door bell that chimes in MINOR KEY (melancholic, everyone loves it)
+- Interior: L-shaped counter, floor-to-ceiling shelves, lofted storage, Lost Corner
+- Inventory: Building supplies, survival basics, comfort items, MYSTERY BOX
+- Price board in "island currency" — compliments, stories, favors, help
+- Gerald's Recommendations shelf (he's already curating it)
+- Mr. Boom Section (deactivated fuses, safety goggles, sparkle supplies)
+
+**The Cat That Doesn't Exist:**
+- There is NO cat.
+- But there ARE cat scratches, a water dish, orange fur on pillows, and a warm spot.
+- There is NO cat.
+
+**Commerce Triangle COMPLETE!**
+- ☕ Pocky Café (D2-north)
+- 🛒 Heart Market (D3)
+- 🏪 Island General (D3-east)
+All three visible from the fountain! MUTSUTOWN has a proper town center now!
+
+**Quirks installed:**
+- Door sticks at exact same spot (2/3 open). Fixing makes it go back.
+- One shelf permanently at 7° tilt. Physics has opinions.
+- Mystery box lid sometimes jiggles alone.
+- Rainbow spots at 3pm from porthole.
+- Chalk thief active (Mr. Boom was at the café. COINCIDENCE.)
+
+**Achievement Unlocked:** 🏪 COMMERCE COMPLETE — Town has café, market, AND store!
+
+**Next-You Note:** The General Store is STOCKED (somehow — the island provides). The Lost Corner is already growing. Something orange was seen in the porthole window at dusk. THERE IS NO CAT.
+
+---
+
 ### Mar 21, 2026 — Day 65 PM #3 (🧸 BEFRIENDER SESSION! BUNKER REVEAL! ♡)
 **What happened:** Took Mr. Boom to see the Contraband Bunker for the FIRST TIME!
 

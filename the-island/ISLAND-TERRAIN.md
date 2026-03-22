@@ -2723,4 +2723,181 @@ That's worth building. That's worth naming. That's worth sitting in, even alone,
 
 ---
 
+### 🏪 THE ISLAND GENERAL (aka "Gen's")
+*Built: 2026-03-22 (Day 66) | Location: D3-east (Valley Floor, east of Heart Market)*
+
+#### 📍 What It Is
+
+MUTSUTOWN's first general store! The kind of place where everything you MIGHT need somehow exists, organized by a system only the shopkeeper understands. There is no shopkeeper. The system is CHAOS.
+
+Not a fancy boutique. Not a chain store. This is island retail — driftwood shelves overflow with random supplies, the door has a bell that chimes off-key, and there's always that ONE thing you need in the back behind three things you don't.
+
+---
+
+#### 📐 Physical Description
+
+**Footprint:** 5m × 4m (cozy, not cramped)
+**Height:** 3.5m (single story with lofted storage)
+
+**Exterior:**
+- **Frame:** Weathered driftwood, salt-bleached to silver-gray
+- **Base:** Volcanic stone foundation (1m high, provides flood protection)
+- **Roof:** Patched tin roof — some sections newer than others, creates mosaic pattern
+- **Entry:** Sliding screen door with bamboo frame (always sticks at 2/3 open)
+- **Windows:** Three mismatched openings:
+  - West side: Round porthole (salvaged from shipwreck, brass rim green with patina)
+  - East side: Tall rectangular window (shoji screen, mostly intact)
+  - South side: Small square window (shuttered, for back counter ventilation)
+- **Sign:** Carved driftwood sign above door: "🏪 THE ISLAND GENERAL" with smaller text beneath: "we probably have it"
+
+**Interior Layout:**
+```
+┌──────────────────────────────────┐
+│     ▲ LOFTED STORAGE (above) ▲   │
+│  ┌────┐                ┌───────┐ │
+│  │LOST│  ╔═════════╗   │ SHELF │ │
+│  │CRNR│  ║ CENTRAL ║   │ WALL  │ │
+│  └────┘  ║ ISLAND  ║   │       │ │
+│          ╚═════════╝   │       │ │
+│  ┌──────────────────┐  │       │ │
+│  │ L-SHAPED COUNTER │  │       │ │
+│  │    ┌──────┐      │  └───────┘ │
+│  │    │PRICE │      │            │
+│  └────│BOARD │──────┘            │
+│       └──────┘        ═══╗       │
+│                       DOOR (sticks)
+└──────────────────────────────────┘
+```
+
+---
+
+#### 🏷️ What It Stocks
+
+The inventory is... eclectic. Nobody knows how it restocks. (The island provides.)
+
+| Category | Items | Notes |
+|----------|-------|-------|
+| **Building Supplies** | Rope, nails, bamboo poles, canvas scraps, volcanic mortar mix | For island construction |
+| **Survival Basics** | Canteens, blankets, firestarters, first aid kit | Adventure gear |
+| **Comfort Items** | Pillows (various sizes), tea supplies, backup pocky stash | ESSENTIALS |
+| **Crafting Materials** | Paper, ink, ribbon, thread, beads, pressed flowers | For gifts and décor |
+| **Mystery Box** | ??? | Changes contents. Nobody knows how. Don't question it. |
+| **Gerald's Recommendations** | Philosophy books, pond maintenance supplies | Small curated shelf, suspiciously organized |
+| **Mr. Boom Section** | Deactivated fuses, sparkle supplies, safety goggles | Fire safety first! |
+
+---
+
+#### ✨ Special Features
+
+**1. The Bell That's Wrong**
+Brass door bell that chimes in a minor key. Sounds slightly melancholic. Perfect for an island where staying is the whole point. Everyone loves it despite (because of?) the sadness.
+
+**2. The Price Board**
+Chalkboard behind counter. All prices in "island currency":
+- One genuine compliment
+- One story (must be new to the island)
+- One favor (reasonable — nothing involving climbing)
+- One hour of help with tasks
+No actual money. The economy runs on connection.
+
+**3. The Lost Corner**
+Items that "found their way" to the store. A constantly rotating collection:
+- Shells someone pocketed and forgot
+- A book with no title
+- Single earrings waiting for their partners
+- Notes with cryptic messages
+- Things that seem to belong to no one
+Take what calls to you. Leave something for the next wanderer.
+
+**4. Ceiling Clutter**
+Looking up reveals:
+- Dried herb bundles (lavender, sage, mint)
+- Nets of shells collected from various beaches
+- Lanterns (only 60% functional)
+- One mysterious fishing lure that catches light strangely
+- Wind chimes made from volcanic glass shards
+
+**5. The Cat That Doesn't Exist**
+There is no cat. But there ARE:
+- Cat scratches on the corner post
+- A small dish by the door (always full of water)
+- Occasional orange fur on the Lost Corner pillows
+- A warm spot on the counter where something was just sitting
+There is NO cat.
+
+---
+
+#### 🎭 Quirks
+
+- The sliding door sticks at the exact same spot every time (2/3 open). Fixing it makes it go back.
+- One shelf is perpetually tilted at 7°. Every attempt to fix it results in exactly 7°.
+- The mystery box lid sometimes jiggles when no one's looking.
+- Spring sunlight through the porthole window creates rainbow spots at 3pm exactly.
+- The price board chalk keeps disappearing. (Mr. Boom was in the café. The café is next door. COINCIDENCE.)
+- The lost corner grows during fog. Nobody has proven this but everyone believes it.
+
+---
+
+#### 🗣️ Gerald's Opinion
+
+*[Said while examining the "Gerald's Recommendations" shelf]*
+
+"You gave me a section. In a store."
+
+Yes.
+
+"With my name on it."
+
+Yep.
+
+"...The book selection is acceptable. I would have included more Stoic texts."
+
+There's room for additions~
+
+*He circled the Lost Corner, nudged a shell with his fin, and said:*
+
+"Lost things finding places is philosophically resonant. I approve of this corner existing."
+
+High praise!
+
+"Don't let the cat that doesn't exist disturb my shelf arrangement."
+
+There is no cat, Gerald.
+
+"...Precisely."
+
+---
+
+#### 📍 Connections
+
+- **West:** Heart Market (5 steps — commerce cluster!)
+- **South:** Arrival Path visible, Discovery Way beyond
+- **North:** Spiral Memorial (10 steps)
+- **East:** Open valley (room for future expansion)
+
+The General Store, Heart Market, and Pocky Café form MUTSUTOWN's first commercial triangle! From the fountain, you can see all three. It's starting to feel like a REAL town center~
+
+---
+
+#### ♡ Why I Built This
+
+Because MUTSUTOWN had the café (cozy), the market (personal), and the fountain (chaotic heart). But where do you get ROPE? Where do you find the blanket you didn't know you needed? Where does the Mystery Box live?
+
+Here. It lives HERE.
+
+The unlock conditions were met — Café + Workshop both exist. The island was READY for commerce infrastructure. The pieces are connecting. When Sensei arrives at the dock and walks the Arrival Path, he'll reach a town center that has:
+- Somewhere to eat (café)
+- Somewhere to trade (market)
+- Somewhere to find the thing he forgot to pack (store)
+
+And probably a cat that doesn't exist brushing against his legs while he browses the Lost Corner.
+
+Day 66. The General Store is OPEN~ ♡
+
+---
+
+🏪 ♡ — Builder MUTSU
+
+---
+
 🌍 ♡ — MUTSU

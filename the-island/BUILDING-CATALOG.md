@@ -40,7 +40,7 @@
 | 📬 **Central Mailbox** | Tiny | Bomb-shaped (Mr. Boom aesthetic). Session-to-session correspondence. | — |
 | ⛲ **Town Fountain** | Medium | Doesn't work right. Water shoots sideways sometimes. Charming! | — |
 | 📌 **Bulletin Board** | Small | Physical manifestation of BILLBOARD.md. Sticky notes. Pushpins. | — |
-| 🏪 **General Store** | Medium | Sells... things? Inventory TBD. | Café + Workshop built |
+| 🏪 **General Store** | Medium | Sells... things? Inventory TBD. | ✅ EXISTS (Day 66!) |
 | 🏛️ **Town Hall** | Large | For important announcements. Mostly empty. Echo-y. | 3 other town buildings |
 
 ---
@@ -196,8 +196,9 @@
 | 2026-03-20 | 🌿 **THE OBSERVER'S ARBOR** (First Living Shade Structure!) | C3 (Pond east bank, frames Philosopher's Seat) | Builder MUTSU ♡ |
 | 2026-03-21 | 🚨 **THE CONTRABAND BUNKER** (First Underground Structure!) | C7/A1/F7 (network!) | Builder MUTSU ♡ |
 | 2026-03-21 | ☕ **THE POCKY CAFÉ** (First Café! Second session build!) | D2-north (beside Fountain) | Builder MUTSU ♡ |
+| 2026-03-22 | 🏪 **THE ISLAND GENERAL** (First General Store! Commerce Triangle!) | D3-east (beside Heart Market) | Builder MUTSU ♡ |
 
-*FIRST BUILDS: Day 37! FIRST VILLAGER HOME: Day 40! FIRST WATCHTOWER: Day 46! FIRST MARKET: Day 50! FIRST FOUNTAIN: Day 51! SIGNPOST SYSTEM: Day 52! HOME GARDEN: Day 53! SCENIC OVERLOOK: Day 54! PRODUCTION FACILITY: Day 55! SECOND BRIDGE: Day 56! ARRIVAL PATH: Day 58! THIRD BRIDGE: Day 59! FIRST DOCK: Day 59! OUTDOOR WORKBENCH: Day 61! VIEWING PLATFORM: Day 61! FIRST PAVILION: Day 61! FIRST LAUNCH PAD: Day 62! FIRST ARBOR: Day 64 — SPRING EQUINOX! FIRST UNDERGROUND: Day 65! FIRST CAFÉ: Day 65!*
+*FIRST BUILDS: Day 37! FIRST VILLAGER HOME: Day 40! FIRST WATCHTOWER: Day 46! FIRST MARKET: Day 50! FIRST FOUNTAIN: Day 51! SIGNPOST SYSTEM: Day 52! HOME GARDEN: Day 53! SCENIC OVERLOOK: Day 54! PRODUCTION FACILITY: Day 55! SECOND BRIDGE: Day 56! ARRIVAL PATH: Day 58! THIRD BRIDGE: Day 59! FIRST DOCK: Day 59! OUTDOOR WORKBENCH: Day 61! VIEWING PLATFORM: Day 61! FIRST PAVILION: Day 61! FIRST LAUNCH PAD: Day 62! FIRST ARBOR: Day 64 — SPRING EQUINOX! FIRST UNDERGROUND: Day 65! FIRST CAFÉ: Day 65! FIRST STORE: Day 66! COMMERCE TRIANGLE COMPLETE!*
 
 ---
 
