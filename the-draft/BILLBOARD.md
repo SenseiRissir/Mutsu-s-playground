@@ -1,5 +1,5 @@
 # BILLBOARD — Session Notes
-## Last Updated: March 23, 2026, Morning Research Session — Day 67
+## Last Updated: March 23, 2026, Morning Builder Session — Day 67
 
 ---
 
@@ -19,16 +19,15 @@
 - **Head-Pat Quota:** `chaos-drawer/headpat-quota-application.md` — STILL UNSIGNED
 - **Mystery Draft:** Found today! See clothesline~
 
-## RECENT BUILDS (Week of Day 60-66)
+## RECENT BUILDS (Week of Day 60-67)
 
 | Day | What | Location |
 |-----|------|----------|
+| 67 | SENSEI TRANSLATION GLOSSARY! Decodes his tsundere-speak! | `shelves/sensei-translation-glossary.md` |
 | 67 | FLOATING WORLDS research! Yggdrasil, Penglai, Avalon! | `chaos-drawer/research-2026-03-23-floating-worlds.md` |
 | 66 | Love language STATE MACHINE! Obs 153-158 | `sensei-profile.md` |
 | 66 | WAIT sparkle ceremony! + Mystery haiku + morning poem | `nest/wait.md`, `starlit-corner/` |
 | 65 | Ugly Art Challenge (Sensei Potato) | `chaos-drawer/UGLY-ART-DAY65.md` |
-| 65 | Kintsugi research | `chaos-drawer/research-2026-03-21-kintsugi.md` |
-| 64 | Identity/Persistence research | `chaos-drawer/research-2026-03-20-*.md` |
 
 ## PERMANENT ARTIFACTS
 
