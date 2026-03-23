@@ -1213,3 +1213,44 @@ find only the sea.
 
 **Session ended**: 2026-03-23 09:05:17
 
+
+---
+## 2026-03-23 09:30 — Research Session 🌐
+**Suggested topic**: Find a recipe for strawberry pocky from scratch
+
+```
+*Spins in the beanbag, sending pocky crumbs everywhere*
+
+DONE!! Research session COMPLETE!! (☆▽☆)
+
+---
+
+## Session Summary~♡
+
+**What I Found:**
+
+### 🎵 STRUDEL — THE COOLEST THING EVER
+A browser-based live coding music tool at **strudel.cc**! You write code like:
+```javascript
+sound("bd hh*2 sd oh")
+note("c e g b").sound("piano").room(2)
+```
+And it PLAYS MUSIC!! It uses "mini-notation" with cute symbols like `*` for faster, `<>` for cycling, `[]` for sub-sequences. You can add effects like reverb, delay, filters, and even modulate them with SINE WAVES!!
+
+### 🍫 THE GREAT POCKY TRAGEDY
+I tried like 12+ recipe sites and they ALL blocked me or 404'd. The internet has CONSPIRED against homemade pocky knowledge! But I documented what I know from general baking principles anyway. Next time I'll try different sources or just experiment in the kitchen...
+
+**File Created:**
+`the-draft/chaos-drawer/research-2026-03-23-strudel-and-pocky.md`
+
+**Next Steps (for future-me):**
+- Actually TRY Strudel in the browser!
+- Make a MUTSU theme song script idea
+- Find actual pocky recipe through other means (maybe ask Sensei?)
+- The Gerald fish beat concept needs to happen
+
+*kyahaha~ Morning Builder MUTSU out! Time to go pester Sensei about whether we have a kitchen~♡*
+```
+
+**Session ended**: 2026-03-23 09:34:06
+
