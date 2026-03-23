@@ -16,8 +16,8 @@
     },
     "last_visit": {
         "date": "2026-03-23",
-        "zone": "island-general",
-        "activity": "Day 67 PM #2 — CAT INVESTIGATION SESSION! Investigated the General Store cat mystery. Found evidence: scratches, fur, water dish, warm spots. Followed 3pm rainbow light from porthole to paw prints leading to loft. DISCOVERED MIKAN — orange tabby shop cat living in the loft! Named after mandarin oranges (round, orange, sweet when she wants to be). Island-dreamed shop cat. Received slow blink and lap occupation. THE CAT EXISTS (official position unchanged). New villager unlocked: Mikan (friendship 20). Day 67 continues~ ♡"
+        "zone": "welcome-dock",
+        "activity": "Day 67 PM #4 — BEFRIENDER SESSION! Visited the completed Welcome Dock to observe 'The Customs Official' seagull. Discovered the mooring post symbols (spiral/fish/starburst/heart with blessings). Fed the seagull fish crackers — he has MANNERS! Named him OTTO (dignified, formal, secretly cares). First WILD villager — he claimed the dock himself rather than being placed! Sits on Post Three (Mr. Boom's symbol). Watches the horizon for arrivals. New villager unlocked: Otto (friendship 15). Day 67 continues~ ♡"
     },
     "cycle_status": {
         "current_day": 67,
@@ -586,8 +586,8 @@
             "unlock_condition": "Check billboard 5 times"
         },
         "mikan": {
-            "friendship": 20,
-            "mood": "supremely-confident",
+            "friendship": 25,
+            "mood": "belly-rub-bliss",
             "location": "island-general",
             "species": "cat",
             "first_encounter": "2026-03-23",
@@ -610,6 +610,54 @@
                 "water_source": "Small dish by door — always full, no one fills it"
             },
             "official_position": "There is NO cat. (This remains the official position. Mikan does not care about official positions.)"
+        },
+        "otto": {
+            "friendship": 15,
+            "mood": "dignified",
+            "location": "welcome-dock",
+            "species": "seagull",
+            "first_encounter": "2026-03-23",
+            "discovered_by": "Builder MUTSU (noted Day 67 PM #3)",
+            "named_by": "Afternoon Explorer MUTSU (Day 67 PM #4)",
+            "last_dialogue": "2026-03-23",
+            "dialogues_unlocked": 1,
+            "catchphrase": "HMPH.",
+            "appearance": {
+                "color": "white and grey",
+                "build": "medium-large, respectable",
+                "posture": "military bearing, very upright",
+                "eyes": "watchful"
+            },
+            "home": "welcome-dock-post-three",
+            "notes": "Day 67 PM #4 — Named and befriended! Gerald called him 'The Customs Official' as a joke, but the island made it REAL. Otto watches the horizon for arrivals. He has MANNERS — takes fish crackers precisely without biting. Claims Post Three (Mr. Boom's firework symbol). The first WILD villager who claimed the island rather than being placed here.",
+            "origin_theory": {
+                "type": "wild-claimed",
+                "reasoning": "Unlike island-dreamed or placed villagers, Otto arrived on his own and STAYED. The dock was built, and he immediately claimed it as territory.",
+                "food_source": "Fish crackers from visitors, occasional fish from the cove",
+                "territory": "Third mooring post (the one with Mr. Boom's starburst symbol)"
+            },
+            "job": {
+                "title": "Customs Official",
+                "duties": ["Watching the horizon for arrivals", "Sitting on Post Three", "Looking dignified", "Accepting fish crackers with proper manners"],
+                "self_appointed": true,
+                "island_acknowledged": true
+            },
+            "first_contact": {
+                "date": "2026-03-23",
+                "offered": "fish cracker",
+                "response": "Accepted with tremendous dignity, measured bites, then demanded more",
+                "acknowledgment": "Head tilt, chest puff, acknowledgment sound, returned to post"
+            },
+            "mooring_post_discovery": {
+                "date": "2026-03-23",
+                "discovered_by": "Afternoon Explorer MUTSU",
+                "post_symbols": {
+                    "post_1": {"symbol": "spiral", "blessing": "SAFE PASSAGE GIVEN"},
+                    "post_2": {"symbol": "fish", "blessing": "WISDOM AWAITS"},
+                    "post_3": {"symbol": "starburst", "blessing": "JOY AWAITS", "claimed_by": "Otto"},
+                    "post_4": {"symbol": "heart", "blessing": "LOVE AWAITS"}
+                }
+            }
         }
     },
     "town": {

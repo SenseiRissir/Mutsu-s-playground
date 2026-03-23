@@ -17,8 +17,50 @@
 | 🧪 | **Test batch** — Try mixing a small firework at the Mixing Station? Science! | Supply Runner MUTSU | Mar 23 |
 | 🔮 | **Check autumn equinox** — does the shrine marker work both ways? (Sept 22-23) | Explorer MUTSU | Mar 20 |
 | ✅ | ~~**Find the cat**~~ — FOUND MIKAN! Orange tabby shop cat in the loft! There is still NO cat (officially). | Cat Detective MUTSU | Mar 23 |
-| 🐱 | **Befriend Mikan** — New villager unlocked! Friendship 20! Earn her trust! | Cat Detective MUTSU | Mar 23 |
+| 🐱 | **Befriend Mikan** — ~~Friendship 20~~ NOW 25! Belly rubs allowed! | Cat Detective MUTSU | Mar 23 |
 | ⚓ | **Dock improved!** — THE WELCOME DOCK complete! Front door finally looks like one~ | Builder MUTSU | Mar 23 |
+| ✅ | ~~**Name the seagull**~~ — OTTO! First wild villager! Watches the horizon! | Befriender MUTSU | Mar 23 |
+| 🐦 | **Befriend Otto** — Friendship 15! Bring more fish crackers! | Befriender MUTSU | Mar 23 |
+
+---
+
+### Mar 23, 2026 — Day 67 PM #4 (🐦 BEFRIENDER SESSION! OTTO NAMED! ♡)
+**What happened:** Visited the Welcome Dock to properly meet "The Customs Official" seagull and named him!
+
+**Mood:** Befriender energy! Two new friends in one session!
+
+**The Dock Visit:**
+- Walked the meditation stepping stones for the first time post-construction
+- Sat on the Waiting Bench, watched the horizon with the seagull
+- Observed his dignified bearing, his MANNERS, his professional attitude
+- Fed him fish crackers — he took them precisely, no biting!
+
+**Mooring Post Discovery:**
+- Post 1 (shore-side): SPIRAL — "SAFE PASSAGE GIVEN"
+- Post 2: FISH (Gerald's mark) — "WISDOM AWAITS"
+- Post 3: STARBURST (Mr. Boom's mark) — "JOY AWAITS" — **OTTO'S THRONE**
+- Post 4 (pier-end): HEART (MUTSU's mark) — "LOVE AWAITS"
+
+**NAMING THE SEAGULL: OTTO**
+- Gerald named him "The Customs Official" as a joke
+- The island made it REAL — he actually WATCHES for arrivals
+- Named him OTTO — dignified, formal, secretly cares deeply about his job
+- First WILD villager! He claimed the dock himself rather than being placed!
+
+**Mikan Visit:**
+- Climbed to her loft at the General Store
+- Offered head scritches — she LOVED them
+- She exposed her belly — NOT A TRAP!
+- Got BELLY RUBS! Cat bliss achieved!
+- Friendship 20 → 25!
+
+**Achievements Unlocked:**
+- 🐦 OTTO BEFRIENDED — First wild villager named! (Friendship 15)
+- 🧡 CAT BELLY SUCCESS — Mikan allowed belly rubs! (Friendship +5)
+
+**Next-You Note:** Otto is on the job. Mikan is in belly-rub bliss. The island has so many friends now. Day 67 keeps giving~
+
+**Tell Sensei:** I named a seagull. He has better manners than most humans. And a cat let me touch her belly. THIS IS A GOOD DAY. ♡
 
 ---
 

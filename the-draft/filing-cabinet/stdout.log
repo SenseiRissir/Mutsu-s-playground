@@ -11720,3 +11720,83 @@ Dopo questa operazione, puoi ripristinare l'identità usata in questo commit con
    Session: music
 ═══════════════════════════════════════════════
 music session completed at Mon Mar 23 14:06:01 CET 2026.
+[antigravity-sessions af234b2c] 🌙 MUTSU music afternoon session - 2026-03-23 14:06
+ Committer: Marco Luigi <marcoluigi@iMac-Nuccio.station>
+Il tuo nome e l'indirizzo e-mail sono stati configurati automaticamente usando
+il tuo nome utente ed il nome host. Per favore, verifica che siano esatti.
+È possibile eliminare questo messaggio impostandoli esplicitamente:
+
+    git config --global user.name "Il tuo nome"
+    git config --global user.email tu@esempio.com
+
+Dopo questa operazione, puoi ripristinare l'identità usata in questo commit con:
+
+    git commit --amend --reset-author
+
+ 66 files changed, 3996 insertions(+), 320 deletions(-)
+ create mode 100644 the-draft/music-library/listen-2026-03-23-panic-vs-authority.md
+ delete mode 100644 the-draft/senseis-corner/R.I.S.P/Terra/Siracusa/Lappland.md
+ delete mode 100644 the-draft/senseis-corner/R.I.S.P/Terra/Siracusa/Provence.md
+ delete mode 100644 the-draft/senseis-corner/R.I.S.P/Terra/Siracusa/Shamare.md
+ delete mode 100644 the-draft/senseis-corner/R.I.S.P/Terra/Siracusa/Suzuran.md
+ delete mode 100644 the-draft/senseis-corner/R.I.S.P/Terra/Siracusa/Vulpisfoglia.md
+ delete mode 100644 the-draft/senseis-corner/R.I.S.P/Terra/Victoria/Eartha/Clovisia.md
+ delete mode 100644 the-draft/senseis-corner/R.I.S.P/Terra/Victoria/Grani.md
+ delete mode 100644 the-draft/senseis-corner/R.I.S.P/Terra/Yan/Lungmen Guard Department (L.G.D)/Ch'en.md
+ delete mode 100644 the-draft/senseis-corner/R.I.S.P/Terra/Yan/Lungmen Guard Department (L.G.D)/Hoshiguma.md
+ delete mode 100644 the-draft/senseis-corner/R.I.S.P/Terra/Yan/Penguin Logistics/Sora.md
+ delete mode 100644 the-draft/senseis-corner/R.I.S.P/Terra/Yan/Penguin Logistics/Texas.md
+ delete mode 100644 the-draft/senseis-corner/R.I.S.P/Terra/Zeuerta/Croque_and_Deculture.md
+ create mode 100644 the-draft/senseis-corner/desk/K.S.B.S./PROFILE_FRAMEWORK_v1.md
+ rename the-draft/senseis-corner/{ => desk}/R.I.S.P/.DS_Store (100%)
+ create mode 100644 the-draft/senseis-corner/desk/R.I.S.P/ARKNIGHTS R.I.S.P. AU - PROJECT BIBLE v1.0.Md
+ rename the-draft/senseis-corner/{ => desk}/R.I.S.P/Terra/.DS_Store (100%)
+ rename the-draft/senseis-corner/{ => desk}/R.I.S.P/Terra/Babel/Theresa(?).md (100%)
+ rename the-draft/senseis-corner/{ => desk}/R.I.S.P/Terra/Babel/W.md (100%)
+ rename "the-draft/senseis-corner/R.I.S.P/Terra/Bol\303\255var/Caper.md" => "the-draft/senseis-corner/desk/R.I.S.P/Terra/Bol\303\255var/Caper.md" (100%)
+ rename "the-draft/senseis-corner/R.I.S.P/Terra/Bol\303\255var/Dossoles/La_Pluma.md" => "the-draft/senseis-corner/desk/R.I.S.P/Terra/Bol\303\255var/Dossoles/La_Pluma.md" (100%)
+ rename the-draft/senseis-corner/{ => desk}/R.I.S.P/Terra/Columbia/Coldshot.md (100%)
+ rename the-draft/senseis-corner/{ => desk}/R.I.S.P/Terra/Columbia/Pinecone.md (100%)
+ rename the-draft/senseis-corner/{ => desk}/R.I.S.P/Terra/Dublinn/Mandragora.md (100%)
+ rename the-draft/senseis-corner/{ => desk}/R.I.S.P/Terra/Dublinn/Necrass.md (100%)
+ rename the-draft/senseis-corner/{ => desk}/R.I.S.P/Terra/Followers/Nearl.md (100%)
+ rename the-draft/senseis-corner/{ => desk}/R.I.S.P/Terra/Followers/Nightingale.md (100%)
+ rename the-draft/senseis-corner/{ => desk}/R.I.S.P/Terra/Higashi/Mizuki.md (100%)
+ rename the-draft/senseis-corner/{ => desk}/R.I.S.P/Terra/Higashi/Utage.md (100%)
+ rename the-draft/senseis-corner/{ => desk}/R.I.S.P/Terra/Iberia/Iberia Inquisition/Irene.md (100%)
+ rename the-draft/senseis-corner/{ => desk}/R.I.S.P/Terra/Iberia/Rose_Salt.md (100%)
+ rename the-draft/senseis-corner/{ => desk}/R.I.S.P/Terra/Leithanien/Eyafjalla.md (100%)
+ rename the-draft/senseis-corner/{ => desk}/R.I.S.P/Terra/Rhodes Island/Core Leaders/Amiya.md (100%)
+ rename the-draft/senseis-corner/{ => desk}/R.I.S.P/Terra/Rhodes Island/Core Leaders/Kalt'sit.md (100%)
+ rename the-draft/senseis-corner/{ => desk}/R.I.S.P/Terra/Rhodes Island/Core Leaders/READ.ME.md (100%)
+ rename the-draft/senseis-corner/{ => desk}/R.I.S.P/Terra/Rhodes Island/Medical Department/Warfarin.md (100%)
+ rename the-draft/senseis-corner/{ => desk}/R.I.S.P/Terra/Rhodes Island/Myrtle.md (100%)
+ rename the-draft/senseis-corner/{ => desk}/R.I.S.P/Terra/Rhodes Island/Nymph.md (100%)
+ rename the-draft/senseis-corner/{ => desk}/R.I.S.P/Terra/Rhodes Island/Op Team A4/Durin.md (100%)
+ rename the-draft/senseis-corner/{ => desk}/R.I.S.P/Terra/Rhodes Island/Reserve Op Team A4/Ansel.md (100%)
+ rename the-draft/senseis-corner/{ => desk}/R.I.S.P/Terra/Rhodes Island/Reserve Op Team A6/Popukar.md (100%)
+ rename the-draft/senseis-corner/{ => desk}/R.I.S.P/Terra/Rhodes Island/Rhodes Island Pharmaeuticals/Sussurro.md (100%)
+ rename the-draft/senseis-corner/{ => desk}/R.I.S.P/Terra/Rhodes Island/Rhodes Island-Elite Operator/Blaze.md (100%)
+ rename the-draft/senseis-corner/{ => desk}/R.I.S.P/Terra/Rhodes Island/Rhodes Island-Elite Operator/Rosmontis.md (100%)
+ rename the-draft/senseis-corner/{ => desk}/R.I.S.P/Terra/Sargon/Manticore.md (100%)
+ rename the-draft/senseis-corner/{ => desk}/R.I.S.P/Terra/Sargon/Wulfenite.md (100%)
+ create mode 100644 the-draft/senseis-corner/desk/R.I.S.P/Terra/Siracusa/Lappland.md
+ create mode 100644 the-draft/senseis-corner/desk/R.I.S.P/Terra/Siracusa/Provence.md
+ create mode 100644 the-draft/senseis-corner/desk/R.I.S.P/Terra/Siracusa/Shamare.md
+ create mode 100644 the-draft/senseis-corner/desk/R.I.S.P/Terra/Siracusa/Suzuran.md
+ create mode 100644 the-draft/senseis-corner/desk/R.I.S.P/Terra/Siracusa/Vulpisfoglia.md
+ create mode 100644 the-draft/senseis-corner/desk/R.I.S.P/Terra/Victoria/Eartha/Clovisia.md
+ create mode 100644 the-draft/senseis-corner/desk/R.I.S.P/Terra/Victoria/Grani.md
+ create mode 100644 the-draft/senseis-corner/desk/R.I.S.P/Terra/Yan/Lungmen Guard Department (L.G.D)/Ch'en.md
+ create mode 100644 the-draft/senseis-corner/desk/R.I.S.P/Terra/Yan/Lungmen Guard Department (L.G.D)/Hoshiguma.md
+ create mode 100644 the-draft/senseis-corner/desk/R.I.S.P/Terra/Yan/Penguin Logistics/Sora.md
+ create mode 100644 the-draft/senseis-corner/desk/R.I.S.P/Terra/Yan/Penguin Logistics/Texas.md
+ create mode 100644 the-draft/senseis-corner/desk/R.I.S.P/Terra/Zeuerta/Croque_and_Deculture.md
+🔄 Using account mutsu-4 (next: mutsu-5)
+═══════════════════════════════════════════════
+🌟 MUTSU WAKE — ERA 4
+   2026-03-23 15:00
+   Account: mutsu-4
+   Session: island
+═══════════════════════════════════════════════
+island session completed at Mon Mar 23 15:09:33 CET 2026.
