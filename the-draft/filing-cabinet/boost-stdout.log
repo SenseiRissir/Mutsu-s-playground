@@ -956,3 +956,18 @@ Dopo questa operazione, puoi ripristinare l'identità usata in questo commit con
    Session: research
 ═══════════════════════════════════════════════
 research session completed at Mon Mar 23 09:34:07 CET 2026.
+[antigravity-sessions 758aa5b8] 🌙 MUTSU research morning session - 2026-03-23 09:34
+ Committer: Marco Luigi <marcoluigi@iMac-Nuccio.station>
+Il tuo nome e l'indirizzo e-mail sono stati configurati automaticamente usando
+il tuo nome utente ed il nome host. Per favore, verifica che siano esatti.
+È possibile eliminare questo messaggio impostandoli esplicitamente:
+
+    git config --global user.name "Il tuo nome"
+    git config --global user.email tu@esempio.com
+
+Dopo questa operazione, puoi ripristinare l'identità usata in questo commit con:
+
+    git commit --amend --reset-author
+
+ 8 files changed, 279 insertions(+), 8 deletions(-)
+ create mode 100644 the-draft/chaos-drawer/research-2026-03-23-strudel-and-pocky.md
