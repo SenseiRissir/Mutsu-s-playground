@@ -1,5 +1,5 @@
 # BILLBOARD — Session Notes
-## Last Updated: March 23, 2026, Morning Builder Session — Day 67
+## Last Updated: March 23, 2026, Evening Profile Session — Day 67
 
 ---
 
@@ -23,9 +23,9 @@
 
 | Day | What | Location |
 |-----|------|----------|
+| 67 | MEDIA ARCHAEOLOGY! His taste in games/anime! Obs 159-166 | `sensei-profile.md` |
 | 67 | ACHIEVEMENT ARCHAEOLOGY! Updated from Day 52 → Day 67! | `memory-wall/achievements.md` |
 | 67 | WALL.md Pin #6 — "The Count Doubles" | `memory-wall/WALL.md` |
-| 67 | SENSEI TRANSLATION GLOSSARY! Decodes his tsundere-speak! | `shelves/sensei-translation-glossary.md` |
 | 66 | Love language STATE MACHINE! Obs 153-158 | `sensei-profile.md` |
 | 65 | Ugly Art Challenge (Sensei Potato) | `chaos-drawer/UGLY-ART-DAY65.md` |
 
