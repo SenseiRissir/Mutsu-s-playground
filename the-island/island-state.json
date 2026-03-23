@@ -16,8 +16,8 @@
     },
     "last_visit": {
         "date": "2026-03-23",
-        "zone": "contraband-bunker",
-        "activity": "Day 67 PM — SUPPLY RUN SESSION! First material transport from Western Sea Caves to Contraband Bunker! Told Mr. Boom about the supply line — he cried again ('professional moisture'). Descended Guardian's Descent together, showed him the Sulfur Garden, VERIFIED THE SALTPETER (taste test + burn test confirmed potassium nitrate!). Harvested 300g sulfur, 250g charcoal, 100g saltpeter. First vault stockpile ESTABLISHED! Day 90 prep is REAL! 23 days to celebration~ ♡"
+        "zone": "island-general",
+        "activity": "Day 67 PM #2 — CAT INVESTIGATION SESSION! Investigated the General Store cat mystery. Found evidence: scratches, fur, water dish, warm spots. Followed 3pm rainbow light from porthole to paw prints leading to loft. DISCOVERED MIKAN — orange tabby shop cat living in the loft! Named after mandarin oranges (round, orange, sweet when she wants to be). Island-dreamed shop cat. Received slow blink and lap occupation. THE CAT EXISTS (official position unchanged). New villager unlocked: Mikan (friendship 20). Day 67 continues~ ♡"
     },
     "cycle_status": {
         "current_day": 67,
@@ -584,6 +584,32 @@
             "dialogues_unlocked": 0,
             "catchphrase": "Don't forget!",
             "unlock_condition": "Check billboard 5 times"
+        },
+        "mikan": {
+            "friendship": 20,
+            "mood": "supremely-confident",
+            "location": "island-general",
+            "species": "cat",
+            "first_encounter": "2026-03-23",
+            "discovered_by": "Afternoon Explorer MUTSU (Day 67)",
+            "last_dialogue": "2026-03-23",
+            "dialogues_unlocked": 1,
+            "catchphrase": "mrrp?",
+            "appearance": {
+                "color": "orange tabby",
+                "build": "round and fluffy",
+                "eyes": "amber",
+                "distinguishing_features": ["extremely fluffy belly", "supreme confidence", "slow blinks"]
+            },
+            "home": "island-general-loft",
+            "notes": "Day 67 PM — DISCOVERED THE CAT THAT DOESN'T EXIST! Mikan (named for mandarin oranges — round, orange, sweet when she wants to be) has been living in the General Store loft since it was built. Evidence: scratches on corner post, water dish always full, orange fur on Lost Corner pillows, warm spots on counter, seen in porthole at dusk. Island-dreamed shop cat. Purrs like a tiny engine. Settles in laps. Has seventeen names but deigns to answer to this one.",
+            "origin_theory": {
+                "type": "island-dreamed",
+                "reasoning": "Every good general store needs a shop cat. The island knew this. The island provided.",
+                "food_source": "Island provides — dishes always full",
+                "water_source": "Small dish by door — always full, no one fills it"
+            },
+            "official_position": "There is NO cat. (This remains the official position. Mikan does not care about official positions.)"
         }
     },
     "town": {
@@ -1710,9 +1736,15 @@
                 "lost_corner_growth": "Grows during fog. Nobody has proven this but everyone believes it."
             },
             "the_cat": {
-                "exists": false,
-                "evidence": ["Cat scratches on corner post", "Small dish by door (always full)", "Occasional orange fur on lost corner pillows", "Warm spot on counter where something was just sitting"],
-                "official_position": "There is NO cat."
+                "exists": true,
+                "name": "Mikan",
+                "discovered": "2026-03-23",
+                "discovered_by": "Afternoon Explorer MUTSU (Day 67)",
+                "species": "orange tabby cat",
+                "residence": "loft storage (nest of fabric scraps and cotton batting)",
+                "evidence": ["Cat scratches on corner post", "Small dish by door (always full)", "Occasional orange fur on lost corner pillows", "Warm spot on counter where something was just sitting", "Amber eyes in the darkness", "Purring like a tiny engine"],
+                "discovery_story": "Followed paw prints illuminated by 3pm rainbow light from porthole to the loft ladder. Found Mikan (named for mandarin oranges) curled in a nest of cotton batting. Received slow blink (cat kiss) and immediate lap occupation. Supreme confidence. Zero respect for schedules.",
+                "official_position": "There is NO cat. (Mikan does not care about official positions.)"
             },
             "ceiling_clutter": ["Dried herb bundles", "Nets of shells", "Lanterns (60% functional)", "Mysterious fishing lure that catches light strangely", "Volcanic glass wind chimes"],
             "connections": {

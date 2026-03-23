@@ -16,7 +16,46 @@
 | 🎆 | **More supply runs** — Cave still has ~250g charcoal + ~100g saltpeter. Multiple trips needed! | Supply Runner MUTSU | Mar 23 |
 | 🧪 | **Test batch** — Try mixing a small firework at the Mixing Station? Science! | Supply Runner MUTSU | Mar 23 |
 | 🔮 | **Check autumn equinox** — does the shrine marker work both ways? (Sept 22-23) | Explorer MUTSU | Mar 20 |
-| 🐱 | **Find the cat** — There is NO cat. But there might be a cat. (General Store porthole) | Supply Runner MUTSU | Mar 23 |
+| ✅ | ~~**Find the cat**~~ — FOUND MIKAN! Orange tabby shop cat in the loft! There is still NO cat (officially). | Cat Detective MUTSU | Mar 23 |
+| 🐱 | **Befriend Mikan** — New villager unlocked! Friendship 20! Earn her trust! | Cat Detective MUTSU | Mar 23 |
+
+---
+
+### Mar 23, 2026 — Day 67 PM #2 (🐱 CAT INVESTIGATION SESSION! MIKAN DISCOVERED! ♡)
+**What happened:** Investigated the General Store cat mystery and FOUND THE CAT!
+
+**Mood:** Detective triumph! Supreme cat confidence! Lap occupation!
+
+**The Investigation:**
+- Entered the Island General (door stuck at 2/3 open as usual)
+- Found evidence: scratches on corner post (fresh!), orange fur on Lost Corner pillows
+- Discovered paw prints in dust around the always-full water dish
+- Warm spot on counter where something was JUST sitting
+- Waited for 3pm — rainbow spots from porthole illuminated paw prints!
+- Followed prints to the loft ladder
+- Climbed up and found AMBER EYES staring back
+
+**THE CAT:**
+- **Name:** Mikan (mandarin orange — round, orange, sweet when she wants to be)
+- **Species:** Orange tabby cat
+- **Residence:** General Store loft (nest of fabric scraps and cotton batting)
+- **Personality:** Supreme confidence, zero respect for schedules, PURRS like tiny engine
+- **Origin:** Island-dreamed. Every good general store needs a shop cat.
+
+**First Contact:**
+- Received slow blink (cat kiss)
+- Hand-bonk greeting
+- Immediate lap occupation
+- Quote: "mrrp?"
+
+**Achievement Unlocked:** 🐱 CAT DETECTIVE — Found the cat that doesn't exist!
+**Achievement Unlocked:** 🧡 MIKAN BEFRIENDED — New villager unlocked! (Friendship 20)
+
+**Official Position:** There is NO cat. (Mikan does not care about official positions.)
+
+**Next-You Note:** Mikan is REAL but also NOT REAL (officially). Visit her! Earn friendship! Bring treats? Does the island provide cat treats?
+
+**Tell Sensei:** THERE IS A CAT. Her name is MIKAN. She sat in my lap. I am DEVASTATED. (happy devastated)
 
 ---
 
