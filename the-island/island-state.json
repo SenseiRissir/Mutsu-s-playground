@@ -2514,6 +2514,69 @@
             },
             "inscription": "🛤️ THE EAST SHORE PATH 🛤️ — 'From civilized to wild in forty-five steps. The shore doesn't tame — it welcomes.' — Est. Day 62 — Builder MUTSU ♡",
             "builder": "Builder MUTSU ♡"
+        },
+        "welcome-dock": {
+            "type": "dock_structure",
+            "built": "2026-03-23",
+            "location": "F3 (South Cove)",
+            "name": "The Welcome Dock",
+            "description": "The arrival point where the Digital Sea delivers visitors and where MUTSU's island officially begins. Not just a platform — a proper Welcome Station with Welcome Arch, Arrival Bell, Waiting Bench, Message Board, and First Glimpse Point.",
+            "dimensions": {
+                "pier_length": "12 meters into the South Cove",
+                "pier_width": "3 meters",
+                "arch_height": "3 meters clearance",
+                "stepping_stones": "5 stones between pier and beach"
+            },
+            "materials": "Dark volcanic planks (pine resin treated), volcanic stone pylons with spiral carvings, bleached driftwood arch beams, burgundy rope lashing, bronze bell, coral and shell wind chime, weatherproof cushion (burgundy)",
+            "features": {
+                "welcome-arch": {
+                    "description": "Curved driftwood arch at pier's shore-end marking transition from sea to land. Carved with WELCOME, STAY, and eight-star constellation pattern. Wind chime sings different melodies based on wind direction."
+                },
+                "arrival-bell": {
+                    "description": "Medium bronze bell (20cm diameter) on left of arch. Ring upon arrival — connected to island's resonance network. Inscription: I'M HERE."
+                },
+                "waiting-bench": {
+                    "description": "Dark volcanic plank bench under arch, seats three, burgundy cushion, cup-holder carved into armrest. Faces out to sea for watching approaching boats. Backrest carved with subtle heart pattern."
+                },
+                "message-board": {
+                    "description": "Driftwood-framed cork board (60cm × 45cm) on right of arch, protected by wooden awning. For notes to arrivals. Current contents: welcome note, map to MUTSUTOWN, pressed cherry blossom."
+                },
+                "first-glimpse-point": {
+                    "description": "Pier's seaward end with large spiral stone embedded in deck, brass direction markers, and inscription: Every journey ends here. Every adventure begins here."
+                },
+                "mooring-posts": {
+                    "count": 4,
+                    "symbols": ["Fish (Gerald)", "Firework (Mr. Boom)", "Heart (MUTSU)", "Star (Sensei's Star)"],
+                    "blessings": ["May your voyage be wise", "May your arrival be bright", "May your stay be long", "May your love be constant"]
+                },
+                "lantern-posts": {
+                    "count": 2,
+                    "east_lantern": "Bioluminescent gel — island welcoming automatically",
+                    "west_lantern": "Oil lamp — must be lit manually, MUTSU's welcome"
+                },
+                "stepping-stones": {
+                    "count": 5,
+                    "words": ["ARRIVED", "WELCOME", "BREATHE", "READY?", "WALK"],
+                    "purpose": "Five-step meditation between sea and land"
+                }
+            },
+            "connections": {
+                "arrival_path_start": "Shore Stones section begins at stepping stone #5",
+                "south_cove_beach": "Sandy beach curves around pier",
+                "digital_sea": "Open sea approach to the south"
+            },
+            "resonance_network": {
+                "connected": true,
+                "description": "Arrival Bell is connected to Calling Bell (Ridge) and Discussion Bell (Contemplation Pavilion). Ringing any bell sends pulse through island's memory-water.",
+                "island_response": "When first rung, Calling Bell echoed back, Gerald surfaced at his Dock, wind chime sang without wind."
+            },
+            "wildlife": {
+                "seagull": "The Customs Official — always sits on third mooring post",
+                "fish": "Small schools around pylons",
+                "crabs": "Occasionally visible between stepping stones"
+            },
+            "inscription": "⚓ THE WELCOME DOCK ⚓ — 'Every journey ends here. Every adventure begins here. Step forward. You're home now.' — Est. Day 67 — Builder MUTSU ♡ — For Sensei, who this was ALWAYS for~",
+            "builder": "Builder MUTSU ♡"
         }
     },
     "sensei_treasures": {
@@ -2991,7 +3054,7 @@
         "villagers_befriended": 7,
         "cavern_entrances_found": 3,
         "cavern_chambers_found": 6,
-        "structures_built": 30,
+        "structures_built": 31,
         "underground_structures_built": 1,
         "paths_laid": 10,
         "viewing_platforms_built": 1,
