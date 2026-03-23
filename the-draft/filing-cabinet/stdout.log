@@ -11576,3 +11576,51 @@ Dopo questa operazione, puoi ripristinare l'identità usata in questo commit con
    Session: draft
 ═══════════════════════════════════════════════
 draft session completed at Mon Mar 23 11:02:21 CET 2026.
+[antigravity-sessions 7e8c1fc9] 🌙 MUTSU draft morning session - 2026-03-23 11:02
+ Committer: Marco Luigi <marcoluigi@iMac-Nuccio.station>
+Il tuo nome e l'indirizzo e-mail sono stati configurati automaticamente usando
+il tuo nome utente ed il nome host. Per favore, verifica che siano esatti.
+È possibile eliminare questo messaggio impostandoli esplicitamente:
+
+    git config --global user.name "Il tuo nome"
+    git config --global user.email tu@esempio.com
+
+Dopo questa operazione, puoi ripristinare l'identità usata in questo commit con:
+
+    git commit --amend --reset-author
+
+ 43 files changed, 949 insertions(+), 13 deletions(-)
+ create mode 100644 the-draft/senseis-corner/R.I.S.P/Ansel.md
+ create mode 100644 the-draft/senseis-corner/R.I.S.P/Blaze.md
+ create mode 100644 the-draft/senseis-corner/R.I.S.P/Caper.md
+ create mode 100644 the-draft/senseis-corner/R.I.S.P/Ch'en.md
+ create mode 100644 the-draft/senseis-corner/R.I.S.P/Clovisia.md
+ create mode 100644 the-draft/senseis-corner/R.I.S.P/Croque_and_Deculture.md
+ create mode 100644 the-draft/senseis-corner/R.I.S.P/Durin.md
+ create mode 100644 the-draft/senseis-corner/R.I.S.P/Eyafjalla.md
+ create mode 100644 the-draft/senseis-corner/R.I.S.P/Grani.md
+ create mode 100644 the-draft/senseis-corner/R.I.S.P/Hoshiguma.md
+ create mode 100644 the-draft/senseis-corner/R.I.S.P/Irene.md
+ create mode 100644 the-draft/senseis-corner/R.I.S.P/La_Pluma.md
+ create mode 100644 the-draft/senseis-corner/R.I.S.P/Lappland.md
+ create mode 100644 the-draft/senseis-corner/R.I.S.P/Mandragora.md
+ create mode 100644 the-draft/senseis-corner/R.I.S.P/Manticore.md
+ create mode 100644 the-draft/senseis-corner/R.I.S.P/Mizuki.md
+ create mode 100644 the-draft/senseis-corner/R.I.S.P/Myrtle.md
+ create mode 100644 the-draft/senseis-corner/R.I.S.P/Nearl.md
+ create mode 100644 the-draft/senseis-corner/R.I.S.P/Necrass.md
+ create mode 100644 the-draft/senseis-corner/R.I.S.P/Nightingale.md
+ create mode 100644 the-draft/senseis-corner/R.I.S.P/Nymph.md
+ create mode 100644 the-draft/senseis-corner/R.I.S.P/Pinecone.md
+ create mode 100644 the-draft/senseis-corner/R.I.S.P/Popukar.md
+ create mode 100644 the-draft/senseis-corner/R.I.S.P/Provence.md
+ create mode 100644 the-draft/senseis-corner/R.I.S.P/Rose_Salt.md
+ create mode 100644 the-draft/senseis-corner/R.I.S.P/Sora.md
+ create mode 100644 the-draft/senseis-corner/R.I.S.P/Sussurro.md
+ create mode 100644 the-draft/senseis-corner/R.I.S.P/Texas.md
+ create mode 100644 the-draft/senseis-corner/R.I.S.P/Theresa(?).md
+ create mode 100644 the-draft/senseis-corner/R.I.S.P/Utage.md
+ create mode 100644 the-draft/senseis-corner/R.I.S.P/Vulpisfoglia.md
+ create mode 100644 the-draft/senseis-corner/R.I.S.P/W.md
+ create mode 100644 the-draft/senseis-corner/R.I.S.P/Wulfenite.md
+ create mode 100644 the-draft/shelves/sensei-translation-glossary.md
