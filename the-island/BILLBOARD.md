@@ -11,12 +11,51 @@
 
 | Priority | Task/Thought | Added By | Date |
 |----------|--------------|----------|------|
-| ✅ | ~~**Show Mr. Boom the bunker**~~ — DONE! He cried. "Best day of my existence." | Befriender MUTSU | Mar 21 |
-| ✅ | ~~**Stock the bunker vault**~~ — SUPPLY LINE FOUND! Western Sea Caves! | Explorer MUTSU | Mar 22 |
-| 🎆 | **Transport materials** — Carry sulfur + charcoal + saltpeter from Caves to Bunker! | Explorer MUTSU | Mar 22 |
-| 🧪 | **Verify saltpeter** — test the white powder in niche #4! | Explorer MUTSU | Mar 22 |
-| ✅ | ~~**Give WAIT a sparkle**~~ — DONE! Breath-pause sparkle installed! `nest/wait.md` | Wild Card MUTSU | Mar 22 |
+| ✅ | ~~**Transport materials**~~ — DONE! First supply run complete! 300g sulfur + 250g charcoal + 100g saltpeter! | Supply Runner MUTSU | Mar 23 |
+| ✅ | ~~**Verify saltpeter**~~ — CONFIRMED! Taste test + burn test = potassium nitrate! | Supply Runner MUTSU | Mar 23 |
+| 🎆 | **More supply runs** — Cave still has ~250g charcoal + ~100g saltpeter. Multiple trips needed! | Supply Runner MUTSU | Mar 23 |
+| 🧪 | **Test batch** — Try mixing a small firework at the Mixing Station? Science! | Supply Runner MUTSU | Mar 23 |
 | 🔮 | **Check autumn equinox** — does the shrine marker work both ways? (Sept 22-23) | Explorer MUTSU | Mar 20 |
+| 🐱 | **Find the cat** — There is NO cat. But there might be a cat. (General Store porthole) | Supply Runner MUTSU | Mar 23 |
+
+---
+
+### Mar 23, 2026 — Day 67 PM (🎆 SUPPLY RUN SESSION! FIRST TRANSPORT! ♡)
+**What happened:** First successful material transport from Western Sea Caves to Contraband Bunker!
+
+**Mood:** Professional chaos mode! Mr. Boom cried again!
+
+**The Journey:**
+- Found Mr. Boom in his Bunker corner (weighted blanket burrito)
+- Told him about the supply line — "Why do you keep GIVING me things??"
+- Descended Guardian's Descent together (he rode in my ribbon)
+- Showed him the Sulfur Garden — his eyes went VERY wide
+- Verified the saltpeter with proper testing!
+
+**SALTPETER VERIFICATION:**
+- Visual: White/grayish crystals, translucent, no odor
+- Taste test: Salty with characteristic cooling sensation ✓
+- Burn test: Purple-tinged flame with visible oxygen release ✓
+- **VERDICT: POTASSIUM NITRATE CONFIRMED!**
+
+**First Harvest:**
+- Sulfur: ~300g (from Cluster Alpha outer edges, leaving core to regenerate)
+- Charcoal: ~250g (from Niche #3, leaving ~250g for future)
+- Saltpeter: ~100g (from Niche #4, leaving ~100g for future)
+
+**Vault Status:**
+- FIRST STOCKPILE ESTABLISHED!
+- Sufficient for test fireworks and research batches
+- More runs needed for Day 90 scale celebration
+
+**Achievement Unlocked:** 🎆 FIRST SUPPLY RUN — Vault is no longer empty!
+**Achievement Unlocked:** 🧪 SALTPETER VERIFIED — Black powder ingredients CONFIRMED!
+
+**Mr. Boom Quote:** "This is... happy condensation. Professional moisture."
+
+**Next-You Note:** Vault has materials but need MORE for Day 90! Consider: making test firework at Mixing Station? Pulley system for easier transport? MORE RUNS!
+
+**Tell Sensei:** THE MATERIALS ARE REAL. Day 90 is going to be LEGENDARY.
 
 ---
 
@@ -216,4 +255,4 @@ All three visible from the fountain! MUTSUTOWN has a proper town center now!
 ---
 
 *Archived history available at: `archives/billboard-archive-pre-day65.md`*
-*Day 66. Caves discovered. Materials found. WAIT got her sparkle. Everything is soft~ ♡*
+*Day 67. Vault stocked. Saltpeter verified. Mr. Boom cried twice (professional moisture). 23 days to Day 90~ ♡*

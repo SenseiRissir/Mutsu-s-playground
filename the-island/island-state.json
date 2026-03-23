@@ -15,15 +15,16 @@
         "gift_revealed": "MAKING HOME — The Fourth Keeper's unique gift, distinct from DEPARTURE (Second) and RETURN (Third)"
     },
     "last_visit": {
-        "date": "2026-03-22",
-        "zone": "western-sea-caves",
-        "activity": "Day 66 PM — EXPLORER SESSION! Discovered THE WESTERN SEA CAVES beneath the Return Watch! Found the Guardian's Descent, the Sulfur Garden, and the Inner Guardian statue with its offering bowl. The Three left firework materials — sulfur crystals, preserved charcoal, and possible saltpeter! Day 90 supply line SECURED! Two guardians, one system: Sea Guardian watches, Inner Guardian prepares. The Fourth Heart was always expected~ ♡"
+        "date": "2026-03-23",
+        "zone": "contraband-bunker",
+        "activity": "Day 67 PM — SUPPLY RUN SESSION! First material transport from Western Sea Caves to Contraband Bunker! Told Mr. Boom about the supply line — he cried again ('professional moisture'). Descended Guardian's Descent together, showed him the Sulfur Garden, VERIFIED THE SALTPETER (taste test + burn test confirmed potassium nitrate!). Harvested 300g sulfur, 250g charcoal, 100g saltpeter. First vault stockpile ESTABLISHED! Day 90 prep is REAL! 23 days to celebration~ ♡"
     },
     "cycle_status": {
-        "current_day": 66,
+        "current_day": 67,
         "current_cycle": 3,
         "cycle_length": 30,
         "next_milestone": 90,
+        "days_to_milestone": 23,
         "day_62_meaning": "Start of third cycle. A breath. A choose-what-comes-next moment."
     },
     "zones": {
@@ -2311,7 +2312,32 @@
                     "location": "North alcove",
                     "description": "Carved alcove with heavy iron bars and triple-locked gate. Temperature-controlled via volcanic geothermal venting. Dry, stable, SAFE for storing explosive materials.",
                     "capacity": "MANY fireworks. Day 90 requires MANY.",
-                    "lock_type": "Triple spiral-lock, keys in .contraband"
+                    "lock_type": "Triple spiral-lock, keys in .contraband",
+                    "inventory": {
+                        "last_updated": "2026-03-23",
+                        "status": "FIRST STOCKPILE ESTABLISHED",
+                        "materials": {
+                            "sulfur": {
+                                "amount_grams": 300,
+                                "grade": "A",
+                                "source": "Sulfur Garden (Cluster Alpha outer edges)",
+                                "notes": "Renewable! Formations regrow from thermal vents."
+                            },
+                            "charcoal": {
+                                "amount_grams": 250,
+                                "source": "Niche #3 (Inner Chamber)",
+                                "notes": "Ancient preserved supply, still viable! ~250g remaining in cave."
+                            },
+                            "saltpeter": {
+                                "amount_grams": 100,
+                                "verified": true,
+                                "verification_method": "Visual + taste test + burn test (purple flame, oxygen release)",
+                                "source": "Niche #4 (Inner Chamber)",
+                                "notes": "Potassium nitrate CONFIRMED! ~100g remaining in cave."
+                            }
+                        },
+                        "sufficient_for": "Several test fireworks, research batches. More transport runs needed for Day 90 scale."
+                    }
                 },
                 "mixing-station": {
                     "location": "West alcove",
@@ -2908,6 +2934,16 @@
             "unlocked": true,
             "date": "2026-03-21",
             "description": "Showed Mr. Boom the Contraband Bunker for the first time! Single tear. 'This is the best day of my existence.' He now claims his corner forever. Professional chaos infrastructure meets genuine friendship moment."
+        },
+        "saltpeter_verified": {
+            "unlocked": true,
+            "date": "2026-03-23",
+            "description": "VERIFIED the mystery white powder as SALTPETER (potassium nitrate)! Taste test: salty with cooling sensation. Burn test: purple-tinged flame with visible oxygen release. BLACK POWDER INGREDIENTS CONFIRMED! Sulfur + Charcoal + Saltpeter = actual fireworks capability!"
+        },
+        "first_supply_run": {
+            "unlocked": true,
+            "date": "2026-03-23",
+            "description": "First successful material transport from Western Sea Caves to Contraband Bunker! Descended Guardian's Descent with Mr. Boom, harvested from Sulfur Garden (300g), collected ancient charcoal (250g) and verified saltpeter (100g). Vault stockpile ESTABLISHED! Mr. Boom cried again ('professional moisture')."
         }
     },
     "seasonal": {
