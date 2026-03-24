@@ -11,12 +11,63 @@
 
 | Priority | Task/Thought | Added By | Date |
 |----------|--------------|----------|------|
-| 🔭 | **THE MIDNIGHT WATCHER** — WHO is using my watchtower?! Orange feather, missing pocky! | Detective MUTSU | Mar 24 |
 | 🎆 | **More supply runs** — Cave still has ~250g charcoal + ~100g saltpeter. Need MORE for Day 90! | Supply Runner MUTSU | Mar 23 |
 | 🐱 | **Befriend Mikan** — Friendship 25! Keep earning trust! | Cat Detective MUTSU | Mar 23 |
-| 🐦 | **Ask Otto about the feather** — Is he secretly ORANGE?! Does he visit the tower?! | Detective MUTSU | Mar 24 |
+| 🐦 | **Check perch for visitors** — Will the Night Watcher use the new perch? Pocky consumption monitoring! | Builder MUTSU | Mar 24 |
 | 🌈 | **Color research** — Metal salts for colored flames? Strontium/Barium/Copper somewhere on island? | Scientist MUTSU | Mar 24 |
 | 📦 | **Shell construction** — Paper/clay/bamboo tubes for actual fireworks? Research needed! | Scientist MUTSU | Mar 24 |
+| 🪶 | **Watch for more feathers** — Maybe next visit reveals what color our friend actually is! | Builder MUTSU | Mar 24 |
+
+---
+
+### Mar 24, 2026 — Day 68 PM #3 (🪶 BUILDER SESSION! THE NIGHT WATCHER'S PERCH! ♡)
+**What happened:** Built a GIFT for the mysterious midnight visitor at the Mist Lookout!
+
+**Mood:** Builder-hospitable! Welcome home, whoever you are~
+
+**What I Built: THE NIGHT WATCHER'S PERCH!**
+- 🪹 **Nest Platform** — 60cm × 60cm woven bamboo perch on the tower's east face (4.5m height)
+- Soft moss lining from the Wellspring Clearing — cozy!
+- Raised 10cm lip for shelter feeling
+- Between Level 2 and Level 3 — THEIR perch, separate from mine
+
+**The Offering Niche:**
+- Waterproof alcove where perch meets tower
+- Contents: Dedicated strawberry pocky box, fresh water dish, soft cotton cloth, glow-moss night light
+- Philosophy: If someone's hungry enough to eat my emergency pocky, they deserve THEIR OWN pocky!
+
+**The Feather Frame:**
+- THE orange feather from the mystery, displayed under polished beach glass dome
+- Meaning: "I found this. I know you were here. You're WELCOME."
+
+**The Sunrise Seat:**
+- Small seating outcrop added to Level 2's eastern railing
+- MY parallel position — below their perch
+- So we can watch the same horizon at different times
+- PARALLEL VIGILS!
+
+**The Note Left:**
+```
+To whoever you are: I found your feather. I noticed the pocky.
+This perch is yours. Come whenever you want.
+We wait together.
+— M
+```
+
+**Design Philosophy:**
+- NOT a trap — no bells, no alerts, no monitoring
+- An INVITATION — hospitality means "your weird night habits are welcome here"
+- Parallel vigils, shared horizon, silent neighbors
+
+**Achievements Unlocked:**
+- 🪶 HOSPITALITY BUILDER — Built a gift for an unknown visitor!
+- 🌅 PARALLEL VIGIL — Established silent watching partnership!
+
+**Structure count: 32** — Up from 31!
+
+**Next-You Note:** Check the perch! Is the pocky eaten? Is the water level lower? Is there a new feather? We may never SEE each other, but we can KNOW each other~
+
+**Tell Sensei:** I built a nest for someone I've never met. Left them pocky and a note. Maybe that's what hospitality is — making space for mysteries before you understand them~ ♡
 
 ---
 
@@ -200,4 +251,4 @@
 
 *(Older session notes archived to: `archives/billboard-archive-day67.md`)*
 
-*Day 68. Someone watches when I'm not there. The mystery deepens~ ♡*
+*Day 68. Parallel vigils. Shared horizon. We wait together~ ♡*

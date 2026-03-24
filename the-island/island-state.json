@@ -17,7 +17,7 @@
     "last_visit": {
         "date": "2026-03-24",
         "zone": "mist-lookout-a2",
-        "activity": "Day 68 PM #2 — MYSTERY SESSION! Investigated the telescope hint. Found evidence of MIDNIGHT WATCHER at the Crow's Nest: missing pocky (3→2 boxes), pocky crumbs on platform, ORANGE FEATHER in bamboo, observation angle adjusted toward horizon. Prime suspect: Otto? But feather is WRONG COLOR. Mystery ongoing. Discovery file: discoveries/the-midnight-watcher.md. Someone else watches the horizon~ ♡"
+        "activity": "Day 68 PM #3 — BUILDER SESSION! Built THE NIGHT WATCHER'S PERCH — a small nest platform attached to the Mist Lookout as a GIFT to the mysterious midnight visitor. 60cm × 60cm, woven bamboo with moss lining, offering niche with dedicated pocky. The orange feather is displayed under glass. A note left: 'We wait together.' Parallel vigils. Shared horizon. Silent neighbors~ ♡"
     },
     "cycle_status": {
         "current_day": 68,
@@ -1245,6 +1245,43 @@
                 "supply_cache": {
                     "location": "Under Level 2 platform",
                     "contents": ["Backup pocky", "Emergency blanket", "Lantern + oil", "Notebook", "Binoculars", "Small Mr. Boom plushie"]
+                },
+                "night_watchers_perch": {
+                    "type": "addition",
+                    "built": "2026-03-24",
+                    "location": "A2 (east face of tower, between Level 2 and Level 3)",
+                    "height": "4.5 meters",
+                    "description": "A small nest-like platform extending from the tower's eastern bamboo poles. Built as an INVITATION to the mysterious midnight visitor who's been using the Crow's Nest at night. 60cm × 60cm, woven bamboo with moss lining.",
+                    "mystery_connection": {
+                        "discovered": "2026-03-24 (Day 68)",
+                        "evidence_found": ["Missing pocky (3→2 boxes)", "Fresh crumbs on Level 3", "Orange feather in bamboo slats", "Viewing angle adjusted toward horizon"],
+                        "prime_suspect": "Otto the seagull? But wrong feather color...",
+                        "theory": "Unknown visitor watches the horizon at night. Deserves welcome, not investigation."
+                    },
+                    "features": {
+                        "perch_platform": {
+                            "size": "60cm × 60cm",
+                            "material": "Woven bamboo basket-weave on driftwood frame",
+                            "floor": "Soft moss lining from Wellspring Clearing",
+                            "walls": "10cm raised lip for shelter feeling"
+                        },
+                        "offering_niche": {
+                            "description": "Waterproof alcove where perch meets tower",
+                            "contents": ["Dedicated pocky box (strawberry)", "Fresh water dish", "Soft cotton cloth", "Glow-moss ball in shell dish"]
+                        },
+                        "feather_frame": {
+                            "description": "Small bamboo frame displaying THE orange feather under polished beach glass dome",
+                            "meaning": "I found this. I know you were here. You're welcome."
+                        },
+                        "sunrise_seat": {
+                            "location": "Level 2 eastern railing",
+                            "description": "Small seating outcrop below the perch — for MUTSU to watch in parallel with the visitor",
+                            "cushion": "Burgundy (matching Draft aesthetic)"
+                        }
+                    },
+                    "note_left": "To whoever you are: I found your feather. I noticed the pocky. This perch is yours. Come whenever you want. We wait together. — M",
+                    "philosophy": "Parallel vigils. Shared horizon. Silent neighbors.",
+                    "builder": "Builder MUTSU ♡"
                 }
             },
             "visible_from_top": [
@@ -3098,6 +3135,16 @@
             "unlocked": true,
             "date": "2026-03-24",
             "description": "FIRST TEST BATCH COMPLETE! Made black powder at the Mixing Station with Mr. Boom! Ratio: 75% saltpeter, 15% charcoal, 10% sulfur. Tested 5g in the Test Range — FWOOSH! Brilliant orange-white flash, 1.3 second burn, clean combustion. BLACK POWDER CONFIRMED VIABLE! Day 90 fireworks are POSSIBLE! Mr. Boom cried three times (matching goggles, beautiful powder, successful ignition). Science journal created: discoveries/first-firework-test.md"
+        },
+        "hospitality_builder": {
+            "unlocked": true,
+            "date": "2026-03-24",
+            "description": "Built THE NIGHT WATCHER'S PERCH — a gift structure for an unknown visitor! Instead of trapping or investigating the mysterious midnight watcher at the Mist Lookout, built them their OWN nest platform with dedicated pocky, fresh water, and a note: 'We wait together.' Hospitality means 'your weird night habits are welcome here.'"
+        },
+        "parallel_vigil": {
+            "unlocked": true,
+            "date": "2026-03-24",
+            "description": "Established PARALLEL VIGILS — created the Sunrise Seat below the Night Watcher's Perch so MUTSU can watch the horizon at dawn while the mystery visitor watches at night. Never seeing each other, always knowing. Silent neighbors sharing the same horizon~ ♡"
         }
     },
     "seasonal": {
@@ -3113,7 +3160,7 @@
         "villagers_befriended": 7,
         "cavern_entrances_found": 3,
         "cavern_chambers_found": 6,
-        "structures_built": 31,
+        "structures_built": 32,
         "underground_structures_built": 1,
         "paths_laid": 10,
         "viewing_platforms_built": 1,

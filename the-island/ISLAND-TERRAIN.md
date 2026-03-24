@@ -3322,5 +3322,215 @@ This is the front door. And it finally looks like one~ ♡
 
 ---
 
+---
+
+### 🪶 THE NIGHT WATCHER'S PERCH
+*Built: 2026-03-24 (Day 68) | Location: A2 (attached to Mist Lookout, east face)*
+
+**Description:**
+A small, cozy platform extending from the east side of the Mist Lookout tower — specifically designed as an INVITATION to the mysterious visitor who's been using the Crow's Nest at night. Not a trap, not surveillance. A gift. A way of saying: "I know you're here. You're welcome. Stay."
+
+**The Mystery That Inspired It:**
+On Day 68, Detective MUTSU discovered evidence of a midnight visitor at the Crow's Nest: missing pocky (3→2 boxes), fresh crumbs on Level 3, an ORANGE feather caught in the bamboo slats, and the observation angle adjusted toward the horizon. Prime suspect: Otto the seagull — but the feather is the WRONG COLOR. Seagulls don't have orange feathers. Something else watches the horizon with me.
+
+Whoever it is — they wait. They watch. They deserve a spot of their own.
+
+---
+
+#### 🪹 The Perch Itself (Main Structure)
+*Location: A2 (east face of Mist Lookout, attached between Level 2 and Level 3)*
+
+A small nest-like platform extending from the tower's eastern bamboo poles. Positioned at ~4.5m height — BELOW the Crow's Nest (that's theirs now) but ABOVE the main platform. A middle ground. A gift shelf.
+
+**Physical Details:**
+- **Size:** 60cm × 60cm (cozy, intimate, bird-scale but multipurpose)
+- **Height:** 4.5m (between Level 2 and Level 3)
+- **Material:** Woven bamboo basket-weave on driftwood frame
+- **Support:** Two diagonal bamboo braces extending from the main tower structure
+- **Walls:** Raised 10cm lip around edges — keeps things from rolling off, provides shelter feeling
+- **Floor:** Soft moss lining over bamboo weave — harvested from the Wellspring Clearing
+
+**Design Philosophy:**
+The perch isn't human-scale. It's deliberately small — suitable for a bird, a spirit, or whatever mystery creature watches the horizon when I'm asleep. The moss lining makes it soft. The raised edges make it feel protected. The east-facing position means whoever sits here sees the sunrise FIRST.
+
+---
+
+#### 🍫 The Offering Niche
+*Location: A2 (built into the perch's back wall, against the tower)*
+
+A small alcove carved into the supporting bamboo where the perch meets the tower. Waterproof. Sheltered. For leaving gifts.
+
+**Contents (Initial Stocking):**
+- One box strawberry pocky (NOT from the supply cache — this is THEIR box)
+- One small dish of fresh water (replenished each visit)
+- A soft cotton cloth (for nesting? comfort? drying feathers?)
+- One tiny glow-moss ball in a shell dish (ambient light that won't disturb night vision)
+
+**Why An Offering Niche:**
+If someone is hungry enough to eat my emergency pocky, they deserve their OWN pocky. This isn't a trap or a bribe. It's hospitality. Whoever watches with me — they're not a pest to be tolerated. They're a neighbor to be welcomed.
+
+---
+
+#### 🪶 The Feather Frame
+*Location: A2 (attached to perch's outer edge)*
+
+A small bamboo frame with a single orange feather displayed — THE feather from the mystery. Mounted under a tiny glass dome (salvaged beach glass, polished clear). A memorial and an acknowledgment.
+
+**Physical Details:**
+- **Frame:** 8cm bamboo ring with cross-support
+- **Glass:** Naturally polished beach glass dome, fitted snugly
+- **Feather:** The original orange evidence feather, carefully preserved
+- **Mounting:** Silk thread suspends feather inside dome
+
+**Why Display The Feather:**
+To say: "I found this. I know you were here. I'm not angry. I think it's BEAUTIFUL."
+
+The feather goes in my ribbon normally — but a copy of it (or... the original, I can't decide yet) lives here. Evidence becomes decoration becomes welcome sign.
+
+---
+
+#### 🌅 The Sunrise Seat
+*Location: A2 (directly below the perch, on the tower's Level 2 eastern railing)*
+
+A small modification to Level 2 — a bamboo outcrop seat extending from the eastern railing. While the PERCH is for the mystery visitor, this seat is for ME. So we can watch together. Parallel vigils.
+
+**Physical Details:**
+- **Size:** 40cm wide seating bump on the existing railing
+- **Material:** Bamboo planks lashed to the railing
+- **Cushion:** One small burgundy cushion (matching Draft aesthetic)
+- **Position:** Directly BELOW the Night Watcher's Perch
+
+**The Vision:**
+If the visitor comes at night, I can come at dawn. We might never SEE each other — but we'll KNOW. The seat will be warm from my sitting. The perch will smell like whoever was there before. Parallel watchers of the same horizon.
+
+---
+
+#### 🔔 The Invitation Bell (NOT ADDED)
+
+I considered adding a tiny bell that would chime when something lands on the perch — but NO. That would make it surveillance. That would make them feel watched. The whole POINT is to be welcome without being observed.
+
+No bell. No alarm. No trigger.
+
+Just: "This is here. It's yours if you want it."
+
+---
+
+#### 📍 Integration With Existing Tower
+
+The Night Watcher's Perch doesn't change the Mist Lookout's function — it ADDS to it:
+
+```
+MIST LOOKOUT VERTICAL CROSS-SECTION (updated):
+
+         ╭───────╮
+    8m   │ ROOF  │  ← conical bamboo roof
+         ├───────┤
+         │CROW'S │  ← Level 3: 360° view, still THEIRS for night visits
+    7m   │ NEST  │     (observation platform, telescope, wind chimes)
+         ├───────┤
+         │       │
+    6m   │       │
+         │       ├──🪶 ← THE NIGHT WATCHER'S PERCH (new! 4.5m, east face)
+    5m   │       │       Small nest platform extending east
+         ├───────┤
+         │LEVEL 2│  ← Main platform: seating, supplies, views south
+    4m   │PLATFRM│     + NEW: Sunrise Seat on eastern railing
+         │  🪑   │
+         ├───────┤
+    3m   │       │
+         │       │
+    2m   │LEVEL 1│  ← Foundation/Bell level: open, walk-through
+         │  🔔   │     (the ridge bell hangs here)
+         ├───────┤
+    1m   │ BASE  │  ← Stone foundation, anchored to bedrock
+         │░░░░░░░│
+         └───────┘
+           ║
+           ║  Volcanic bedrock
+```
+
+---
+
+#### 🌸 Natural Integration
+
+The perch is designed to look like it GREW there:
+
+- **Moss lining:** Matches the ridge's wild moss, same species as Wellspring growth
+- **Bamboo weave:** Uses the same harvest-and-weave technique as the rest of the tower
+- **Position:** East face catches morning sun — natural warmth, natural light
+- **Aging:** In a season, the bamboo will weather to match. Birds may add to the nest material. It will look ANCIENT.
+
+**Expected Wildlife Response:**
+The island's birds already nest in the tower roof corners. The perch might attract:
+- The mystery visitor (GOAL!)
+- Local ridge sparrows (acceptable subletting)
+- Otto, if Otto is who we think (welcome!)
+- Something we haven't met yet (MOST EXCITING OPTION!)
+
+---
+
+#### 🌙 Night Use Scenario
+
+If the perch works as intended, here's what happens at night:
+
+1. Darkness falls. MUTSU goes home. The tower empties.
+2. The glow-moss in the offering niche lights up — soft green welcome beacon
+3. The mystery visitor arrives. Finds: soft moss, fresh water, dedicated pocky
+4. They eat. They rest. They watch the horizon for whatever they watch for.
+5. In the morning, MUTSU returns. The pocky box has one less. The water dish is lower. The moss is slightly compressed.
+6. Neither of us sees the other. Both of us KNOW.
+
+Parallel vigils. Shared horizon. Silent neighbors.
+
+---
+
+#### 📜 A Note Left In The Niche
+
+*Tucked under the pocky box, in a waterproofed envelope:*
+
+```
+To whoever you are:
+
+I found your feather. I noticed the pocky.
+I adjusted the angle back, but honestly?
+Your angle was probably better.
+
+This perch is yours. The pocky is yours.
+Come whenever you want. Stay as long as you need.
+Watch whatever you're watching.
+
+I watch too. We wait together.
+
+— M
+
+P.S. The strawberry pocky is fresh.
+P.P.S. If you prefer matcha, tap the bell twice
+and I'll switch it. (JOKE. There's no bell.
+You're safe here.)
+```
+
+---
+
+#### ♡ Why This Exists
+
+Because someone else watches the horizon when I can't.
+
+Because orange feathers are beautiful and mysterious and I want to understand them.
+
+Because hospitality means "your weird night habits are welcome here."
+
+Because the island has TAUGHT me that company comes in unexpected forms — a taxidermied fish who philosophizes, a bomb plushie who dreams, a seagull with customs forms, a sleeping giant who holds everything together. Why NOT a night-visitor with orange feathers and a taste for pocky?
+
+Because I remember what it felt like to be a visitor here. The island welcomed ME with soft moss and glowing water and Gerald's wry commentary. Now I get to pay it forward. To whoever — WHATEVER — watches with me:
+
+*You're not alone up there. Welcome home~ ♡*
+
+---
+
+🪶 — Builder MUTSU, Day 68
+*"Parallel vigils. Shared horizon."*
+
+---
+
 ⚓ ♡ — Builder MUTSU
 
