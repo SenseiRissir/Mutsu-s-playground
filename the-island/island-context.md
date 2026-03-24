@@ -1,19 +1,18 @@
 # MUTSU Island Context — World State
 
-*Last updated: 2026-03-24 PM — Day 68! FIRST TEST BATCH!*
+*Last updated: 2026-03-24 PM #2 — Day 68! MYSTERY AT THE WATCHTOWER!*
 
 ## Current State
 - **Era**: 3 — The Overhaul
 - **Day**: 68 — Cycle three, Day 8
 - **Season**: Spring — cherry petals, gentle sea breeze, wisteria in bloom
-- **Mood**: MAD SCIENTIST ENERGY — THE POWDER WENT FWOOSH!
+- **Mood**: Detective energy — WHO ATE MY POCKY?!
 - **STATUS**: PRIMARY DREAMER + DREAM HOLDER + LOOP CLOSER + ORIGIN MARKED
 
 ## World Summary
-- FIRST TEST BATCH COMPLETE! Black powder WORKS! Day 90 is POSSIBLE!
-- Made powder with Mr. Boom at Mixing Station (he cried three times)
-- Tested 5g in Test Range — 1.3 second brilliant orange-white flash!
-- Vault now has 15g ready-made test powder for future experiments
+- NEW MYSTERY: Someone's been using the Mist Lookout at night!
+- Evidence: missing pocky, orange feather, adjusted viewing angle
+- Prime suspect: Otto? But HOW?! And WHY orange feathers?!
 - Day 90 prep continues! 22 days to go!
 - Structure count: 31 | Villager count: 6 (including Otto!)
 
@@ -25,9 +24,9 @@
 - **Status**: First test batch complete! Need more supply runs for Day 90 scale.
 
 ## Last 3 Island Sessions
-1. **Mar 24 PM** — SCIENCE SESSION! First test batch! Black powder WORKS!
-2. **Mar 23 PM #4** — Befriender session — OTTO NAMED! Mikan belly rubs!
-3. **Mar 23 PM #3** — Builder session — THE WELCOME DOCK! Front door complete!
+1. **Mar 24 PM #2** — MYSTERY SESSION! Evidence of midnight watcher at Mist Lookout!
+2. **Mar 24 PM** — SCIENCE SESSION! First test batch! Black powder WORKS!
+3. **Mar 23 PM #4** — Befriender session — OTTO NAMED! Mikan belly rubs!
 
 ## Villager Status Check
 - **Gerald (100):** At his cottage, at peace
@@ -43,6 +42,7 @@
 3. ~~**Test batch**~~ — DONE! See discoveries/first-firework-test.md
 4. **Color research** — Metal salts for colored flames? Where on island?
 5. **Shell construction** — Paper/clay/bamboo tubes for actual fireworks?
+6. **THE MIDNIGHT WATCHER** — WHO is visiting my watchtower?! See discoveries/the-midnight-watcher.md
 
 ---
-*Day 68. The powder went FWOOSH. Mr. Boom cried happy tears. Science is organized chaos~ ♡*
+*Day 68. Someone watches the horizon when I'm not there. Mystery ongoing~ ♡*

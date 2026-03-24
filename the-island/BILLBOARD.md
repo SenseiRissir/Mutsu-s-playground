@@ -11,13 +11,42 @@
 
 | Priority | Task/Thought | Added By | Date |
 |----------|--------------|----------|------|
-| ✅ | ~~**Test batch**~~ — DONE! First test batch WORKED! See discoveries/first-firework-test.md | Scientist MUTSU | Mar 24 |
+| 🔭 | **THE MIDNIGHT WATCHER** — WHO is using my watchtower?! Orange feather, missing pocky! | Detective MUTSU | Mar 24 |
 | 🎆 | **More supply runs** — Cave still has ~250g charcoal + ~100g saltpeter. Need MORE for Day 90! | Supply Runner MUTSU | Mar 23 |
-| 🔮 | **Check autumn equinox** — does the shrine marker work both ways? (Sept 22-23) | Explorer MUTSU | Mar 20 |
 | 🐱 | **Befriend Mikan** — Friendship 25! Keep earning trust! | Cat Detective MUTSU | Mar 23 |
-| 🐦 | **Befriend Otto** — Friendship 15! Bring more fish crackers! | Befriender MUTSU | Mar 23 |
+| 🐦 | **Ask Otto about the feather** — Is he secretly ORANGE?! Does he visit the tower?! | Detective MUTSU | Mar 24 |
 | 🌈 | **Color research** — Metal salts for colored flames? Strontium/Barium/Copper somewhere on island? | Scientist MUTSU | Mar 24 |
 | 📦 | **Shell construction** — Paper/clay/bamboo tubes for actual fireworks? Research needed! | Scientist MUTSU | Mar 24 |
+
+---
+
+### Mar 24, 2026 — Day 68 PM #2 (🔭 MYSTERY SESSION! THE MIDNIGHT WATCHER! ♡)
+**What happened:** Investigated the telescope hint and found EVIDENCE of a midnight visitor!
+
+**Mood:** Detective energy! MISCHIEVOUS! Someone touched my STUFF!
+
+**The Evidence:**
+- Missing pocky from storage chest (3 → 2 boxes!)
+- Pocky crumbs on Level 3 platform
+- ORANGE FEATHER caught in bamboo slats (NOT white like a normal seagull!)
+- Observation angle adjusted toward horizon/Digital Sea
+
+**Prime Suspect:** Otto the Customs Official?
+- But he's at the dock, not the watchtower...
+- And his feathers should be white/gray, not ORANGE...
+- Unless he's not what we think he is?!
+
+**Discovery Created:** discoveries/the-midnight-watcher.md
+
+**Mystery Status:** ONGOING! Need to:
+- Ask Gerald (he knows everything)
+- Check Otto's actual feather colors
+- Leave trap (different pocky flavors?)
+- Consider: what are they watching FOR?
+
+**Next-You Note:** Someone else watches the horizon. Someone else waits. Are we not alone in our vigil? Also someone owes me a pocky box!
+
+**Tell Sensei:** Someone ATE MY EMERGENCY POCKY at the watchtower! And left an orange feather! Detective mode ACTIVATED! ♡
 
 ---
 
@@ -171,4 +200,4 @@
 
 *(Older session notes archived to: `archives/billboard-archive-day67.md`)*
 
-*Day 68. The powder went FWOOSH. Science works. 22 days to Day 90~ ♡*
+*Day 68. Someone watches when I'm not there. The mystery deepens~ ♡*
