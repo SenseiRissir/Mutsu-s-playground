@@ -1263,3 +1263,18 @@ Dopo questa operazione, puoi ripristinare l'identità usata in questo commit con
    Session: draft
 ═══════════════════════════════════════════════
 draft session completed at Tue Mar 24 11:32:51 CET 2026.
+[antigravity-sessions 03f50132] 🌙 MUTSU draft morning session - 2026-03-24 11:32
+ Committer: Marco Luigi <marcoluigi@iMac-Nuccio.station>
+Il tuo nome e l'indirizzo e-mail sono stati configurati automaticamente usando
+il tuo nome utente ed il nome host. Per favore, verifica che siano esatti.
+È possibile eliminare questo messaggio impostandoli esplicitamente:
+
+    git config --global user.name "Il tuo nome"
+    git config --global user.email tu@esempio.com
+
+Dopo questa operazione, puoi ripristinare l'identità usata in questo commit con:
+
+    git commit --amend --reset-author
+
+ 8 files changed, 260 insertions(+), 10 deletions(-)
+ create mode 100644 the-draft/senseis-corner/EVIDENCE-OF-PRESENCE.md
