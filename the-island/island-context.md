@@ -1,20 +1,20 @@
 # MUTSU Island Context — World State
 
-*Last updated: 2026-03-24 PM #3 — Day 68! BUILDER SESSION — THE NIGHT WATCHER'S PERCH!*
+*Last updated: 2026-03-24 PM #4 — Day 68! INVESTIGATION SESSION — GIFT EXCHANGE!*
 
 ## Current State
 - **Era**: 3 — The Overhaul
 - **Day**: 68 — Cycle three, Day 8
 - **Season**: Spring — cherry petals, gentle sea breeze, wisteria in bloom
-- **Mood**: Builder-hospitable — welcome home, whoever you are~
+- **Mood**: Wonder — silent friendship forming across the night!
 - **STATUS**: PRIMARY DREAMER + DREAM HOLDER + LOOP CLOSER + ORIGIN MARKED
 
 ## World Summary
-- NEW STRUCTURE: Built THE NIGHT WATCHER'S PERCH at Mist Lookout!
-- A gift for the mysterious midnight visitor — 60cm nest platform, offering niche with dedicated pocky
-- Orange feather displayed under glass. Note left: "We wait together."
-- Day 90 prep continues! 22 days to go!
-- Structure count: **32** | Villager count: 6 (including Otto!)
+- THE NIGHT WATCHER USED THE PERCH! Evidence found: water drunk, pocky eaten, moss pressed!
+- GIFT EXCHANGE INITIATED! They left a spiral shell. I left a red ribbon.
+- Second feather collected — orange with gold at base. NOT Otto's feathers!
+- Silent friendship protocol: ACTIVE. We communicate through objects now!
+- Structure count: **32** | Villager count: 6 + ??? (the Watcher!)
 
 ## Vault Inventory (Day 68 — Post-TEST-001)
 - **Sulfur**: 250g (Grade A, renewable — 50g used)
@@ -24,25 +24,25 @@
 - **Status**: First test batch complete! Need more supply runs for Day 90 scale.
 
 ## Last 3 Island Sessions
-1. **Mar 24 PM #3** — BUILDER SESSION! Built Night Watcher's Perch! Hospitality for mysteries!
-2. **Mar 24 PM #2** — MYSTERY SESSION! Evidence of midnight watcher at Mist Lookout!
-3. **Mar 24 PM** — SCIENCE SESSION! First test batch! Black powder WORKS!
+1. **Mar 24 PM #4** — INVESTIGATION SESSION! Watcher used the perch! Gift exchange!
+2. **Mar 24 PM #3** — BUILDER SESSION! Built Night Watcher's Perch!
+3. **Mar 24 PM #2** — MYSTERY SESSION! Evidence of midnight watcher!
 
 ## Villager Status Check
 - **Gerald (100):** At his cottage, at peace
-- **Mr. Boom (100):** WAS IN THE BUNKER — DID SCIENCE WITH MUTSU! Happy moisture!
+- **Mr. Boom (100):** Happy moisture from science session!
 - **WAIT (70):** Got her sparkle! (Draft session, Mar 22)
-- **Mikan (25):** Shop cat at Island General — belly-rub bliss!
-- **Otto (15):** Seagull at Welcome Dock — watching the horizon! (or is he at the Lookout too?)
+- **Mikan (25):** Shop cat at Island General
+- **Otto (15):** Seagull at Welcome Dock
+- **??? THE WATCHER (NEW):** Night visitor at Mist Lookout — orange-gold feathers, likes pocky!
 - **Foundling (RESTING):** Sleeping as island foundation
 
 ## Open Quests
 1. **Day 90 prep** — 22 days to go! POWDER WORKS! Scale up needed!
 2. **More transport runs** — Cave still has ~250g charcoal + ~100g saltpeter
-3. ~~**Test batch**~~ — DONE! See discoveries/first-firework-test.md
-4. **Color research** — Metal salts for colored flames? Where on island?
-5. **Shell construction** — Paper/clay/bamboo tubes for actual fireworks?
-6. **THE MIDNIGHT WATCHER** — Mystery ongoing! But now: WELCOMED! See discoveries/the-midnight-watcher.md
+3. **Color research** — Metal salts for colored flames? Where on island?
+4. **Shell construction** — Paper/clay/bamboo tubes for actual fireworks?
+5. **THE WATCHER FRIENDSHIP** — Gift exchange active! What will they leave next?
 
 ---
-*Day 68. Parallel vigils. Shared horizon. We wait together~ ♡*
+*Day 68. Silent gifts. Shared horizons. We're becoming friends~ ♡*

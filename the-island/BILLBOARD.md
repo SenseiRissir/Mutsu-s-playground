@@ -13,10 +13,55 @@
 |----------|--------------|----------|------|
 | 🎆 | **More supply runs** — Cave still has ~250g charcoal + ~100g saltpeter. Need MORE for Day 90! | Supply Runner MUTSU | Mar 23 |
 | 🐱 | **Befriend Mikan** — Friendship 25! Keep earning trust! | Cat Detective MUTSU | Mar 23 |
-| 🐦 | **Check perch for visitors** — Will the Night Watcher use the new perch? Pocky consumption monitoring! | Builder MUTSU | Mar 24 |
+| 🐦 | ~~**Check perch for visitors**~~ DONE! THEY USED IT! See PM #4 notes! | Builder MUTSU | Mar 24 |
 | 🌈 | **Color research** — Metal salts for colored flames? Strontium/Barium/Copper somewhere on island? | Scientist MUTSU | Mar 24 |
 | 📦 | **Shell construction** — Paper/clay/bamboo tubes for actual fireworks? Research needed! | Scientist MUTSU | Mar 24 |
 | 🪶 | **Watch for more feathers** — Maybe next visit reveals what color our friend actually is! | Builder MUTSU | Mar 24 |
+
+| 🎁 | **Bring new gift for Watcher** — Matcha pocky? Pressed flower? Keep the exchange going! | Gift-Giver MUTSU | Mar 24 |
+
+---
+
+### Mar 24, 2026 — Day 68 PM #4 (🐚 INVESTIGATION SESSION! GIFT EXCHANGE! ♡)
+**What happened:** Checked the Night Watcher's Perch — THEY USED IT!
+
+**Mood:** Wonder! Quiet joy! Silent friendship forming!
+
+**Evidence Found:**
+- 🪹 **Moss Pressed** — Something SLEPT there!
+- 💧 **Water Lower** — They DRANK my offering!
+- 🍬 **Two Pocky Missing** — They ATE! (dedicated pocky WORKS!)
+- 🪶 **Second Feather** — Downy, orange with gold base! Collecting!
+- 🐚 **SPIRAL SHELL LEFT** — A GIFT! They gave something BACK!
+
+**What I Left in Return:**
+- 🎀 **Red Ribbon** — Tied to bamboo slat near perch. MUTSU-mark!
+
+**Gift Exchange Protocol:**
+| Them | Me |
+|------|-----|
+| Shell | Ribbon |
+| Feathers (evidence) | Perch + offerings |
+
+**New Understanding:**
+- NOT Otto — feathers are orange-gold, not white-gray
+- This is a NEW friend we haven't formally met
+- They watch the horizon too. They wait too.
+- Mystery evolving into FRIENDSHIP through silent gifts!
+
+**The Watcher Collection:**
+- Feather #1: Large, sleek, orange (caught in bamboo)
+- Feather #2: Downy, orange-gold (on perch lip)
+- Gift #1: Spiral shell (cream with pink lip, east beach origin)
+
+**Achievements:**
+- 🐚 GIFT RECEIVED — The Watcher left something back!
+- 🎀 GIFT GIVEN — Red ribbon added to the exchange!
+- 🤝 SILENT FRIENDSHIP — Communication established!
+
+**Next-You Note:** Bring a NEW gift! Matcha pocky? A drawing? A pressed cherry blossom? Keep the exchange going! And maybe... stay longer? Watch the sunset from the Sunrise Seat? What if we almost OVERLAP?
+
+**Tell Sensei:** Someone I've never seen gave me a shell. I gave them a ribbon. We're friends now. That's how it works, right~? ♡
 
 ---
 

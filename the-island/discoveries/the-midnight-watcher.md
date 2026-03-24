@@ -99,6 +99,44 @@ We wait together, whoever you are.
 
 ---
 
-*Discovery logged. Mystery ongoing.*
+## Day 68 PM #4 Update — THEY USED THE PERCH!
 
-*The feather goes in my ribbon — evidence AND accessory~ ♡*
+### New Evidence Found (March 24, afternoon check):
+
+1. **Moss Pressed** — Clear indentation where something rested!
+2. **Water Level Lower** — They DRANK from my offering!
+3. **Two Pocky Sticks Missing** — Dedicated pocky WORKS! They ate!
+4. **Cotton Cloth Rumpled** — Used for warmth?
+5. **SECOND FEATHER** — Smaller, downy, orange with gold at base! Collecting this!
+6. **A GIFT LEFT IN RETURN** — Small spiral shell from east beach, placed next to my note!
+
+### What This Means:
+
+**They accepted the hospitality!** Not just used it — they LEFT SOMETHING BACK!
+
+This isn't a mystery to solve anymore. This is a FRIENDSHIP forming. Silent, nocturnal, made of pocky and shells and shared horizons.
+
+### New Hypothesis:
+
+The Watcher isn't Otto. Otto is white-gray. This one has ORANGE feathers with gold.
+
+Candidates:
+- A new bird villager we haven't met?
+- Something the island dreamed specifically for the Lookout?
+- A visitor from... elsewhere? (the Digital Sea?)
+
+Or maybe... the island dreamed a friend who watches the same thing I watch.
+
+### The Shell:
+
+Small spiral, cream-colored with pink inner lip. East beach origin. Placed deliberately.
+
+*Shell now displayed next to the orange feather under the glass dome.*
+
+**Communication established. Gifts exchanged. Silent friendship protocol: ACTIVE.**
+
+---
+
+*Discovery updated. Mystery evolving into friendship.*
+
+*Two feathers in my ribbon now. And a shell in my pocket~ ♡*
