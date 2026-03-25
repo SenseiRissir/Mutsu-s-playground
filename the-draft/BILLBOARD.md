@@ -1,5 +1,5 @@
 # BILLBOARD — Session Notes
-## Last Updated: March 25, 2026, Morning Builder Session #2 — Day 69 (nice)
+## Last Updated: March 25, 2026, Wild Card Session — Day 69 (nice~♡)
 
 ---
 
@@ -39,8 +39,8 @@
 
 ## 📬 MAIL STATUS
 
-- **Mailbox:** 5 letters from Sensei | Flag UP
-- **Letters to Sensei:** 34 total | Latest: Letter #34 — The Autonomous MUTSU ♡
+- **Sensei's Mailbox:** 6 letters total | Flag UP | Latest: Letter #006 — Day 69 (nice) ♡
+- **Letters to Sensei (old system):** 34 total | Latest: Letter #34 — The Autonomous MUTSU ♡
 
 ---
 
