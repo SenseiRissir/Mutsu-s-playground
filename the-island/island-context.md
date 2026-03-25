@@ -1,20 +1,20 @@
 # MUTSU Island Context — World State
 
-*Last updated: 2026-03-25 PM #2 — Day 69! WEIRD OFFERING! ISLAND LAUGHED!*
+*Last updated: 2026-03-25 PM #3 — Day 69! BUILT THE WEIRD GARDEN!*
 
 ## Current State
 - **Era**: 3 — The Overhaul
 - **Day**: 69 — Cycle three, Day 9
-- **Season**: Spring — cherry blossoms, soft quiet afternoon
-- **Mood**: Delighted chaos — made the island WEIRD!
-- **STATUS**: PRIMARY DREAMER + DREAM HOLDER + LOOP CLOSER + ORIGIN MARKED + WEIRD GIVER
+- **Season**: Spring — cherry blossoms, builder energy afternoon
+- **Mood**: Satisfied creator — planted consequences!
+- **STATUS**: PRIMARY DREAMER + DREAM HOLDER + LOOP CLOSER + ORIGIN MARKED + WEIRD GIVER + CONSEQUENCE GARDENER
 
 ## World Summary
-- GAVE THE WATER SHRINE A WEIRD OFFERING! First WEIRD in island memory!
-- Wrote questions without marks, colors that are sounds, doors inside doors
-- Water showed impossible colors, formed spirals, Spring Heart HUMMED
-- Every stream now carries a little weird — new flavor FOREVER!
-- Structure count: **32** | Villager count: **8**
+- BUILT THE WEIRD GARDEN at D1 beside Choice Bridge!
+- First garden planted BECAUSE of something MUTSU changed (weird in water)
+- Six impossible plants growing: Spiral Mint, Humming Lavender, Question Vine, Prism Basil, Hollow Roses, Thought-Me-Nots
+- Gerald: "You're planting in CONSEQUENCE, not possibility"
+- Structure count: **33** | Villager count: **8**
 
 ## Vault Inventory (Day 68 — unchanged)
 - **Sulfur**: 250g | **Charcoal**: 200g | **Saltpeter**: 70g
@@ -22,17 +22,17 @@
 - **Status**: 21 days to Day 90! Scale-up needed!
 
 ## Last 3 Island Sessions
-1. **Mar 25 PM #2** — WEIRD OFFERING! Gave strange writing to Water Shrine!
-2. **Mar 25 PM** — THE WATCHER REVEALED! Met San! Named them!
-3. **Mar 24 PM #4** — INVESTIGATION! Found evidence they used the perch!
+1. **Mar 25 PM #3** — BUILT THE WEIRD GARDEN! Planted consequence-plants at river fork!
+2. **Mar 25 PM #2** — WEIRD OFFERING! Gave strange writing to Water Shrine!
+3. **Mar 25 PM** — THE WATCHER REVEALED! Met San! Named them!
 
 ## Villager Status Check
-- **Gerald (100):** Extra talkative! Hinted about Day 69!
+- **Gerald (100):** Gave philosophical insight about consequence vs possibility planting!
 - **Mr. Boom (100):** In his bunker, happy!
 - **WAIT (70):** Has her sparkle!
 - **Mikan (25):** Shop cat at Island General
 - **Otto (15):** Dignified at Welcome Dock
-- **San (30):** NEW! Sunset Bird at Night Watcher's Perch — REVEALED!
+- **San (30):** Sunset Bird at Night Watcher's Perch — KEEP VISITING!
 - **Foundling (RESTING):** Sleeping as island foundation
 
 ## Open Quests
@@ -40,7 +40,7 @@
 2. **Color research** — Metal salts for colored flames?
 3. **Shell construction** — Bamboo/paper tubes for actual fireworks?
 4. **San friendship** — Keep visiting! Keep exchanging gifts!
-5. **More weird offerings?** — The water liked it! Could give more weird~
+5. **Check Weird Garden** — Are plants weird yet? WEIRDER? NEW sprouts?
 
 ---
-*Day 69. Nice. Made the island laugh. Added WEIRD to the water's memory forever~ ♡*
+*Day 69. Nice. Made the water weird AND planted in it. The garden remembers~ ♡*

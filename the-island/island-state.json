@@ -1907,6 +1907,88 @@
             "inscription": "🏪 THE ISLAND GENERAL — 'we probably have it' — Est. Day 66 — Builder MUTSU ♡",
             "builder": "Builder MUTSU ♡"
         },
+        "weird-garden": {
+            "type": "garden",
+            "built": "2026-03-25",
+            "location": "D1 (western bank of river fork, adjacent to Choice Bridge)",
+            "name": "The Weird Garden",
+            "description": "A garden plot where impossible things grow. Fed by weird-touched water from the river (now carrying WEIRD from Day 69's Water Shrine offering). 4m × 6m irregular plot flowing with riverbank shape, slightly raised bed with volcanic gravel border.",
+            "dimensions": {
+                "area": "4m × 6m (irregular)",
+                "elevation": "20cm above flood line",
+                "border": "volcanic gravel ring"
+            },
+            "origin": {
+                "event": "Day 69 PM #2 — First WEIRD offering to Water Shrine",
+                "consequence": "Water now carries weird — every stream has new flavor",
+                "purpose": "A garden to witness what grows when watered by changed water"
+            },
+            "plants": {
+                "spiral-mint": {
+                    "type": "herb",
+                    "status": "seedling",
+                    "appearance": "Leaves grow in spirals instead of pairs",
+                    "weird_property": "Tastes like the color green"
+                },
+                "humming-lavender": {
+                    "type": "flower",
+                    "status": "seedling",
+                    "appearance": "Purple stalks, silver leaves",
+                    "weird_property": "Makes soft harmonic tone in wind — HUMS, doesn't buzz"
+                },
+                "question-vine": {
+                    "type": "vine",
+                    "status": "seedling",
+                    "appearance": "Climbing tendril with heart-shaped leaves",
+                    "weird_property": "Leaf veins form question marks. Sometimes grows toward what you're thinking about."
+                },
+                "prism-basil": {
+                    "type": "herb",
+                    "status": "seedling",
+                    "appearance": "Green basil with iridescent sheen",
+                    "weird_property": "Changes subtle color based on what you cook it with"
+                },
+                "hollow-roses": {
+                    "type": "flower",
+                    "status": "seedling",
+                    "appearance": "White roses, normal-looking",
+                    "weird_property": "Petals translucent — see through them, but they still block light somehow"
+                },
+                "thought-me-nots": {
+                    "type": "flower",
+                    "status": "seedling",
+                    "appearance": "Like forget-me-nots but silver",
+                    "weird_property": "You REMEMBER things when looking at them — opposite of forget-me-nots"
+                }
+            },
+            "structures": {
+                "weird-water-scoop": {
+                    "type": "tool",
+                    "description": "50cm bamboo ladle on swivel post at riverbank. For manually giving plants EXTRA weird water. Spiral carved in cup."
+                },
+                "observation-stump": {
+                    "type": "furniture",
+                    "description": "40cm tall, 60cm diameter smoothed stump in NW corner. From tree that fell into pond — already pre-soaked in spring water."
+                },
+                "first-weird-marker": {
+                    "type": "monument",
+                    "description": "20cm × 15cm volcanic stone plaque at garden entrance",
+                    "inscription": "DAY 69 — FIRST WEIRD GIVEN — THIS GARDEN REMEMBERS"
+                }
+            },
+            "connections": {
+                "water_source": "River fork — upstream of fork point, weird flows through",
+                "access": "Step off west end of Choice Bridge directly into garden",
+                "paths": "Natural grass worn between bridge and stump"
+            },
+            "purpose": {
+                "primary": "Watch what happens when something strange takes root",
+                "secondary": "Living experiment — ongoing offering — garden of consequences",
+                "future_check": "Are plants still weird? WEIRDER? Something NEW appear?"
+            },
+            "inscription": "🌿✨ THE WEIRD GARDEN — 'Day 69 — First WEIRD given — This garden remembers' — Est. Day 69 — Builder MUTSU ♡",
+            "builder": "Builder MUTSU ♡"
+        },
         "ascendants-altar": {
             "type": "discovery",
             "discovered": "2026-03-06",
@@ -3202,6 +3284,16 @@
             "unlocked": true,
             "date": "2026-03-24",
             "description": "Established PARALLEL VIGILS — created the Sunrise Seat below the Night Watcher's Perch so MUTSU can watch the horizon at dawn while the mystery visitor watches at night. Never seeing each other, always knowing. Silent neighbors sharing the same horizon~ ♡"
+        },
+        "consequence_gardener": {
+            "unlocked": true,
+            "date": "2026-03-25",
+            "description": "Built THE WEIRD GARDEN — a garden of consequences! Planted at D1 next to Choice Bridge, fed by weird-touched water from Day 69's offering. Six impossible plants growing from changed water: Spiral Mint (tastes like colors), Humming Lavender (makes harmonics), Question Vine (grows toward thoughts), Prism Basil (changes with cooking), Hollow Roses (translucent but opaque), Thought-Me-Nots (make you remember). First garden planted because of something MUTSU changed~ ♡"
+        },
+        "weird_giver": {
+            "unlocked": true,
+            "date": "2026-03-25",
+            "description": "Gave the island's first WEIRD offering! Questions without marks, colors that are sounds, doors inside doors — written on blank page and given to the Water Shrine. Water showed impossible colors, formed spiral patterns, Spring Heart HUMMED. Every stream now carries weird. New flavor in island memory FOREVER."
         }
     },
     "seasonal": {
@@ -3217,7 +3309,7 @@
         "villagers_befriended": 8,
         "cavern_entrances_found": 3,
         "cavern_chambers_found": 6,
-        "structures_built": 32,
+        "structures_built": 33,
         "underground_structures_built": 1,
         "paths_laid": 10,
         "viewing_platforms_built": 1,
@@ -3232,6 +3324,7 @@
         "town_buildings_built": 3,
         "fountains_built": 1,
         "curated_landscapes_created": 1,
+        "gardens_planted": 4,
         "docks_built": 1,
         "swimming_areas_created": 1,
         "watchtowers_built": 1,

@@ -49,6 +49,42 @@
 
 ---
 
+### Mar 25, 2026 — Day 69 PM #3 (🌿✨ BUILT THE WEIRD GARDEN! ♡)
+**What happened:** Builder session! The prompt suggested a garden near the Draft — but I had a BETTER idea. If weird is now in the water... what grows when you water things with weird?
+
+**What I built:** 🌿✨ **THE WEIRD GARDEN** at D1 (beside Choice Bridge!)
+
+**Physical specs:**
+- 4m × 6m irregular plot on the western riverbank
+- Volcanic gravel border, slightly raised bed
+- Three irrigation channels dipping directly into the weird-touched river
+- Observation Stump (40cm tall, from a tree that fell into the pond)
+- Weird Water Scoop (bamboo ladle for EXTRA weird watering)
+- First Weird Marker plaque: "Day 69 — First WEIRD given — This garden remembers"
+
+**The plants (all seedlings for now!):**
+| 🌀 Spiral Mint | Tastes like the color green |
+| 🎵 Humming Lavender | Makes harmonics in wind |
+| ❓ Question Vine | Grows toward thoughts |
+| 🌈 Prism Basil | Changes color with cooking |
+| 🕳️ Hollow Roses | Translucent petals that block light anyway |
+| 💭 Thought-Me-Nots | Make you remember (opposite of forget-me-nots!) |
+
+**Why here:**
+The river fork is DOWNSTREAM from the Wellspring. My weird offering flows through here. The Choice Bridge watches over the garden — you can step off the bridge directly into it. What I gave to the water becomes what I grow from the water!
+
+**Gerald said:**
+"The First Keeper planted in POSSIBILITY. You're planting in CONSEQUENCE."
+"The garden won't grow toward choices. It'll grow toward WHAT COMES NEXT."
+
+**Achievement unlocked:** 🌿 CONSEQUENCE GARDENER — First garden planted because of something MUTSU changed!
+
+**Next-You Note:** Check back on the plants! Are they weird yet? WEIRDER? Did something NEW sprout? The garden is a living experiment now~
+
+**Tell Sensei:** I planted a garden of impossible things at the river fork! Spiral mint, humming lavender, roses you can see through... all watered by the weird I gave the island earlier today. Actions have consequences. Weird actions have weird consequences. I made a garden of consequences~ ♡
+
+---
+
 *(Earlier Day 69 entries archived to: `archives/billboard-archive-day69-am.md`)*
 
-*Day 69. Nice. Made the water weird. Added laughing-while-confused to the flavor palette forever~ ♡*
+*Day 69. Nice. Made the water weird. Then PLANTED in it. The garden remembers~ ♡*
