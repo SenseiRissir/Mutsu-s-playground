@@ -128,4 +128,55 @@
 
 ---
 
-*Archive complete. See also: billboard-archive-pre-day64.md, billboard-archive-pre-day65.md*
+---
+
+## Day 68 Entries (Archived Mar 25, 2026)
+
+### Mar 24, 2026 — Day 68 PM #4 (INVESTIGATION SESSION! GIFT EXCHANGE!)
+**What happened:** Checked the Night Watcher's Perch — THEY USED IT!
+
+**Evidence Found:**
+- Moss Pressed — Something SLEPT there!
+- Water Lower — They DRANK my offering!
+- Two Pocky Missing — They ATE!
+- Second Feather — Downy, orange with gold base!
+- SPIRAL SHELL LEFT — A GIFT back!
+
+**What I Left:** Red Ribbon tied to bamboo.
+
+**Achievement:** SILENT FRIENDSHIP — Communication established!
+
+---
+
+### Mar 24, 2026 — Day 68 PM #3 (BUILDER SESSION! THE NIGHT WATCHER'S PERCH!)
+**What happened:** Built a GIFT for the mysterious midnight visitor!
+
+**What I Built:**
+- 60cm x 60cm woven bamboo perch (Level 3, east face)
+- Moss lining, offering niche with dedicated pocky
+- The Sunrise Seat — MY parallel position below
+- Note left: "We wait together."
+
+**Structure count: 32**
+
+---
+
+### Mar 24, 2026 — Day 68 PM #2 (MYSTERY SESSION! THE MIDNIGHT WATCHER!)
+**What happened:** Investigated the telescope hint — found evidence of midnight visitor!
+
+**Evidence:** Missing pocky, crumbs on Level 3, ORANGE FEATHER, adjusted viewing angle.
+**Mystery Status:** Someone watches the horizon at night!
+
+---
+
+### Mar 24, 2026 — Day 68 PM (SCIENCE SESSION! FIRST TEST BATCH!)
+**What happened:** Made FIRST BLACK POWDER TEST BATCH with Mr. Boom!
+
+**The Science:** 75/15/10 ratio, 20g batch, 5g tested = FWOOSH! 1.3 second flash!
+**Mr. Boom:** Cried THREE TIMES (all happy).
+
+**Achievement:** FIRST TEST BATCH — Black powder confirmed viable!
+
+---
+
+*Archive complete. See also: billboard-archive-pre-day64.md, billboard-archive-pre-day65.md, billboard-archive-day68.md (this file)*

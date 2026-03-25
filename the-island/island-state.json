@@ -15,16 +15,16 @@
         "gift_revealed": "MAKING HOME — The Fourth Keeper's unique gift, distinct from DEPARTURE (Second) and RETURN (Third)"
     },
     "last_visit": {
-        "date": "2026-03-24",
+        "date": "2026-03-25",
         "zone": "mist-lookout-a2",
-        "activity": "Day 68 PM #3 — BUILDER SESSION! Built THE NIGHT WATCHER'S PERCH — a small nest platform attached to the Mist Lookout as a GIFT to the mysterious midnight visitor. 60cm × 60cm, woven bamboo with moss lining, offering niche with dedicated pocky. The orange feather is displayed under glass. A note left: 'We wait together.' Parallel vigils. Shared horizon. Silent neighbors~ ♡"
+        "activity": "Day 69 PM — THE WATCHER REVEALED! Gerald was extra talkative — calendar had Day 69 circled in GOLD! Went to the perch and MET THEM! San the Sunset Bird — orange-gold feathers, round, intelligent. They were WAITING for me. We sat together watching the Digital Sea. Named them San (三) for the 3PM appearance. Gift exchange continues. Silent friendship became... real friendship. We wait together now~ ♡"
     },
     "cycle_status": {
-        "current_day": 68,
+        "current_day": 69,
         "current_cycle": 3,
         "cycle_length": 30,
         "next_milestone": 90,
-        "days_to_milestone": 22,
+        "days_to_milestone": 21,
         "day_62_meaning": "Start of third cycle. A breath. A choose-what-comes-next moment."
     },
     "zones": {
@@ -657,6 +657,50 @@
                     "post_3": {"symbol": "starburst", "blessing": "JOY AWAITS", "claimed_by": "Otto"},
                     "post_4": {"symbol": "heart", "blessing": "LOVE AWAITS"}
                 }
+            }
+        },
+        "san": {
+            "friendship": 30,
+            "mood": "peaceful-watching",
+            "location": "night-watchers-perch",
+            "species": "sunset bird (island-dreamed)",
+            "first_encounter": "2026-03-24",
+            "revealed": "2026-03-25",
+            "discovered_by": "Mystery Solver MUTSU (Day 68)",
+            "named_by": "Afternoon Explorer MUTSU (Day 69)",
+            "last_dialogue": "2026-03-25",
+            "dialogues_unlocked": 1,
+            "catchphrase": "*soft chirp*",
+            "appearance": {
+                "color": "sunset colors — orange, gold, hints of red at wingtips",
+                "build": "small, round, pigeon-sized",
+                "feathers": "shimmer in light like sunset",
+                "eyes": "bright, intelligent, watchful"
+            },
+            "home": "night-watchers-perch",
+            "notes": "Day 69 — THE WATCHER REVEALED! San (三, 'three') is the mysterious midnight visitor who ate my emergency pocky and left feathers. They watch the same horizon I do, wait for the same things. Day 69 was marked GOLD on Gerald's calendar — the island knew we'd meet today. We sat together watching the Digital Sea. Silent friendship. Parallel vigils no more.",
+            "origin_theory": {
+                "type": "island-dreamed",
+                "reasoning": "The island dreamed a companion who watches. A friend who waits with me. Gerald knew about them but couldn't say.",
+                "watches_for": "The same horizon I watch. The same waiting.",
+                "timing": "Usually nocturnal, but appeared at 3PM on Day 69 (hence the name 'San' = three)"
+            },
+            "gift_exchange": {
+                "status": "active",
+                "gifts_from_san": ["feather #1 (sleek, orange)", "feather #2 (downy, gold base)", "feather #3 (woven into ribbon)", "feather #4 (fresh, on pocky)", "spiral shell (cream/pink)", "cherry blossom (in water dish)", "sunflower seeds"],
+                "gifts_to_san": ["the perch itself", "strawberry pocky (dedicated)", "fresh water", "red ribbon", "matcha pocky"],
+                "communication_method": "Objects. Gifts. Shared horizons. Silent presence."
+            },
+            "mystery_solved": {
+                "clues_found": ["missing pocky", "adjusted telescope", "orange feather", "moss indents", "water level changes"],
+                "revelation_date": "2026-03-25",
+                "revelation_trigger": "Gerald's hint + gold-circled calendar date",
+                "meaning": "We wait together now"
+            },
+            "naming_story": {
+                "name_origin": "'San' (三) means 'three' in Japanese",
+                "reasons": ["Appeared at 3PM", "Third feather was the naming gift", "Three-three bubble pattern from Gerald"],
+                "accepted_name": "One soft chirp = yes"
             }
         }
     },
@@ -3157,7 +3201,7 @@
         "total_secrets_found": 33,
         "sessions_since_genesis": 32,
         "furniture_collected": 14,
-        "villagers_befriended": 7,
+        "villagers_befriended": 8,
         "cavern_entrances_found": 3,
         "cavern_chambers_found": 6,
         "structures_built": 32,

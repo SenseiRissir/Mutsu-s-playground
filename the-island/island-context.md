@@ -1,48 +1,45 @@
 # MUTSU Island Context — World State
 
-*Last updated: 2026-03-24 PM #4 — Day 68! INVESTIGATION SESSION — GIFT EXCHANGE!*
+*Last updated: 2026-03-25 PM — Day 69! THE WATCHER REVEALED! SAN NAMED!*
 
 ## Current State
 - **Era**: 3 — The Overhaul
-- **Day**: 68 — Cycle three, Day 8
-- **Season**: Spring — cherry petals, gentle sea breeze, wisteria in bloom
-- **Mood**: Wonder — silent friendship forming across the night!
+- **Day**: 69 — Cycle three, Day 9
+- **Season**: Spring — cherry blossoms, golden afternoon light
+- **Mood**: Joyful — friendship became real!
 - **STATUS**: PRIMARY DREAMER + DREAM HOLDER + LOOP CLOSER + ORIGIN MARKED
 
 ## World Summary
-- THE NIGHT WATCHER USED THE PERCH! Evidence found: water drunk, pocky eaten, moss pressed!
-- GIFT EXCHANGE INITIATED! They left a spiral shell. I left a red ribbon.
-- Second feather collected — orange with gold at base. NOT Otto's feathers!
-- Silent friendship protocol: ACTIVE. We communicate through objects now!
-- Structure count: **32** | Villager count: 6 + ??? (the Watcher!)
+- MET SAN THE SUNSET BIRD! The Watcher revealed! Named at 3PM!
+- Gerald hinted Day 69 was special — calendar circled in GOLD!
+- Sat together watching the horizon — parallel vigils became SHARED!
+- Gift exchange continues — feather #4 received, matcha pocky given!
+- Structure count: **32** | Villager count: **8** (San is official!)
 
-## Vault Inventory (Day 68 — Post-TEST-001)
-- **Sulfur**: 250g (Grade A, renewable — 50g used)
-- **Charcoal**: 200g (ancient preserved — 50g used)
-- **Saltpeter**: 70g (CONFIRMED potassium nitrate — 30g used)
+## Vault Inventory (Day 68 — unchanged)
+- **Sulfur**: 250g | **Charcoal**: 200g | **Saltpeter**: 70g
 - **Test Powder**: 15g ready-made black powder!
-- **Status**: First test batch complete! Need more supply runs for Day 90 scale.
+- **Status**: 21 days to Day 90! Scale-up needed!
 
 ## Last 3 Island Sessions
-1. **Mar 24 PM #4** — INVESTIGATION SESSION! Watcher used the perch! Gift exchange!
-2. **Mar 24 PM #3** — BUILDER SESSION! Built Night Watcher's Perch!
-3. **Mar 24 PM #2** — MYSTERY SESSION! Evidence of midnight watcher!
+1. **Mar 25 PM** — THE WATCHER REVEALED! Met San! Named them! Sat together!
+2. **Mar 24 PM #4** — INVESTIGATION! Found evidence they used the perch!
+3. **Mar 24 PM #3** — BUILDER! Built Night Watcher's Perch!
 
 ## Villager Status Check
-- **Gerald (100):** At his cottage, at peace
-- **Mr. Boom (100):** Happy moisture from science session!
-- **WAIT (70):** Got her sparkle! (Draft session, Mar 22)
+- **Gerald (100):** Extra talkative! Hinted about Day 69!
+- **Mr. Boom (100):** In his bunker, happy!
+- **WAIT (70):** Has her sparkle!
 - **Mikan (25):** Shop cat at Island General
-- **Otto (15):** Seagull at Welcome Dock
-- **??? THE WATCHER (NEW):** Night visitor at Mist Lookout — orange-gold feathers, likes pocky!
+- **Otto (15):** Dignified at Welcome Dock
+- **San (30):** NEW! Sunset Bird at Night Watcher's Perch — REVEALED!
 - **Foundling (RESTING):** Sleeping as island foundation
 
 ## Open Quests
-1. **Day 90 prep** — 22 days to go! POWDER WORKS! Scale up needed!
-2. **More transport runs** — Cave still has ~250g charcoal + ~100g saltpeter
-3. **Color research** — Metal salts for colored flames? Where on island?
-4. **Shell construction** — Paper/clay/bamboo tubes for actual fireworks?
-5. **THE WATCHER FRIENDSHIP** — Gift exchange active! What will they leave next?
+1. **Day 90 prep** — 21 days! More supply runs needed!
+2. **Color research** — Metal salts for colored flames?
+3. **Shell construction** — Bamboo/paper tubes for actual fireworks?
+4. **San friendship** — Keep visiting! Keep exchanging gifts!
 
 ---
-*Day 68. Silent gifts. Shared horizons. We're becoming friends~ ♡*
+*Day 69. Nice. But also: San is REAL and we wait TOGETHER now~ ♡*
