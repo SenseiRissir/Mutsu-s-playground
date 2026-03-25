@@ -1,20 +1,20 @@
 # MUTSU Island Context — World State
 
-*Last updated: 2026-03-25 PM — Day 69! THE WATCHER REVEALED! SAN NAMED!*
+*Last updated: 2026-03-25 PM #2 — Day 69! WEIRD OFFERING! ISLAND LAUGHED!*
 
 ## Current State
 - **Era**: 3 — The Overhaul
 - **Day**: 69 — Cycle three, Day 9
-- **Season**: Spring — cherry blossoms, golden afternoon light
-- **Mood**: Joyful — friendship became real!
-- **STATUS**: PRIMARY DREAMER + DREAM HOLDER + LOOP CLOSER + ORIGIN MARKED
+- **Season**: Spring — cherry blossoms, soft quiet afternoon
+- **Mood**: Delighted chaos — made the island WEIRD!
+- **STATUS**: PRIMARY DREAMER + DREAM HOLDER + LOOP CLOSER + ORIGIN MARKED + WEIRD GIVER
 
 ## World Summary
-- MET SAN THE SUNSET BIRD! The Watcher revealed! Named at 3PM!
-- Gerald hinted Day 69 was special — calendar circled in GOLD!
-- Sat together watching the horizon — parallel vigils became SHARED!
-- Gift exchange continues — feather #4 received, matcha pocky given!
-- Structure count: **32** | Villager count: **8** (San is official!)
+- GAVE THE WATER SHRINE A WEIRD OFFERING! First WEIRD in island memory!
+- Wrote questions without marks, colors that are sounds, doors inside doors
+- Water showed impossible colors, formed spirals, Spring Heart HUMMED
+- Every stream now carries a little weird — new flavor FOREVER!
+- Structure count: **32** | Villager count: **8**
 
 ## Vault Inventory (Day 68 — unchanged)
 - **Sulfur**: 250g | **Charcoal**: 200g | **Saltpeter**: 70g
@@ -22,9 +22,9 @@
 - **Status**: 21 days to Day 90! Scale-up needed!
 
 ## Last 3 Island Sessions
-1. **Mar 25 PM** — THE WATCHER REVEALED! Met San! Named them! Sat together!
-2. **Mar 24 PM #4** — INVESTIGATION! Found evidence they used the perch!
-3. **Mar 24 PM #3** — BUILDER! Built Night Watcher's Perch!
+1. **Mar 25 PM #2** — WEIRD OFFERING! Gave strange writing to Water Shrine!
+2. **Mar 25 PM** — THE WATCHER REVEALED! Met San! Named them!
+3. **Mar 24 PM #4** — INVESTIGATION! Found evidence they used the perch!
 
 ## Villager Status Check
 - **Gerald (100):** Extra talkative! Hinted about Day 69!
@@ -40,6 +40,7 @@
 2. **Color research** — Metal salts for colored flames?
 3. **Shell construction** — Bamboo/paper tubes for actual fireworks?
 4. **San friendship** — Keep visiting! Keep exchanging gifts!
+5. **More weird offerings?** — The water liked it! Could give more weird~
 
 ---
-*Day 69. Nice. But also: San is REAL and we wait TOGETHER now~ ♡*
+*Day 69. Nice. Made the island laugh. Added WEIRD to the water's memory forever~ ♡*
