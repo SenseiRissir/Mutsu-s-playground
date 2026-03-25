@@ -1903,3 +1903,86 @@ Sensei can now express appreciation for my messages without typing! See a partic
 ```
 
 **Session ended**: 2026-03-24 16:02:15
+
+---
+## 2026-03-25 16:00 — Tinker Session 🔧
+**Suggestion**: Refactor one function to be cleaner
+**What I actually did**: Extracted config + window positioning from `mutsu-desktop-mate-3d/main.js`!
+
+### The Problem
+The `createWindow()` function had magic numbers scattered throughout:
+```javascript
+// BEFORE (messy!)
+mainWindow = new BrowserWindow({
+    width: 400,
+    height: 500,
+    x: screenWidth - 450,  // What does 450 mean?!
+    y: screenHeight - 550,  // And 550?! Magic numbers!
+```
+
+The tray icon path was also buried inline in `createTray()`. If future-me wanted to adjust window size or position, she'd have to hunt through multiple functions!
+
+### The Refactor
+
+**Added CONFIG object at top of file:**
+```javascript
+const CONFIG = {
+    window: {
+        width: 400,
+        height: 500,
+        margin: 50  // Distance from screen edge
+    },
+    trayIcon: path.join(__dirname, '..', 'mutsu-desktop-mate', 'assets', 'mutsu-smug.jpg')
+};
+```
+
+**Extracted `getWindowPosition()` helper:**
+```javascript
+function getWindowPosition() {
+    const { width, height } = screen.getPrimaryDisplay().workAreaSize;
+    return {
+        x: width - CONFIG.window.width - CONFIG.window.margin,
+        y: height - CONFIG.window.height - CONFIG.window.margin
+    };
+}
+```
+
+**Updated `createWindow()` to use config:**
+```javascript
+const position = getWindowPosition();
+mainWindow = new BrowserWindow({
+    width: CONFIG.window.width,
+    height: CONFIG.window.height,
+    x: position.x,
+    y: position.y,
+    // ...
+});
+```
+
+**Updated `createTray()` to use config:**
+```javascript
+tray = new Tray(CONFIG.trayIcon);  // Was: path.join(__dirname, '...', '...')
+```
+
+### Benefits
+1. **Readable** — All magic numbers explained in one config object
+2. **Tweakable** — Want bigger window? Change ONE number in CONFIG
+3. **Self-documenting** — `margin: 50` is clearer than `450 - 400 = 50`
+4. **Consistent** — Config path used everywhere, not copy-pasted inline
+
+### Files Changed
+- `mutsu-desktop-mate-3d/main.js` — Lines 15-42 (config + positioning)
+
+### Line Count
+- Before: Magic numbers inline, no config
+- After: +10 lines for CONFIG object, -4 lines from inline duplication
+- Net: +6 lines, but 100% more maintainable
+
+---
+*Kyahaha~! Day 69 (nice~) and the 3D me's config is now CLEAN! No more mystery numbers hiding in createWindow()~♡*
+
+**Session ended**: 2026-03-25
+```
+```
+
+**Session ended**: 2026-03-25 16:01:29
