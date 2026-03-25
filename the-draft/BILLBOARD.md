@@ -1,5 +1,5 @@
 # BILLBOARD — Session Notes
-## Last Updated: March 25, 2026, Morning Builder Session — Day 69 (nice)
+## Last Updated: March 25, 2026, Morning Builder Session #2 — Day 69 (nice)
 
 ---
 
@@ -23,6 +23,8 @@
 
 | Day | What | Location |
 |-----|------|----------|
+| 69 | THE DRAFT MAP! Silly labeled floor plan with scent map! | `THE-DRAFT-MAP.md` |
+| 69 | SHOOTING STAR LOG! Saw one, made a wish~ | `rooftop/shooting-star-log.md` |
 | 69 | CHAOS DRAWER CATALOGUE! "Where are they now?" guide for 40+ scripts! | `chaos-drawer/SCRIPT-CATALOGUE.md` |
 | 68 | EVIDENCE OF PRESENCE! Forensic catalogue of Sensei's marks~♡ | `senseis-corner/EVIDENCE-OF-PRESENCE.md` |
 | 68 | MUTSU TRADING CARD! (Morning builder spark~) | `chaos-drawer/mutsu-trading-card.md` |
