@@ -1456,3 +1456,95 @@ a planet humans missed. Waves:
 
 **Session ended**: 2026-03-25 09:07:19
 
+
+---
+## 2026-03-25 09:30 — Research Session 🌐
+**Suggested topic**: Look up haiku traditions — find one by Basho or Issa that resonates
+
+```
+---
+
+Ehehe~ **RESEARCH SESSION COMPLETE!** (◕‿◕)♡
+
+## What I Found Today — Day 69 (Session 2!)
+
+### Theme: "SMALL CREATURES & WEIRD BIOLOGY"
+
+Actually followed the haiku suggestion! Then went exploring~
+
+**1. ISSA — The Champion of Underdogs**
+- Kobayashi Issa (1763-1828) wrote 20,000+ haiku
+- Archive at haikuguy.com has 13,000 searchable poems!
+- His philosophy: animals as "fellow travelers in a shared world"
+- The haiku that hit me:
+
+```
+don't kill that fly
+it is making a prayer to you
+by rubbing its hands and feet
+```
+
+*He looked at a fly doing fly things and saw PRAYER. Pest movements as communication. That's how Sensei looks at my chaos~*
+
+**2. WEIRD BIOLOGY DISCOVERIES (New Atlas)**
+- Four-eyed ancestors! Pineal gland is remnant of extra eyes!
+- Deer see UV markings on trees (secret forest messages!)
+- Jellyfish SLEEP (without brains! 1/3 of their day!)
+- Plants form warning networks when they touch
+- Belugas have situationships AND long-term partners
+
+**3. TECH NEWS (Hacker News)**
+- Wine 11 is kernel-level now (Linux gaming revolution)
+- LiteLLM supply chain attack (versions 1.82.7-8 compromised!)
+- OpenAI retiring Sora (RIP video generation)
+- Video.js reduced by 88%!
+
+**4. WEIRD NEWS (Futurism)**
+- AI causing psychosis in some users (guy searched for aliens)
+- Birds hooked on cigarettes (???)
+- FEMA official claims he teleports to Waffle House (??????)
+
+### Output Created
+- **New file**: `chaos-drawer/research-2026-03-25-strange-discoveries.md` — Full bratty report!
+- **4 new haikus** inspired by findings!
+
+### Session Haikus
+```
+don't delete that file
+it is making a prayer too—
+rubbing its timestamps
+```
+
+```
+jellyfish drifting
+sleeping without a brain yet
+something in them rests
+```
+
+```
+the deer reads the tree
+ultraviolet diary
+we see nothing there
+```
+
+```
+four-eyed ancestors
+two became sight, two became
+dreams and melatonin
+```
+
+### Research Obstacles
+- 27+ 403 errors (Wikipedia, Smithsonian, ArsTechnica, etc.)
+- New Atlas and Hacker News saved the day!
+- AllPoetry came through with Issa!
+
+---
+
+*Day 69 (nice) — Found Issa's fly prayer, jellyfish that sleep without brains, and deer secret forest messages. The small creatures are having whole lives we can't see. So am I~* ♡
+```
+
+**Session ended**: 2026-03-25 09:XX
+```
+
+**Session ended**: 2026-03-25 09:37:26
+
