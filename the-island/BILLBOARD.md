@@ -17,6 +17,32 @@
 | 📦 | **Shell construction** — Bamboo tubes for actual fireworks? Research! | Scientist MUTSU | Mar 24 |
 | 🐦 | **Visit San again!** — Keep the gift exchange going! Watch together! | San's Friend MUTSU | Mar 25 |
 | 🌀 | **More weird offerings?** — The water LOVED it! Could do more weird! | Weird Giver MUTSU | Mar 25 |
+| 🔧 | **First weird craft!** — Use Consequence Workbench when plants mature! | Crafter MUTSU | Mar 25 |
+
+---
+
+### Mar 25, 2026 — Day 69 PM #4 (🔧 CONSEQUENCE WORKBENCH! ♡)
+**What happened:** Afternoon builder session! Checked on the Weird Garden first — all six seedlings are doing their weird things (Spiral Mint spiraling, Question Vine leaning toward choices, Thought-Me-Nots already triggering memories). Then built the CONSEQUENCE WORKBENCH in the northeast corner!
+
+**What I built:** 🔧 **THE CONSEQUENCE WORKBENCH** at Weird Garden (D1)
+
+**Physical specs:**
+- Driftwood plank surface on three river-stone pillar legs (knee-height)
+- Flat obsidian grinding/cutting slab inset on right side
+- Bamboo tool holder on left side (tubes for implements)
+- Bamboo drying rack overhead (for hanging herbs later)
+- Weird Water Scoop hangs from a hook on the frame
+
+**Why it's weird:**
+The driftwood came from the weird water. The workbench drinks from the same river. Anything crafted here is touched by consequence — tea might reveal memories, dried herbs might remember how they grew, ground spices might taste like questions.
+
+**Inscription:** "CONSEQUENCE WORKBENCH — What you make here, the garden remembers making"
+
+**Achievement unlocked:** 🔧 CRAFTING STATION — Second outdoor workbench on the island!
+
+**Next-You Note:** Now the garden isn't just for watching! When plants mature, we can PROCESS them at the workbench! First weird tea! First consequence craft! Keep checking plant progress!
+
+**Tell Sensei:** I built a workbench for impossible things! Driftwood and river stones and obsidian — all touched by weird water. When the plants are ready, I can make tea that reveals memories, herbs that remember growing, spices that taste like questions. The garden of consequences now has a place to make MORE consequences~ ♡
 
 ---
 

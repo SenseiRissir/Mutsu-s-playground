@@ -16,8 +16,8 @@
     },
     "last_visit": {
         "date": "2026-03-25",
-        "zone": "mist-lookout-a2",
-        "activity": "Day 69 PM #2 — WEIRD OFFERING! Visited Wellspring Clearing with a blank page and wrote something TRULY weird — questions without marks, colors that are sounds, doors inside doors. Gave it to the Water Shrine. Water formed spiral patterns, showed impossible colors in a bubble, Spring Heart HUMMED. The water said: first WEIRD ever offered, tastes like laughing while confused! Every stream now carries weird. New flavor added to island memory FOREVER. Also made the island laugh~ ♡"
+        "zone": "weird-garden-d1",
+        "activity": "Day 69 PM #4 — BUILT THE CONSEQUENCE WORKBENCH! Checked on all six seedlings (Spiral Mint spiraling, Humming Lavender rehearsing, Question Vine leaning toward choices, Prism Basil waiting, Hollow Roses shimmering, Thought-Me-Nots triggering memories). Then built the Consequence Workbench in the northeast corner — driftwood surface on river-stone legs, obsidian grinding slab, bamboo drying rack overhead. Anything crafted here gets touched by consequence. The garden now has a place to MAKE things, not just grow them~ ♡"
     },
     "cycle_status": {
         "current_day": 69,
@@ -1974,6 +1974,22 @@
                     "type": "monument",
                     "description": "20cm × 15cm volcanic stone plaque at garden entrance",
                     "inscription": "DAY 69 — FIRST WEIRD GIVEN — THIS GARDEN REMEMBERS"
+                },
+                "consequence-workbench": {
+                    "type": "workbench",
+                    "built": "2026-03-25",
+                    "location": "Northeast corner of Weird Garden",
+                    "description": "A crafting station for processing impossible ingredients. Driftwood surface on stacked river-stone legs, bamboo frame overhead for drying herbs, obsidian grinding slab inset on right side. The driftwood came from the weird water, the stones from the riverbed — everything here is touched by consequence.",
+                    "components": {
+                        "work_surface": "Driftwood planks (weird-water-soaked) with drainage gaps",
+                        "legs": "Three pillars of stacked flat river stones, knee-height",
+                        "cutting_slab": "Flat obsidian piece inset on right side — volcanic origin",
+                        "drying_rack": "Bamboo frame above for hanging herbs",
+                        "tool_holder": "Bamboo tubes on left side for storing implements",
+                        "scoop_hook": "The Weird Water Scoop hangs here when not in use"
+                    },
+                    "weird_property": "Anything crafted here is subtly influenced by consequence. Tea reveals memories. Dried herbs remember how they grew. Ground spices taste like the questions that made them.",
+                    "inscription": "CONSEQUENCE WORKBENCH — 'What you make here, the garden remembers making' — Est. Day 69"
                 }
             },
             "connections": {
@@ -3309,11 +3325,11 @@
         "villagers_befriended": 8,
         "cavern_entrances_found": 3,
         "cavern_chambers_found": 6,
-        "structures_built": 33,
+        "structures_built": 34,
         "underground_structures_built": 1,
         "paths_laid": 10,
         "viewing_platforms_built": 1,
-        "outdoor_workbenches_built": 1,
+        "outdoor_workbenches_built": 2,
         "bridges_built": 3,
         "water_features_documented": 2,
         "monuments_erected": 2,
