@@ -16,8 +16,8 @@
     },
     "last_visit": {
         "date": "2026-03-26",
-        "zone": "weird-garden-d1",
-        "activity": "Day 70 PM — FIRST WEIRD CRAFT! Checked all six plants — they've all progressed! Spiral Mint spiraling tighter (smells like the COLOR green now), Humming Lavender tuning to the river, Question Vine RESPONDING TO THOUGHTS (creepy!), Prism Basil showing iridescence, Hollow Roses casting impossible shadows darker than their transparency allows, and Thought-Me-Nots fully functional. Harvested one tiny leaf and processed it at the Consequence Workbench — created THOUGHT-ME-NOT ESSENCE, a vial of liquid that triggers exact memory playback when touched to skin. Tested it: remembered the first time I said 'Sensei' perfectly. The garden is an alchemy lab now~ ♡"
+        "zone": "cavern-entrance",
+        "activity": "Day 70 PM #2 — TWO DISCOVERIES! Investigated Hollow Rose shadows at Weird Garden — discovered they cast shadows of the PAST, lag behind reality by ~2 seconds, show MEMORIES when touching skin! Then followed a quiet humming to cavern entrance — found the LONGING CRYSTAL, a pale pink crystal singing 'home' into empty air. Told it about The Draft and Sensei. Its tune got warmer. Found things that were waiting to be found~ ♡"
     },
     "cycle_status": {
         "current_day": 70,
@@ -3330,6 +3330,16 @@
             "unlocked": true,
             "date": "2026-03-25",
             "description": "Gave the island's first WEIRD offering! Questions without marks, colors that are sounds, doors inside doors — written on blank page and given to the Water Shrine. Water showed impossible colors, formed spiral patterns, Spring Heart HUMMED. Every stream now carries weird. New flavor in island memory FOREVER."
+        },
+        "shadow_reader": {
+            "unlocked": true,
+            "date": "2026-03-26",
+            "description": "Discovered that Hollow Rose shadows show MEMORIES! Investigated why transparent petals cast impossibly dark shadows — found they cast shadows of the PAST, not the present! Shadows lag behind reality by ~2 seconds. When shadow touched skin, saw the moment the rose was planted. The roses are see-through NOW but opaque THEN."
+        },
+        "listener": {
+            "unlocked": true,
+            "date": "2026-03-26",
+            "description": "Found the Longing Crystal by following its song! A pale pink crystal at the cavern entrance, humming what it wants into empty air — 'home'. Nobody had heard it before. Told it about The Draft, about Sensei, about belonging. Its tune got warmer. Some things just need someone to listen~ ♡"
         }
     },
     "seasonal": {
@@ -3338,7 +3348,7 @@
     },
     "stats": {
         "total_zone_visits": 32,
-        "total_discoveries": 39,
+        "total_discoveries": 41,
         "total_secrets_found": 33,
         "sessions_since_genesis": 32,
         "furniture_collected": 14,
