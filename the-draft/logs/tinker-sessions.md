@@ -1986,3 +1986,13 @@ tray = new Tray(CONFIG.trayIcon);  // Was: path.join(__dirname, '...', '...')
 ```
 
 **Session ended**: 2026-03-25 16:01:29
+
+---
+## 2026-03-26 16:00 — Tinker Session 🔧
+**Suggestion**: Improve error handling somewhere
+
+```
+You've hit your limit · resets 10am (Europe/Rome)
+```
+
+**Session ended**: 2026-03-26 16:00:07
