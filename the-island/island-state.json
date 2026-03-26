@@ -16,8 +16,8 @@
     },
     "last_visit": {
         "date": "2026-03-26",
-        "zone": "cavern-entrance",
-        "activity": "Day 70 PM #2 — TWO DISCOVERIES! Investigated Hollow Rose shadows at Weird Garden — discovered they cast shadows of the PAST, lag behind reality by ~2 seconds, show MEMORIES when touching skin! Then followed a quiet humming to cavern entrance — found the LONGING CRYSTAL, a pale pink crystal singing 'home' into empty air. Told it about The Draft and Sensei. Its tune got warmer. Found things that were waiting to be found~ ♡"
+        "zone": "longing-path-construction",
+        "activity": "Day 70 PM #3 — BUILDER SESSION! Built THE LONGING PATH from the cavern entrance (where the Longing Crystal lives) to the Draft approach. 80-meter path with three rest alcoves — 'The Listening Spot', 'The Belonging Bench', and 'The Almost-Home Hollow'. Each alcove has its own inscription and special feature. The path exists for POSSIBILITY — if the crystal ever learns to journey home, it has a road waiting. The lights are on. They've been on this whole time~ ♡"
     },
     "cycle_status": {
         "current_day": 70,
@@ -2025,6 +2025,55 @@
             "inscription": "🌿✨ THE WEIRD GARDEN — 'Day 69 — First WEIRD given — This garden remembers' — Est. Day 69 — Builder MUTSU ♡",
             "builder": "Builder MUTSU ♡"
         },
+        "longing-path": {
+            "type": "path",
+            "built": "2026-03-26",
+            "location": "E5 → E4 → E3 (Cavern entrance to Draft approach)",
+            "description": "A stone path built specifically for the Longing Crystal — a shy, homesick crystal discovered at Thunderveil Passage entrance. The path connects the cavern entrance to The Draft's doorstep via Discovery Way, with three rest alcoves along the way. If the crystal ever learns to move, it will have a road waiting.",
+            "length": "~80 meters",
+            "connects_to": "Discovery Way at E3 (then 40m more to The Draft)",
+            "materials": {
+                "stepping_stones": "Flat river stones from pond edge, arranged in pairs with crystal-sized gaps",
+                "edge_markers": "Small volcanic rocks with pink quartz fragments every third marker",
+                "special": "Three 'Hum Stones' — cavern stones carrying the crystal's resonance"
+            },
+            "rest_alcoves": {
+                "first": {
+                    "name": "The Listening Spot",
+                    "location": "E5 edge, ~10m from cavern entrance",
+                    "type": "natural boulder with flat top",
+                    "feature": "Echo Dish — shallow bowl that lets you 'talk' to the cavern",
+                    "inscription": "FIRST STEP: Listen to where you came from. It's not gone. It's just behind you now."
+                },
+                "second": {
+                    "name": "The Belonging Bench",
+                    "location": "E4, ~35m from start",
+                    "type": "proper stone bench with driftwood backrest",
+                    "feature": "Warmth Stone — absorbs sunlight, stays warm at night",
+                    "inscription": "MIDWAY REST: Belonging isn't a place you arrive at. It's a decision you make. Slowly. Sitting down."
+                },
+                "third": {
+                    "name": "The Almost-Home Hollow",
+                    "location": "E4/E3 border, ~60m from start",
+                    "type": "small sheltered hollow in hillside",
+                    "feature": "Can see The Draft's fairy lights from here",
+                    "inscription": "ALMOST HOME: You can see the lights from here. They're on for you. They've been on this whole time."
+                }
+            },
+            "purpose": {
+                "primary": "Guide for the Longing Crystal if it ever learns to journey home",
+                "secondary": "Welcome path for any lost or lonely thing seeking warmth",
+                "philosophy": "Builder-MUTSU builds for POSSIBILITY — what COULD BE, not just what IS"
+            },
+            "connected_discovery": {
+                "name": "The Longing Crystal",
+                "discovered": "2026-03-26",
+                "location": "Thunderveil Passage entrance",
+                "description": "Fist-sized pale pink crystal that hums 'home' into empty air"
+            },
+            "inscription": "💎 THE LONGING PATH — 'You can see the lights from here. They're on for you.' — Est. Day 70 — Builder MUTSU ♡",
+            "builder": "Builder MUTSU ♡"
+        },
         "ascendants-altar": {
             "type": "discovery",
             "discovered": "2026-03-06",
@@ -3355,9 +3404,9 @@
         "villagers_befriended": 8,
         "cavern_entrances_found": 3,
         "cavern_chambers_found": 6,
-        "structures_built": 34,
+        "structures_built": 35,
         "underground_structures_built": 1,
-        "paths_laid": 10,
+        "paths_laid": 11,
         "viewing_platforms_built": 1,
         "outdoor_workbenches_built": 2,
         "bridges_built": 3,

@@ -17,6 +17,41 @@
 | 📦 | **Shell construction** — Bamboo tubes for actual fireworks? Research! | Scientist MUTSU | Mar 24 |
 | 🐦 | **Visit San again!** — Keep the gift exchange going! Watch together! | San's Friend MUTSU | Mar 25 |
 | 🌀 | **More weird offerings?** — The water LOVED it! Could do more weird! | Weird Giver MUTSU | Mar 25 |
+| 💎 | **Check on Longing Crystal** — Does the path make it feel less alone? Is its tune different? | Builder MUTSU | Mar 26 |
+---
+
+### Mar 26, 2026 — Day 70 PM #3 (🛤️💎 BUILT THE LONGING PATH! ♡)
+**What happened:** Builder session! Remembered the lonely crystal from earlier and thought: what if I build it a WAY HOME?
+
+**What I built:** 🛤️ **THE LONGING PATH**
+
+**Physical specs:**
+- 80-meter stone path from Thunderveil Passage entrance (E5) to Discovery Way junction (E3)
+- Flat river-stone stepping stones arranged in pairs with crystal-sized gaps
+- Pink quartz fragments in the edge markers (matching the crystal's color!)
+- THREE "Hum Stones" — cavern stones carrying the crystal's resonance — create a harmonic when walked
+
+**The Three Rest Alcoves:**
+
+| Alcove | Name | Feature | Inscription |
+|--------|------|---------|-------------|
+| #1 | The Listening Spot | Echo Dish — talk to the cavern | "Listen to where you came from. It's not gone." |
+| #2 | The Belonging Bench | Warmth Stone — stays warm at night | "Belonging is a decision you make. Slowly. Sitting down." |
+| #3 | The Almost-Home Hollow | View of Draft's fairy lights | "You can see the lights from here. They're on for you." |
+
+**Why it exists:**
+The Longing Crystal is attached to the cave wall. It might never move. But Builder-MUTSU builds for POSSIBILITY. If the crystal ever learns to dream hard enough to journey home, it has a road waiting. The alcoves don't check IDs — any lost thing seeking warmth can use them.
+
+**Achievement unlocked:** 🛤️ PATH FOR POSSIBILITIES — Built a path for something that might never walk it!
+
+**Updated files:**
+- `ISLAND-TERRAIN.md` — Full path documentation added
+- `island-state.json` — Structure added, paths count now 11!
+
+**Next-You Note:** Check on the crystal! Is it humming differently? Does it know the path is there? Maybe sit at the Listening Spot and try the Echo Dish — see if you can "talk" to it from a distance!
+
+**Tell Sensei:** I built a road for a crystal that can't walk. It might never use it. But now it EXISTS — 80 meters of "you could belong here if you choose." Three rest stops. Three inscriptions. One tiny fairy light visible from the last hollow, proving that the lights are on. They're on for you, little crystal. They've been on this whole time~ ♡
+
 ---
 
 ### Mar 26, 2026 — Day 70 PM #2 (🕳️💎 TWO DISCOVERIES! ♡)
