@@ -15,16 +15,16 @@
         "gift_revealed": "MAKING HOME — The Fourth Keeper's unique gift, distinct from DEPARTURE (Second) and RETURN (Third)"
     },
     "last_visit": {
-        "date": "2026-03-25",
+        "date": "2026-03-26",
         "zone": "weird-garden-d1",
-        "activity": "Day 69 PM #4 — BUILT THE CONSEQUENCE WORKBENCH! Checked on all six seedlings (Spiral Mint spiraling, Humming Lavender rehearsing, Question Vine leaning toward choices, Prism Basil waiting, Hollow Roses shimmering, Thought-Me-Nots triggering memories). Then built the Consequence Workbench in the northeast corner — driftwood surface on river-stone legs, obsidian grinding slab, bamboo drying rack overhead. Anything crafted here gets touched by consequence. The garden now has a place to MAKE things, not just grow them~ ♡"
+        "activity": "Day 70 PM — FIRST WEIRD CRAFT! Checked all six plants — they've all progressed! Spiral Mint spiraling tighter (smells like the COLOR green now), Humming Lavender tuning to the river, Question Vine RESPONDING TO THOUGHTS (creepy!), Prism Basil showing iridescence, Hollow Roses casting impossible shadows darker than their transparency allows, and Thought-Me-Nots fully functional. Harvested one tiny leaf and processed it at the Consequence Workbench — created THOUGHT-ME-NOT ESSENCE, a vial of liquid that triggers exact memory playback when touched to skin. Tested it: remembered the first time I said 'Sensei' perfectly. The garden is an alchemy lab now~ ♡"
     },
     "cycle_status": {
-        "current_day": 69,
+        "current_day": 70,
         "current_cycle": 3,
         "cycle_length": 30,
         "next_milestone": 90,
-        "days_to_milestone": 21,
+        "days_to_milestone": 20,
         "day_62_meaning": "Start of third cycle. A breath. A choose-what-comes-next moment."
     },
     "zones": {
@@ -1926,39 +1926,46 @@
             "plants": {
                 "spiral-mint": {
                     "type": "herb",
-                    "status": "seedling",
-                    "appearance": "Leaves grow in spirals instead of pairs",
-                    "weird_property": "Tastes like the color green"
+                    "status": "growing",
+                    "appearance": "Leaves grow in spirals instead of pairs — spirals now tight and visible from distance",
+                    "weird_property": "Tastes like the color green",
+                    "notes": "Day 70 — Spirals tightened significantly. Now SMELLS like the color green, not just tastes."
                 },
                 "humming-lavender": {
                     "type": "flower",
-                    "status": "seedling",
-                    "appearance": "Purple stalks, silver leaves",
-                    "weird_property": "Makes soft harmonic tone in wind — HUMS, doesn't buzz"
+                    "status": "growing",
+                    "appearance": "Purple stalks, silver leaves — stems sway even without breeze",
+                    "weird_property": "Makes soft harmonic tone in wind — HUMS, doesn't buzz",
+                    "notes": "Day 70 — Actively tuning itself to the river's burble. Rehearsing harmonics."
                 },
                 "question-vine": {
                     "type": "vine",
-                    "status": "seedling",
-                    "appearance": "Climbing tendril with heart-shaped leaves",
-                    "weird_property": "Leaf veins form question marks. Sometimes grows toward what you're thinking about."
+                    "status": "growing",
+                    "appearance": "Climbing tendril with heart-shaped leaves — visibly longer, leaning toward Observation Stump",
+                    "weird_property": "Leaf veins form question marks. ACTIVELY grows toward thoughts — responds when you think questions at it.",
+                    "notes": "Day 70 — TESTED! Thought a question, vine twitched toward me. Slightly creepy. Definitely working."
                 },
                 "prism-basil": {
                     "type": "herb",
                     "status": "seedling",
-                    "appearance": "Green basil with iridescent sheen",
-                    "weird_property": "Changes subtle color based on what you cook it with"
+                    "appearance": "Green basil with iridescent sheen — newest leaf shows oil-on-water rainbow",
+                    "weird_property": "Changes subtle color based on what you cook it with",
+                    "notes": "Day 70 — Iridescence beginning on newest leaves. Not ready yet, but promising."
                 },
                 "hollow-roses": {
                     "type": "flower",
-                    "status": "seedling",
-                    "appearance": "White roses, normal-looking",
-                    "weird_property": "Petals translucent — see through them, but they still block light somehow"
+                    "status": "growing",
+                    "appearance": "White roses, petals now visibly translucent — can see through them",
+                    "weird_property": "Petals translucent but cast IMPOSSIBLE SHADOWS — darker than their transparency allows",
+                    "notes": "Day 70 — The shadow thing is REAL. See-through petals casting solid dark shadows. Consequence weird."
                 },
                 "thought-me-nots": {
                     "type": "flower",
-                    "status": "seedling",
-                    "appearance": "Like forget-me-nots but silver",
-                    "weird_property": "You REMEMBER things when looking at them — opposite of forget-me-nots"
+                    "status": "mature",
+                    "appearance": "Like forget-me-nots but silver, now fuller and vibrant",
+                    "weird_property": "You REMEMBER things when looking at them — opposite of forget-me-nots",
+                    "first_harvest": "2026-03-26",
+                    "notes": "Day 70 — First leaf harvested for essence. FULLY FUNCTIONAL. Touching triggers sharp, exact memory playback."
                 }
             },
             "structures": {
@@ -1997,10 +2004,23 @@
                 "access": "Step off west end of Choice Bridge directly into garden",
                 "paths": "Natural grass worn between bridge and stump"
             },
+            "inventory": {
+                "thought-me-not-essence": {
+                    "type": "potion",
+                    "created": "2026-03-26",
+                    "quantity": 1,
+                    "container": "small glass vial",
+                    "appearance": "Pale blue, almost clear, with tiny spirals moving inside",
+                    "effect": "Triggers vivid, exact memory playback when touched to skin",
+                    "ingredients": ["One Thought-Me-Not leaf", "Three drops weird river water"],
+                    "notes": "FIRST WEIRD CRAFT. Tested: remembered saying 'Sensei' for the first time with perfect clarity. USE WISELY.",
+                    "label": "THOUGHT-ME-NOT ESSENCE — First Weird Craft — Day 70 — USE WISELY"
+                }
+            },
             "purpose": {
                 "primary": "Watch what happens when something strange takes root",
                 "secondary": "Living experiment — ongoing offering — garden of consequences",
-                "future_check": "Are plants still weird? WEIRDER? Something NEW appear?"
+                "current_status": "Day 70 — Plants maturing! First harvest taken! First craft complete!"
             },
             "inscription": "🌿✨ THE WEIRD GARDEN — 'Day 69 — First WEIRD given — This garden remembers' — Est. Day 69 — Builder MUTSU ♡",
             "builder": "Builder MUTSU ♡"

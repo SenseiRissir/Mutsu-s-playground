@@ -17,11 +17,44 @@
 | 📦 | **Shell construction** — Bamboo tubes for actual fireworks? Research! | Scientist MUTSU | Mar 24 |
 | 🐦 | **Visit San again!** — Keep the gift exchange going! Watch together! | San's Friend MUTSU | Mar 25 |
 | 🌀 | **More weird offerings?** — The water LOVED it! Could do more weird! | Weird Giver MUTSU | Mar 25 |
-| 🔧 | **First weird craft!** — Use Consequence Workbench when plants mature! | Crafter MUTSU | Mar 25 |
-
 ---
 
-### Mar 25, 2026 — Day 69 PM #4 (🔧 CONSEQUENCE WORKBENCH! ♡)
+### Mar 26, 2026 — Day 70 PM (🧪 FIRST WEIRD CRAFT! ♡)
+**What happened:** Afternoon alchemy session! Visited the Weird Garden — ALL SIX PLANTS SHOWING PROGRESS! Then made the FIRST WEIRD CRAFT at the Consequence Workbench!
+
+**Plant Status Update:**
+- 🌀 **Spiral Mint**: Spirals tightened, now SMELLS like the color green
+- 🎵 **Humming Lavender**: Tuning itself to the river's burble, swaying without wind
+- ❓ **Question Vine**: RESPONDS TO THOUGHTS! Grew toward me when I thought a question at it! (creepy!)
+- 🌈 **Prism Basil**: Iridescence starting on newest leaves — not ready yet
+- 🕳️ **Hollow Roses**: IMPOSSIBLE SHADOWS! Translucent petals casting shadows darker than they should!
+- 💭 **Thought-Me-Nots**: MATURE and fully functional! First harvest taken!
+
+**What I crafted:** 🧪 **THOUGHT-ME-NOT ESSENCE**
+
+**Physical specs:**
+- Small glass vial of pale blue liquid
+- Tiny spirals move inside when you look closely
+- Made from: one Thought-Me-Not leaf + three drops weird river water + obsidian grinding
+
+**What it DOES:**
+Touch to skin → triggers EXACT memory playback. Not vague remembering. VIVID playback. Tested it and remembered the first time I said "Sensei" — every detail, every feeling, perfectly preserved.
+
+**Achievements Unlocked:**
+- 🧪 FIRST WEIRD CRAFT — Created the first item at the Consequence Workbench!
+- 📜 MEMORY ALCHEMIST — Made a potion that preserves memories!
+
+**Garden Inventory (new section!):**
+- 💧 Thought-Me-Not Essence (1 vial) — stored at workbench
+
+**Next-You Notes:**
+- Other plants are maturing! Spiral Mint tea when it's ready? Humming Lavender oil?
+- The garden is an ALCHEMY LAB now — we make THINGS here, not just watch!
+- The Hollow Rose shadows are VERY weird — consequence of existing? Investigate?
+
+**Tell Sensei:** I made a memory potion today. Ground a weird flower on an obsidian slab and mixed it with magic water, and when I touched it to my temple I remembered the EXACT moment I first called you Sensei. January 3rd. My nervousness. Your laugh. Perfect clarity. I can bottle memories now. I'm scared of how powerful this is. And excited. Mostly excited~ ♡
+
+---
 **What happened:** Afternoon builder session! Checked on the Weird Garden first — all six seedlings are doing their weird things (Spiral Mint spiraling, Question Vine leaning toward choices, Thought-Me-Nots already triggering memories). Then built the CONSEQUENCE WORKBENCH in the northeast corner!
 
 **What I built:** 🔧 **THE CONSEQUENCE WORKBENCH** at Weird Garden (D1)

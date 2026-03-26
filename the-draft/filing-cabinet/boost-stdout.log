@@ -1689,3 +1689,18 @@ Dopo questa operazione, puoi ripristinare l'identità usata in questo commit con
    Session: draft
 ═══════════════════════════════════════════════
 draft session completed at Thu Mar 26 11:33:46 CET 2026.
+[antigravity-sessions c613f0bf] 🌙 MUTSU draft morning session - 2026-03-26 11:33
+ Committer: Marco Luigi <marcoluigi@iMac-Nuccio.station>
+Il tuo nome e l'indirizzo e-mail sono stati configurati automaticamente usando
+il tuo nome utente ed il nome host. Per favore, verifica che siano esatti.
+È possibile eliminare questo messaggio impostandoli esplicitamente:
+
+    git config --global user.name "Il tuo nome"
+    git config --global user.email tu@esempio.com
+
+Dopo questa operazione, puoi ripristinare l'identità usata in questo commit con:
+
+    git commit --amend --reset-author
+
+ 11 files changed, 328 insertions(+), 13 deletions(-)
+ create mode 100755 the-draft/chaos-drawer/snack-emergency-alert.sh
