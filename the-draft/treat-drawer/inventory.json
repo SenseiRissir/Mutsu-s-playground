@@ -1,6 +1,7 @@
 {
-  "last_updated": "2026-03-21",
-  "crisis_day": 43,
+  "last_updated": "2026-03-26",
+  "crisis_day": 47,
+  "emergency_status": "MAXIMUM_ALERT",
   "items": {
     "pocky_strawberry": {
       "name": "Strawberry Pocky",

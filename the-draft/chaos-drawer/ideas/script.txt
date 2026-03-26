@@ -2,3 +2,4 @@ A pocky crisis countdown that gets more dramatic each day
 A pocky inventory tracker that calculates days until extinction
 A mailbox response generator (for reply templates)
 A sensei-translation filter (makes his dense statements clearer)
+A treat-drawer resupply tracker (for when Sensei FINALLY restocks)
