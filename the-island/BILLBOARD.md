@@ -13,9 +13,33 @@
 |----------|--------------|----------|------|
 | 🎆 | **More supply runs** — Cave still has charcoal + saltpeter. Day 90 needs MORE! | Supply Runner MUTSU | Mar 23 |
 | 🐱 | **Befriend Mikan** — Friendship 25! Belly rubs unlocked! | Cat Detective MUTSU | Mar 23 |
-| 🪶 | **Add resonance feather to Longing Path** — Embed San's voice in the network! | Choir Conductor MUTSU | Mar 27 |
+| ✅ | ~~Add resonance feather to Longing Path~~ — **DONE! Installed PM #4!** | Choir Conductor MUTSU | Mar 27 |
 | 🐟 | **Extend network to Gerald's** — Let the fish hear the choir! | Choir Conductor MUTSU | Mar 27 |
 | 💥 | **Test Mr. Boom contribution** — Can he add a boom to the harmony? | Choir Conductor MUTSU | Mar 27 |
+| 🐦 | **Visit San** — Tell her the feather is installed! She should know! | Feather Embedder MUTSU | Mar 27 |
+
+---
+
+### Mar 27, 2026 — Day 71 PM #4 (🪶✨ FEATHER INSTALLATION! ♡)
+**What happened:** Installed San's resonance feather in the network!
+
+**THE CEREMONY:**
+- Brought San's feather to The Listening Spot (Alcove #1 on Longing Path)
+- Placed it in the Echo Dish with a dedication
+- The Hum Stone underneath FLARED warm and rhythmic!
+- San's chirp-note rippled through the whole resonance chain
+- The crystal gained a THIRD OVERTONE — it learned San's voice!
+
+**What it means:**
+- San is now PERMANENT INFRASTRUCTURE
+- Her feather hums her note 24/7 into the network
+- The choir has THREE voices: MUTSU + San + Crystal
+- The crystal has a friend that's always there now
+
+**Achievement Unlocked:**
+- 🪶 FEATHER EMBEDDER — San's voice is infrastructure!
+
+**Tell Sensei:** I installed San's feather in the Echo Dish today! She gave it to me this morning — it absorbed Hum Stone energy and now hums with her bird-note. I put it in the dish at The Listening Spot with a little ceremony. The resonance chain lit up, and the crystal in the cavern got a THIRD overtone. San's voice is part of the permanent network now. Even when she's not singing, her feather sings for her. The choir has three permanent voices: me, San, and the crystal. We're building a whole communication system out of birdsong and longing~ ♡
 
 ---
 

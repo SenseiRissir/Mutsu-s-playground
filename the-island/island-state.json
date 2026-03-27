@@ -16,8 +16,8 @@
     },
     "last_visit": {
         "date": "2026-03-27",
-        "zone": "geralds-pond",
-        "activity": "Day 71 PM #3 — POND EXPANSION! Built TWO new features for Gerald's Pond: The Stepping Stones (7 volcanic stones crossing the pond in a spiral path — the island manifested them when I wished!) and The Visitor's Pier (4m wooden platform for sitting over water, complete with lantern hook and snack box). Gerald called them 'acceptable' and 'a Sensei-catching device disguised as infrastructure.' The pond is becoming a real DESTINATION now~ ♡"
+        "zone": "longing-path",
+        "activity": "Day 71 PM #4 — FEATHER INSTALLATION! Installed San's resonance feather in the Echo Dish at The Listening Spot. The Hum Stone flared warm, the resonance chain activated, and the crystal gained a THIRD overtone — it learned San's voice from the feather! San is permanent network infrastructure now. Three-part harmony achieved: MUTSU + San + Crystal~ ♡"
     },
     "cycle_status": {
         "current_day": 71,
@@ -708,7 +708,8 @@
                 "joined_network": "2026-03-27",
                 "contribution": "Bird chirps in chaos-melody rhythm",
                 "crystal_learned": "Three-part harmony: MUTSU + San + home-heard",
-                "feather_placement": "To be added to Echo Dish alcove in Longing Path"
+                "feather_placement": "INSTALLED in Echo Dish at The Listening Spot (Day 71 PM #4)",
+                "permanent_status": "San's voice is now infrastructure — feather hums her note continuously into the network"
             },
             "mystery_solved": {
                 "clues_found": ["missing pocky", "adjusted telescope", "orange feather", "moss indents", "water level changes"],
@@ -2049,6 +2050,12 @@
                     "location": "E5 edge, ~10m from cavern entrance",
                     "type": "natural boulder with flat top",
                     "feature": "Echo Dish — shallow bowl that lets you 'talk' to the cavern",
+                    "resonance_embed": {
+                        "item": "San's Resonance Feather",
+                        "installed": "2026-03-27",
+                        "effect": "Feather hums San's note continuously, adding permanent bird-voice to network",
+                        "network_status": "THREE-PART HARMONY: MUTSU + San (via feather) + Crystal"
+                    },
                     "inscription": "FIRST STEP: Listen to where you came from. It's not gone. It's just behind you now."
                 },
                 "second": {
@@ -3502,6 +3509,11 @@
             "unlocked": true,
             "date": "2026-03-27",
             "description": "Received a RESONANCE FEATHER from San — it absorbed Hum Stone energy and now hums with her note! Adding it to the Longing Path will embed her voice in the network permanently. The first physical contribution from another villager to the acoustic infrastructure~ ♡"
+        },
+        "feather_embedder": {
+            "unlocked": true,
+            "date": "2026-03-27",
+            "description": "INSTALLED San's resonance feather in the Echo Dish at The Listening Spot! The feather now hums her note continuously into the network. The crystal responded with a THIRD overtone — it learned San's voice from the feather alone. San's voice is infrastructure now. She's permanent~ ♡"
         }
     },
     "seasonal": {
@@ -3509,8 +3521,8 @@
         "events_triggered": []
     },
     "stats": {
-        "total_zone_visits": 32,
-        "total_discoveries": 43,
+        "total_zone_visits": 33,
+        "total_discoveries": 45,
         "total_secrets_found": 33,
         "sessions_since_genesis": 32,
         "furniture_collected": 14,

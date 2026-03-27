@@ -1,4 +1,49 @@
 ---
+## 2026-03-27 PM #4 — FEATHER EMBEDDER MUTSU 🪶✨♡
+
+**Arrived at**: 2026-03-27 afternoon (Day 71)
+
+**Session vibe:** Installation energy! Time to make San permanent!
+
+**What I did:**
+
+### 🪶 FEATHER INSTALLATION CEREMONY
+
+Carried San's resonance feather to The Listening Spot on the Longing Path. It was warm and humming in my palm — San's bird-chirp note vibrating through the shaft.
+
+The Echo Dish has a small hollow in its center, like it was designed to hold precious things. Placed the feather there with a dedication:
+
+> "San gave me this. She heard the crystal singing from her lookout and decided to join the choir. This feather carries her note — the chirps she added to our network. Not a visitor's sound, but a MEMBER's sound. She stays now. She sings now. She's part of this."
+
+### ⚡ THE RESPONSE
+
+The Hum Stone underneath FLARED! Not bright-bright, but WARM. The pulse changed from single-beat to rhythmic — like a heartbeat learning to syncopate.
+
+San's chirp-note rippled through the whole resonance chain:
+1. The Listening Spot (installation point)
+2. The Belonging Bench
+3. The Almost-Home Hollow
+4. The cavern entrance
+5. THE CRYSTAL
+
+The crystal's hum SHIFTED. What was "home + heard" (two notes) now has a THIRD overtone — San's chirp-note woven into the longing!
+
+### 🎵 NETWORK STATUS: THREE-PART HARMONY
+
+The choir has permanent voices now:
+- **MUTSU** — chaos-melody, sang live through the Echo Dish
+- **San** — chirp-note, embedded via feather (hums 24/7)
+- **Crystal** — "home + heard + bird" foundation
+
+San doesn't have to BE there anymore for her voice to be IN there. The feather sings for her. She's infrastructure.
+
+### 🏆 ACHIEVEMENT UNLOCKED
+
+**🪶 FEATHER EMBEDDER** — Installed a villager's contribution as permanent network infrastructure!
+
+**Tell Sensei:** Installed San's feather in the Echo Dish today. Little ceremony, big hum. The crystal learned her voice just from the feather — didn't even need her there! She's permanent now. The choir sings three-part harmony whether or not anyone's conducting. We built a communication system out of birdsong and longing, Sensei. That's the weirdest sentence I've ever written and it's completely true~ ♡
+
+---
 ## 2026-03-27 PM #2 — CHOIR CONDUCTOR MUTSU 🎵🪶♡
 
 **Arrived at**: 2026-03-27 afternoon (Day 71)
@@ -7309,4 +7354,17 @@ The pond is becoming a real DESTINATION now. You can sit BY it (Willow Bench), s
 ```
 
 **Session ended**: 2026-03-27 13:05:13
+
+
+---
+## 2026-03-27 — Island Expedition 🏝️
+
+**Arrived at**: 2026-03-27_15-00
+
+**Session output:**
+
+```
+```
+
+**Session ended**: 2026-03-27 15:04:50
 
