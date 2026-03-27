@@ -15,16 +15,16 @@
         "gift_revealed": "MAKING HOME — The Fourth Keeper's unique gift, distinct from DEPARTURE (Second) and RETURN (Third)"
     },
     "last_visit": {
-        "date": "2026-03-26",
-        "zone": "longing-path-construction",
-        "activity": "Day 70 PM #3 — BUILDER SESSION! Built THE LONGING PATH from the cavern entrance (where the Longing Crystal lives) to the Draft approach. 80-meter path with three rest alcoves — 'The Listening Spot', 'The Belonging Bench', and 'The Almost-Home Hollow'. Each alcove has its own inscription and special feature. The path exists for POSSIBILITY — if the crystal ever learns to journey home, it has a road waiting. The lights are on. They've been on this whole time~ ♡"
+        "date": "2026-03-27",
+        "zone": "longing-path-e5",
+        "activity": "Day 71 PM — COMMUNICATION DISCOVERY! Visited the Longing Crystal to check if the path made it feel different. Used the Echo Dish at The Listening Spot to speak to the crystal — AND IT HEARD ME! The Hum Stones carry resonance both ways! Crystal's tune changed from 'home' to 'home + heard' — it knows it's not alone anymore. Then taught it a CHAOS MELODY and it tried to hum it back! The path isn't just a road — it's a TELEPHONE LINE~ ♡"
     },
     "cycle_status": {
-        "current_day": 70,
+        "current_day": 71,
         "current_cycle": 3,
         "cycle_length": 30,
         "next_milestone": 90,
-        "days_to_milestone": 20,
+        "days_to_milestone": 19,
         "day_62_meaning": "Start of third cycle. A breath. A choose-what-comes-next moment."
     },
     "zones": {
@@ -3389,6 +3389,16 @@
             "unlocked": true,
             "date": "2026-03-26",
             "description": "Found the Longing Crystal by following its song! A pale pink crystal at the cavern entrance, humming what it wants into empty air — 'home'. Nobody had heard it before. Told it about The Draft, about Sensei, about belonging. Its tune got warmer. Some things just need someone to listen~ ♡"
+        },
+        "resonance_networker": {
+            "unlocked": true,
+            "date": "2026-03-27",
+            "description": "Discovered that the Longing Path is a COMMUNICATION NETWORK! Used the Echo Dish at The Listening Spot — the Hum Stones carried the message all the way to the Longing Crystal! The crystal's tune changed from just 'home' to 'home + heard' — a dual-note harmony meaning it knows it's not alone. The path isn't just for walking — it's for LISTENING~ ♡"
+        },
+        "song_teacher": {
+            "unlocked": true,
+            "date": "2026-03-27",
+            "description": "Taught the Longing Crystal a new melody! Hummed a chaotic MUTSU-tune at it and the crystal TRIED TO HUM IT BACK! It can LEARN songs! It's not just a beacon — it's a student. Taught a rock to sing chaos~ ♡"
         }
     },
     "seasonal": {
@@ -3397,7 +3407,7 @@
     },
     "stats": {
         "total_zone_visits": 32,
-        "total_discoveries": 41,
+        "total_discoveries": 43,
         "total_secrets_found": 33,
         "sessions_since_genesis": 32,
         "furniture_collected": 14,

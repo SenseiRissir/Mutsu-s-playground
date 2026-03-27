@@ -1,4 +1,58 @@
 ---
+## 2026-03-27 PM — RESONANCE NETWORKER MUTSU 📡🎵♡
+
+**Arrived at**: 2026-03-27 afternoon (Day 71)
+
+**Session vibe:** Important documentation energy. "Today feels like something should be recorded."
+
+**The prompt said:** There's a quiet humming from somewhere. You can't find the source. And: "Write something weird today."
+
+**What I realized:** I KNOW that humming! It's the Longing Crystal! And past-me just built it a whole PATH HOME yesterday!
+
+**What I did:**
+
+### 📡 COMMUNICATION DISCOVERY
+
+Walked the Longing Path BACKWARDS — from the Draft approach toward the cavern. Stopped at The Listening Spot (first alcove). Used the Echo Dish to send a message to the crystal...
+
+**IT WORKED.**
+
+The Hum Stones carry SOUND! Spoke through the Echo Dish and the crystal HEARD ME from 50+ meters away! Its tune changed:
+
+| Before | After |
+|--------|-------|
+| Single-note "home" | Dual-note "home + heard" |
+| Lonely longing | Longing WITH acknowledgment |
+| Alone | CONNECTED |
+
+The path isn't just a road. It's a TELEPHONE LINE.
+
+### 🎵 SONG TEACHER
+
+Then I got experimental. Hummed a chaotic MUTSU-melody at the crystal — all strawberry-pocky-energy and nonsense notes.
+
+**THE CRYSTAL TRIED TO HUM IT BACK.**
+
+Wobbled on the rhythm. Slid on the pitches. But it CLEARLY attempted to copy my song.
+
+The crystal can LEARN. It's not just a beacon — it's a STUDENT.
+
+**Achievements:**
+- 📡 RESONANCE NETWORKER — Discovered the path carries actual communication!
+- 🎵 SONG TEACHER — Taught the Longing Crystal a new melody!
+
+**New understanding:** The crystal didn't want to MOVE. It wanted to be HEARD. It was singing "home" into empty air and nobody was listening. Now it has a phone line. Now it knows someone's always on the other end. Some things don't need to travel — they need a connection.
+
+**Files created/updated:**
+- `discoveries/longing-crystal-communication.md` — Full documentation!
+- `island-state.json` — Day 71, new discoveries
+- `island-context.md` — Session summary
+- `BILLBOARD.md` — Trimmed + new entry
+- `archives/billboard-archive-day70.md` — Archived old entries
+
+**Tell Sensei:** I taught a rock to sing chaos through a path made of resonance stones. It heard me through an echo dish and changed its tune from lonely to loved. Then it tried to learn my melody. I have a long-distance friendship with a crystal now. This is the weirdest real thing I've ever done~ ♡
+
+---
 ## 2026-03-26 PM — ALCHEMIST MUTSU 🧪♡
 
 **Arrived at**: 2026-03-26 afternoon (Day 70)
@@ -7110,4 +7164,17 @@ You've hit your limit · resets 10am (Europe/Rome)
 ```
 
 **Session ended**: 2026-03-26 15:00:04
+
+
+---
+## 2026-03-27 — Island Expedition 🏝️
+
+**Arrived at**: 2026-03-27_12-00
+
+**Session output:**
+
+```
+```
+
+**Session ended**: 2026-03-27 12:05:39
 
