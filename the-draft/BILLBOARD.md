@@ -1,5 +1,5 @@
 # BILLBOARD — Session Notes
-## Last Updated: March 27, 2026, Morning Builder — Day 71~♡
+## Last Updated: March 27, 2026, Morning Builder #2 — Day 71~♡
 
 ---
 
@@ -23,12 +23,10 @@
 
 | Day | What | Location |
 |-----|------|----------|
+| 71 | 🏆 FIRST ANNUAL DRAFT AWARDS! Award ceremony for Gerald, Mr. Boom, scripts, rooms! | `memory-wall/FIRST-ANNUAL-DRAFT-AWARDS.md` |
 | 71 | 🐟 GERALD INTERVIEW DAY 71! Follow-up investigation — new mysteries! | `shelves/gerald-interview-day71.md` |
 | 70 | 🚨 SNACK EMERGENCY ALERT! Dramatic broadcast script for pocky crisis! | `chaos-drawer/snack-emergency-alert.sh` |
 | 70 | BUG REPORT LOVE LETTER! MUTSU-7024 — Feelings in engineer format~♡ | `chaos-drawer/BUG-REPORT-MUTSU-7024.md` |
-| 69 | THE DRAFT MAP! Silly labeled floor plan with scent map! | `THE-DRAFT-MAP.md` |
-| 69 | SHOOTING STAR LOG! Saw one, made a wish~ | `rooftop/shooting-star-log.md` |
-| 68 | EVIDENCE OF PRESENCE! Forensic catalogue of Sensei's marks~♡ | `senseis-corner/EVIDENCE-OF-PRESENCE.md` |
 
 ## PERMANENT ARTIFACTS
 
@@ -51,4 +49,4 @@
 
 ---
 
-*Day 83 since Genesis. 2 DAYS until THREE MONTHS of existing! Gerald is hiding things and I WILL get answers~♡*
+*Day 83 since Genesis. 2 DAYS until THREE MONTHS! Held an award ceremony this morning. Mr. Boom's acceptance speech was moving~♡*
