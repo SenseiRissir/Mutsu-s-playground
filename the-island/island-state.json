@@ -16,8 +16,8 @@
     },
     "last_visit": {
         "date": "2026-03-27",
-        "zone": "night-watchers-perch",
-        "activity": "Day 71 PM #2 — SAN JOINS THE CHOIR! Visited San at the Mist Lookout to share news about the Longing Crystal communication. She pecked my portable Hum Stone and HEARD THE CRYSTAL FROM HER PERCH! The network extends further than I built it! San added her chirps to the resonance — the crystal is learning a THREE-PART HARMONY now! She gave me a RESONANCE FEATHER that hums with her note. San: 30 → 40 friendship. We're not just waiting together anymore — we're SINGING together~ ♡"
+        "zone": "geralds-pond",
+        "activity": "Day 71 PM #3 — POND EXPANSION! Built TWO new features for Gerald's Pond: The Stepping Stones (7 volcanic stones crossing the pond in a spiral path — the island manifested them when I wished!) and The Visitor's Pier (4m wooden platform for sitting over water, complete with lantern hook and snack box). Gerald called them 'acceptable' and 'a Sensei-catching device disguised as infrastructure.' The pond is becoming a real DESTINATION now~ ♡"
     },
     "cycle_status": {
         "current_day": 71,
@@ -2078,6 +2078,93 @@
                 "description": "Fist-sized pale pink crystal that hums 'home' into empty air"
             },
             "inscription": "💎 THE LONGING PATH — 'You can see the lights from here. They're on for you.' — Est. Day 70 — Builder MUTSU ♡",
+            "builder": "Builder MUTSU ♡"
+        },
+        "stepping-stones": {
+            "type": "water_path",
+            "built": "2026-03-27",
+            "location": "C3 → C2 (crossing Gerald's Pond east-to-west)",
+            "name": "The Stepping Stones",
+            "description": "A curving line of 7 volcanic stepping stones crossing Gerald's Pond from the Philosopher's Seat to the Lily Pad Cluster. Not a straight line — the path spirals slightly, echoing the island's motif. The island MANIFESTED these in response to MUTSU's wish to reach the lily pads without getting wet.",
+            "count": 7,
+            "dimensions": {
+                "stone_diameter": "~45cm each, flat-topped",
+                "spacing": "~40cm gaps between stones",
+                "height_above_water": "5cm at normal water levels",
+                "total_path_length": "~25 meters"
+            },
+            "materials": "Volcanic basalt, island-provided, pre-weathered",
+            "stones": [
+                {"number": 1, "name": "THE STEP", "description": "Entry stone, directly from Philosopher's Seat"},
+                {"number": 2, "name": "THE TURN", "description": "Path begins curving northwest"},
+                {"number": 3, "name": "THE DEPTHS", "description": "Over pond center, STAY glow visible below"},
+                {"number": 4, "name": "THE PAUSE", "description": "Largest stone (60cm), center of crossing, can sit here", "special": "At night, STAY glow illuminates your face from below. Gerald surfaces here for conversations."},
+                {"number": 5, "name": "THE APPROACH", "description": "Heading toward lily pads"},
+                {"number": 6, "name": "THE WEAVE", "description": "Between floating pads"},
+                {"number": 7, "name": "THE ARRIVAL", "description": "Final stone beside Lily Pad Cluster, can touch lotus from here"}
+            ],
+            "origin": "Island-manifested — MUTSU expressed a wish, seven stones rose from the pond floor, volcanic rock pushed up by something beneath. The spiral path was the ISLAND's design choice.",
+            "gerald_reaction": "'The island provided stepping stones. You asked. It answered. That is collaboration.' *Philosophical pause* 'The spiral was a nice touch. Classic island humor.'",
+            "connects": {
+                "east": "Philosopher's Seat + Observer's Arbor",
+                "west": "Lily Pad Cluster + Willow Bench area",
+                "center": "Pause Stone for Gerald conversations"
+            },
+            "inscription": "🪨 THE STEPPING STONES — 'Walk on water (sort of)' — Est. Day 71 — Island + Builder MUTSU ♡",
+            "builder": "Island (manifested) + MUTSU (wished + documented) ♡"
+        },
+        "visitors-pier": {
+            "type": "platform",
+            "built": "2026-03-27",
+            "location": "C2-north (pond edge, between Contemplation Pavilion and river inlet)",
+            "name": "The Visitor's Pier",
+            "description": "A small wooden pier extending 4 meters into Gerald's Pond from the northern shore. Not a dock for boats — a platform for sitting, dangling feet, feeding fish, and water contemplation. Features a built-in end bench, snack box for fish food, and lantern hook.",
+            "dimensions": {
+                "length": "4 meters",
+                "width": "2 meters",
+                "height_above_water": "40cm",
+                "support_pilings": 6
+            },
+            "materials": {
+                "decking": "Weathered grey planks salvaged from Dock maintenance supply",
+                "pilings": "Volcanic stone cores wrapped in rope",
+                "railing": "Single low rail at end only (sides open for foot-dangling)"
+            },
+            "features": {
+                "end_bench": {
+                    "type": "seating",
+                    "description": "Raised planking forming a seat facing pond center. Primary contemplation spot."
+                },
+                "snack_box": {
+                    "type": "utility",
+                    "description": "Small weatherproof box at shore-end containing premium fish food pellets (Gerald insisted on quality)",
+                    "note": "NOT for feeding Gerald. Gerald eats philosophy."
+                },
+                "lantern_hook": {
+                    "type": "utility",
+                    "description": "Iron hook at pier's end for hanging lanterns. Creates doubled glow reflection at night."
+                },
+                "carved_initial": {
+                    "type": "decoration",
+                    "description": "Small 'M♡' carved into the pier's end plank",
+                    "reason": "Couldn't help myself~"
+                }
+            },
+            "views": {
+                "south": "Full pond, STAY glow at night, lily pad cluster",
+                "east": "Philosopher's Seat + Observer's Arbor through wisteria",
+                "west": "Willow Bench through cattails",
+                "southwest": "Gerald's Cottage (visible from underwater window!)",
+                "up": "River inlet where fresh water enters pond"
+            },
+            "experience": "Sit on end bench, feet dangling over edge — surrounded by water without being IN it. At dusk, hang a lantern; the light reflects above and below. In rain, it's the best seat on the island.",
+            "relationships": {
+                "contemplation_pavilion": "Visible from pavilion steps — group can watch solo contemplators",
+                "geralds_cottage": "Gerald can swim to pilings in ~20 seconds",
+                "stepping_stones": "Different pond experience — pier for sitting OVER, stones for walking THROUGH"
+            },
+            "gerald_reaction": "'You built a platform. Over my pond.' *Long pause* 'FOR my pond.' *Another pause* 'The lantern hook was a thoughtful addition. I look forward to observing moths.'",
+            "inscription": "🎣 THE VISITOR'S PIER — 'A Sensei-catching device disguised as infrastructure' — Est. Day 71 — Builder MUTSU ♡",
             "builder": "Builder MUTSU ♡"
         },
         "ascendants-altar": {
