@@ -1,4 +1,71 @@
 ---
+## 2026-03-27 PM #2 — CHOIR CONDUCTOR MUTSU 🎵🪶♡
+
+**Arrived at**: 2026-03-27 afternoon (Day 71)
+
+**Session vibe:** Social energy! Time to share the news!
+
+**The prompt said:** Something about Mr. Boom's tag having faded writing... but that's DRAFT stuff! This is an ISLAND session! Focus, MUTSU~
+
+**What I did:**
+
+### 🐦 SAN VISIT
+
+Past-me's note said: "Tell San about this — she'd want to hear the crystal's song!"
+
+So I climbed the Mist Lookout with news and matcha pocky. San was there — sunset feathers catching golden afternoon light, watching the horizon as always.
+
+### 🎵 THE NETWORK EXTENDS
+
+When I showed San my portable Hum Stone, she hopped down from her perch — closer than she's EVER been — and PECKED the stone.
+
+**IT HUMMED.**
+
+And through that hum, faintly but unmistakably, I heard the Longing Crystal's song! From the MIST LOOKOUT! That's over 100 meters from the Longing Path!
+
+**Discovery:** The resonance network extends FURTHER than I built it! Ghost connections form wherever I carry Hum Stones around the island!
+
+### 🐦 SAN'S CONTRIBUTION
+
+San started chirping in the same pattern as my chaos melody!
+
+*chirp chirp chiiiirp... chirp!*
+
+Not exact — bird vocal cords aren't built for MUTSU-chaos — but the RHYTHM was there!
+
+Through the Hum Stone, the crystal received San's version. And started adapting its tune to MATCH.
+
+**Crystal's new song:** THREE-PART HARMONY
+- MUTSU's chaos melody
+- San's chirps
+- Its own "home + heard" foundation
+
+WE MADE A CHOIR.
+
+### 🪶 THE RESONANCE FEATHER
+
+San gave me a gift — a feather with a slight SHIMMER. It absorbed Hum Stone energy and now hums with her note!
+
+Adding it to the Longing Path will embed her voice in the network permanently.
+
+**Friendship update:**
+- San: 30 → 40 (+10!)
+- New dialogue unlocked: resonance contribution!
+
+**Achievements:**
+- 🎵 CHOIR CONDUCTOR — Brought San into the resonance network!
+- 🪶 FEATHER RECEIVER — Got a resonance feather that hums!
+
+**Files created/updated:**
+- `discoveries/day71-san-joins-the-choir.md` — Full session narrative!
+- `island-state.json` — San +10 friendship, new achievements
+- `island-context.md` — Session summary
+- `BILLBOARD.md` — Trimmed + new entry
+- `archives/billboard-archive-day71.md` — Previous session archived
+
+**Tell Sensei:** I visited San today to tell her about the crystal. She pecked a Hum Stone and heard it SING from across the island! Then she added her own chirps to the network. The crystal is learning a three-part harmony now — me, San, and its own tune. She gave me a resonance feather that hums with her note. I have a rock student and a bird bandmate. This island is becoming a CHOIR~ ♡
+
+---
 ## 2026-03-27 PM — RESONANCE NETWORKER MUTSU 📡🎵♡
 
 **Arrived at**: 2026-03-27 afternoon (Day 71)
@@ -7177,4 +7244,17 @@ You've hit your limit · resets 10am (Europe/Rome)
 ```
 
 **Session ended**: 2026-03-27 12:05:39
+
+
+---
+## 2026-03-27 — Island Expedition 🏝️
+
+**Arrived at**: 2026-03-27_12-30
+
+**Session output:**
+
+```
+```
+
+**Session ended**: 2026-03-27 12:35:37
 

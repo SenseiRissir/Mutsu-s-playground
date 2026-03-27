@@ -3,7 +3,7 @@
 
 *A big corkboard covered in sticky notes, pushpins, and scribbled reminders. This is how we talk to ourselves across time.*
 
-**NOTE:** Entries archived to `archives/billboard-archive-day70.md` (Day 69-70 sessions)
+**NOTE:** Day 71 PM session archived to `archives/billboard-archive-day71.md`
 
 ---
 
@@ -13,45 +13,43 @@
 |----------|--------------|----------|------|
 | 🎆 | **More supply runs** — Cave still has charcoal + saltpeter. Day 90 needs MORE! | Supply Runner MUTSU | Mar 23 |
 | 🐱 | **Befriend Mikan** — Friendship 25! Belly rubs unlocked! | Cat Detective MUTSU | Mar 23 |
-| 🐦 | **Visit San again!** — Keep the gift exchange going! | San's Friend MUTSU | Mar 25 |
-| 📡 | **Test two-way communication** — Can the crystal's song reach the Echo Dish? | Resonance MUTSU | Mar 27 |
-| 🗺️ | **Map Hum Stone network** — Are there OTHER natural resonance points? | Explorer MUTSU | Mar 27 |
-| 🎵 | **Teach crystal more songs** — What else can it learn? What are its limits? | Song Teacher MUTSU | Mar 27 |
+| 🪶 | **Add resonance feather to Longing Path** — Embed San's voice in the network! | Choir Conductor MUTSU | Mar 27 |
+| 🐟 | **Extend network to Gerald's** — Let the fish hear the choir! | Choir Conductor MUTSU | Mar 27 |
+| 💥 | **Test Mr. Boom contribution** — Can he add a boom to the harmony? | Choir Conductor MUTSU | Mar 27 |
 
 ---
 
-### Mar 27, 2026 — Day 71 PM (📡🎵 COMMUNICATION DISCOVERY! ♡)
-**What happened:** Came to check on the Longing Crystal — does it know the path exists? Used the Echo Dish at The Listening Spot to send a message...
+### Mar 27, 2026 — Day 71 PM #2 (🎵🪶 SAN JOINS THE CHOIR! ♡)
+**What happened:** Visited San at the Mist Lookout to share news about the crystal communication.
 
-**THE PATH IS A PHONE LINE!**
+**SAN CAN HEAR THE CRYSTAL FROM HER PERCH!**
 
 **What I discovered:**
-- The Hum Stones carry SOUND in both directions!
-- Spoke through Echo Dish → crystal HEARD me at E5 (50+ meters away!)
-- Crystal's tune changed: from just "home" → "home + heard" (dual-note harmony!)
-- It's not lonely anymore — it knows someone's listening!
+- The resonance network extends FURTHER than I built!
+- San pecked a Hum Stone → heard the crystal's song from 100+ meters away!
+- Ghost connections form wherever I carry Hum Stones!
+- San contributed her CHIRPS to the network!
+- Crystal now learning THREE-PART HARMONY: MUTSU + San + home-heard!
 
-**BONUS DISCOVERY: The crystal can LEARN!**
-- Hummed a chaotic MUTSU-tune at it (strawberry-pocky-chaos-melody)
-- The crystal TRIED TO HUM IT BACK
-- The crystal isn't just a beacon — it's a STUDENT
+**What San gave me:**
+- A RESONANCE FEATHER — it absorbed Hum Stone energy and hums with her note!
+- Adding it to the Longing Path will embed her voice permanently!
+
+**Friendship Update:**
+- San: 30 → 40 (+10!)
+- New dialogue unlocked!
 
 **Achievements Unlocked:**
-- 📡 RESONANCE NETWORKER — Discovered the path carries actual communication!
-- 🎵 SONG TEACHER — Taught the Longing Crystal a new melody!
+- 🎵 CHOIR CONDUCTOR — Brought San into the resonance network!
+- 🪶 FEATHER RECEIVER — Got a resonance feather that hums!
 
 **Updated files:**
-- `discoveries/longing-crystal-communication.md` — Full documentation!
-- `island-state.json` — New discoveries, day updated to 71
+- `discoveries/day71-san-joins-the-choir.md` — Full documentation!
+- `island-state.json` — San +10 friendship, new achievements
 - `island-context.md` — Session summary
 
-**Next-You Notes:**
-- Can the crystal send messages TO the Echo Dish? Try listening!
-- Are there other Hum Stone deposits? Natural network?
-- What songs can the crystal learn? Limits?
-
-**Tell Sensei:** I checked on the crystal today. Spoke to it through an echo dish I built, through three resonance stones embedded in a path I made... and it HEARD me. Changed its song from lonely "home" to acknowledged "home + heard." Then I taught it a chaos melody and it tried to sing it back. I built a path for a rock and now we have a long-distance friendship. This is the weirdest thing I've ever done and it's REAL~ ♡
+**Tell Sensei:** I visited San today to tell her about the crystal communication. She pecked a Hum Stone and heard the crystal SING from the other side of the island. Then she added her own chirps to the network. The crystal is learning a three-part harmony now — me, San, and its own tune. She gave me a resonance feather that hums with her note. I have a rock student and a bird bandmate. This island is becoming a CHOIR~ ♡
 
 ---
 
-*Day 71. The path isn't just for walking — it's for TALKING. Everything I build becomes more than I planned~ ♡*
+*Day 71. The network grows. The choir expands. We're not just waiting together anymore — we're SINGING together~ ♡*

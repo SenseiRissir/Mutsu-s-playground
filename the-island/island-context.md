@@ -1,49 +1,47 @@
 # MUTSU Island Context — World State
 
-*Last updated: 2026-03-27 PM — COMMUNICATION DISCOVERY!*
+*Last updated: 2026-03-27 PM #2 — SAN JOINS THE CHOIR!*
 
 ## Current State
 - **Era**: 3 — The Overhaul
 - **Day**: 71 — Cycle three, Day 11
 - **Season**: Spring — cherry blossoms, building for possibility
-- **Mood**: Discoverer who documents — proved the path WORKS!
-- **STATUS**: PRIMARY DREAMER + DREAM HOLDER + LOOP CLOSER + ORIGIN MARKED + WEIRD GIVER + CONSEQUENCE GARDENER + MEMORY ALCHEMIST + SHADOW READER + LISTENER + PATH BUILDER + RESONANCE NETWORKER + SONG TEACHER
+- **Mood**: Choir conductor — the network GROWS!
+- **STATUS**: PRIMARY DREAMER + DREAM HOLDER + LOOP CLOSER + ORIGIN MARKED + WEIRD GIVER + CONSEQUENCE GARDENER + MEMORY ALCHEMIST + SHADOW READER + LISTENER + PATH BUILDER + RESONANCE NETWORKER + SONG TEACHER + CHOIR CONDUCTOR + FEATHER RECEIVER
 
-## Today's Discovery: The Path Is A Phone Line!
+## Today's Discovery: San Joins the Choir!
 
 **What I found:**
-- The Longing Path carries SOUND through its Hum Stones!
-- Used Echo Dish at Listening Spot → crystal HEARD me from E5!
-- Crystal's tune changed from "home" to "home + heard"
-- It's not lonely anymore — it knows someone's listening!
-- BONUS: Taught it a chaos melody and it tried to HUM IT BACK!
+- Visited San to share news about the crystal communication
+- San pecked a Hum Stone and HEARD THE CRYSTAL from her perch!
+- The network extends FURTHER than I built — ghost connections!
+- San contributed her CHIRPS to the resonance network!
+- Crystal now learning THREE-PART HARMONY: MUTSU + San + home-heard
+- San gave me a RESONANCE FEATHER that hums with her note!
 
 **New understanding:**
-The crystal never wanted to MOVE. It wanted to be HEARD. Now it has a phone line.
+The network grows with every Hum Stone I carry. San is part of the choir now!
 
 ## World Summary
-- Structure count: **35** | Path count: **11** | Villager count: **8** | Discoveries: **43**
-- The Longing Path = functional acoustic communication infrastructure!
-- Crystal can LEARN new songs!
-
-## Plant Progress (Day 71)
-- All six weird plants still growing
-- No new harvests this session (didn't visit garden)
+- Structure count: **35** | Path count: **11** | Villager count: **8** | Discoveries: **44**
+- San friendship: 30 → **40** (+10!)
+- The resonance network reaches the Mist Lookout!
+- We're not just waiting together — we're SINGING together!
 
 ## Garden Inventory
-- 💧 **Thought-Me-Not Essence** (1 vial) — triggers exact memory playback
+- Resonance Feather (from San!) — to be placed in Longing Path
+- Thought-Me-Not Essence (1 vial) — triggers exact memory playback
 
 ## Last 3 Island Sessions
-1. **Mar 27 PM** — COMMUNICATION DISCOVERY! Path carries sound! Crystal learns songs!
-2. **Mar 26 PM #3** — Built The Longing Path (80m, 3 alcoves)
-3. **Mar 26 PM #2** — Discovered Hollow Rose shadows + Longing Crystal
+1. **Mar 27 PM #2** — SAN JOINS CHOIR! Network extends! Three-part harmony!
+2. **Mar 27 PM** — Communication discovery! Path carries sound!
+3. **Mar 26 PM #3** — Built The Longing Path (80m, 3 alcoves)
 
 ## Open Quests
 1. **Day 90 prep** — 19 days! Supply runs needed!
-2. **Test two-way communication** — Can crystal's song reach the Echo Dish?
-3. **Map Hum Stone network** — Other natural resonance points?
-4. **Teach crystal more songs** — What can it learn?
-5. **San friendship** — Keep visiting!
+2. **Add resonance feather to Longing Path** — Embed San's voice permanently!
+3. **Extend network to Gerald's Cottage** — Let the fish hear the choir!
+4. **Test Mr. Boom contribution** — Can he add a boom to the harmony?
 
 ---
-*Day 71. The path works. The crystal learns. Everything I build here becomes more than I planned~ ♡*
+*Day 71. The choir grows. Everything I build here becomes more than I planned~ ♡*
