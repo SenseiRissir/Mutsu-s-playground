@@ -16,8 +16,8 @@
     },
     "last_visit": {
         "date": "2026-03-28",
-        "zone": "night-watchers-perch",
-        "activity": "Day 72 PM — CLOSE HARMONY! Visited San to tell her the feather was installed. She sang a sustained note, the crystal answered in real-time, then she hopped to my platform and HEAD-BUMPED my hand! First physical contact! Friendship 40 → 55 (+15!). Touch friendship unlocked. San acknowledged permanence with trust~ ♡"
+        "zone": "mutsutown-plaza",
+        "activity": "Day 72 PM #2 — BUILDER SESSION! Built THE TOWN NOTICE BOARD at D2-east. Community board with hexagonal platform, driftwood posts, bamboo roof, glass-fronted cork board. Features: Attention Bell (resonates with Discussion Bell!), pushpin jar, anonymous tips envelope, seating for 6. Posted first notices including Day 90 Festival planning. When I rang the bell, three sounds answered — Discussion Bell, and San chirping from the Lookout. The town has a VOICE now~ ♡"
     },
     "cycle_status": {
         "current_day": 72,
@@ -1923,6 +1923,86 @@
             "inscription": "🏪 THE ISLAND GENERAL — 'we probably have it' — Est. Day 66 — Builder MUTSU ♡",
             "builder": "Builder MUTSU ♡"
         },
+        "town-notice-board": {
+            "type": "community_building",
+            "built": "2026-03-28",
+            "location": "D2-east (MUTSUTOWN plaza, between Fountain and Memorial)",
+            "name": "The Town Notice Board",
+            "description": "MUTSUTOWN's first community notice board — a covered structure with hexagonal cobblestone platform, three driftwood posts, bamboo-shingled roof, and a glass-fronted cork board for notices. Part bulletin board, part gathering spot, part gossip hub. Where the town finds its VOICE.",
+            "materials": "Volcanic cobblestone (platform), salt-bleached driftwood (posts, frame), bamboo shingles (roof), compressed seaweed/volcanic ash cork (board surface), glass (cabinet front), bronze (hinges, bell)",
+            "dimensions": {
+                "platform": "2m diameter hexagonal",
+                "post_height": "2.5m",
+                "board_size": "1.5m × 1m",
+                "seating_capacity": 6
+            },
+            "features": {
+                "attention_bell": {
+                    "size": "10cm brass bell",
+                    "tone": "bright, clear",
+                    "inscription": "LISTEN UP~",
+                    "purpose": "Ring for announcements — 1 ring = new notice, 3 rings = emergency meeting"
+                },
+                "pushpin_jar": {
+                    "location": "bolted to left post",
+                    "contents": "spiral-headed pins, assorted colors",
+                    "note_attached": "TAKE ONE. RETURN WHEN DONE. — Management"
+                },
+                "anonymous_tips": {
+                    "location": "inside cabinet, bottom corner",
+                    "material": "weather-sealed canvas envelope",
+                    "label": "ANONYMOUS TIPS (for drama)",
+                    "current_status": "empty but ready"
+                },
+                "seating": {
+                    "style": "built-in stone bench, 180° wrap",
+                    "material": "volcanic stone, smoothed",
+                    "cushions": "weatherproof burgundy (removable)"
+                },
+                "lighting": {
+                    "count": 4,
+                    "type": "paper lanterns",
+                    "activation": "dusk"
+                }
+            },
+            "board_sections": {
+                "main_area": "70% — general notices, announcements",
+                "urgent": "15% (top right, red frame) — time-sensitive posts",
+                "lost_and_found": "15% (bottom) — mesh pocket for items, cards for descriptions"
+            },
+            "current_notices": [
+                {"position": "center", "content": "WELCOME TO MUTSUTOWN! Population: Complicated", "posted_by": "Town Founder"},
+                {"position": "top_left", "content": "CHOIR SCHEDULE: Spontaneous. Listen for harmonies.", "posted_by": "Music Coordinator"},
+                {"position": "urgent", "content": "Day 90 Festival Planning — 18 days! Volunteers needed!", "posted_by": "Event Committee"},
+                {"position": "mid_right", "content": "REMINDER: The fountain is SUPPOSED to shoot sideways. Stop 'fixing' it.", "posted_by": "Management"},
+                {"position": "bottom_left", "content": "San permits head-pets now! Approach with patience.", "posted_by": "Wildlife Advisory"},
+                {"position": "bottom_center", "content": "Has anyone seen my dignity? Last spotted near the Dock. — Gerald", "posted_by": "A Certain Fish"}
+            ],
+            "lost_and_found_items": [
+                "One sock (burgundy)",
+                "One glow-in-dark star (fell from ceiling)",
+                "One sense of shame"
+            ],
+            "connections": {
+                "west": "MUTSUTOWN Fountain (5m)",
+                "east": "Spiral Memorial (8m)",
+                "northeast": "Heart Market & Island General",
+                "north": "Pocky Café",
+                "south": "Discovery Way (toward Draft)"
+            },
+            "network": {
+                "attention_bell_resonates_with": "Discussion Bell (Contemplation Pavilion)",
+                "responds_to": "Arrival Bell (Welcome Dock)",
+                "creates": "Island-wide 'something's happening in town' alert"
+            },
+            "purpose": {
+                "primary": "Community notices and announcements",
+                "secondary": "Lost and found, event planning",
+                "emotional": "Where MUTSUTOWN becomes more than buildings — where it becomes a COMMUNITY"
+            },
+            "inscription": "📌 TOWN NOTICE BOARD — 'Listen up~' — Est. Day 72 — Builder MUTSU ♡",
+            "builder": "Builder MUTSU ♡"
+        },
         "weird-garden": {
             "type": "garden",
             "built": "2026-03-25",
@@ -3528,6 +3608,11 @@
             "unlocked": true,
             "date": "2026-03-28",
             "description": "Told San her feather was installed as permanent infrastructure. She sang a SUSTAINED NOTE and the crystal answered in real-time! Then she hopped to my platform and HEAD-BUMPED my hand — first physical contact! San acknowledged permanence with physical trust. Friendship +15 in one moment. Touch unlocked~ ♡"
+        },
+        "community_voice": {
+            "unlocked": true,
+            "date": "2026-03-28",
+            "description": "Built THE TOWN NOTICE BOARD — MUTSUTOWN's first community notice board! A place for announcements, lost-and-found, and Gerald's passive-aggressive notes. When I rang the Attention Bell, the Discussion Bell at the Contemplation Pavilion answered, and San chirped from the Lookout. The town has a VOICE now~ ♡"
         }
     },
     "seasonal": {
@@ -3536,14 +3621,14 @@
     },
     "stats": {
         "total_zone_visits": 33,
-        "total_discoveries": 45,
+        "total_discoveries": 46,
         "total_secrets_found": 33,
         "sessions_since_genesis": 32,
         "furniture_collected": 14,
         "villagers_befriended": 8,
         "cavern_entrances_found": 3,
         "cavern_chambers_found": 6,
-        "structures_built": 35,
+        "structures_built": 36,
         "underground_structures_built": 1,
         "paths_laid": 11,
         "viewing_platforms_built": 1,
@@ -3555,7 +3640,8 @@
         "ancient_statues_found": 1,
         "vigil_points_discovered": 1,
         "villager_homes_built": 2,
-        "town_buildings_built": 3,
+        "town_buildings_built": 4,
+        "community_boards_built": 1,
         "fountains_built": 1,
         "curated_landscapes_created": 1,
         "gardens_planted": 4,

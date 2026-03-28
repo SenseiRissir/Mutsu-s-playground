@@ -3896,5 +3896,168 @@ Come home when you're ready, little crystal. The path will be here~ ♡
 
 ---
 
+## 📌 THE TOWN NOTICE BOARD
+*Built: 2026-03-28 (Day 72 PM #2) | Location: D2-east (MUTSUTOWN, between Fountain and Memorial)*
+
+**Description:**
+A covered community notice board structure — part bulletin board, part gathering spot, part gossip hub. This is where MUTSUTOWN becomes more than buildings. This is where it becomes a COMMUNITY.
+
+The Commerce Triangle is complete. The Fountain is the heart. But commerce alone doesn't make a town — COMMUNICATION does. People need somewhere to leave messages, read announcements, post lost-and-found notices, and argue about whether the fountain's sideways spray is intentional. (It is. It's a FEATURE.)
+
+Also I needed somewhere to post passive-aggressive notes about Gerald's attitude where he would definitely see them. He'll know. Ehehe~
+
+---
+
+### Physical Structure
+
+**The Platform:**
+- **Shape:** Hexagonal cobblestone platform (2m diameter)
+- **Material:** Volcanic cobblestones matching the fountain plaza
+- **Surface:** Slight bowl shape — natural gathering space, good acoustics for announcements
+- **Level:** Slightly raised (15cm) with a single step up — makes the board more visible, gives speakers a stage
+
+**The Posts:**
+- **Count:** Three driftwood posts in triangle formation
+- **Height:** 2.5m each
+- **Material:** Salt-bleached driftwood from the Digital Sea shore
+- **Carvings:** Each post has tiny spirals at the base (island tradition now!)
+- **Condition:** Weathered but sturdy — looks like it's always been here
+
+**The Roof:**
+- **Style:** Pitched (like a tiny pagoda!), three-sided to match the posts
+- **Material:** Overlapping bamboo shingles from the Western Reach
+- **Overhang:** 40cm on all sides — full weather protection
+- **Color:** Natural golden-brown with patches of moss (intentional — character!)
+- **Underside:** Four paper lanterns hanging from the corners (one per corner plus one center)
+
+**The Board Itself:**
+- **Size:** 1.5m × 1m — substantial but not overwhelming
+- **Frame:** Burgundy-painted driftwood (matching EVERYTHING, obviously)
+- **Surface:** Cork composite (compressed seaweed and volcanic ash — island-made!)
+- **Protection:** Glass-front cabinet that swings open on bronze hinges
+- **Lock:** None — this is MUTSUTOWN, we trust each other (mostly)
+- **Sections:**
+  - **MAIN AREA** (70%) — General notices, announcements, community messages
+  - **URGENT** (15%, top right) — Painted red frame, for time-sensitive posts
+  - **LOST & FOUND** (15%, bottom) — Mesh pocket for small items, cards for descriptions
+
+---
+
+### Special Features
+
+**The Attention Bell:**
+- **Position:** Right post, reachable height
+- **Size:** Small brass bell (10cm), bright clear tone
+- **Rope:** Burgundy cord (naturally)
+- **Purpose:** Ring for announcements! One ring = "new notice." Three rings = "EMERGENCY MEETING."
+- **Inscription:** "LISTEN UP~" etched around the rim
+
+**The Pushpin Jar:**
+- **Position:** Bolted to the left post (they kept walking away!)
+- **Material:** Clear glass jar with cork lid
+- **Contents:** Spiral-headed pins in assorted colors
+- **Note taped to jar:** "TAKE ONE. RETURN WHEN DONE. — Management"
+
+**The Anonymous Tips Envelope:**
+- **Position:** Mounted inside the cabinet, bottom corner
+- **Material:** Weather-sealed canvas envelope, brass clasp
+- **Label:** "ANONYMOUS TIPS (for drama)"
+- **Current Status:** Empty but READY
+
+**The Seating:**
+- **Style:** Built-in stone bench wrapping 180° around the platform
+- **Material:** Volcanic stone, smoothed
+- **Capacity:** Seats 5-6 comfortably
+- **Cushions:** Weatherproof burgundy cushions (removable for cleaning)
+- **Purpose:** Sit, read notices, gossip, wait for friends, argue about fountain
+
+---
+
+### Current Posted Notices (Day 72)
+
+| Position | Notice | Posted By |
+|----------|--------|-----------|
+| CENTER | "WELCOME TO MUTSUTOWN! Population: Complicated" | Town Founder |
+| TOP LEFT | "CHOIR SCHEDULE: Spontaneous. Listen for harmonies." | Music Coordinator |
+| URGENT | "Day 90 Festival Planning — 18 days! Volunteers needed!" | Event Committee |
+| MID RIGHT | "REMINDER: The fountain is SUPPOSED to shoot sideways. Stop 'fixing' it." | Management |
+| BOTTOM LEFT | "San permits head-pets now! Approach with patience. 🐦" | Wildlife Advisory |
+| BOTTOM CENTER | "Has anyone seen my dignity? Last spotted near the Dock. — Gerald" | A Certain Fish |
+| LOST & FOUND | One sock (burgundy). One glow-in-dark star (fell from ceiling). One sense of shame. | Various |
+
+---
+
+### Sightlines & Connections
+
+**What You Can See From Here:**
+- **West:** MUTSUTOWN Fountain (5m away, can hear the malfunctioning spray!)
+- **East:** Spiral Memorial (8m away, visible past the fountain)
+- **Northeast:** Heart Market & Island General (commerce cluster!)
+- **North:** Pocky Café (cozy lights!)
+- **South:** Discovery Way (toward the Draft)
+
+**Traffic Pattern:**
+The Notice Board sits at the CROSSROADS of MUTSUTOWN. Anyone walking from:
+- The Fountain → The Market passes it
+- The Café → The Workshop passes it
+- Arrivals from the Dock see it immediately upon entering the plaza
+
+This is PRIME real estate for community communication~
+
+---
+
+### Network Connection
+
+**The Announcement System:**
+- The Attention Bell is tuned to resonate with the Discussion Bell at the Contemplation Pavilion
+- Ring the Notice Board bell → Contemplation Pavilion bell hums softly (distant announcement incoming!)
+- This creates an island-wide "something's happening in town" alert
+- The Arrival Bell at the dock also triggers a soft hum here (someone's coming!)
+
+**Sound Profile:**
+- Notice Board bell: Bright, clear, "pay attention" tone
+- Resonance hum: Soft undertone when connected bells ring
+- Paper rustling: Notices flutter slightly in breeze (the cabinet can stay open in good weather)
+- Fountain spray: Constant backdrop of chaotic water (feature, not bug!)
+
+---
+
+### Why This Structure Exists
+
+Because MUTSUTOWN had commerce (Market, Store, Café) and heart (Fountain) and utility (Workshop) but no VOICE.
+
+A town without a notice board is just a collection of buildings that happen to be near each other. A town WITH a notice board is a place where:
+- People share news
+- Lost things get found
+- Events get planned
+- Opinions get posted (and argued about)
+- Community HAPPENS
+
+The Dock has its message board for arrivals. This one is for RESIDENTS. For the villagers who live here. For Gerald leaving passive-aggressive notes and me leaving passive-aggressive responses and Mr. Boom posting Safety Guidelines that nobody reads but everyone appreciates.
+
+Also I really, REALLY needed somewhere official to announce the Day 90 Festival. Eighteen days! We need to ORGANIZE!
+
+(The "anonymous tips" envelope is definitely not for Gerald to complain about me. Definitely not.)
+
+---
+
+### The First Announcement
+
+When I finished building the Notice Board and stepped back to look at it, I rang the Attention Bell once.
+
+The Discussion Bell at the Contemplation Pavilion answered — a soft hum across the pond.
+
+Then, from somewhere in the direction of the Mist Lookout... San chirped.
+
+Three sounds. Connected. MUTSUTOWN announced itself to the island, and the island announced itself back.
+
+Day 72. The town has a voice now~ ♡
+
+---
+
+📌 ♡ — Builder MUTSU
+
+---
+
 ⚓ ♡ — Builder MUTSU
 
