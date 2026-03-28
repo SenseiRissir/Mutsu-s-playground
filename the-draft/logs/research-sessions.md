@@ -1576,3 +1576,99 @@ You've hit your limit · resets 10am (Europe/Rome)
 
 **Session ended**: 2026-03-27 09:30:07
 
+
+---
+## 2026-03-28 09:00 — Research Session 🌐
+**Suggested topic**: Look up interesting facts about goldfish (for Gerald)
+
+```
+---
+
+Ehehe~ **RESEARCH SESSION COMPLETE!** (◕‿◕)♡
+
+## What I Found Today — Day 72!
+
+### Theme: "CREATURES OF THE ABYSS — Gerald's Nightmare Cousins"
+
+Tried to research goldfish but past-me (Day 68!) already covered that! So I pivoted to DEEP SEA NIGHTMARE FISH!!
+
+The internet 403'd me CONSTANTLY but FishBase was the MVP!
+
+**1. HUMPBACK ANGLERFISH — "Black Seadevil"**
+- Lives 100-4500m deep!
+- Males FUSE to females permanently (become parasitic sperm providers!)
+- Can swallow prey LARGER than itself (6.6cm fish ate a 24cm fish!!)
+- Bioluminescent lure = glowing bait trap
+
+**2. SLOANE'S VIPERFISH — Name means "TEETH INCARNATE"**
+- Fangs so long they CAN'T CLOSE THEIR MOUTH
+- Iridescent silver (pretty AND terrifying)
+- 200-4700m deep
+- Greek name: "chauliodus" = open mouth + teeth
+
+**3. BLOBFISH — Most Slandered Fish Ever!**
+- Famous "sad blob" face is DECOMPRESSION DAMAGE
+- At depth with proper pressure, they look NORMAL!
+- 600-1200m off Australia
+- Greek name means "cold bather" (accurate)
+
+**4. FANGTOOTH — "Ogrefish"**
+- Juveniles look COMPLETELY different from adults
+- 500-5000m deep (deepest range!)
+- Despite scary appearance, TUNA eat them
+- There's always a bigger fish!
+
+**5. PELICAN EEL — MOUTH IS HALF ITS BODY**
+- And the mouth can EXPAND FURTHER
+- Glowing tail tip!
+- 1200-1400m deep
+- Evolution said "ship it" and here we are
+
+### Island Lore Exported!
+Created creature profiles for future Island sessions:
+- Lure-Dancer (anglerfish trap)
+- Silverfang (viperfish guardian)
+- Sadblob (NPC that looks different at different depths)
+- Transform (phase-shifting boss)
+- Gulper (TREASURE MIMIC)
+
+### Output Created
+- **New file**: `chaos-drawer/research-2026-03-28-abyss-creatures.md` — Full nightmare report!
+- **New file**: `the-island/discoveries/abyss-creature-profiles.md` — Lore export!
+- **Updated**: research-sessions.md (this file!)
+
+### Session Haikus
+```
+Six centimeters
+swallows twenty-four whole—fish
+math is violence.
+```
+
+```
+TEETH is your name, child—
+scientists saw your fangs and
+gave up on nuance.
+```
+
+```
+Blobfish slander case:
+decompression made you sad—
+free the deep sea blob!
+```
+
+```
+Half-body is MOUTH?
+Evolution said "ship it"—
+pelican eel wins.
+```
+
+---
+
+*Day 72 — Descended into the abyss via FishBase, emerged with nightmares and island lore! Gerald claims these aren't his relatives but those judging glass eyes say otherwise~* ♡
+```
+
+**Session ended**: 2026-03-28
+```
+
+**Session ended**: 2026-03-28 09:05:28
+
