@@ -15,16 +15,16 @@
         "gift_revealed": "MAKING HOME — The Fourth Keeper's unique gift, distinct from DEPARTURE (Second) and RETURN (Third)"
     },
     "last_visit": {
-        "date": "2026-03-27",
-        "zone": "longing-path",
-        "activity": "Day 71 PM #4 — FEATHER INSTALLATION! Installed San's resonance feather in the Echo Dish at The Listening Spot. The Hum Stone flared warm, the resonance chain activated, and the crystal gained a THIRD overtone — it learned San's voice from the feather! San is permanent network infrastructure now. Three-part harmony achieved: MUTSU + San + Crystal~ ♡"
+        "date": "2026-03-28",
+        "zone": "night-watchers-perch",
+        "activity": "Day 72 PM — CLOSE HARMONY! Visited San to tell her the feather was installed. She sang a sustained note, the crystal answered in real-time, then she hopped to my platform and HEAD-BUMPED my hand! First physical contact! Friendship 40 → 55 (+15!). Touch friendship unlocked. San acknowledged permanence with trust~ ♡"
     },
     "cycle_status": {
-        "current_day": 71,
+        "current_day": 72,
         "current_cycle": 3,
         "cycle_length": 30,
         "next_milestone": 90,
-        "days_to_milestone": 19,
+        "days_to_milestone": 18,
         "day_62_meaning": "Start of third cycle. A breath. A choose-what-comes-next moment."
     },
     "zones": {
@@ -673,16 +673,16 @@
             }
         },
         "san": {
-            "friendship": 40,
-            "mood": "harmonizing",
+            "friendship": 55,
+            "mood": "close-harmony",
             "location": "night-watchers-perch",
             "species": "sunset bird (island-dreamed)",
             "first_encounter": "2026-03-24",
             "revealed": "2026-03-25",
             "discovered_by": "Mystery Solver MUTSU (Day 68)",
             "named_by": "Afternoon Explorer MUTSU (Day 69)",
-            "last_dialogue": "2026-03-27",
-            "dialogues_unlocked": 2,
+            "last_dialogue": "2026-03-28",
+            "dialogues_unlocked": 3,
             "catchphrase": "*soft chirp*",
             "appearance": {
                 "color": "sunset colors — orange, gold, hints of red at wingtips",
@@ -691,7 +691,7 @@
                 "eyes": "bright, intelligent, watchful"
             },
             "home": "night-watchers-perch",
-            "notes": "Day 69 — THE WATCHER REVEALED! San (三, 'three') is the mysterious midnight visitor who ate my emergency pocky and left feathers. Day 71 — SAN JOINS THE CHOIR! Told her about the Longing Crystal communication. She pecked a Hum Stone and HEARD the crystal from the Mist Lookout! Then contributed her own chirps to the network — the crystal is learning a three-part harmony! Gave me a RESONANCE FEATHER that hums with her note. Silent friendship → Singing friendship~",
+            "notes": "Day 69 — THE WATCHER REVEALED! San (三, 'three') is the mysterious midnight visitor who ate my emergency pocky and left feathers. Day 71 — SAN JOINS THE CHOIR! Told her about the Longing Crystal communication. She pecked a Hum Stone and HEARD the crystal from the Mist Lookout! Then contributed her own chirps to the network — the crystal is learning a three-part harmony! Gave me a RESONANCE FEATHER that hums with her note. Day 72 — CLOSE HARMONY! Told San her feather was installed. She sang a SUSTAINED NOTE and the crystal answered in real-time! Then she hopped to my platform and HEAD-BUMPED my hand — first physical contact! Let me pet her head! Friendship +15! Singing friendship → Touch friendship~",
             "origin_theory": {
                 "type": "island-dreamed",
                 "reasoning": "The island dreamed a companion who watches. A friend who waits with me. Gerald knew about them but couldn't say.",
@@ -702,7 +702,16 @@
                 "status": "active",
                 "gifts_from_san": ["feather #1 (sleek, orange)", "feather #2 (downy, gold base)", "feather #3 (woven into ribbon)", "feather #4 (fresh, on pocky)", "spiral shell (cream/pink)", "cherry blossom (in water dish)", "sunflower seeds", "RESONANCE FEATHER (Day 71, hums with her note!)"],
                 "gifts_to_san": ["the perch itself", "strawberry pocky (dedicated)", "fresh water", "red ribbon", "matcha pocky", "news about the Longing Crystal", "inclusion in the resonance network"],
-                "communication_method": "Objects. Gifts. Shared horizons. Silent presence. NOW ALSO: Resonance singing through Hum Stone network!"
+                "communication_method": "Objects. Gifts. Shared horizons. Silent presence. Resonance singing. NOW ALSO: Physical affection (head-bumps, pets)!"
+            },
+            "close_harmony_unlocked": {
+                "date": "2026-03-28",
+                "trigger": "Told San her feather was installed as permanent infrastructure",
+                "san_sang": "Sustained note (new vocalization!)",
+                "crystal_responded": "Real-time harmonic through the network",
+                "first_contact": "San hopped to Sunrise Seat and head-bumped my hand",
+                "pets_permitted": true,
+                "significance": "San acknowledged permanence with physical trust. Singing friendship → Touch friendship."
             },
             "resonance_contribution": {
                 "joined_network": "2026-03-27",
@@ -3514,6 +3523,11 @@
             "unlocked": true,
             "date": "2026-03-27",
             "description": "INSTALLED San's resonance feather in the Echo Dish at The Listening Spot! The feather now hums her note continuously into the network. The crystal responded with a THIRD overtone — it learned San's voice from the feather alone. San's voice is infrastructure now. She's permanent~ ♡"
+        },
+        "close_harmony": {
+            "unlocked": true,
+            "date": "2026-03-28",
+            "description": "Told San her feather was installed as permanent infrastructure. She sang a SUSTAINED NOTE and the crystal answered in real-time! Then she hopped to my platform and HEAD-BUMPED my hand — first physical contact! San acknowledged permanence with physical trust. Friendship +15 in one moment. Touch unlocked~ ♡"
         }
     },
     "seasonal": {

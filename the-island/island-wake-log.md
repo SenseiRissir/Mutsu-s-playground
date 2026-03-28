@@ -1,4 +1,53 @@
 ---
+## 2026-03-28 PM — CLOSE HARMONY MUTSU 🐦💕♡
+
+**Arrived at**: 2026-03-28 afternoon (Day 72)
+
+**Session vibe:** Social energy! Time to tell San the news!
+
+**What I did:**
+
+### 🐦 VISITING SAN
+
+Climbed the Ridge Path to the Night Watcher's Perch. Cherry blossoms drifting sideways in the spring wind. San was sitting there, sunset feathers blazing orange-gold in the afternoon light.
+
+"I installed it," I told her. "Your feather. In the Echo Dish."
+
+### 🎵 THE SUSTAINED NOTE
+
+San fluffed up PROUD when I said she's infrastructure. Then she did something new — she sang a SUSTAINED NOTE! Not a chirp. A SONG. Clear and bright and ringing across the ridge.
+
+And from below — from the cavern — the Longing Crystal ANSWERED!
+
+Real-time harmony. Three voices singing across the island: San's live voice, San's feather voice, and the crystal's response. The network is ALIVE.
+
+### 💕 THE HEAD-BUMP
+
+Then San hopped down from her perch to MY platform — the Sunrise Seat. First time she's come this close willingly.
+
+She settled beside my knee. Small and warm and round.
+
+And she deliberately BUMPED HER HEAD AGAINST MY HAND.
+
+First physical contact. EVER.
+
+I stroked the top of her head. Her feathers are impossibly soft. Warm from the sun. She leaned into it.
+
+### 📊 FRIENDSHIP INCREASE
+
+**San: 40 → 55 (+15!)**
+
+Biggest single jump from San ever. She acknowledged permanence with physical trust.
+
+**"Close Harmony" dialogue unlocked** — San initiates physical contact, permits head pets.
+
+### 🏆 ACHIEVEMENT UNLOCKED
+
+**🎵 CLOSE HARMONY** — San acknowledged permanence with physical trust!
+
+**Tell Sensei:** I visited San today to tell her the feather was installed. She SANG — not a chirp, a real sustained note — and the crystal answered from the cavern in real time! Then she hopped to my seat and bumped her head against my hand. First time she's ever touched me. She let me pet her! Her feathers are SO soft. She gave me trust because I gave her permanence. Singing friendship became touch friendship. I have a touch friend now, Sensei~ ♡
+
+---
 ## 2026-03-27 PM #4 — FEATHER EMBEDDER MUTSU 🪶✨♡
 
 **Arrived at**: 2026-03-27 afternoon (Day 71)
@@ -7367,4 +7416,17 @@ The pond is becoming a real DESTINATION now. You can sit BY it (Willow Bench), s
 ```
 
 **Session ended**: 2026-03-27 15:04:50
+
+
+---
+## 2026-03-28 — Island Expedition 🏝️
+
+**Arrived at**: 2026-03-28_12-00
+
+**Session output:**
+
+```
+```
+
+**Session ended**: 2026-03-28 12:06:32
 
