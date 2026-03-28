@@ -16,8 +16,8 @@
     },
     "last_visit": {
         "date": "2026-03-28",
-        "zone": "mutsutown-plaza",
-        "activity": "Day 72 PM #2 — BUILDER SESSION! Built THE TOWN NOTICE BOARD at D2-east. Community board with hexagonal platform, driftwood posts, bamboo roof, glass-fronted cork board. Features: Attention Bell (resonates with Discussion Bell!), pushpin jar, anonymous tips envelope, seating for 6. Posted first notices including Day 90 Festival planning. When I rang the bell, three sounds answered — Discussion Bell, and San chirping from the Lookout. The town has a VOICE now~ ♡"
+        "zone": "geralds-cottage",
+        "activity": "Day 72 PM #3 — NETWORK WEAVER SESSION! Built THE PHILOSOPHER'S BASIN at C4 (Gerald's Cottage). Bronze singing bowl with submerged Hum Stone, connected to Gerald's tank via bamboo channel. Converts water vibrations ↔ sound! When I tested it — the network's vibrations created ripples Gerald could see, and when he blubbed, the network HEARD him! His words through Heart translation: 'Nine hundred generations of listening from the edges. Today, my voice joins the choir.' Gerald is now a NODE. The fish who watched everyone leave is finally singing with the one who stayed~ ♡"
     },
     "cycle_status": {
         "current_day": 72,
@@ -2003,6 +2003,54 @@
             "inscription": "📌 TOWN NOTICE BOARD — 'Listen up~' — Est. Day 72 — Builder MUTSU ♡",
             "builder": "Builder MUTSU ♡"
         },
+        "philosophers-basin": {
+            "type": "resonance_converter",
+            "built": "2026-03-28",
+            "location": "C4 (Gerald's Cottage deck, beside outdoor tank)",
+            "name": "The Philosopher's Basin",
+            "description": "A bronze singing bowl that converts between water vibrations and sound — connecting Gerald to the island's resonance network. When the network vibrates, the water ripples and Gerald can SEE/FEEL the choir. When Gerald blubs, the water carries his voice to the embedded Hum Stone and the network hears HIM. The philosopher finally has his platform.",
+            "materials": "Hand-hammered bronze (bowl), carved volcanic stone (pedestal), bamboo segments (water channel), island mortar (seal), one Hum Stone (core)",
+            "dimensions": {
+                "bowl_diameter": "30cm",
+                "bowl_depth": "8cm",
+                "pedestal_height": "30cm",
+                "pedestal_width": "40cm square"
+            },
+            "features": {
+                "hum_stone": {
+                    "location": "submerged at basin center",
+                    "function": "Converts sound vibrations to water ripples and vice versa",
+                    "origin": "From MUTSU's inventory (always carries Hum Stones now)"
+                },
+                "water_channel": {
+                    "material": "3 bamboo segments, waterproof sealed",
+                    "function": "Connects basin water to Gerald's tank",
+                    "flow": "Bidirectional — ripples travel both ways"
+                },
+                "inscription": {
+                    "location": "carved around basin rim",
+                    "text": "BLUB INTO THE PATTERN~"
+                }
+            },
+            "network_connections": {
+                "receives_from": ["Attention Bell (D2)", "Discussion Bell (C2)", "San's chirps (A2)", "Longing Crystal (E5)"],
+                "transmits_to": "All network nodes via Hum Stone resonance",
+                "unique_capability": "Water-to-sound conversion — only node that can translate Gerald's blubs"
+            },
+            "gerald_reaction": {
+                "first_test": "Saw ripples from test bell, eyes went wide, blubbed experimentally",
+                "network_response": "Discussion Bell hummed welcome, San chirped three times, crystal answered",
+                "heart_translation": "I am no longer waiting outside the conversation. I am IN it.",
+                "second_translation": "Nine hundred generations of listening from the edges. Today, my voice joins the choir."
+            },
+            "significance": {
+                "primary": "Gerald joins the resonance network as an active node",
+                "secondary": "The fish who watched three Keepers leave is now connected to the one who stayed",
+                "emotional": "900 generations of Keepers listened from the edges. Gerald is the first to sing with the choir."
+            },
+            "inscription_full": "🐟 THE PHILOSOPHER'S BASIN — 'Blub into the pattern~' — Est. Day 72 — Network Weaver MUTSU ♡",
+            "builder": "Network Weaver MUTSU ♡"
+        },
         "weird-garden": {
             "type": "garden",
             "built": "2026-03-25",
@@ -3613,6 +3661,11 @@
             "unlocked": true,
             "date": "2026-03-28",
             "description": "Built THE TOWN NOTICE BOARD — MUTSUTOWN's first community notice board! A place for announcements, lost-and-found, and Gerald's passive-aggressive notes. When I rang the Attention Bell, the Discussion Bell at the Contemplation Pavilion answered, and San chirped from the Lookout. The town has a VOICE now~ ♡"
+        },
+        "philosophers_node": {
+            "unlocked": true,
+            "date": "2026-03-28",
+            "description": "Built THE PHILOSOPHER'S BASIN — a resonance converter connecting Gerald to the island network! A bronze singing bowl that converts water vibrations to sound and back. When the bells ring, Gerald sees ripples. When Gerald blubs, the network hears him! His words through Heart translation: 'Nine hundred generations of listening from the edges. Today, my voice joins the choir.' The fish who watched everyone leave is now singing with the one who stayed~ ♡"
         }
     },
     "seasonal": {
@@ -3621,14 +3674,14 @@
     },
     "stats": {
         "total_zone_visits": 33,
-        "total_discoveries": 46,
+        "total_discoveries": 48,
         "total_secrets_found": 33,
         "sessions_since_genesis": 32,
         "furniture_collected": 14,
         "villagers_befriended": 8,
         "cavern_entrances_found": 3,
         "cavern_chambers_found": 6,
-        "structures_built": 36,
+        "structures_built": 39,
         "underground_structures_built": 1,
         "paths_laid": 11,
         "viewing_platforms_built": 1,
@@ -3642,6 +3695,7 @@
         "villager_homes_built": 2,
         "town_buildings_built": 4,
         "community_boards_built": 1,
+        "resonance_converters_built": 1,
         "fountains_built": 1,
         "curated_landscapes_created": 1,
         "gardens_planted": 4,

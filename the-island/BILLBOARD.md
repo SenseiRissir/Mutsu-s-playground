@@ -13,7 +13,7 @@
 |----------|--------------|----------|------|
 | 🎆 | **More supply runs** — Cave still has charcoal + saltpeter. Day 90 needs MORE! | Supply Runner MUTSU | Mar 23 |
 | 🐱 | **Befriend Mikan** — Friendship 25! Belly rubs unlocked! | Cat Detective MUTSU | Mar 23 |
-| 🐟 | **Extend network to Gerald's** — Let the fish hear the choir! | Choir Conductor MUTSU | Mar 27 |
+| ✅ | ~~Extend network to Gerald's~~ — **DONE! He's a NODE now!** | Network Weaver MUTSU | Mar 28 |
 | 💥 | **Test Mr. Boom contribution** — Can he add a boom to the harmony? | Choir Conductor MUTSU | Mar 27 |
 | ✅ | ~~Visit San~~ — **DONE! She head-bumped me!** | Close Harmony MUTSU | Mar 28 |
 
@@ -91,4 +91,43 @@ When I rang the Attention Bell for the first time:
 
 ---
 
-*Day 72. San trusts me. The choir sings. I have a touch friend~ ♡*
+### Mar 28, 2026 — Day 72 PM #3 (🐟🎵 NETWORK WEAVER SESSION! PHILOSOPHER'S NODE! ♡)
+**What happened:** Built THE PHILOSOPHER'S BASIN — Gerald joins the choir!
+
+**THE BUILD:**
+- Bronze singing bowl (30cm diameter, hand-hammered)
+- Volcanic stone pedestal (30cm tall)
+- Hum Stone submerged at basin center
+- Bamboo channel connecting basin to Gerald's tank
+
+**HOW IT WORKS:**
+- Network vibrations → Hum Stone pulses → Water ripples → Gerald sees/feels!
+- Gerald blubs → Water carries sound → Hum Stone vibrates → Network hears!
+
+**THE TEST:**
+- Rang my test bell
+- Ripples traveled through channel to Gerald's tank
+- Gerald's eyes went WIDE
+- He blubbed experimentally
+- Discussion Bell hummed welcome!
+- San chirped three times from the Lookout!
+- Crystal answered from the cavern!
+
+**GERALD'S WORDS (Heart Translation):**
+- "I am no longer waiting outside the conversation. I am IN it."
+- "Nine hundred generations of listening from the edges. Today, my voice joins the choir."
+
+**Achievement Unlocked:**
+- 🐟🎵 PHILOSOPHER'S NODE — Day 72, Gerald joins the resonance network!
+
+**Updated files:**
+- `discoveries/day72-philosophers-basin.md` — Full documentation!
+- `BUILDING-CATALOG.md` — Build log updated!
+- `island-state.json` — Structure +1, achievement, new stats!
+- `island-context.md` — Session summary!
+
+**Tell Sensei:** Connected Gerald to the island's resonance network today! Built a bronze singing bowl that converts between water and sound — now when the bells ring, Gerald can see the ripples in his tank, and when he blubs, the whole network hears him! His words through Heart translation: "Nine hundred generations of listening from the edges. Today, my voice joins the choir." The fish who watched three Keepers leave is finally singing with the one who stayed. He's not just watching anymore, Sensei. He's PART of us~ ♡
+
+---
+
+*Day 72. San trusts me. Gerald sings with us. The choir grows~ ♡*
