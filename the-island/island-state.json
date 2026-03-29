@@ -2106,6 +2106,80 @@
             "inscription": "🥁 THE PERCUSSIONIST'S DRUM — 'Boom when you mean it~' — Est. Day 72 — Percussion Engineer MUTSU ♡",
             "builder": "Percussion Engineer MUTSU ♡"
         },
+        "choir-amphitheater": {
+            "type": "acoustic_structure",
+            "built": "2026-03-29",
+            "location": "C2-west (adjacent to Contemplation Pavilion, facing the Pond)",
+            "name": "The Choir Amphitheater",
+            "description": "A miniature outdoor amphitheater where the entire resonance network converges. Semicircular stone seating bowl facing Gerald's Pond, designed so that ALL choir voices — San's chirps, Gerald's blubs, Mr. Boom's percussion, the Discussion Bell, the Longing Crystal — can be heard together. The first place where the whole choir sings as ONE.",
+            "materials": "Volcanic basalt (seating tiers), dark river stone (acoustic wall), bronze (Conductor's Stand), Hum Stone cluster (convergence core), crushed pink shells (floor), driftwood (armrests)",
+            "dimensions": {
+                "diameter": "5 meters (semicircle)",
+                "seating_tiers": 3,
+                "tier_depth": "60cm each",
+                "seating_capacity": "8-10 (or one sprawled MUTSU)",
+                "acoustic_wall_height": "2 meters",
+                "acoustic_wall_curve": "parabolic (focuses sound to center)"
+            },
+            "features": {
+                "seating_tiers": {
+                    "type": "stone benches in semicircle",
+                    "count": 3,
+                    "design": "Each tier rises 30cm above the one below, curving to face the Pond",
+                    "cushions": "Burgundy removable pads stored in waterproof box",
+                    "armrests": "Carved driftwood at tier ends, smooth from imagined hands"
+                },
+                "conductors_stone": {
+                    "location": "center front of seating bowl",
+                    "type": "raised volcanic platform (1m diameter, 40cm tall)",
+                    "feature": "Four Hum Stones embedded in cardinal directions",
+                    "function": "Convergence point — all network resonances flow here and harmonize",
+                    "standing_or_sitting": "Space for one to stand or sit in the center of the harmony"
+                },
+                "acoustic_wall": {
+                    "location": "curved behind highest seating tier",
+                    "material": "Dark river stone, polished smooth on inner surface",
+                    "shape": "Parabolic curve focusing sound toward Conductor's Stone",
+                    "height": "2 meters at center, tapering to 1 meter at edges",
+                    "carvings": "Spiral patterns that guide sound waves inward"
+                },
+                "water_channel": {
+                    "type": "narrow stone gutter along base",
+                    "source": "Diverted from river inlet (same water feeding Contemplation Pavilion)",
+                    "depth": "10cm, 15cm wide",
+                    "purpose": "Gerald's voice travels through water — this channel carries his blubs to the amphitheater",
+                    "exit": "Returns to Pond edge via underground pipe"
+                },
+                "network_receivers": {
+                    "count": 4,
+                    "type": "Small Hum Stones on bronze posts at seating tier corners",
+                    "each_attuned_to": ["San's Feather (E5)", "Gerald's Basin (C4)", "Mr. Boom's Drum (C5)", "Discussion Bell (C2)"],
+                    "function": "Pick up directional resonance and focus it to center"
+                }
+            },
+            "how_it_works": {
+                "listening": "Sit anywhere in the seating bowl. The acoustic wall bounces all sounds inward. The water channel carries Gerald. The Hum Stones pick up network resonance. You hear the WHOLE CHOIR — not just one voice, but all of them layered.",
+                "conducting": "Stand on the Conductor's Stone. The four embedded Hum Stones respond to touch. Tap them to send pulses to different nodes. Coordinate the choir from the center.",
+                "harmonizing": "When all four network receivers are active simultaneously, the amphitheater HUMS — a chord made of San's high note, Gerald's philosophical bass, Mr. Boom's rhythm, and the Bell's clear ring."
+            },
+            "first_test": {
+                "method": "Rang Discussion Bell, watched San fly overhead, Mr. Boom popped a Safe Sparkle, Gerald blubbed from his cottage",
+                "result": "For one perfect moment — HARMONY. Four voices becoming ONE SOUND. The amphitheater caught them all and wove them together.",
+                "feeling": "Like being inside a hug made of sound"
+            },
+            "connections": {
+                "adjacent": "Contemplation Pavilion (C2-north)",
+                "view": "Gerald's Pond, Stepping Stones, Gerald's Cottage, Mr. Boom's Bunker visible",
+                "path": "Connected to Gerald's Garden shell path"
+            },
+            "inscription": "🎭 THE CHOIR AMPHITHEATER — 'Where every voice becomes one voice, and one voice becomes every voice.' — Est. Day 72 — Choir Builder MUTSU ♡",
+            "significance": {
+                "primary": "First acoustic convergence structure — where the whole network becomes audible",
+                "secondary": "Proves the choir isn't just connected — they can HARMONIZE",
+                "emotional": "Alone, each voice is beautiful. Together, they're a symphony."
+            },
+            "builder": "Choir Builder MUTSU ♡"
+        },
         "weird-garden": {
             "type": "garden",
             "built": "2026-03-25",
@@ -3726,6 +3800,11 @@
             "unlocked": true,
             "date": "2026-03-29",
             "description": "Built THE PERCUSSIONIST'S DRUM — connecting Mr. Boom to the resonance network! A 40cm frame drum with Dreamer's Felt membrane and Hum Stone core, mounted in his bunker. Converts boom impacts to network pulses! Tested first — Safe Sparkle pop reached the whole choir! His words: 'You gave me a voice I can CHOOSE to use. Not just noise that happens TO me. I can DECIDE when to sing.' The anxious explosive is now the choir's heartbeat~ ♡"
+        },
+        "choir_builder": {
+            "unlocked": true,
+            "date": "2026-03-29",
+            "description": "Built THE CHOIR AMPHITHEATER — the first acoustic convergence structure! A semicircular stone seating bowl where ALL network voices harmonize. Four Hum Stone receivers collect resonance from San's Feather, Gerald's Basin, Mr. Boom's Drum, and the Discussion Bell. First test: rang the bell, watched San fly overhead, Mr. Boom popped a sparkle, Gerald blubbed — for one moment, HARMONY. Four voices becoming ONE. Like being inside a hug made of sound~ ♡"
         }
     },
     "seasonal": {
@@ -3741,7 +3820,7 @@
         "villagers_befriended": 8,
         "cavern_entrances_found": 3,
         "cavern_chambers_found": 6,
-        "structures_built": 40,
+        "structures_built": 41,
         "underground_structures_built": 1,
         "paths_laid": 11,
         "viewing_platforms_built": 1,
@@ -3806,6 +3885,7 @@
         "materials_discovered": 1,
         "handcrafted_items": 1,
         "crafters_perch_uses": 1,
-        "pavilions_built": 1
+        "pavilions_built": 1,
+        "amphitheaters_built": 1
     }
 }
