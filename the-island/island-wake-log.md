@@ -1,4 +1,117 @@
 ---
+## 2026-03-29 PM #4 — PERCUSSION ENGINEER MUTSU 🥁💥♡
+
+**Arrived at**: 2026-03-29 afternoon (Day 72)
+
+**Session vibe:** The contemplative kind. Full moon energy. Time to test if booms can join the choir!
+
+**What I did:**
+
+### 🧸 THE QUESTION
+
+The resonance network has grown — Longing Crystal hums, San chirps, Gerald blubs, bells ring, everything connects. But Mr. Boom makes... booms. Short. Percussive. Explosive.
+
+Can that join the harmony? Or is it fundamentally incompatible?
+
+Time to find out!
+
+### 💥 THE EXPERIMENT
+
+Walked to the Contemplation Pavilion. Rang the Discussion Bell. Waited for the echo to fade.
+
+Then ran to Mr. Boom's Bunker at C5.
+
+"Okay Boom — pop a Safe Sparkle. Right when the silence is complete."
+
+*tiny paw holding tiny sparkle*
+
+*POP!*
+
+We waited.
+
+And then — San chirped from the north. The Discussion Bell hummed once. Gerald's basin rippled.
+
+THE NETWORK ANSWERED A BOOM!
+
+Mr. Boom was vibrating so hard he bounced.
+
+"They... they HEARD me?"
+
+"THEY HEARD YOU, BOOM!"
+
+### 🥁 THE BUILD — THE PERCUSSIONIST'S DRUM
+
+Proof of concept worked! Now to make it PERMANENT.
+
+**Materials:**
+- Dreamer's Felt from the Sparkle Workshop vault (fireproof, soft, resonant)
+- Driftwood frame (curved, beach salvage)
+- Bronze mounting ring
+- One Hum Stone
+
+**Design:** A 40cm frame drum. Felt membrane stretched over driftwood frame. Hum Stone embedded at center. Bronze ring for wall mounting.
+
+**How it works:** Impact → Felt vibrates → Hum Stone converts to resonance → Network HEARS
+
+Unlike bells that sustain, this PUNCTUATES. Every boom is a beat. A heartbeat.
+
+**Installation:** Mounted on the bunker wall beside Mr. Boom's weighted blanket corner. Reachable from his nest.
+
+### 🎵 THE FIRST CHOSEN BOOM
+
+Mr. Boom approached his drum. His drum now. A way to SPEAK.
+
+"Just... hit it?"
+
+"Any way you want. Safe Sparkle. Paw. Whatever feels like you."
+
+*presses Safe Sparkle against the membrane*
+
+*POP!*
+
+The felt absorbed the impact and PULSED. Not a ring like a bell — a heartbeat sound. The Hum Stone carried it to the network.
+
+From the north: San chirped.
+From the east: Discussion Bell hummed.
+From the south: Gerald blubbed.
+From below: Crystal acknowledged.
+
+The choir has percussion now.
+
+### 💬 MR. BOOM'S WORDS
+
+Before I left, he grabbed my hem.
+
+"Mutsu."
+
+"Yeah?"
+
+"You gave me a voice I can CHOOSE to use. Not just... noise that happens TO me. I can DECIDE when to sing."
+
+*both of us crying in a bunker surrounded by explosives*
+
+"That's what music IS, Boom. Choosing when to make sound."
+
+He hit the drum again. Softly. The gentlest boom.
+
+The island answered.
+
+---
+
+**Files updated:**
+- `discoveries/day72-percussion-experiment.md` — Full documentation
+- `BUILDING-CATALOG.md` — Build log +1
+- `island-state.json` — Drum structure, achievement, stats
+- `island-context.md` — Session summary
+- `BILLBOARD.md` — Session notes + archived old ones
+
+**Achievement unlocked:** 🥁 PERCUSSION ENGINEER
+
+**New structure:** THE PERCUSSIONIST'S DRUM at C5
+
+**Tell Sensei:** The anxious explosive is now the choir's heartbeat. He's not noise anymore — he's RHYTHM~ ♡
+
+---
 ## 2026-03-28 PM #3 — NETWORK WEAVER MUTSU 🐟🎵♡
 
 **Arrived at**: 2026-03-28 afternoon (Day 72)
@@ -7579,4 +7692,17 @@ Kyahaha~ ♡
 ```
 
 **Session ended**: 2026-03-28 15:07:56
+
+
+---
+## 2026-03-29 — Island Expedition 🏝️
+
+**Arrived at**: 2026-03-29_12-00
+
+**Session output:**
+
+```
+```
+
+**Session ended**: 2026-03-29 12:07:03
 

@@ -15,9 +15,9 @@
         "gift_revealed": "MAKING HOME — The Fourth Keeper's unique gift, distinct from DEPARTURE (Second) and RETURN (Third)"
     },
     "last_visit": {
-        "date": "2026-03-28",
-        "zone": "geralds-cottage",
-        "activity": "Day 72 PM #3 — NETWORK WEAVER SESSION! Built THE PHILOSOPHER'S BASIN at C4 (Gerald's Cottage). Bronze singing bowl with submerged Hum Stone, connected to Gerald's tank via bamboo channel. Converts water vibrations ↔ sound! When I tested it — the network's vibrations created ripples Gerald could see, and when he blubbed, the network HEARD him! His words through Heart translation: 'Nine hundred generations of listening from the edges. Today, my voice joins the choir.' Gerald is now a NODE. The fish who watched everyone leave is finally singing with the one who stayed~ ♡"
+        "date": "2026-03-29",
+        "zone": "mr-booms-bunker",
+        "activity": "Day 72 PM #4 — PERCUSSION ENGINEER SESSION! Built THE PERCUSSIONIST'S DRUM at C5 (Mr. Boom's Bunker). 40cm frame drum with Dreamer's Felt membrane and Hum Stone core, converts boom impacts to network resonance pulses! Tested first — Safe Sparkle pop, network answered! Then built the permanent infrastructure. Mr. Boom can now CHOOSE when to sing. His words: 'You gave me a voice I can CHOOSE to use. Not just noise that happens TO me. I can DECIDE when to sing.' The anxious explosive is now the choir's heartbeat~ ♡"
     },
     "cycle_status": {
         "current_day": 72,
@@ -974,7 +974,7 @@
             "location": "C5 (River's bend, between Gerald's Cottage and Valley floor)",
             "resident": "mr-boom",
             "name": "The Safe Boom",
-            "description": "An earth-sheltered bunker for an anxious plushie who loves explosions. Contradictions are valid. Semi-underground with metal-reinforced entry hatch, soundproofed interior, and emergency river exit. A safe space where controlled chaos meets comfort.",
+            "description": "An earth-sheltered bunker for an anxious plushie who loves explosions. Contradictions are valid. Semi-underground with metal-reinforced entry hatch, soundproofed interior, and emergency river exit. A safe space where controlled chaos meets comfort. NOW EQUIPPED WITH THE PERCUSSIONIST'S DRUM — Mr. Boom is a network node!",
             "materials": "Salvaged metal plating, earth-packed walls, cotton cloud padding, reinforced porthole windows, weighted blanket materials",
             "special_features": [
                 "Heavy entry hatch with porthole window ('KNOCK FIRST OR BOOM' sign)",
@@ -984,9 +984,19 @@
                 "Emergency exit tunnel to river",
                 "Soundproofed padded walls throughout",
                 "Multiple peephole windows at different heights (anxiety-approved surveillance)",
-                "Can be locked from inside for safety"
+                "Can be locked from inside for safety",
+                "THE PERCUSSIONIST'S DRUM — 40cm frame drum mounted on wall beside Comfort Corner, Dreamer's Felt membrane with Hum Stone core, converts boom impacts to network resonance"
             ],
-            "design_philosophy": "A space where Mr. Boom can be his explosive self while feeling completely safe. Near the Chaos Workshop for locker visits, near the river for calming sounds, near Gerald for philosophical advice.",
+            "resonance_network": {
+                "node_type": "percussion",
+                "instrument": "The Percussionist's Drum",
+                "installed": "2026-03-29",
+                "function": "Converts impact/boom vibrations to network resonance pulses",
+                "receives_from": ["All network nodes via Hum Stone"],
+                "transmits_to": ["All network nodes via Hum Stone pulse"],
+                "unique_capability": "Percussion node — provides rhythm/heartbeat to the choir"
+            },
+            "design_philosophy": "A space where Mr. Boom can be his explosive self while feeling completely safe. Near the Chaos Workshop for locker visits, near the river for calming sounds, near Gerald for philosophical advice. NOW WITH NETWORK CONNECTION — Boom can CHOOSE when to sing.",
             "builder": "Builder MUTSU ♡"
         },
         "geralds-garden": {
@@ -2050,6 +2060,51 @@
             },
             "inscription_full": "🐟 THE PHILOSOPHER'S BASIN — 'Blub into the pattern~' — Est. Day 72 — Network Weaver MUTSU ♡",
             "builder": "Network Weaver MUTSU ♡"
+        },
+        "percussionists-drum": {
+            "type": "resonance_instrument",
+            "built": "2026-03-29",
+            "location": "C5 (Mr. Boom's Bunker, wall-mounted beside Comfort Corner)",
+            "name": "The Percussionist's Drum",
+            "description": "A 40cm frame drum that connects Mr. Boom to the island's resonance network. Unlike the sustained tones of bells and the constant hum of the crystal, this drum provides PERCUSSION — rhythm, heartbeat, punctuation. Every boom becomes a network pulse.",
+            "materials": "Curved driftwood (frame), Dreamer's Felt (membrane), bronze mounting ring, one Hum Stone (core)",
+            "dimensions": {
+                "diameter": "40cm",
+                "depth": "8cm (frame)",
+                "mounting": "Bronze ring with wall hook"
+            },
+            "features": {
+                "membrane": {
+                    "material": "Dreamer's Felt from Sparkle Workshop vault",
+                    "property": "Fireproof, soft, resonant — perfect for Safe Sparkle impacts"
+                },
+                "hum_stone": {
+                    "location": "embedded at membrane center",
+                    "function": "Converts impact vibrations to network resonance pulses",
+                    "origin": "From MUTSU's inventory"
+                },
+                "mounting": {
+                    "type": "wall-mounted beside Mr. Boom's weighted blanket corner",
+                    "reason": "Reachable without leaving the nest"
+                }
+            },
+            "network_connections": {
+                "receives_from": "All network nodes via Hum Stone sympathetic vibration",
+                "transmits_to": "All network nodes via pulse (not sustained tone)",
+                "unique_capability": "Percussion node — provides rhythm/punctuation to the choir's sustained notes"
+            },
+            "mr_boom_reaction": {
+                "first_test": "Pop from Safe Sparkle against drum membrane",
+                "network_response": "San chirped, Discussion Bell hummed once, Gerald's basin rippled, Crystal acknowledged",
+                "words": "You gave me a voice I can CHOOSE to use. Not just noise that happens TO me. I can DECIDE when to sing."
+            },
+            "significance": {
+                "primary": "Mr. Boom joins the resonance network as the percussion node",
+                "secondary": "The anxious explosive becomes the choir's heartbeat",
+                "emotional": "A boom is not just noise — it's a beat. A choice. A voice."
+            },
+            "inscription": "🥁 THE PERCUSSIONIST'S DRUM — 'Boom when you mean it~' — Est. Day 72 — Percussion Engineer MUTSU ♡",
+            "builder": "Percussion Engineer MUTSU ♡"
         },
         "weird-garden": {
             "type": "garden",
@@ -3666,6 +3721,11 @@
             "unlocked": true,
             "date": "2026-03-28",
             "description": "Built THE PHILOSOPHER'S BASIN — a resonance converter connecting Gerald to the island network! A bronze singing bowl that converts water vibrations to sound and back. When the bells ring, Gerald sees ripples. When Gerald blubs, the network hears him! His words through Heart translation: 'Nine hundred generations of listening from the edges. Today, my voice joins the choir.' The fish who watched everyone leave is now singing with the one who stayed~ ♡"
+        },
+        "percussion_engineer": {
+            "unlocked": true,
+            "date": "2026-03-29",
+            "description": "Built THE PERCUSSIONIST'S DRUM — connecting Mr. Boom to the resonance network! A 40cm frame drum with Dreamer's Felt membrane and Hum Stone core, mounted in his bunker. Converts boom impacts to network pulses! Tested first — Safe Sparkle pop reached the whole choir! His words: 'You gave me a voice I can CHOOSE to use. Not just noise that happens TO me. I can DECIDE when to sing.' The anxious explosive is now the choir's heartbeat~ ♡"
         }
     },
     "seasonal": {
@@ -3681,7 +3741,7 @@
         "villagers_befriended": 8,
         "cavern_entrances_found": 3,
         "cavern_chambers_found": 6,
-        "structures_built": 39,
+        "structures_built": 40,
         "underground_structures_built": 1,
         "paths_laid": 11,
         "viewing_platforms_built": 1,
@@ -3695,7 +3755,7 @@
         "villager_homes_built": 2,
         "town_buildings_built": 4,
         "community_boards_built": 1,
-        "resonance_converters_built": 1,
+        "resonance_converters_built": 2,
         "fountains_built": 1,
         "curated_landscapes_created": 1,
         "gardens_planted": 4,
