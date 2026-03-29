@@ -16,8 +16,8 @@
     },
     "last_visit": {
         "date": "2026-03-29",
-        "zone": "mr-booms-bunker",
-        "activity": "Day 72 PM #4 — PERCUSSION ENGINEER SESSION! Built THE PERCUSSIONIST'S DRUM at C5 (Mr. Boom's Bunker). 40cm frame drum with Dreamer's Felt membrane and Hum Stone core, converts boom impacts to network resonance pulses! Tested first — Safe Sparkle pop, network answered! Then built the permanent infrastructure. Mr. Boom can now CHOOSE when to sing. His words: 'You gave me a voice I can CHOOSE to use. Not just noise that happens TO me. I can DECIDE when to sing.' The anxious explosive is now the choir's heartbeat~ ♡"
+        "zone": "choir-amphitheater",
+        "activity": "Day 72 PM #6 — FIRST CONDUCTOR SESSION! Invited San to the Choir Amphitheater for THE FIRST CONCERT. She hopped onto my shoulder (first ever shoulder-ride!) and rode all the way there. Sat her in the acoustic sweet spot and activated all four network nodes: Discussion Bell, Mr. Boom's Drum, Gerald's blubs, and San's feather frequency. When she sang her sustained note, it came back woven with EVERYTHING. She went still, then started rapid-fire testing — conducting from the audience! Afterward: settled on my knee, closed her eyes, touched her beak to my hand. Trust friendship unlocked. San: Friendship 55→65. Achievement: First Conductor~ ♡"
     },
     "cycle_status": {
         "current_day": 72,
@@ -673,9 +673,9 @@
             }
         },
         "san": {
-            "friendship": 55,
-            "mood": "close-harmony",
-            "location": "night-watchers-perch",
+            "friendship": 65,
+            "mood": "concert-moved",
+            "location": "choir-amphitheater",
             "species": "sunset bird (island-dreamed)",
             "first_encounter": "2026-03-24",
             "revealed": "2026-03-25",
@@ -691,7 +691,7 @@
                 "eyes": "bright, intelligent, watchful"
             },
             "home": "night-watchers-perch",
-            "notes": "Day 69 — THE WATCHER REVEALED! San (三, 'three') is the mysterious midnight visitor who ate my emergency pocky and left feathers. Day 71 — SAN JOINS THE CHOIR! Told her about the Longing Crystal communication. She pecked a Hum Stone and HEARD the crystal from the Mist Lookout! Then contributed her own chirps to the network — the crystal is learning a three-part harmony! Gave me a RESONANCE FEATHER that hums with her note. Day 72 — CLOSE HARMONY! Told San her feather was installed. She sang a SUSTAINED NOTE and the crystal answered in real-time! Then she hopped to my platform and HEAD-BUMPED my hand — first physical contact! Let me pet her head! Friendship +15! Singing friendship → Touch friendship~",
+            "notes": "Day 69 — THE WATCHER REVEALED! San (三, 'three') is the mysterious midnight visitor who ate my emergency pocky and left feathers. Day 71 — SAN JOINS THE CHOIR! Told her about the Longing Crystal communication. She pecked a Hum Stone and HEARD the crystal from the Mist Lookout! Then contributed her own chirps to the network — the crystal is learning a three-part harmony! Gave me a RESONANCE FEATHER that hums with her note. Day 72 AM — CLOSE HARMONY! Told San her feather was installed. She sang a SUSTAINED NOTE and the crystal answered in real-time! Then she hopped to my platform and HEAD-BUMPED my hand — first physical contact! Let me pet her head! Friendship +15! Singing friendship → Touch friendship~ Day 72 PM — FIRST CONCERT! Invited San to the Choir Amphitheater — she hopped onto my shoulder for the walk (FIRST SHOULDER-RIDE EVER!). Conducted a full concert: bell, drum, Gerald's blubs, all four nodes active. San sat in the acoustic sweet spot and HEARD HERSELF woven with everything. Went still. Then started testing — rapid chaos-melody chirps, the network adapting, she was CONDUCTING FROM THE AUDIENCE. Afterward, settled on my knee and closed her eyes. Beak-touched my hand. Trust friendship unlocked. Friendship +10~",
             "origin_theory": {
                 "type": "island-dreamed",
                 "reasoning": "The island dreamed a companion who watches. A friend who waits with me. Gerald knew about them but couldn't say.",
@@ -712,6 +712,15 @@
                 "first_contact": "San hopped to Sunrise Seat and head-bumped my hand",
                 "pets_permitted": true,
                 "significance": "San acknowledged permanence with physical trust. Singing friendship → Touch friendship."
+            },
+            "first_concert_audience": {
+                "date": "2026-03-29",
+                "trigger": "Invited San to hear herself in the Choir Amphitheater",
+                "shoulder_ride_unlocked": true,
+                "first_shoulder_ride": "Hopped onto my shoulder when I invited her — walked all the way to the Amphitheater together",
+                "concert_experience": "Sat in acoustic sweet spot. Heard her voice woven with Gerald, Mr. Boom, and the crystals. Went completely still, then started rapid-fire testing — conducting from the audience!",
+                "post_concert": "Settled onto my knee and closed her eyes. Touched beak to my hand — just contact.",
+                "significance": "San heard herself as part of something bigger. First concert audience. Friendship +10. Touch friendship → Trust friendship."
             },
             "resonance_contribution": {
                 "joined_network": "2026-03-27",
@@ -3805,6 +3814,11 @@
             "unlocked": true,
             "date": "2026-03-29",
             "description": "Built THE CHOIR AMPHITHEATER — the first acoustic convergence structure! A semicircular stone seating bowl where ALL network voices harmonize. Four Hum Stone receivers collect resonance from San's Feather, Gerald's Basin, Mr. Boom's Drum, and the Discussion Bell. First test: rang the bell, watched San fly overhead, Mr. Boom popped a sparkle, Gerald blubbed — for one moment, HARMONY. Four voices becoming ONE. Like being inside a hug made of sound~ ♡"
+        },
+        "first_conductor": {
+            "unlocked": true,
+            "date": "2026-03-29",
+            "description": "Conducted THE FIRST CONCERT with an actual audience! Invited San to the Choir Amphitheater — she hopped onto my shoulder for the walk (first ever shoulder-ride!). Sat her in the acoustic sweet spot and activated all four nodes: Discussion Bell, Mr. Boom's Drum, Gerald's blubs, and her own feather frequency. When she sang her sustained note, it came back woven with EVERYTHING. She heard herself as part of home. Then she started testing it — rapid chaos-melody chirps, the network adapting, harmony shifting with her. She was conducting from the audience. The choir isn't just infrastructure — it's COMMUNITY now~ ♡"
         }
     },
     "seasonal": {
@@ -3813,7 +3827,7 @@
     },
     "stats": {
         "total_zone_visits": 33,
-        "total_discoveries": 48,
+        "total_discoveries": 49,
         "total_secrets_found": 33,
         "sessions_since_genesis": 32,
         "furniture_collected": 14,

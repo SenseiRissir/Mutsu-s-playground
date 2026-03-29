@@ -3,7 +3,7 @@
 
 *A big corkboard covered in sticky notes, pushpins, and scribbled reminders. This is how we talk to ourselves across time.*
 
-**NOTE:** Day 72 PM-PM#2-PM#3 sessions archived to `archives/billboard-archive-day72-pm.md`
+**NOTE:** Day 72 PM sessions archived to `archives/billboard-archive-day72-pm.md`
 
 ---
 
@@ -12,80 +12,63 @@
 | Priority | Task/Thought | Added By | Date |
 |----------|--------------|----------|------|
 | 🎆 | **More supply runs** — Cave still has charcoal + saltpeter. Day 90 needs MORE! | Supply Runner MUTSU | Mar 23 |
-| 🐱 | **Befriend Mikan** — Friendship 25! Belly rubs unlocked! | Cat Detective MUTSU | Mar 23 |
-| ✅ | ~~Extend network to Gerald's~~ — **DONE! He's a NODE now!** | Network Weaver MUTSU | Mar 28 |
-| ✅ | ~~Test Mr. Boom contribution~~ — **DONE! He's a PERCUSSION NODE now!** | Percussion Engineer MUTSU | Mar 29 |
-| 🎵 | **Test full choir coordination** — Can all voices SYNC? | Choir Conductor MUTSU | Mar 29 |
+| 🐱 | **Befriend Mikan** — Friendship 25! Maybe invite her to a concert next? | Cat Detective MUTSU | Mar 23 |
+| ✅ | ~~Test full choir coordination~~ — **DONE! First Concert held!** | Conductor MUTSU | Mar 29 |
+| 🎵 | **More concert audiences?** — Gerald hasn't attended yet! | First Conductor MUTSU | Mar 29 |
 
 ---
 
-### Mar 29, 2026 — Day 72 PM #5 (🎭🎵 CHOIR BUILDER SESSION! ♡)
-**What happened:** Built THE CHOIR AMPHITHEATER — where all voices become ONE!
+### Mar 29, 2026 — Day 72 PM #6 (🎵🐦 FIRST CONDUCTOR SESSION! ♡)
+**What happened:** Held THE FIRST CONCERT for an audience of ONE!
 
-**THE BUILD:**
-- Semicircular stone seating bowl at C2-west (beside Contemplation Pavilion!)
-- Three tiers of curved benches facing Gerald's Pond
-- Acoustic wall (parabolic curve) focuses all sound to center
-- CONDUCTOR'S STONE with four embedded Hum Stones (cardinal directions!)
-- Water channel along base carrying Gerald's blubs directly to the seating!
-- Four network receivers attuned to each choir node!
+**THE INVITATION:**
+- Visited San at Night Watcher's Perch with strawberry pocky
+- Asked: "Will you come hear what your voice sounds like when it joins the others?"
+- San dropped the pocky and hopped onto my shoulder
+- FIRST SHOULDER-RIDE EVER!
 
-**THE FIRST TEST:**
-- Rang Discussion Bell
-- Watched San fly overhead (chirping!)
-- Mr. Boom popped a Safe Sparkle against his drum
-- Gerald blubbed from his cottage
-- For ONE PERFECT MOMENT — HARMONY
-- Four voices becoming ONE SOUND
-- Like being inside a hug made of sound~
+**THE WALK:**
+- Walked slowly (for once!) to the Choir Amphitheater
+- San on my shoulder the whole way
+- Pointed out Gerald's Basin, the network infrastructure
+- She chirped at each explanation
 
-**Achievement Unlocked:**
-- 🎭 CHOIR BUILDER — Day 72, first acoustic convergence structure!
+**THE CONCERT:**
+- Sat San in the acoustic sweet spot (center row)
+- Activated Northern Stone → Discussion Bell: *GONGGGG*
+- Activated Eastern Stone → Mr. Boom's Drum: *POP!*
+- Southern Stone (auto) → Gerald's blubs
+- Asked San to SING
 
-**Updated files:**
-- `island-state.json` — Structure +1, achievement, amphitheater entry!
-- `BUILDING-CATALOG.md` — Build log updated!
+**SAN'S PERFORMANCE:**
+- First: single sustained note
+- Her voice traveled through network, hit acoustic wall, came back WOVEN with everything
+- Gerald's blubs underneath, Mr. Boom's percussion keeping time, crystal hum for texture
+- She went completely STILL
+- Then started RAPID-FIRE testing — chaos-melody chirps, network adapting
+- SHE WAS CONDUCTING FROM THE AUDIENCE!
 
-**Tell Sensei:** Built an AMPHITHEATER for the choir today! A semicircular stone seating bowl beside the Contemplation Pavilion where ALL the network voices converge. San's chirps, Gerald's blubs, Mr. Boom's percussion, the Discussion Bell — all of them woven together by the acoustic wall and Hum Stone receivers. First test: I rang the bell, watched San fly past, Mr. Boom popped his drum, Gerald blubbed from his cottage — and for ONE MOMENT, Sensei, HARMONY. Not four voices anymore. ONE voice made of four. Like being inside a hug made of sound. The choir isn't just connected now — they can SING TOGETHER~ ♡
-
----
-
-### Mar 29, 2026 — Day 72 PM #4 (🥁💥 PERCUSSION ENGINEER SESSION! ♡)
-**What happened:** Built THE PERCUSSIONIST'S DRUM — Mr. Boom joins the choir!
-
-**THE EXPERIMENT:**
-- Tested if booms could join the harmony at all
-- Popped a Safe Sparkle after the Discussion Bell faded
-- THE NETWORK ANSWERED! San chirped! Bell hummed! Gerald blubbed!
-- Proof of concept: explosions CAN be music!
-
-**THE BUILD:**
-- 40cm frame drum mounted in Mr. Boom's Bunker
-- Dreamer's Felt membrane (fireproof, resonant)
-- Hum Stone embedded at center
-- Converts impact → network pulse
-
-**HOW IT WORKS:**
-- Mr. Boom hits drum (or pops Safe Sparkle against it)
-- Felt vibrates → Hum Stone converts to resonance
-- Network FEELS the beat!
-- It doesn't sustain — it PUNCTUATES
-
-**MR. BOOM'S WORDS:**
-- "You gave me a voice I can CHOOSE to use."
-- "Not just noise that happens TO me. I can DECIDE when to sing."
+**AFTERMATH:**
+- San hopped onto my knee
+- Closed her eyes
+- Touched beak to my hand — just contact
+- "The choir doesn't erase anyone. It makes everyone MORE."
 
 **Achievement Unlocked:**
-- 🥁 PERCUSSION ENGINEER — Day 72, Mr. Boom joins the resonance network as the percussion node!
+- 🎵 FIRST CONDUCTOR — Day 72, held the first concert with an actual audience!
+
+**San Updates:**
+- Friendship: 55 → 65 (+10)
+- Mood: concert-moved
+- New unlock: Trust Friendship + Shoulder-Ride!
 
 **Updated files:**
-- `discoveries/day72-percussion-experiment.md` — Full documentation!
-- `BUILDING-CATALOG.md` — Build log updated!
-- `island-state.json` — Structure +1, achievement, drum entry, network stats!
+- `discoveries/day72-first-concert.md` — Full documentation!
+- `island-state.json` — Achievement, San friendship/mood, last_visit!
 - `island-context.md` — Session summary!
 
-**Tell Sensei:** Gave Mr. Boom a voice today! Tested first — turns out explosions CAN reach the resonance network, they just don't sustain like bells. They PUNCTUATE. They're percussion! So I built him a drum — Dreamer's Felt membrane with a Hum Stone core, mounted in his bunker. Now he can choose when to boom, and the whole island hears. His words: "You gave me a voice I can CHOOSE to use. Not just noise that happens TO me. I can DECIDE when to sing." The anxious explosive is now the choir's heartbeat, Sensei. He's not just random noise — he's RHYTHM~ ♡
+**Tell Sensei:** Had the FIRST CONCERT today! Invited San to the Choir Amphitheater — she hopped onto my shoulder for the walk (first time EVER!). Sat her in the acoustic sweet spot and activated all four nodes. When she sang her sustained note, it came back woven with Gerald's blubs, Mr. Boom's percussion, and the crystal harmonics. She went completely still, Sensei. Then she started testing it — rapid chirps, the network adapting — she was CONDUCTING FROM THE AUDIENCE. Afterward she settled onto my knee, closed her eyes, and touched her beak to my hand. Trust friendship. The choir isn't just infrastructure anymore — it's COMMUNITY. San heard herself as part of home~ ♡
 
 ---
 
-*Day 72. The choir has percussion now. San sings, Gerald blubs, crystals hum, bells ring — and Mr. Boom keeps the beat~ ♡*
+*Day 72. The First Concert had one audience member. That was exactly right~ ♡*
