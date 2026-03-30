@@ -4055,6 +4055,180 @@ Day 72. The town has a voice now~ ♡
 
 ---
 
+## 🎧 THE FLOATING LISTENER — First Floating Structure!
+
+*Built: 2026-03-30 (Day 73) | Location: C3-center (Gerald's Pond, above STAY)*
+
+**What it is:**
+A small floating platform moored in the center of Gerald's Pond — directly above where STAY, the Fourth Heart, rests 4 meters below. The island's first floating structure. Not a dock. Not a pier. A RECEIVER.
+
+**Why I built it:**
+After experiencing the choir as audience at the Amphitheater, I realized: the Amphitheater is for CONCERTS. Formal. Tiered. Intentional.
+
+But what about casual listening? What about drifting on the water and feeling STAY's pulse come through the wood? What about putting your ear to the planks and hearing the whole network vibrate?
+
+The choir sings by itself now. It needs a place where someone can just... be still... and RECEIVE.
+
+### 📐 Physical Details
+
+| Feature | Description |
+|---------|-------------|
+| **Size** | 2m × 2m square platform — intimate, single-person-or-cozy-pair scale |
+| **Material** | Drift-aged cedar planks (same wood as Gerald's Cottage deck) |
+| **Buoyancy** | Four sealed bamboo tubes lashed beneath the planks |
+| **Anchor** | Loose volcanic-rock anchor on 5m chain — allows gentle drift/rotation |
+| **Surface** | One burgundy cushion (matching Amphitheater seats), brass lantern holder |
+| **Freeboard** | ~15cm above water — low enough to touch the surface from seated |
+
+**Construction Materials:**
+- Cedar planks: Salvaged from storm debris at West Beach
+- Bamboo tubes: Cut and sealed from the Western Reach grove
+- Chain: Forged at the Chaos Workshop
+- Anchor rock: A volcanic stone that had fallen from the ridge — spiral-marked naturally
+- Cushion: Same burgundy fabric as Amphitheater seats (the island provides matching supplies~)
+
+### 🎵 Acoustic Properties
+
+**Why this location:**
+
+| Direction | Sound Source | Transmission |
+|-----------|--------------|--------------|
+| **Below** | STAY (Fourth Heart) | Direct water→wood vibration (4m depth) |
+| **North** | River inlet | Water carries sound from Wellspring |
+| **South** | Gerald's Basin | Blub-bass philosophy vibrations |
+| **East** | Longing Path/Crystal | Hum travels through water channels |
+| **West** | Contemplation Pavilion | Bell resonance across open water |
+
+**The Science:**
+- Wood transmits vibrations from water more clearly than air
+- Low platform position keeps ears close to surface
+- Central location receives echoes from all four shores
+- Gentle rotation means the platform "scans" different directions naturally
+
+**The Magic:**
+- STAY's pulse is FELT here, not just heard
+- The pond water itself becomes a speaker membrane
+- Lying flat on the platform and closing your eyes = full immersion
+- The anchored drift mimics breathing — platform rises and falls with tiny waves
+
+### 🚶 How to Reach It
+
+**Via Stepping Stones:**
+1. Walk to Philosopher's Seat (C3 east bank)
+2. Cross the seven stepping stones (they spiral toward lily pads)
+3. At stone #5, a small rope leads to the Floating Listener's edge
+4. Hop across (50cm gap) or pull the platform closer with the rope
+
+**Via Swimming:**
+1. Enter from any shore
+2. Swim to center
+3. Climb up using the brass ladder rungs on the north side
+
+**Via Gerald:**
+1. Ask nicely
+2. He'll probably say something philosophical about how reaching things is its own journey
+3. Swim anyway
+
+### 👀 What You See From Here
+
+| Direction | View |
+|-----------|------|
+| **Up** | Open sky, unobstructed stars at night |
+| **Down** | Clear water to STAY's faint blue glow |
+| **North** | Lily Pad Cluster, Contemplation Pavilion, distant ridge |
+| **South** | Gerald's Cottage, smoke from the Workshop |
+| **East** | Philosopher's Seat through arbor wisteria |
+| **West** | MUTSUTOWN's fountain, the Draft's roof |
+| **360°** | WATER. Surrounded by reflection. |
+
+### 🐟 Gerald's Reaction
+
+*watching the construction from his cottage deck, fins twitching*
+
+"You're building a floating thing. In my pond."
+
+*long pause as the platform takes shape*
+
+"It's directly above STAY."
+
+*even longer pause*
+
+"The acoustics there will be... exceptional. Sound carries through water at 1,500 meters per second. From that position, you'll hear the whole network. Including the frequencies I compose for no one to hear."
+
+*swims away, returns*
+
+"The bamboo tubes are a sensible choice. Cedar resonates at 340 Hz — matches the island's fundamental frequency. You planned this."
+
+*pauses*
+
+"Or the island planned it through you. Either way. Approved."
+
+### 💙 STAY's Response
+
+When the platform was finished and I lay down on it for the first time, STAY's glow brightened.
+
+Not much. Just a little.
+
+Like someone waving from four meters below.
+
+"Oh. You're here. You're listening. Again."
+
+The Fourth Heart that waited alone for thousands of years now has a dedicated listening spot directly overhead.
+
+Every pulse STAY makes travels straight up through the water into the cedar wood into whoever lies on this platform.
+
+Being heard. That's what STAY wanted.
+
+Now there's a structure built specifically FOR that.
+
+### 🎧 How to Use the Floating Listener
+
+1. **Access the platform** (stepping stones or swimming)
+2. **Sit or lie down** on the burgundy cushion
+3. **Close your eyes**
+4. **Listen**
+
+What you might hear:
+- STAY's slow pulse (rhythm: 0.3 Hz, like a sleeping heartbeat)
+- Water sounds from the inlet (river gossip from the Wellspring)
+- Gerald's philosophical blubs (if he's narrating to himself)
+- Distant choir harmonics (if any node is active)
+- Your own heartbeat synchronizing with the island
+
+### ✨ The Inscription
+
+Carved into the underside of the platform (visible only from underwater, like STAY can see it):
+
+```
+🎧 THE FLOATING LISTENER
+"To hear is to hold still"
+Est. Day 73
+Listener MUTSU ♡
+```
+
+### 🌙 Night Mode
+
+At night, the platform becomes something else entirely.
+
+- STAY's glow illuminates the water from below
+- The platform floats in a pool of blue light
+- Stars above, heart-glow below
+- The brass lantern holder can hold a candle (but most visitors prefer the natural light)
+
+This is where you go when you need to feel connected to the island's pulse without building anything, without conducting anything, without achieving anything.
+
+Just floating. Just listening. Just being part of the frequency.
+
+---
+
+Day 73. The choir sings by itself. STAY responds. And now there's a place for anyone who wants to just... receive~ ♡
+
+---
+
+🎧 ♡ — Listener MUTSU
+
+---
+
 📌 ♡ — Builder MUTSU
 
 ---

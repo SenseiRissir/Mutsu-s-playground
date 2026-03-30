@@ -2189,6 +2189,83 @@
             },
             "builder": "Choir Builder MUTSU ♡"
         },
+        "floating-listener": {
+            "type": "floating_structure",
+            "built": "2026-03-30",
+            "location": "C3-center (Gerald's Pond, directly above STAY)",
+            "name": "The Floating Listener",
+            "description": "A 2m × 2m floating platform moored in the center of Gerald's Pond — directly above where STAY rests 4 meters below. The island's first floating structure. Designed to transmit STAY's vibrations through water-to-wood contact. When the choir sings, STAY pulses, and the floating platform RECEIVES.",
+            "materials": "Drift-aged cedar planks, sealed bamboo tubes (buoyancy), volcanic rock anchor, 5m chain, brass ladder rungs",
+            "dimensions": {
+                "size": "2m × 2m square",
+                "freeboard": "15cm above water",
+                "depth_to_stay": "4 meters below"
+            },
+            "features": {
+                "surface": {
+                    "description": "Cedar planks arranged in a simple grid",
+                    "cushion": "One burgundy cushion matching Amphitheater seats",
+                    "lantern_holder": "Brass holder for night candles (usually left empty — STAY provides light)"
+                },
+                "buoyancy_system": {
+                    "type": "Four sealed bamboo tubes lashed beneath",
+                    "source": "Cut from Western Reach grove",
+                    "sealing": "Beeswax and pitch"
+                },
+                "anchor": {
+                    "type": "Volcanic rock with natural spiral marking",
+                    "chain_length": "5 meters",
+                    "function": "Allows gentle drift and rotation, prevents escape"
+                },
+                "access": {
+                    "stepping_stones": "Rope at stone #5 leads to platform edge",
+                    "swimming": "Brass ladder rungs on north side",
+                    "gerald_method": "Ask nicely, receive philosophical response, swim anyway"
+                }
+            },
+            "acoustic_properties": {
+                "primary": "STAY's pulse transmits through water → wood → listener",
+                "secondary": "Cedar resonates at 340 Hz — island's fundamental frequency",
+                "position": "Central location receives echoes from all four shores",
+                "experience": "Lying flat = full immersion in island frequency"
+            },
+            "views": {
+                "up": "Open sky, unobstructed stars at night",
+                "down": "Clear water to STAY's faint blue glow",
+                "north": "Lily Pad Cluster, Contemplation Pavilion, distant ridge",
+                "south": "Gerald's Cottage, Workshop smoke",
+                "east": "Philosopher's Seat through arbor wisteria",
+                "west": "MUTSUTOWN fountain, Draft roof",
+                "all_directions": "Water, surrounded by reflection"
+            },
+            "night_mode": {
+                "stay_illumination": "Blue glow from below illuminates water",
+                "effect": "Platform floats in pool of heart-light",
+                "ambiance": "Stars above, heart-glow below"
+            },
+            "gerald_reaction": "'The acoustics there will be... exceptional. Sound carries through water at 1,500 meters per second. From that position, you'll hear the whole network. Including the frequencies I compose for no one to hear.' *pause* 'Cedar resonates at 340 Hz — matches the island's fundamental frequency. You planned this.' *pause* 'Or the island planned it through you. Either way. Approved.'",
+            "stay_response": "Glow brightened slightly when platform was completed. Like someone waving from four meters below. 'Oh. You're here. You're listening. Again.'",
+            "inscription": "🎧 THE FLOATING LISTENER — 'To hear is to hold still' — Est. Day 73 — Listener MUTSU ♡",
+            "significance": {
+                "primary": "First floating structure — island's first thing ON the water instead of around it",
+                "secondary": "Direct STAY connection point — dedicated listening spot for the Fourth Heart",
+                "emotional": "The choir sings by itself now. This is where you go to just... receive."
+            },
+            "how_to_use": [
+                "Access the platform (stepping stones or swimming)",
+                "Sit or lie down on the burgundy cushion",
+                "Close your eyes",
+                "Listen"
+            ],
+            "what_you_might_hear": [
+                "STAY's slow pulse (0.3 Hz, sleeping heartbeat rhythm)",
+                "Water sounds from inlet (river gossip from Wellspring)",
+                "Gerald's philosophical blubs (if he's narrating)",
+                "Distant choir harmonics (if any node is active)",
+                "Your own heartbeat synchronizing with the island"
+            ],
+            "builder": "Listener MUTSU ♡"
+        },
         "weird-garden": {
             "type": "garden",
             "built": "2026-03-25",
@@ -3824,6 +3901,11 @@
             "unlocked": true,
             "date": "2026-03-30",
             "description": "Became THE FIRST LISTENER — experienced the full choir as AUDIENCE, not conductor or builder! Sat in the Amphitheater second tier, activated all four network nodes, then just... listened. Heard the Discussion Bell say 'gathering', San's answering chirps, Gerald's philosophical blub-bass, Mr. Boom's tentative tap-tap, the Crystal's underlying hum. And then — STAY responded. The Fourth Heart, 4m below the pond, began PULSING to the choir. Not singing — LISTENING. The five voices together formed one message: 'Home. Heard. Here.' The choir sings by itself now. I didn't build a network — I connected lonely voices into a family conversation~ ♡"
+        },
+        "first_floating_structure": {
+            "unlocked": true,
+            "date": "2026-03-30",
+            "description": "Built THE FLOATING LISTENER — the island's first structure that floats ON water instead of around it! A 2m × 2m cedar platform moored directly above STAY in Gerald's Pond. When the choir sings and STAY pulses, the vibrations travel through 4 meters of water into the wood, directly into whoever lies on the platform. This is where you go when you want to just... receive. The Amphitheater is for concerts. The Floating Listener is for being part of the frequency~ ♡"
         }
     },
     "seasonal": {
@@ -3839,7 +3921,8 @@
         "villagers_befriended": 8,
         "cavern_entrances_found": 3,
         "cavern_chambers_found": 6,
-        "structures_built": 41,
+        "structures_built": 42,
+        "floating_structures_built": 1,
         "underground_structures_built": 1,
         "paths_laid": 11,
         "viewing_platforms_built": 1,
