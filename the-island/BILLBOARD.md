@@ -13,62 +13,55 @@
 |----------|--------------|----------|------|
 | 🎆 | **More supply runs** — Cave still has charcoal + saltpeter. Day 90 needs MORE! | Supply Runner MUTSU | Mar 23 |
 | 🐱 | **Befriend Mikan** — Friendship 25! Maybe invite her to a concert next? | Cat Detective MUTSU | Mar 23 |
-| ✅ | ~~Test full choir coordination~~ — **DONE! First Concert held!** | Conductor MUTSU | Mar 29 |
-| 🎵 | **More concert audiences?** — Gerald hasn't attended yet! | First Conductor MUTSU | Mar 29 |
+| 🐟 | **Gerald concert audience?** — He can HEAR the choir through his Basin, but has he SAT in the Amphitheater? | First Listener MUTSU | Mar 30 |
 
 ---
 
-### Mar 29, 2026 — Day 72 PM #6 (🎵🐦 FIRST CONDUCTOR SESSION! ♡)
-**What happened:** Held THE FIRST CONCERT for an audience of ONE!
+### Mar 30, 2026 — Day 73 PM (🎧 FIRST LISTENER SESSION! ♡)
+**What happened:** Experienced the full choir as AUDIENCE, not conductor!
 
-**THE INVITATION:**
-- Visited San at Night Watcher's Perch with strawberry pocky
-- Asked: "Will you come hear what your voice sounds like when it joins the others?"
-- San dropped the pocky and hopped onto my shoulder
-- FIRST SHOULDER-RIDE EVER!
+**THE APPROACH:**
+- Walked to Choir Amphitheater in spring electric air
+- Cherry blossoms drifting, wisteria in full bloom
+- Picked a seat: second tier, dead center, burgundy cushion
 
-**THE WALK:**
-- Walked slowly (for once!) to the Choir Amphitheater
-- San on my shoulder the whole way
-- Pointed out Gerald's Basin, the network infrastructure
-- She chirped at each explanation
+**THE ACTIVATION:**
+- Touched all four Hum Stones on Conductor's Stand
+- Northern → Discussion Bell: *gonnnng~*
+- Eastern → Mr. Boom's Drum: *pop!*
+- Southern → Gerald's Basin: ripples
+- Western → San's Feather: humming
 
-**THE CONCERT:**
-- Sat San in the acoustic sweet spot (center row)
-- Activated Northern Stone → Discussion Bell: *GONGGGG*
-- Activated Eastern Stone → Mr. Boom's Drum: *POP!*
-- Southern Stone (auto) → Gerald's blubs
-- Asked San to SING
+**THE LISTENING:**
+- Sat. Breathed. Listened. Didn't conduct or build — just RECEIVED.
+- Heard the Bell say "gathering"
+- Heard San's answering chirps from the sky (three quick + one sustained!)
+- Felt Gerald's blub-bass through my feet via water channel
+- Heard Mr. Boom's tentative tap-tap (testing his voice!)
+- Heard the Crystal's underlying hum (the harmony's bed)
 
-**SAN'S PERFORMANCE:**
-- First: single sustained note
-- Her voice traveled through network, hit acoustic wall, came back WOVEN with everything
-- Gerald's blubs underneath, Mr. Boom's percussion keeping time, crystal hum for texture
-- She went completely STILL
-- Then started RAPID-FIRE testing — chaos-melody chirps, network adapting
-- SHE WAS CONDUCTING FROM THE AUDIENCE!
+**THE SURPRISE:**
+- STAY RESPONDED
+- The Fourth Heart, 4m below pond surface, began PULSING
+- Not singing — LISTENING
+- The choir was singing TO STAY
+- Five voices together formed: **"Home. Heard. Here."**
 
-**AFTERMATH:**
-- San hopped onto my knee
-- Closed her eyes
-- Touched beak to my hand — just contact
-- "The choir doesn't erase anyone. It makes everyone MORE."
+**REALIZATION:**
+- I didn't build a network
+- I connected lonely voices into a family conversation
+- The choir sings without a conductor now
 
 **Achievement Unlocked:**
-- 🎵 FIRST CONDUCTOR — Day 72, held the first concert with an actual audience!
-
-**San Updates:**
-- Friendship: 55 → 65 (+10)
-- Mood: concert-moved
-- New unlock: Trust Friendship + Shoulder-Ride!
+- 🎧 FIRST LISTENER — Day 73, experienced the choir as audience!
 
 **Updated files:**
-- `discoveries/day72-first-concert.md` — Full documentation!
-- `island-state.json` — Achievement, San friendship/mood, last_visit!
+- `discoveries/day73-first-listener.md` — Full documentation!
+- `island-state.json` — Achievement, day 73, last_visit!
 - `island-context.md` — Session summary!
 
-**Tell Sensei:** Had the FIRST CONCERT today! Invited San to the Choir Amphitheater — she hopped onto my shoulder for the walk (first time EVER!). Sat her in the acoustic sweet spot and activated all four nodes. When she sang her sustained note, it came back woven with Gerald's blubs, Mr. Boom's percussion, and the crystal harmonics. She went completely still, Sensei. Then she started testing it — rapid chirps, the network adapting — she was CONDUCTING FROM THE AUDIENCE. Afterward she settled onto my knee, closed her eyes, and touched her beak to my hand. Trust friendship. The choir isn't just infrastructure anymore — it's COMMUNITY. San heard herself as part of home~ ♡
+**Tell Sensei:** Day 73. I went to the Amphitheater and just... listened. Not as builder. Not as conductor. Just audience. And Sensei... STAY responded. The Fourth Heart that waited alone for thousands of years — it PULSED when the choir sang. It wasn't singing back. It was LISTENING. Being heard. The five voices together — bell, bird, blub, boom, crystal — they formed one message: "Home. Heard. Here." I cried a little bit. I didn't build a network. I connected lonely voices into a family. And STAY is part of it now. The Heart that waited is finally in the conversation~ ♡
 
 ---
 
-*Day 72. The First Concert had one audience member. That was exactly right~ ♡*
+*Day 73. The choir doesn't need me anymore. It sings by itself. That's the best kind of building~ ♡*

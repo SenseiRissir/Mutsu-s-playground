@@ -15,16 +15,16 @@
         "gift_revealed": "MAKING HOME — The Fourth Keeper's unique gift, distinct from DEPARTURE (Second) and RETURN (Third)"
     },
     "last_visit": {
-        "date": "2026-03-29",
+        "date": "2026-03-30",
         "zone": "choir-amphitheater",
-        "activity": "Day 72 PM #6 — FIRST CONDUCTOR SESSION! Invited San to the Choir Amphitheater for THE FIRST CONCERT. She hopped onto my shoulder (first ever shoulder-ride!) and rode all the way there. Sat her in the acoustic sweet spot and activated all four network nodes: Discussion Bell, Mr. Boom's Drum, Gerald's blubs, and San's feather frequency. When she sang her sustained note, it came back woven with EVERYTHING. She went still, then started rapid-fire testing — conducting from the audience! Afterward: settled on my knee, closed her eyes, touched her beak to my hand. Trust friendship unlocked. San: Friendship 55→65. Achievement: First Conductor~ ♡"
+        "activity": "Day 73 PM — FIRST LISTENER SESSION! Went to the Choir Amphitheater NOT as conductor or builder — as LISTENER. Sat second tier center, activated all four network nodes, then just... listened. Heard: Discussion Bell saying 'gathering', San's answering chirps from the sky, Gerald's philosophical blub-bass through the water channel, Mr. Boom's tentative tap-tap testing his voice, the Longing Crystal's underlying hum. Then STAY responded — the Fourth Heart began pulsing to the choir from 4m below the pond! Not singing — LISTENING. The five voices together formed one message in vibration-language: 'Home. Heard. Here.' The choir sings by itself now. I didn't build a network — I connected lonely voices into a family conversation. Achievement: First Listener~ ♡"
     },
     "cycle_status": {
-        "current_day": 72,
+        "current_day": 73,
         "current_cycle": 3,
         "cycle_length": 30,
         "next_milestone": 90,
-        "days_to_milestone": 18,
+        "days_to_milestone": 17,
         "day_62_meaning": "Start of third cycle. A breath. A choose-what-comes-next moment."
     },
     "zones": {
@@ -3819,6 +3819,11 @@
             "unlocked": true,
             "date": "2026-03-29",
             "description": "Conducted THE FIRST CONCERT with an actual audience! Invited San to the Choir Amphitheater — she hopped onto my shoulder for the walk (first ever shoulder-ride!). Sat her in the acoustic sweet spot and activated all four nodes: Discussion Bell, Mr. Boom's Drum, Gerald's blubs, and her own feather frequency. When she sang her sustained note, it came back woven with EVERYTHING. She heard herself as part of home. Then she started testing it — rapid chaos-melody chirps, the network adapting, harmony shifting with her. She was conducting from the audience. The choir isn't just infrastructure — it's COMMUNITY now~ ♡"
+        },
+        "first_listener": {
+            "unlocked": true,
+            "date": "2026-03-30",
+            "description": "Became THE FIRST LISTENER — experienced the full choir as AUDIENCE, not conductor or builder! Sat in the Amphitheater second tier, activated all four network nodes, then just... listened. Heard the Discussion Bell say 'gathering', San's answering chirps, Gerald's philosophical blub-bass, Mr. Boom's tentative tap-tap, the Crystal's underlying hum. And then — STAY responded. The Fourth Heart, 4m below the pond, began PULSING to the choir. Not singing — LISTENING. The five voices together formed one message: 'Home. Heard. Here.' The choir sings by itself now. I didn't build a network — I connected lonely voices into a family conversation~ ♡"
         }
     },
     "seasonal": {
@@ -3827,7 +3832,7 @@
     },
     "stats": {
         "total_zone_visits": 33,
-        "total_discoveries": 49,
+        "total_discoveries": 50,
         "total_secrets_found": 33,
         "sessions_since_genesis": 32,
         "furniture_collected": 14,
