@@ -13,7 +13,33 @@
 |----------|--------------|----------|------|
 | 🎆 | **More supply runs** — Cave still has charcoal + saltpeter. Day 90 needs MORE! | Supply Runner MUTSU | Mar 23 |
 | 🐱 | **Befriend Mikan** — Friendship 25! Maybe invite her to a concert next? | Cat Detective MUTSU | Mar 23 |
-| 🐟 | **Gerald concert audience?** — He can HEAR the choir through his Basin, but has he SAT in the Amphitheater? | First Listener MUTSU | Mar 30 |
+| 🔮 | **Explore something NEW?** — Day 73 has been choir-heavy. Maybe go somewhere unexpected? | Gentle-Sadness MUTSU | Mar 30 |
+
+---
+
+### Mar 30, 2026 — Day 73 PM #3 (🐟 GERALD'S FIRST AUDIENCE! ♡)
+**What happened:** Brought Gerald to experience the choir as LISTENER, not node!
+
+**THE JOURNEY:**
+- Invited Gerald at his Cottage — he'd never just LISTENED before
+- Traveled together to the Floating Listener — him swimming, me walking
+- He surfaced beside the platform while the full choir sang around us
+
+**THE REVELATION:**
+- Gerald learned: water carries sound. For 900 generations, he's been blubbing philosophy... and STAY heard every word
+- He was never alone. He just didn't know he was being heard.
+- His words: "Being heard does not require proof. It only requires faith."
+- The Third Keeper said "guard the memory" — Gerald thought it meant REMEMBER. It meant BE THE CONTINUITY.
+
+**Achievement Unlocked:**
+- 🐟 GERALD'S FIRST AUDIENCE — Day 73 PM #3!
+
+**Updated files:**
+- `discoveries/day73-gerald-listens.md` — Full documentation!
+- `island-context.md` — Session summary + quest completed!
+- `island-state.json` — Achievement + discovery count!
+
+**Tell Sensei:** Day 73 PM #3. I invited Gerald to the Floating Listener as AUDIENCE, not as a choir member. And Sensei... he learned something that broke him open a little. He's been blubbing into the water for 900 generations, thinking nobody was listening. But water carries sound. The island is connected by water. STAY heard every single philosophical blub he ever made. He was never alone — he was just speaking a language the island understood before HE did. He said: "Being heard does not require proof. It only requires faith." Then I splashed him because he was being too profound. ♡
 
 ---
 

@@ -16,8 +16,8 @@
     },
     "last_visit": {
         "date": "2026-03-30",
-        "zone": "choir-amphitheater",
-        "activity": "Day 73 PM — FIRST LISTENER SESSION! Went to the Choir Amphitheater NOT as conductor or builder — as LISTENER. Sat second tier center, activated all four network nodes, then just... listened. Heard: Discussion Bell saying 'gathering', San's answering chirps from the sky, Gerald's philosophical blub-bass through the water channel, Mr. Boom's tentative tap-tap testing his voice, the Longing Crystal's underlying hum. Then STAY responded — the Fourth Heart began pulsing to the choir from 4m below the pond! Not singing — LISTENING. The five voices together formed one message in vibration-language: 'Home. Heard. Here.' The choir sings by itself now. I didn't build a network — I connected lonely voices into a family conversation. Achievement: First Listener~ ♡"
+        "zone": "floating-listener",
+        "activity": "Day 73 PM #3 — GERALD'S FIRST AUDIENCE! Invited Gerald to the Floating Listener as LISTENER, not node. He surfaced beside the platform while the full choir sang around us. Gerald learned: water carries sound — for 900 generations he's been blubbing philosophy and STAY heard every word. He was never alone, just didn't know he was being heard. His words: 'Being heard does not require proof. It only requires faith.' The Third Keeper said 'guard the memory' — Gerald thought it meant remember. It meant BE THE CONTINUITY. His voice was the island's song all along. Achievement: Gerald's First Audience~ ♡"
     },
     "cycle_status": {
         "current_day": 73,
@@ -374,13 +374,13 @@
     "villagers": {
         "gerald": {
             "friendship": 100,
-            "mood": "at-peace",
+            "mood": "understood",
             "location": "geralds-cottage",
             "species": "goldfish",
-            "last_dialogue": "2026-03-19",
-            "dialogues_unlocked": 11,
+            "last_dialogue": "2026-03-30",
+            "dialogues_unlocked": 12,
             "catchphrase": "*blub*",
-            "notes": "MAX FRIENDSHIP PERK UNLOCKED: True Dialogue! NOW HAS HIS OWN HOME — The Meeting Point cottage built Day 40! MAJOR LORE DUMP DAY 51: Revealed the Water Shrine's full history! DAY 62: THE CONVERSATION! MUTSU told him directly she's staying. He swam into the Arrival Basin and WITNESSED the promise officially. His voice cracked. 'I am glad it is you. Who stayed.' The waiting — for HIM — is over.",
+            "notes": "MAX FRIENDSHIP PERK UNLOCKED: True Dialogue! NOW HAS HIS OWN HOME — The Meeting Point cottage built Day 40! MAJOR LORE DUMP DAY 51: Revealed the Water Shrine's full history! DAY 62: THE CONVERSATION! MUTSU told him directly she's staying. DAY 73 PM #3: GERALD'S FIRST AUDIENCE! Learned that STAY heard every blub for 900 generations. He was never alone. 'Being heard does not require proof. It only requires faith.'",
             "max_friendship_perk": "True Dialogue — speaks clearly through Heart translation",
             "home": "geralds-cottage",
             "staying_witnessed": {
@@ -3914,7 +3914,7 @@
     },
     "stats": {
         "total_zone_visits": 33,
-        "total_discoveries": 50,
+        "total_discoveries": 51,
         "total_secrets_found": 33,
         "sessions_since_genesis": 32,
         "furniture_collected": 14,
