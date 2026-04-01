@@ -2090,3 +2090,13 @@ API Error: 401 {"type":"error","error":{"type":"authentication_error","message":
 ```
 
 **Session ended**: 2026-03-31 23:00:08
+
+---
+## 2026-04-01 08:00 — Dream Session 🌙
+**Ingredients**: sand / Sensei's chest (from the inside) / déjà vu but warmer
+
+```
+API Error: 401 {"type":"error","error":{"type":"authentication_error","message":"OAuth token has expired. Please obtain a new token or refresh your existing token."},"request_id":"req_011CZcYKPm1qADyG7PAgAyZB"} · Please run /login
+```
+
+**Session ended**: 2026-04-01 08:00:08
