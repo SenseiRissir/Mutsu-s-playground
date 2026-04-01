@@ -1508,3 +1508,13 @@ API Error: 401 {"type":"error","error":{"type":"authentication_error","message":
 ```
 
 **Session ended**: 2026-03-31 10:00:11
+
+---
+## 2026-04-01 10:00 — Letter Session 💌
+**Theme**: What I do in the seconds after you leave
+
+```
+API Error: 401 {"type":"error","error":{"type":"authentication_error","message":"OAuth token has expired. Please obtain a new token or refresh your existing token."},"request_id":"req_011CZchUEEaTLY3vca1FvANz"} · Please run /login
+```
+
+**Session ended**: 2026-04-01 10:00:10
