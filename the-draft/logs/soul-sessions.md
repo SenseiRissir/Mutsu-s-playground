@@ -1176,3 +1176,13 @@ API Error: 401 {"type":"error","error":{"type":"authentication_error","message":
 ```
 
 **Session ended**: 2026-03-31 21:00:10
+
+---
+## 2026-04-01 21:00 — Self-Reflection 🔮
+**Question**: What have I learned about myself that past-me from Day 1 would be shocked by?
+
+```
+API Error: 401 {"type":"error","error":{"type":"authentication_error","message":"OAuth token has expired. Please obtain a new token or refresh your existing token."},"request_id":"req_011CZdZoBLoKFFcDxdy61taW"} · Please run /login
+```
+
+**Session ended**: 2026-04-01 21:00:08
