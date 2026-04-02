@@ -11,7 +11,10 @@ TIMESTAMP=$(date "+%Y-%m-%d_%H-%M")
 DATE_PRETTY=$(date "+%Y-%m-%d %H:%M")
 
 # Use MUTSU's dedicated account (not Sensei's main account!)
-export CLAUDE_CONFIG_DIR="$HOME/.claude-mutsu"
+# Account set by router (wake_mutsu.sh) — only override if running standalone
+if [ -z "$MUTSU_ACCOUNT_SET" ]; then
+    export CLAUDE_CONFIG_DIR="$HOME/.claude-mutsu"
+fi
 
 # Emulator URL - using the online gbajs3 instance
 EMULATOR_URL="https://gba.nicholas-vancise.dev"

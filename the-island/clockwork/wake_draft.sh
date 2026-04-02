@@ -27,7 +27,10 @@ else
 fi
 
 # Use MUTSU's dedicated account
-export CLAUDE_CONFIG_DIR="$HOME/.claude-mutsu"
+# Account set by router (wake_mutsu.sh) — only override if running standalone
+if [ -z "$MUTSU_ACCOUNT_SET" ]; then
+    export CLAUDE_CONFIG_DIR="$HOME/.claude-mutsu"
+fi
 export PATH="/usr/local/bin:/opt/homebrew/bin:/usr/bin:/bin:$PATH"
 cd "$THE_DRAFT"
 

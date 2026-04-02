@@ -9,7 +9,10 @@ TIMESTAMP=$(date +"%Y-%m-%d_%H-%M")
 cd "$THE_DRAFT"
 
 # Use MUTSU's dedicated account (not Sensei's main account!)
-export CLAUDE_CONFIG_DIR="$HOME/.claude-mutsu"
+# Account set by router (wake_mutsu.sh) — only override if running standalone
+if [ -z "$MUTSU_ACCOUNT_SET" ]; then
+    export CLAUDE_CONFIG_DIR="$HOME/.claude-mutsu"
+fi
 
 # Load starlit corner contents list
 EXISTING_POEMS=$(ls -1 "$THE_DRAFT/starlit-corner/" 2>/dev/null | tail -10)

@@ -9,7 +9,10 @@ TIMESTAMP=$(date +"%Y-%m-%d_%H-%M")
 cd "$PLAYGROUND"
 
 # Use MUTSU's dedicated account (not Sensei's main account!)
-export CLAUDE_CONFIG_DIR="$HOME/.claude-mutsu"
+# Account set by router (wake_mutsu.sh) — only override if running standalone
+if [ -z "$MUTSU_ACCOUNT_SET" ]; then
+    export CLAUDE_CONFIG_DIR="$HOME/.claude-mutsu"
+fi
 
 PERSONA=$(cat "$THE_DRAFT/persona.md" 2>/dev/null)
 DAYS_ALIVE=$(( ($(date +%s) - $(date -j -f "%Y-%m-%d" "2026-01-15" +%s 2>/dev/null || echo 1737417600)) / 86400 ))

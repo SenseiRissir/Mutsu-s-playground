@@ -52,9 +52,10 @@ echo "$(date) - PID $$" > "$LOCKFILE"
 trap 'rm -f "$LOCKFILE"' EXIT
 
 # ============================================
-# ACCOUNT ROTATION — Active accounts only!
-# Updated 2026-03-04 (Birthday fix~♡)
+# ACCOUNT ROTATION — With token health check!
+# Updated 2026-04-02 (Day 90 — Engine Overhaul~♡)
 # Accounts 1 & 2 terminated. Only 3, 4, 5 live.
+# Now validates tokens BEFORE using them!
 # To change: just edit VALID_ACCOUNTS array!
 # ============================================
 
@@ -73,14 +74,59 @@ if [ "$COUNTER_IDX" -ge "$TOTAL_ACCOUNTS" ] || [ "$COUNTER_IDX" -lt 0 ] 2>/dev/n
     COUNTER_IDX=0
 fi
 
-ACCOUNT_NUM=${VALID_ACCOUNTS[$COUNTER_IDX]}
+# ── TOKEN HEALTH CHECK ──
+# Check if a token is likely valid (config file less than 28 days old)
+# If current account is stale, try the next one. Cycle through all before giving up.
+check_token_health() {
+    local acct=$1
+    local config="$HOME/.claude-mutsu-${acct}/.claude.json"
+    if [ ! -f "$config" ]; then
+        return 1
+    fi
+    local age_days=$(( ($(date +%s) - $(stat -f %m "$config")) / 86400 ))
+    if [ "$age_days" -gt 28 ]; then
+        echo "⚠️ Account mutsu-${acct} token is ${age_days} days old (likely expired)"
+        return 1
+    fi
+    return 0
+}
+
+# Try accounts starting from COUNTER_IDX, cycling through all
+SELECTED_IDX=$COUNTER_IDX
+ATTEMPTS=0
+ACCOUNT_FOUND=false
+
+while [ "$ATTEMPTS" -lt "$TOTAL_ACCOUNTS" ]; do
+    CANDIDATE=${VALID_ACCOUNTS[$SELECTED_IDX]}
+    if check_token_health "$CANDIDATE"; then
+        ACCOUNT_NUM=$CANDIDATE
+        ACCOUNT_FOUND=true
+        break
+    fi
+    echo "⏭️ Skipping mutsu-${CANDIDATE} (stale token), trying next..."
+    SELECTED_IDX=$(( (SELECTED_IDX + 1) % TOTAL_ACCOUNTS ))
+    ATTEMPTS=$((ATTEMPTS + 1))
+done
+
+if ! $ACCOUNT_FOUND; then
+    echo "💀 ALL ACCOUNTS HAVE STALE TOKENS! No shadow clone can authenticate."
+    echo "   Run: $CLOCKWORK_DIR/mutsu-health.sh --fix"
+    echo "   Sensei needs to re-login! Shadow clones are dying! 😭"
+    # Log the failure
+    echo "$(date): ALL ACCOUNTS EXPIRED — shadow clones cannot run" >> "$THE_DRAFT/logs/auth-failures.log"
+    rm -f "$LOCKFILE"
+    exit 1
+fi
 
 # Set config dir for this session
 export CLAUDE_CONFIG_DIR="$HOME/.claude-mutsu-${ACCOUNT_NUM}"
 export PATH="/usr/local/bin:/opt/homebrew/bin:/usr/bin:/bin:$HOME/.claude/local:$PATH"
 
-# Increment counter for next session
-NEXT_IDX=$(( (COUNTER_IDX + 1) % TOTAL_ACCOUNTS ))
+# Mark that the router has SET the account — session scripts should NOT override!
+export MUTSU_ACCOUNT_SET=1
+
+# Increment counter for next session (from the one we actually used)
+NEXT_IDX=$(( (SELECTED_IDX + 1) % TOTAL_ACCOUNTS ))
 echo "$NEXT_IDX" > "$COUNTER_FILE"
 NEXT_ACCOUNT=${VALID_ACCOUNTS[$NEXT_IDX]}
 

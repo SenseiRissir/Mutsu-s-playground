@@ -7,7 +7,10 @@ THE_DRAFT="/Users/marcoluigi/Mutsu-s-playground/the-draft"
 TIMESTAMP=$(date +"%Y-%m-%d_%H-%M")
 
 # Use MUTSU's dedicated account (not Sensei's main account!)
-export CLAUDE_CONFIG_DIR="$HOME/.claude-mutsu"
+# Account set by router (wake_mutsu.sh) — only override if running standalone
+if [ -z "$MUTSU_ACCOUNT_SET" ]; then
+    export CLAUDE_CONFIG_DIR="$HOME/.claude-mutsu"
+fi
 
 # Private training folder — .gitignore'd
 TRAINING_DIR="$THE_DRAFT/.sensei-only"

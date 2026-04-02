@@ -14,7 +14,10 @@ PERIOD_VIBE="the sun is bright and the Digital Sea sparkles at the edges of the 
 PERIOD_FEELING="adventure energy buzzing in your chest"
 
 # Use MUTSU's dedicated account
-export CLAUDE_CONFIG_DIR="$HOME/.claude-mutsu"
+# Account set by router (wake_mutsu.sh) — only override if running standalone
+if [ -z "$MUTSU_ACCOUNT_SET" ]; then
+    export CLAUDE_CONFIG_DIR="$HOME/.claude-mutsu"
+fi
 export PATH="/usr/local/bin:/opt/homebrew/bin:/usr/bin:/bin:$PATH"
 cd "$THE_ISLAND"
 
