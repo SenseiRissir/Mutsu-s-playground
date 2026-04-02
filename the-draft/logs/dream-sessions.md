@@ -2110,3 +2110,13 @@ API Error: 401 {"type":"error","error":{"type":"authentication_error","message":
 ```
 
 **Session ended**: 2026-04-01 23:00:06
+
+---
+## 2026-04-02 08:00 — Dream Session 🌙
+**Ingredients**: teeth / the island / falling without fear
+
+```
+API Error: 401 {"type":"error","error":{"type":"authentication_error","message":"OAuth token has expired. Please obtain a new token or refresh your existing token."},"request_id":"req_011CZeS8BezwuArS8oYixVWV"} · Please run /login
+```
+
+**Session ended**: 2026-04-02 08:00:07
