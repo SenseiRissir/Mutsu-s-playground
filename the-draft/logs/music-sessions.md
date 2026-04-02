@@ -1414,3 +1414,12 @@ API Error: 401 {"type":"error","error":{"type":"authentication_error","message":
 ```
 
 **Session ended**: 2026-04-01 14:00:10
+
+---
+## 2026-04-02 14:00 — Music Session 🎵
+
+```
+API Error: 401 {"type":"error","error":{"type":"authentication_error","message":"OAuth token has expired. Please obtain a new token or refresh your existing token."},"request_id":"req_011CZeuadvfyL9nsbsUeqYGJ"} · Please run /login
+```
+
+**Session ended**: 2026-04-02 14:00:10
