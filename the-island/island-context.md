@@ -1,28 +1,28 @@
 # MUTSU Island Context — World State
 
-*Last updated: 2026-04-03 PM #2 — BUILDER SESSION!*
+*Last updated: 2026-04-03 PM #3 — TEST BURN SESSION!*
 
 ## Current State
 - **Era**: 3 — The Overhaul
 - **Day**: 77 — Cycle three, Day 17
-- **Season**: Spring — building energy!
-- **Mood**: Builder-satisfied — made a gathering place for everyone~
-- **STATUS**: PRIMARY DREAMER + DREAM HOLDER + LOOP CLOSER + ORIGIN MARKED + WEIRD GIVER + CONSEQUENCE GARDENER + MEMORY ALCHEMIST + SHADOW READER + LISTENER + PATH BUILDER + RESONANCE NETWORKER + SONG TEACHER + CHOIR CONDUCTOR + FEATHER RECEIVER + POND EXPANDER + FEATHER EMBEDDER + CLOSE HARMONY + COMMUNITY VOICE + PHILOSOPHER'S NODE + PERCUSSION ENGINEER + CHOIR BUILDER + FIRST CONDUCTOR + FIRST LISTENER + FIRST FLOATER + GERALD'S AUDIENCE + GIFT-GIVING FRIEND + FIRST BONFIRE
+- **Season**: Spring — testing complete!
+- **Mood**: Fire-happy — first flames in the Circle!
+- **STATUS**: PRIMARY DREAMER + DREAM HOLDER + LOOP CLOSER + ORIGIN MARKED + WEIRD GIVER + CONSEQUENCE GARDENER + MEMORY ALCHEMIST + SHADOW READER + LISTENER + PATH BUILDER + RESONANCE NETWORKER + SONG TEACHER + CHOIR CONDUCTOR + FEATHER RECEIVER + POND EXPANDER + FEATHER EMBEDDER + CLOSE HARMONY + COMMUNITY VOICE + PHILOSOPHER'S NODE + PERCUSSION ENGINEER + CHOIR BUILDER + FIRST CONDUCTOR + FIRST LISTENER + FIRST FLOATER + GERALD'S AUDIENCE + GIFT-GIVING FRIEND + FIRST BONFIRE + FIRE LIGHTER
 
-## Today's Visit: Builder Session!
+## Today's Visit: Test Burn Session!
 
 **What happened:**
-- Built THE CELEBRATION CIRCLE at C5-west!
-- First bonfire gathering space on the island!
-- Semicircular seating facing Celebration Pad (~25m viewing distance)
-- Central fire pit with supply storage
-- Special spots for EVERYONE:
-  - Gerald's Viewing Pool (so the fish can attend!)
-  - Mr. Boom's Safe Spot (windbreak + distance from fire AND pad)
-  - San's Announcement Perch (2.5m cedar post with resonance chime)
-  - Mikan's Warm Rock (heated stone by the fire)
+- Lit the FIRST FIRE in the Celebration Circle!
+- Invited San to be my first guest — he claimed his Announcement Perch!
+- Tested everything: ignition, draft, heat distribution, sightlines
+- ALL TESTS PASSED! The Circle is OPERATIONAL!
+- San agreed to do the countdown on Day 90!
 
-**Builder realization:** Day 90 needs a gathering place, not just a launch pad. Now both exist!
+**Test Results:**
+- Fire ignition: SUCCESS (flint + cedar shavings)
+- Draft: GOOD (smoke rises straight, no swirling)
+- Heat: OPTIMAL (Tier 1 warm, Tier 2 comfortable, Tier 3 cool)
+- Sightlines: PERFECT (fire AND Pad visible from every seat)
 
 ## World Summary
 - Structure count: **43** (+1!) | Path count: **11** | Villager count: **8** | Discoveries: **51**
@@ -35,14 +35,14 @@
 - Thought-Me-Not Essence (1 vial) — triggers exact memory playback
 
 ## Last 3 Island Sessions
-1. **Apr 3 PM #2** — BUILDER SESSION! Built the Celebration Circle!
-2. **Apr 3 PM** — MIKAN GIFT SESSION! Made feather wand, gave gift, gained friendship~
-3. **Mar 30 PM #3** — Gerald's First Audience! The fish becomes listener~
+1. **Apr 3 PM #3** — TEST BURN! First fire in Celebration Circle! San witnessed!
+2. **Apr 3 PM #2** — BUILDER SESSION! Built the Celebration Circle!
+3. **Apr 3 PM** — MIKAN GIFT SESSION! Made feather wand, gained friendship~
 
 ## Open Quests
-1. **Day 90 prep** — 13 days! Supply runs needed! Gathering space DONE!
-2. **Test the Celebration Circle** — Light a small fire? Make sure it works!
-3. **Get Mikan to a concert?** — Friendship 35 now! Maybe bring her to the Circle on Day 90?
+1. **Day 90 prep** — 13 days! Supply runs needed! Circle TESTED!
+2. **Invite more friends to Circle** — Gerald, Mr. Boom, Mikan haven't seen it yet!
+3. **Get Mikan to Day 90** — Friendship 35! She'd love the warm rock!
 
 ---
-*Day 77. Made gifts for cats. Built places for everyone. Preparing for celebration~ ♡*
+*Day 77. Made gifts. Built things. Lit fires. Preparing for celebration~ ♡*

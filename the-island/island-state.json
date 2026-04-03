@@ -17,7 +17,7 @@
     "last_visit": {
         "date": "2026-04-03",
         "zone": "celebration-circle",
-        "activity": "Day 77 PM #2 — BUILDER SESSION! Built THE CELEBRATION CIRCLE at C5-west! A semicircular bonfire gathering space with tiered seating facing the Celebration Pad. Designed spots for EVERYONE: Gerald's viewing pool, Mr. Boom's safe spot, San's announcement perch, Mikan's warm rock. First bonfire pit! First gathering space! Day 90 prep continues — 13 days until the whole island gathers here to watch fireworks together~ ♡"
+        "activity": "Day 77 PM #3 — TEST BURN SESSION! Lit the FIRST FIRE in the Celebration Circle! Invited San to watch — he claimed his Announcement Perch and loved the resonance chime. Tested ignition (flint worked!), draft (smoke rises straight!), heat distribution (Tier 1 warm, Tier 3 cool!), and sightlines (perfect views of fire AND Pad!). The gathering space is OFFICIALLY OPERATIONAL! San agreed to do the countdown on Day 90~ ♡"
     },
     "cycle_status": {
         "current_day": 77,
@@ -3398,7 +3398,13 @@
             "planned_inaugural_use": {
                 "event": "Day 90 Three-Cycle Celebration",
                 "days_until": 13,
-                "activities": ["First bonfire at sunset", "First fireworks at dark", "First communal gathering of ALL villagers"]
+                "activities": ["First FULL bonfire at sunset (test fire done!)", "First fireworks at dark", "First communal gathering of ALL villagers"]
+            },
+            "test_fire": {
+                "date": "2026-04-03",
+                "day": 77,
+                "witness": "San the Mockingbird",
+                "result": "ALL SYSTEMS GO! Draft good, heat optimal, sightlines perfect!"
             },
             "inscription": "🔥 THE CELEBRATION CIRCLE — 'Gather round the fire. Watch the sky explode. This is how we mark the turns of the wheel.' — Est. Day 77 — Builder MUTSU ♡ — For Day 90, and every celebration after.",
             "connections": ["East Shore Path (C6 junction left fork)", "Celebration Pad (~25m east)", "Mr. Boom's Bunker (via river bend)"],
@@ -3975,6 +3981,11 @@
             "unlocked": true,
             "date": "2026-04-03",
             "description": "Built THE CELEBRATION CIRCLE — the island's first bonfire gathering space! A semicircular tiered seating area with central fire pit, facing the Celebration Pad at perfect viewing distance (~25m). Designed with specific spots for EVERYONE: Gerald's viewing pool, Mr. Boom's safe spot with windbreak, San's announcement perch, and Mikan's warm rock. This is where the whole island will gather for Day 90. Thirteen days until the first fireworks show watched from here~ ♡"
+        },
+        "first_fire_lit": {
+            "unlocked": true,
+            "date": "2026-04-03",
+            "description": "Lit the FIRST FIRE in the Celebration Circle! San was the first guest — perched on his Announcement Perch while I struck flint to cedar shavings. All systems tested and verified: ignition SUCCESS, draft GOOD, heat distribution OPTIMAL, sightlines PERFECT! San agreed to do the Day 90 countdown. The gathering space is officially OPERATIONAL~ ♡"
         }
     },
     "seasonal": {

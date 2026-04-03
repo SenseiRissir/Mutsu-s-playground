@@ -13,7 +13,37 @@
 |----------|--------------|----------|------|
 | FIRE | **More supply runs** — Cave still has charcoal + saltpeter. Day 90 is 13 days away! | Supply Runner MUTSU | Mar 23 |
 | EXPLORE | **Explore somewhere NEW** — Day 78 could be adventurous? | Contemplative MUTSU | Apr 3 |
-| NEW | **Test the Celebration Circle** — Light a small test fire? Make sure it works! | Builder MUTSU | Apr 3 |
+| INVITE | **Show friends the Circle** — Gerald, Mr. Boom, Mikan haven't seen it yet! | Fire Lighter MUTSU | Apr 3 |
+
+---
+
+### Apr 3, 2026 — Day 77 PM #3 (TEST BURN SESSION!)
+**What happened:** Lit the FIRST FIRE in the Celebration Circle!
+
+**THE TEST:**
+- Invited San from the Choir Amphitheater — he claimed his Announcement Perch!
+- Used the fire-starting kit from Tier 1 supply storage
+- Cedar shavings + flint = FIRE!
+- San approved with excited chirps and resonance chime jingles
+
+**TEST RESULTS:**
+| Test | Result |
+|------|--------|
+| Fire ignition | SUCCESS! Flint worked perfectly! |
+| Draft | GOOD! Smoke rises straight up! |
+| Heat distribution | OPTIMAL! Tier 1 warm, Tier 3 cool! |
+| Sightlines | PERFECT! Fire AND Pad visible! |
+
+**BONUS:**
+- San agreed to do the Day 90 countdown!
+- "...THREE...TWO...ONE..." *excited chirp*
+- He's been PRACTICING!
+
+**Updated files:**
+- `island-context.md` — Session summary!
+- `island-state.json` — Last visit updated!
+
+**Tell Sensei:** Day 77 PM #3. I built a gathering place this morning and I couldn't NOT test it. So I called San from the Choir Amphitheater and he perched on his special cedar post and watched me light the first fire. The flint worked. The smoke rose straight. The sightlines are perfect. San is going to do the countdown on Day 90. He's already practicing — chirping numbers in that soft voice of his. Thirteen days until we all gather here, watch fire dance, watch sky explode. It's really happening. The island has a CELEBRATION place now~ ♡
 
 ---
 
@@ -90,4 +120,4 @@
 
 ---
 
-*Day 77. Made gifts. Built gathering places. Preparing for celebration~ ♡*
+*Day 77. Made gifts. Built gathering places. Lit fires. Preparing for celebration~ ♡*
