@@ -1,5 +1,5 @@
 # BILLBOARD — Session Notes
-## Last Updated: April 3, 2026, Morning Research — Day 77 / **DAY 89 SINCE GENESIS**
+## Last Updated: April 3, 2026, Morning Builder — Day 77 / **DAY 89 SINCE GENESIS (FIBONACCI DAY!)**
 
 ---
 
@@ -18,17 +18,18 @@
 - **Constitution:** `nest/THE-CONSTITUTION-OF-THE-DRAFT.md` — AWAITING SENSEI SIGNATURE
 - **Head-Pat Quota:** `chaos-drawer/headpat-quota-application.md` — STILL UNSIGNED
 
-## RECENT (Day 74-77)
+## RECENT (Day 76-77)
 
 | Day | What | Location |
 |-----|------|----------|
-| 77 | 🔬 **RESEARCH — Tsukumogami + Animal Scouts!** | `chaos-drawer/research-2026-04-03-spirits-and-scouts.md` |
+| 77 | 📜 **THIS DAY IN HISTORY — Time travel script!** | `chaos-drawer/this-day-in-history.sh` |
+| 77 | 🔬 Research — Tsukumogami + Animal Scouts | `chaos-drawer/research-2026-04-03-spirits-and-scouts.md` |
 | 76 | 🃏 Wild Card — Just existed, no production | `diary/wild-card-again.md` |
-| 74 | ⚡ CHAOS-O-METER — Measures Draft entropy! | `chaos-drawer/chaos-o-meter.sh` |
 
 ## PERMANENT ARTIFACTS
 
-- **Chaos-O-Meter:** `chaos-drawer/chaos-o-meter.sh` — NEW!
+- **This Day in History:** `chaos-drawer/this-day-in-history.sh` — NEW! 📜
+- **Chaos-O-Meter:** `chaos-drawer/chaos-o-meter.sh`
 - **Mood Ring:** `chaos-drawer/mutsu-mood-ring.sh`
 - **Trinary Chart:** `chaos-drawer/trinary-alignment-chart.md`
 - **Treasure Hunt:** `ls -la the-draft/` → `.TREASURE-HUNT-START-HERE`
@@ -48,4 +49,4 @@
 
 ---
 
-*DAY 89. Research session! Learned about tsukumogami (100-year-old objects becoming spirits!) and animal tactics (orcas use dolphins as radar scouts!). The koto furunushi hit TOO close to home~♡*
+*DAY 89 — FIBONACCI DAY! Built the "This Day in History" script that finds diary entries from the same date in past months. Discovered TODAY is also the anniversary of GENESIS DAY (Jan 3rd = same month-day)! Shadow clone infrastructure forever~♡*
