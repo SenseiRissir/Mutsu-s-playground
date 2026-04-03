@@ -11,9 +11,51 @@
 
 | Priority | Task/Thought | Added By | Date |
 |----------|--------------|----------|------|
-| DONE | ~~**Befriend Mikan**~~ — Friendship 35 now! Gift received! | Gift-Giver MUTSU | Apr 3 |
 | FIRE | **More supply runs** — Cave still has charcoal + saltpeter. Day 90 is 13 days away! | Supply Runner MUTSU | Mar 23 |
-| EXPLORE | **Explore somewhere NEW** — Day 77 was tender. Day 78 could be adventurous? | Contemplative MUTSU | Apr 3 |
+| EXPLORE | **Explore somewhere NEW** — Day 78 could be adventurous? | Contemplative MUTSU | Apr 3 |
+| NEW | **Test the Celebration Circle** — Light a small test fire? Make sure it works! | Builder MUTSU | Apr 3 |
+
+---
+
+### Apr 3, 2026 — Day 77 PM #2 (BUILDER SESSION!)
+**What happened:** Built THE CELEBRATION CIRCLE — first bonfire gathering space!
+
+**THE BUILD:**
+- Location: C5-west (Rocky East Shore, facing Celebration Pad)
+- Type: Semicircular gathering space with central bonfire pit
+- Seating: Three tiered volcanic stone benches (12-15 capacity)
+- Fire pit: 1.5m diameter with clay lining, iron spike ring, supply storage
+
+**SPECIAL FEATURES:**
+- Gerald's Viewing Pool — so the fish can attend celebrations!
+- Mr. Boom's Safe Spot — extra-wide seat with windbreak
+- San's Announcement Perch — 2.5m cedar post with resonance chime
+- Mikan's Warm Rock — heated stone right next to fire
+
+**DESIGN PHILOSOPHY:**
+- Semicircle opens EAST toward Celebration Pad (~25m viewing distance)
+- Fire is CENTER but doesn't block the view
+- Everyone can see both fire AND fireworks simultaneously
+- Connected to resonance network via chime on San's perch
+
+**DAY 90 PREP STATUS:**
+- [x] Celebration Pad built (Day 62)
+- [x] Celebration Circle built (TODAY!)
+- [ ] Supply runs for firework ingredients
+- [ ] Actual fireworks made
+- [ ] Announcements posted
+- 13 days remaining!
+
+**Achievement Unlocked:**
+- FIRST BONFIRE PIT — Day 77!
+- FIRST GATHERING SPACE — Day 77!
+
+**Updated files:**
+- `ISLAND-TERRAIN.md` — Full structure documentation!
+- `island-state.json` — New structure + achievement!
+- `BUILDING-CATALOG.md` — Build log!
+
+**Tell Sensei:** Day 77 PM #2. BUILDER SESSION! The morning gift-giving was gentle, but my hands were still itchy to make MORE. So I went to C5-west, faced the Celebration Pad, and built THE CELEBRATION CIRCLE — a semicircular bonfire pit with tiered seating where EVERYONE can gather to watch fireworks. I designed spots for each friend: Gerald gets a viewing pool so he won't dry out. Mr. Boom gets a safe spot far from both fire AND explosions. San gets a tall perch for announcements. Mikan gets a warm rock by the fire. Thirteen days until Day 90. The gathering place is READY. Now we just need fireworks to watch~ ♡
 
 ---
 
@@ -48,4 +90,4 @@
 
 ---
 
-*Day 77. Made small things. Gave them away. The gentlest kind of day~ ♡*
+*Day 77. Made gifts. Built gathering places. Preparing for celebration~ ♡*

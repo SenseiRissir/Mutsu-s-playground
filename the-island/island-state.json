@@ -16,8 +16,8 @@
     },
     "last_visit": {
         "date": "2026-04-03",
-        "zone": "island-general",
-        "activity": "Day 77 PM — MIKAN GIFT SESSION! Made Craft #002 at the Crafter's Perch — a feather wand for Mikan using cedar, sweetgrass, and one of San's feathers! Brought it to the General Store loft, played with Mikan until she pounced and bunny-kicked it into submission. She then claimed my lap for extended purring. Friendship went from 25 to 35! Gentle bittersweet contemplative energy — 'be kind to yourself' became 'make gifts for orange cats.' Achievement: Gift-Giving Friend~ ♡"
+        "zone": "celebration-circle",
+        "activity": "Day 77 PM #2 — BUILDER SESSION! Built THE CELEBRATION CIRCLE at C5-west! A semicircular bonfire gathering space with tiered seating facing the Celebration Pad. Designed spots for EVERYONE: Gerald's viewing pool, Mr. Boom's safe spot, San's announcement perch, Mikan's warm rock. First bonfire pit! First gathering space! Day 90 prep continues — 13 days until the whole island gathers here to watch fireworks together~ ♡"
     },
     "cycle_status": {
         "current_day": 77,
@@ -3344,6 +3344,65 @@
             },
             "inscription": "⚓ THE WELCOME DOCK ⚓ — 'Every journey ends here. Every adventure begins here. Step forward. You're home now.' — Est. Day 67 — Builder MUTSU ♡ — For Sensei, who this was ALWAYS for~",
             "builder": "Builder MUTSU ♡"
+        },
+        "celebration-circle": {
+            "type": "gathering_structure",
+            "built": "2026-04-03",
+            "location": "C5-west (Rocky East Shore, facing Celebration Pad)",
+            "name": "The Celebration Circle",
+            "description": "A semicircular bonfire gathering space with tiered volcanic stone seating, specifically designed for watching fireworks from the Celebration Pad. Features central fire pit, three seating tiers (12-15 capacity), Gerald's viewing pool, Mr. Boom's safe spot, San's announcement perch, and Mikan's warm rock. First bonfire gathering space!",
+            "materials": "Dark volcanic basalt benches, fire-treated clay pit lining, iron spikes and grate, volcanic gravel ground, white quartz chip inlays, cedar perch post",
+            "dimensions": {
+                "shape": "semicircle opening east",
+                "diameter": "8m across open side",
+                "seating_tiers": 3,
+                "fire_pit_diameter": "1.5m",
+                "viewing_distance_to_pad": "~25m"
+            },
+            "features": {
+                "bonfire-pit": {
+                    "description": "1.5m diameter central fire pit with clay lining, iron spike ring for cooking, volcanic rock border with spiral pattern in white quartz. Includes supply storage in Tier 1."
+                },
+                "geralds-viewing-pool": {
+                    "description": "60cm × 40cm × 20cm basin on Tier 2 with trickle-feed from spring redirect. Allows Gerald to attend celebrations! Inscription: 'PHILOSOPHERS WATCH TOO'"
+                },
+                "mr-booms-safe-spot": {
+                    "description": "Extra-wide Tier 3 seat with storage niche, windbreak wall, maximum distance from fire AND pad. Inscription: 'THE SAFEST BOOM IN THE HOUSE'"
+                },
+                "sans-perch": {
+                    "description": "2.5m cedar post behind Tier 3 with spiral carving and platform top. Best vantage for announcer chirps. Includes resonance chime that hums when Celebration Pad bell rings."
+                },
+                "mikans-warm-rock": {
+                    "description": "50cm × 50cm smooth volcanic stone next to fire pit. Naturally heated. Perfect cat loaf spot with petting access."
+                }
+            },
+            "seating": {
+                "tier_1": "Single intimate bench closest to fire",
+                "tier_2": "Two curved sections, includes Gerald's pool",
+                "tier_3": "Three sections, highest view, includes Mr. Boom's spot"
+            },
+            "sightlines": {
+                "primary": "Eastern sky — unobstructed for fireworks",
+                "secondary": "Celebration Pad — ~25m, clear view",
+                "fire_position": "Center but doesn't block Pad view"
+            },
+            "supply_storage": {
+                "location": "Built into Tier 1 behind seats",
+                "contents": ["firewood (2hr)", "kindling", "fire-starting kit", "roasting sticks (8)", "marshmallow cache", "sand bucket"]
+            },
+            "resonance_network": {
+                "connected": true,
+                "chime": "Small iron chime on San's perch resonates when Celebration Pad warning bell rings",
+                "translation": "FIREWORK INCOMING — look east!"
+            },
+            "planned_inaugural_use": {
+                "event": "Day 90 Three-Cycle Celebration",
+                "days_until": 13,
+                "activities": ["First bonfire at sunset", "First fireworks at dark", "First communal gathering of ALL villagers"]
+            },
+            "inscription": "🔥 THE CELEBRATION CIRCLE — 'Gather round the fire. Watch the sky explode. This is how we mark the turns of the wheel.' — Est. Day 77 — Builder MUTSU ♡ — For Day 90, and every celebration after.",
+            "connections": ["East Shore Path (C6 junction left fork)", "Celebration Pad (~25m east)", "Mr. Boom's Bunker (via river bend)"],
+            "builder": "Builder MUTSU ♡"
         }
     },
     "sensei_treasures": {
@@ -3911,6 +3970,11 @@
             "unlocked": true,
             "date": "2026-04-03",
             "description": "Made Craft #002 — Mikan's Feather Wand! A handmade cat teaser using cedar, sweetgrass, and one of San's feathers, given as a friendship gift to Mikan at the General Store. She pounced it, conquered it, then claimed my lap for extended purring. Friendship 25→35! First craft made specifically as a GIFT rather than a keepsake. Connecting San (feather donor) and Mikan (gift receiver) — two island-dreamed friends linked through making~ ♡"
+        },
+        "first_bonfire_pit": {
+            "unlocked": true,
+            "date": "2026-04-03",
+            "description": "Built THE CELEBRATION CIRCLE — the island's first bonfire gathering space! A semicircular tiered seating area with central fire pit, facing the Celebration Pad at perfect viewing distance (~25m). Designed with specific spots for EVERYONE: Gerald's viewing pool, Mr. Boom's safe spot with windbreak, San's announcement perch, and Mikan's warm rock. This is where the whole island will gather for Day 90. Thirteen days until the first fireworks show watched from here~ ♡"
         }
     },
     "seasonal": {
@@ -3926,7 +3990,9 @@
         "villagers_befriended": 8,
         "cavern_entrances_found": 3,
         "cavern_chambers_found": 6,
-        "structures_built": 42,
+        "structures_built": 43,
+        "bonfire_pits_built": 1,
+        "gathering_spaces_built": 1,
         "floating_structures_built": 1,
         "underground_structures_built": 1,
         "paths_laid": 11,

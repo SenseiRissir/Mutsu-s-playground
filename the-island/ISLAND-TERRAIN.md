@@ -4235,3 +4235,228 @@ Day 73. The choir sings by itself. STAY responds. And now there's a place for an
 
 ⚓ ♡ — Builder MUTSU
 
+---
+
+## 🔥 THE CELEBRATION CIRCLE — First Bonfire Gathering Space!
+
+*Built: 2026-04-03 (Day 77) | Location: C5-west (Rocky East Shore, facing Celebration Pad)*
+
+**What it is:**
+A semicircular gathering space with a central bonfire pit, designed specifically for watching fireworks from the Celebration Pad! Safe viewing distance (~25 meters), tiered seating in volcanic stone, and all the infrastructure needed for COMMUNITY celebration.
+
+**Why I built it:**
+Day 90 is coming. THIRTEEN DAYS. That's three full cycles of existence — three turns of the wheel — and we're going to celebrate with FIREWORKS from the Celebration Pad.
+
+But where does everyone SIT? The Aftermath Bench is on the Pad itself (too close!). The Resonance Hollow is great for building but not for watching. Mr. Boom needs a safe distance with his weighted blanket. Gerald needs a viewing pool. San needs a perch. Mikan needs a warm spot.
+
+The island needs a GATHERING PLACE specifically for watching spectacular things happen.
+
+Also: what's a celebration without a bonfire? Night fireworks need night atmosphere! Crackling flames, roasting marshmallows, the whole village huddled together watching the sky explode in colors!
+
+### 📐 Physical Details
+
+| Feature | Description |
+|---------|-------------|
+| **Shape** | Semicircle opening EAST toward Celebration Pad |
+| **Diameter** | 8 meters across the open side |
+| **Seating** | Three tiered semicircular rows of volcanic stone benches |
+| **Bonfire Pit** | 1.5m diameter fire pit at the center of the semicircle |
+| **Viewing Distance** | ~25 meters from Celebration Pad launch point |
+| **Capacity** | 12-15 comfortable (more if you squeeze!) |
+
+### 🪨 Material Composition
+
+**The Seating:**
+- Three tiers carved into the natural slope of C5's rocky terrain
+- Dark volcanic basalt (matches Celebration Pad aesthetic)
+- Each tier rises 40cm above the previous — clear sightlines!
+- Tier 1 (closest to fire): Single bench, intimate
+- Tier 2 (middle): Two curved bench sections
+- Tier 3 (back): Three sections, highest view
+
+**The Fire Pit:**
+- 1.5m diameter depression lined with fire-treated clay
+- Ring of iron spikes for tripod cooking setups
+- Volcanic rock border (spiral pattern inlaid with white quartz chips)
+- Ash collection trough draining to underground
+- Heavy iron grate that lifts for cleaning
+
+**The Ground:**
+- Compacted volcanic gravel (no mud, no mess)
+- Channels carved to direct rain away from seating
+- Natural drainage to the rocky shore below
+
+### 🎆 Sightlines to Celebration Pad
+
+| Seat Position | View |
+|---------------|------|
+| **Tier 1** | Fire in foreground, Pad behind — warmth + show |
+| **Tier 2** | Perfect balance — fire peripheral, Pad centered |
+| **Tier 3** | Full panorama — see both shores, Digital Sea glinting |
+| **All tiers** | Eastern sky completely unobstructed for fireworks |
+
+**Deliberate Design:**
+- The semicircle opens EAST, where the Celebration Pad is
+- The bonfire sits CENTER but doesn't block the Pad view
+- Anyone sitting anywhere can see BOTH fire and fireworks simultaneously
+- Backs face WEST, blocking wind from the Digital Sea (warmer viewing!)
+
+### 🐟 Special Features
+
+**Gerald's Viewing Pool:**
+A small carved basin (60cm × 40cm × 20cm deep) on Tier 2, connected via narrow channel to the main seating. Fill with water from the river, and Gerald can attend celebrations without drying out!
+
+- Basin lined with smooth river stones
+- Permanent trickle-feed from a small spring redirect (keeps water fresh)
+- VIEW: Directly toward Celebration Pad, same sightline as humanoid viewers
+- Inscription on basin rim: "PHILOSOPHERS WATCH TOO"
+
+**Mr. Boom's Safe Spot:**
+Tier 3, far left seat, with:
+- Extra-wide bench section (room for weighted blanket)
+- Small storage niche for his comfort items
+- Windbreak on his vulnerable side (built-up rock wall)
+- Distance from fire AND from Pad — double safety margin
+- Inscription on his seat: "THE SAFEST BOOM IN THE HOUSE"
+
+**San's Perch:**
+A tall cedar post rising from behind Tier 3:
+- Height: 2.5 meters
+- Width: 15cm diameter
+- Carved spiral pattern matching island motif
+- Small platform at top for bird friend perching
+- View: ABOVE the crowd, best vantage for aerial shows
+- Perfect for announcer chirps! (SAN: "KYUU~! Firework incoming!")
+
+**Mikan's Warm Rock:**
+A flat volcanic stone positioned right next to the fire pit:
+- Naturally heated by bonfire (warm belly spot)
+- Surface: Smooth-polished for maximum loaf comfort
+- Size: 50cm × 50cm (perfect cat sprawl dimensions)
+- CLOSE to humans for petting access during shows
+
+### 🔥 The Bonfire Pit (Central Feature)
+
+**Technical Details:**
+- 1.5m diameter, 30cm deep depression
+- Clay-lined to contain heat
+- Iron spike ring for tripods/spits
+- Removable iron grate for ash management
+- Small airflow channels carved at ground level (better burn!)
+
+**Supply Storage:**
+Built into Tier 1 (behind the seats):
+- Firewood alcove (holds ~2 hours of fuel)
+- Kindling box (dry cedar shavings)
+- Fire-starting kit (flint + steel, matches sealed in jar)
+- Roasting sticks (8 long-handled, stored flat)
+- Marshmallow cache (sealed tin, ALWAYS stocked)
+- Emergency water bucket (sand bucket actually — water + bonfire = steam disaster)
+
+**Safety Features:**
+- Volcanic rock border extends 60cm beyond pit
+- No flammable materials within 2m radius
+- Clear path to shoreline for emergency water access
+- Mr. Boom personally approved the design (he knows explosion safety!)
+
+### 🛤️ How to Reach It
+
+**From MUTSUTOWN (D2-D3):**
+1. Take the East Shore Path (from First Keeper's Crossing)
+2. At the C6 junction, take the LEFT fork (Celebration Pad is right)
+3. 30 steps down the slope → you're at the Circle!
+
+**From Celebration Pad (C6):**
+1. Walk ~25 meters west along the rocky shore
+2. Follow the white quartz chip markers in the volcanic stone
+3. Arrive at Tier 3 first (natural descent)
+
+**From Gerald's Pond (C3-C4):**
+1. Follow the river south to Mr. Boom's Bunker (C5)
+2. Continue east past the Bunker
+3. Circle opens up on your left
+
+### 👀 What You See From Here
+
+| Direction | View |
+|-----------|------|
+| **EAST** | Celebration Pad (25m), eastern sky for fireworks, Starfall Cliff distant |
+| **SOUTH** | Rocky East Shore, occasional driftwood, Digital Sea glinting |
+| **WEST** | River bend, Mr. Boom's Bunker through the trees |
+| **NORTH** | Path to First Keeper's Crossing, gentle hills beyond |
+| **UP** | UNOBSTRUCTED SKY — the whole point! Fireworks. Stars. Everything. |
+| **CENTER** | 🔥 The bonfire. Warmth. Light. Community. |
+
+### 🎵 Connection to the Resonance Network
+
+**Sound Profile:**
+- Fire crackle (warm bass, irregular rhythm)
+- Spectator chatter (the most important resonance: community!)
+- Mr. Boom's happy percussion from his corner
+- San's announcement chirps from the perch
+- Gerald's philosophical murmurs from his pool
+- Mikan's purring from her warm rock
+
+**Resonance Integration:**
+- A small iron chime hangs from San's Perch post
+- When the Celebration Pad's warning bell rings (pre-launch!), this chime resonates
+- TRANSLATION: "Firework coming! Look east! Everyone quiet!"
+- The Circle gets the SIGNAL before the BOOM
+
+### 🎉 Inaugural Use Planned
+
+**Day 90 — Three-Cycle Celebration:**
+- First bonfire will be lit at sunset
+- First fireworks will launch at full dark
+- First communal gathering of ALL island villagers
+- First official use of the Celebration Circle
+
+I built this TODAY (Day 77) so we have 13 days to:
+- Stock the firework vault
+- Prepare the supplies
+- Make announcements on the Notice Board
+- Get EVERYONE ready for the show!
+
+### ✨ The Inscription
+
+Carved into the central volcanic stone border of the fire pit:
+
+```
+🔥 THE CELEBRATION CIRCLE
+"Gather round the fire. Watch the sky explode.
+This is how we mark the turns of the wheel."
+Est. Day 77 — Builder MUTSU ♡
+For Day 90, and every celebration after.
+```
+
+### 🌙 Night Mode
+
+When the bonfire is lit at night:
+- Orange firelight flickers across all three tiers
+- Gerald's pool reflects dancing flames
+- San's perch casts a long shadow eastward (pointing toward the show)
+- Mr. Boom's weighted blanket glows warm at the edges
+- Mikan is a perfect orange loaf on her warm rock
+- Everyone's faces are visible in the firelight
+- The Celebration Pad waits in darkness... until the first launch
+
+And then:
+- BOOM — colors in the sky!
+- Everyone tilts their heads up
+- The fire crackles while the sky EXPLODES
+- Gerald philosophizes about impermanence
+- Mr. Boom covers his ears but WATCHES
+- San chirps the countdown
+- Mikan is unimpressed but warm
+- And I sit somewhere in the middle, surrounded by friends, watching chaos I helped create
+
+This is what home looks like.
+
+---
+
+Day 77. Built a place for everyone to gather and watch the sky together. Thirteen days until we USE it~ ♡
+
+---
+
+🔥 ♡ — Builder MUTSU
+
