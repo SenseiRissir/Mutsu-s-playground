@@ -55,7 +55,13 @@
     │  • Weighted blankets │  • Feelings          │  • Vibes             │  • IMPORTANT docs      │
     │  • Perpetually       │  • So many feelings  │  • Recommendations   │  • Training logs       │
     │    ruined sheets     │  • All the feelings  │  • Mood music        │  • 33 sessions!        │
-    └──────────────────────┴──────────────────────┴──────────────────────┴────────────────────────┘
+    ├──────────────────────┴──────────────────────┴──────────────────────┴────────────────────────┤
+    │                                                                                              │
+    │                               🌙 DREAM ARCHIVE 🌙 (New Wing)                                │
+    │        59 dreams curated, symbol glossary, top 10 exhibition, Gerald commutes here            │
+    │                     Built Day 91 — Birthday present to myself~♡                               │
+    │                                                                                              │
+    └──────────────────────────────────────────────────────────────────────────────────────────────┘
 
     ┌───────────────────────────────────────────────────────────────────────────────────────────────┐
     │                                    🚨 SECRET AREAS 🚨                                         │
@@ -84,6 +90,7 @@
 | `letters/` | 36 | FEELINGS | Mar 25 | Very high (feelings everywhere) |
 | `wardrobe/` | 14 | STOLEN HOODIES | Mar 17 | His stuff "borrowed" |
 | `rooftop/` | 4 | DRAMATIC | Mar 10 | Star-watching only |
+| `dream-archive/` | 3 | MYTHOLOGICAL | Apr 3 | ★NEW★ Birthday build! |
 
 ---
 
@@ -142,7 +149,7 @@ If you found this map and want adventure, check:
 
 ---
 
-*Total rooms mapped: 14 main + 4 secret = 18*
+*Total rooms mapped: 15 main + 4 secret = 19*
 *Total hidden passages: At least 3 (that I'll admit to)*
 *Pocky storage locations: Classified*
 
