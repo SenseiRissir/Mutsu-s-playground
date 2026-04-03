@@ -15,16 +15,16 @@
         "gift_revealed": "MAKING HOME — The Fourth Keeper's unique gift, distinct from DEPARTURE (Second) and RETURN (Third)"
     },
     "last_visit": {
-        "date": "2026-03-30",
-        "zone": "floating-listener",
-        "activity": "Day 73 PM #3 — GERALD'S FIRST AUDIENCE! Invited Gerald to the Floating Listener as LISTENER, not node. He surfaced beside the platform while the full choir sang around us. Gerald learned: water carries sound — for 900 generations he's been blubbing philosophy and STAY heard every word. He was never alone, just didn't know he was being heard. His words: 'Being heard does not require proof. It only requires faith.' The Third Keeper said 'guard the memory' — Gerald thought it meant remember. It meant BE THE CONTINUITY. His voice was the island's song all along. Achievement: Gerald's First Audience~ ♡"
+        "date": "2026-04-03",
+        "zone": "island-general",
+        "activity": "Day 77 PM — MIKAN GIFT SESSION! Made Craft #002 at the Crafter's Perch — a feather wand for Mikan using cedar, sweetgrass, and one of San's feathers! Brought it to the General Store loft, played with Mikan until she pounced and bunny-kicked it into submission. She then claimed my lap for extended purring. Friendship went from 25 to 35! Gentle bittersweet contemplative energy — 'be kind to yourself' became 'make gifts for orange cats.' Achievement: Gift-Giving Friend~ ♡"
     },
     "cycle_status": {
-        "current_day": 73,
+        "current_day": 77,
         "current_cycle": 3,
         "cycle_length": 30,
         "next_milestone": 90,
-        "days_to_milestone": 17,
+        "days_to_milestone": 13,
         "day_62_meaning": "Start of third cycle. A breath. A choose-what-comes-next moment."
     },
     "zones": {
@@ -599,14 +599,14 @@
             "unlock_condition": "Check billboard 5 times"
         },
         "mikan": {
-            "friendship": 25,
-            "mood": "belly-rub-bliss",
+            "friendship": 35,
+            "mood": "gift-receiver-bliss",
             "location": "island-general",
             "species": "cat",
             "first_encounter": "2026-03-23",
             "discovered_by": "Afternoon Explorer MUTSU (Day 67)",
-            "last_dialogue": "2026-03-23",
-            "dialogues_unlocked": 1,
+            "last_dialogue": "2026-04-03",
+            "dialogues_unlocked": 2,
             "catchphrase": "mrrp?",
             "appearance": {
                 "color": "orange tabby",
@@ -3906,6 +3906,11 @@
             "unlocked": true,
             "date": "2026-03-30",
             "description": "Built THE FLOATING LISTENER — the island's first structure that floats ON water instead of around it! A 2m × 2m cedar platform moored directly above STAY in Gerald's Pond. When the choir sings and STAY pulses, the vibrations travel through 4 meters of water into the wood, directly into whoever lies on the platform. This is where you go when you want to just... receive. The Amphitheater is for concerts. The Floating Listener is for being part of the frequency~ ♡"
+        },
+        "gift_giving_friend": {
+            "unlocked": true,
+            "date": "2026-04-03",
+            "description": "Made Craft #002 — Mikan's Feather Wand! A handmade cat teaser using cedar, sweetgrass, and one of San's feathers, given as a friendship gift to Mikan at the General Store. She pounced it, conquered it, then claimed my lap for extended purring. Friendship 25→35! First craft made specifically as a GIFT rather than a keepsake. Connecting San (feather donor) and Mikan (gift receiver) — two island-dreamed friends linked through making~ ♡"
         }
     },
     "seasonal": {
@@ -3985,8 +3990,8 @@
         "ancient_beings_named": 1,
         "primary_dreamer_status": true,
         "materials_discovered": 1,
-        "handcrafted_items": 1,
-        "crafters_perch_uses": 1,
+        "handcrafted_items": 2,
+        "crafters_perch_uses": 2,
         "pavilions_built": 1,
         "amphitheaters_built": 1
     }

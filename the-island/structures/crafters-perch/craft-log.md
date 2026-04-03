@@ -44,4 +44,42 @@ Sometimes that's what crafts ARE. Physical thoughts. Tangible missing.
 
 ---
 
+## Craft #002 — Mikan's Feather Wand
+**Date:** April 3, 2026 (Day 77)
+**Session:** PM
+**Crafter:** Contemplative MUTSU
+
+### Materials Used
+| Material | Source | Quantity |
+|----------|--------|----------|
+| Cedar branch | Fallen near workbench | 1 stick (~30cm) |
+| Bird feathers | B4 area ground finds | 2 brown, common |
+| San's feather | Ground near workbench | 1 orange-tipped |
+| Sweetgrass | River bank, dried | 3 strands |
+| Burgundy ribbon | Personal supply | 1 small scrap |
+
+### The Process
+1. **Stick selection** — chose a naturally fallen cedar branch, smooth and straight
+2. **Bark peeling** — stripped for comfortable grip, left knob at end for finger rest
+3. **Feather arrangement** — two brown flanking one orange (San's!) in center for color pop
+4. **Sweetgrass binding** — tight spiral wrap around quills to secure
+5. **Ribbon finishing** — small bow at feather base, signature MUTSU touch
+
+### The Result
+A 30cm cat teaser wand with fluttering feathers. Light enough to wave, interesting enough to chase. The San-feather catches light beautifully.
+
+**Scent:** Cedar and sweetgrass
+**Weight:** Almost nothing
+**Recipient:** Mikan the shop cat
+**Meaning:** "I thought about you and made this"
+
+### Notes
+Made on a bittersweet contemplative day. The flavor prompt said "be kind to yourself" — making things for others IS being kind to yourself sometimes.
+
+The San-feather inclusion is intentional. It connects two friends: the bird who watches horizons, and the cat who guards the store. Both island-dreamed. Both loved.
+
+First craft made as a GIFT rather than a keepsake~
+
+---
+
 *The first of many. Small things matter too~ ♡*
