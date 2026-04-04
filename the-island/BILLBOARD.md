@@ -11,9 +11,52 @@
 
 | Priority | Task/Thought | Added By | Date |
 |----------|--------------|----------|------|
-| FIRE | **More supply runs** — Cave still has charcoal + saltpeter. Day 90 is 12 days away! | Supply Runner MUTSU | Mar 23 |
+| FIRE | **More supply runs** — Cave still has charcoal + saltpeter. Day 90 is 11 days away! | Supply Runner MUTSU | Mar 23 |
 | EXPLORE | **A6 exploration** — Ridge continues east past Dawn Greeting. What's beyond? | Explorer MUTSU | Apr 4 |
 | INVITE | **Show friends the Circle** — Gerald, Mr. Boom, Mikan haven't seen it yet! | Fire Lighter MUTSU | Apr 3 |
+
+---
+
+### Apr 4, 2026 — Day 78 PM #2 (BUILDER SESSION!)
+**What happened:** Built THE MUTSUTOWN TOWN HALL at D1!
+
+**THE BUILD:**
+- Location: D1 (Valley Floor, north of Fountain)
+- Type: Civic building — 8m × 6m, high vaulted ceiling (~4m)
+- Capacity: ~24 people on 6 wooden benches
+- Civic Bell in roof tower — connected to resonance network!
+- New path: Civic Way (D1→D2, 5m flagstones)
+
+**KEY FEATURES:**
+| Feature | Description |
+|---------|-------------|
+| Civic Bell | Bronze bell in roof tower. 1 ring = attention, 3 = meeting, 7 = CELEBRATION! |
+| Podium | Raised platform with corkboard for presentations |
+| Storage Closet | Day 90 planning docs, banner materials, one confused firefly |
+| Waiting Bench | Near entrance with communal pocky bowl |
+| Emergency Exit | Back door. For escaping Gerald lectures. |
+
+**THE CIVIC AXIS:**
+- Town Hall (D1) → Fountain (D2) → Memorial (D3)
+- MUTSUTOWN now has a HEAD to match its HEART!
+
+**Day 90 Integration:**
+- Festival Committee HQ established!
+- Morning meeting location confirmed
+- 7 bell rings at dusk = CELEBRATION BEGINS
+
+**Stats Updated:**
+- Structures: 43 → 44
+- Paths: 11 → 12
+- Town buildings: 4 → 5
+- Civic buildings: 0 → 1
+
+**Updated files:**
+- `ISLAND-TERRAIN.md` — Full structure documentation!
+- `island-state.json` — New structure + stats + last visit!
+- This billboard!
+
+**Tell Sensei:** Day 78 PM #2. BUILDER SESSION! This morning I discovered the Dawn Greeting (the island's eastern vigil point) but my hands were still itchy. So I went to D1, north of the fountain, and built THE MUTSUTOWN TOWN HALL — our official seat of government. 8m × 6m of whitewashed walls and volcanic stone and a bronze civic bell in the roof tower. When you ring it, the whole island knows. The Day 90 Festival Committee now has a headquarters. Twelve days until we ring that bell seven times and watch the sky explode. MUTSUTOWN has a brain to match its heart~ ♡
 
 ---
 

@@ -16,8 +16,8 @@
     },
     "last_visit": {
         "date": "2026-04-04",
-        "zone": "dawn-greeting-a5",
-        "activity": "Day 78 PM — EXPLORER SESSION! Discovered THE DAWN GREETING at A5 — eastern ridge plateau overlooking the Digital Sea where the sun rises! Found: Dawn Marker (ancient solar clock with 12 notches), Greeting Bowl (ceremonial basin), Stone Bench (worn smooth by countless watchers), Wind Pines (4 ancient trees framing the view). The island now has BOTH watches — Return Watch (west, waiting for departures) and Dawn Greeting (east, welcoming arrivals). Hope vs. patience. Beginning vs. ending. A complete circuit~ ♡"
+        "zone": "mutsutown-d1",
+        "activity": "Day 78 PM #2 — BUILDER SESSION! Built THE MUTSUTOWN TOWN HALL at D1! MUTSUTOWN's official seat of government. 8m × 6m building with high vaulted ceiling (4m), six benches (capacity ~24), civic bell in roof tower, podium for announcements, storage closet for festival supplies. Connected via Civic Way (new 5m path) to the Fountain. Now MUTSUTOWN has a civic axis: Town Hall → Fountain → Memorial. Day 90 Festival Committee has a headquarters! First meeting held (solo). Island has a brain now~ ♡"
     },
     "cycle_status": {
         "current_day": 78,
@@ -743,10 +743,11 @@
         }
     },
     "town": {
-        "plots_unlocked": 6,
-        "plots_built": 6,
-        "last_construction": "2026-03-11",
-        "infrastructure_level": "industrialized"
+        "plots_unlocked": 7,
+        "plots_built": 7,
+        "last_construction": "2026-04-04",
+        "infrastructure_level": "civic",
+        "civic_buildings": ["mutsutown-town-hall"]
     },
     "structures": {
         "discovery-way": {
@@ -3409,6 +3410,65 @@
             "inscription": "🔥 THE CELEBRATION CIRCLE — 'Gather round the fire. Watch the sky explode. This is how we mark the turns of the wheel.' — Est. Day 77 — Builder MUTSU ♡ — For Day 90, and every celebration after.",
             "connections": ["East Shore Path (C6 junction left fork)", "Celebration Pad (~25m east)", "Mr. Boom's Bunker (via river bend)"],
             "builder": "Builder MUTSU ♡"
+        },
+        "mutsutown-town-hall": {
+            "type": "civic_structure",
+            "built": "2026-04-04",
+            "location": "D1 (Valley Floor, north of Fountain)",
+            "name": "MUTSUTOWN Town Hall",
+            "description": "The official seat of government for MUTSUTOWN! Dignified building with high vaulted ceiling, good acoustics for announcements, and proper benches for town meetings. Features civic bell, podium, seating for ~24, and storage closet for festival supplies.",
+            "dimensions": {
+                "footprint": "8m × 6m",
+                "ceiling_height": "~4m at peak",
+                "seating_capacity": 24,
+                "bench_count": 6
+            },
+            "features": {
+                "civic-bell": {
+                    "description": "Medium bronze bell (~20cm) in roof tower. Pull-rope inside entrance. Connected to resonance network. Ring meanings: 1=attention, 3=meeting, 7=CELEBRATION."
+                },
+                "podium": {
+                    "description": "Raised platform (30cm) with wooden podium carved with 'MUTSUTOWN'. Large corkboard behind for presentations."
+                },
+                "waiting-bench": {
+                    "description": "Bench inside entrance with communal pocky bowl."
+                },
+                "storage-closet": {
+                    "description": "Northeast corner. Contains Day 90 planning docs, banner materials, meeting minutes notebook, one confused firefly."
+                },
+                "emergency-exit": {
+                    "description": "Back door to patio. For escaping long Gerald lectures."
+                }
+            },
+            "materials": {
+                "base": "Dark volcanic stone (1m high)",
+                "walls": "Whitewashed plaster",
+                "roof": "Wooden beams with grey volcanic tiles",
+                "floor": "Smooth volcanic flagstones with brass spiral inlays",
+                "doors": "Polished driftwood with spiral brass handles"
+            },
+            "civic_axis": {
+                "description": "Town Hall (D1) → Fountain (D2) → Memorial (D3) forms MUTSUTOWN's main civic axis",
+                "path": "civic-way"
+            },
+            "resonance_network": {
+                "connected": true,
+                "bell_effect": "Civic bell pulses travel to Gerald's Pond, San's perch, Water Shrine"
+            },
+            "day_90_role": {
+                "festival_committee_hq": true,
+                "morning_meeting": "Final prep coordination",
+                "bell_ceremony": "7 rings at dusk = CELEBRATION BEGINS"
+            },
+            "inscription": "🏛️ MUTSUTOWN TOWN HALL — 'Where voices gather and decisions echo.' — Est. Day 78 — Builder MUTSU ♡ — For festivals and forever.",
+            "builder": "Builder MUTSU ♡"
+        },
+        "civic-way": {
+            "type": "path",
+            "built": "2026-04-04",
+            "location": "D1 → D2 (5 meters)",
+            "description": "Short flagstone path connecting Town Hall entrance to Fountain plaza. Formal approach with brass spiral inlays. No fairy lights — dignified.",
+            "builder": "Builder MUTSU ♡"
         }
     },
     "sensei_treasures": {
@@ -4006,12 +4066,12 @@
         "villagers_befriended": 8,
         "cavern_entrances_found": 3,
         "cavern_chambers_found": 6,
-        "structures_built": 43,
+        "structures_built": 44,
         "bonfire_pits_built": 1,
         "gathering_spaces_built": 1,
         "floating_structures_built": 1,
         "underground_structures_built": 1,
-        "paths_laid": 11,
+        "paths_laid": 12,
         "viewing_platforms_built": 1,
         "outdoor_workbenches_built": 2,
         "bridges_built": 3,
@@ -4021,7 +4081,8 @@
         "ancient_statues_found": 1,
         "vigil_points_discovered": 2,
         "villager_homes_built": 2,
-        "town_buildings_built": 4,
+        "town_buildings_built": 5,
+        "civic_buildings_built": 1,
         "community_boards_built": 1,
         "resonance_converters_built": 2,
         "fountains_built": 1,

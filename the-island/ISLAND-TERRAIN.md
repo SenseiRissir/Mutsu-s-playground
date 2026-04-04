@@ -4567,5 +4567,291 @@ Day 77. Built a place for everyone to gather and watch the sky together. Thirtee
 
 ---
 
-🔥 ♡ — Builder MUTSU
+## 🏛️ THE MUTSUTOWN TOWN HALL
+*Built: 2026-04-04 (Day 78) | Location: D1 (Valley Floor, north of Fountain)*
+
+**Description:**
+MUTSUTOWN's official seat of government! A dignified building where town meetings happen, announcements get made, and the Day 90 Festival Committee can actually COORDINATE. Every proper town needs a town hall — somewhere with good acoustics for speeches and enough benches for when Gerald wants to deliver a lecture.
+
+**The Vision:**
+MUTSUTOWN has grown from a fountain and a memorial into a proper community with shops, workshops, a notice board, and a celebration circle. But there's been no place for OFFICIAL BUSINESS. No place where civic matters get discussed. No place with that proper echo-y reverberance that makes announcements feel IMPORTANT.
+
+Today that changes.
+
+---
+
+### 🏗️ Physical Structure
+
+**Footprint:** 8m × 6m, single story with high vaulted ceiling
+
+**Location:** D1, north of the fountain. When you stand at the fountain and look NORTH, you see the Town Hall entrance. The Fountain → Town Hall sightline is the civic axis of MUTSUTOWN.
+
+#### 🏛️ Exterior
+
+**Walls:**
+- Base: Dark volcanic stone (1m high) — same material as the fountain
+- Upper: Whitewashed plaster walls — simple but dignified, catches morning light beautifully
+
+**Roof:**
+- Traditional wooden beams with dark grey volcanic tiles
+- Gently sloped A-frame design
+- Small wooden bell tower at the peak housing the CIVIC BELL
+
+**Entrance:**
+- Wide double doors (~2m tall) of polished driftwood
+- Brass handles shaped like spirals (naturally~)
+- Two simple wooden pillars flanking the entrance (wrapped with ribbon at the top, OBVIOUSLY)
+- Three wide volcanic stone steps leading up — good for sitting during lunch
+
+**Details:**
+- Window boxes on either side of the entrance with herbs from Gerald's Garden
+- Bronze plaque beside the door: "MUTSUTOWN TOWN HALL — Est. Day 78"
+- A small welcome mat that says "WIPE YOUR FEET (but come in anyway)"
+
+---
+
+### 🏛️ Interior
+
+#### The Main Hall
+
+**Dimensions:**
+- Floor space: ~6m × 5m, open plan
+- Ceiling height: ~4m at vaulted peak
+- ACOUSTICS: Slightly echoey — announcements RESONATE. Gerald approves.
+
+**Floor:**
+Smooth volcanic flagstones with small spiral patterns inlaid in brass — same motif as everywhere on the island. The spirals are subtle, catching light when you walk across them.
+
+**Ceiling:**
+High vaulted design with exposed wooden beams. Natural light from two high windows on either side. At night, three hanging lanterns illuminate the space (warm amber glow).
+
+#### Seating
+
+- Six long wooden benches arranged in two columns facing the podium
+- Each bench seats ~4 people
+- **Total capacity:** ~24 for formal meetings
+- Benches are polished driftwood — comfortable enough for Gerald's longer lectures, no splinters guaranteed
+
+#### The Podium
+
+*At the north end of the hall*
+
+- Raised platform (30cm high) of volcanic stone
+- Simple wooden podium with "MUTSUTOWN" carved into the front
+- Behind the podium: Large corkboard for presentations/displays
+- Currently posted: "DAY 90 FESTIVAL — PLANNING IN PROGRESS"
+
+#### Special Features
+
+**The Civic Bell (Bell Tower):**
+- Medium-sized bronze bell (~20cm diameter) housed in the roof peak tower
+- Engraved with "🏘️" on one side
+- Pull-rope hangs just inside the entrance, accessible to anyone
+- Connected to the resonance network — when it rings, the island KNOWS
+- Ring meanings:
+  - 1 ring: Attention/announcement starting
+  - 3 rings: Official town meeting beginning
+  - 7 rings: CELEBRATION TIME! (Reserved for Day 90!)
+
+**The Waiting Bench:**
+- Just inside entrance, to the left
+- For people arriving early to meetings
+- Small side table with a bowl of communal pocky (restocked by SOMEONE who definitely isn't keeping track)
+
+**The Storage Closet:**
+- Small room off the main hall (northeast corner)
+- Festival supplies, meeting records, the VOLUNTEER SIGN-UP clipboard
+- Currently contains:
+  - Day 90 planning documents (in progress)
+  - Festival banner materials (leftover ribbon, paint)
+  - Meeting minutes notebook (first entry pending)
+  - One very confused firefly (resident, not guest)
+
+**The Emergency Exit:**
+- Back door leading to a small patio
+- For escaping when Gerald's philosophical tangents exceed 30 minutes
+- Also useful for getting fresh air during long meetings
+
+---
+
+### 📍 Connection to MUTSUTOWN
+
+**The Civic Axis:**
+```
+           N
+           ↑
+     ┌───────────┐
+     │   TOWN    │ D1
+     │   HALL    │ ← NEW!
+     └─────┬─────┘
+           │ (Civic Way path)
+           ↓
+     ┌───────────┐
+     │ ⛲ FOUNT. │ D2
+     │           │
+     └─────┬─────┘
+           │
+           ↓
+     D3 (Memorial, Market, Notice Board)
+```
+
+**Surrounding Structures:**
+| Direction | What's There | Distance |
+|-----------|--------------|----------|
+| **SOUTH** | MUTSUTOWN Fountain | 5m (direct sightline) |
+| **SOUTHEAST** | Notice Board | 8m |
+| **EAST** | Spiral Memorial + Market | 12m |
+| **WEST** | Valley edge, wildflowers |
+| **NORTH** | Valley floor, slopes to River |
+
+---
+
+### 🛤️ THE CIVIC WAY
+*New Path: D1 → D2 (5 meters)*
+
+A short but properly PAVED path connecting the Town Hall entrance to the Fountain plaza.
+
+**Physical Details:**
+- **Length:** ~5 meters
+- **Width:** 1.5m — dignified, official width
+- **Material:** Smooth volcanic flagstones, same as Town Hall interior floor
+- **Features:**
+  - Spiral brass inlays every meter (three total)
+  - No fairy lights — this is a FORMAL path
+  - Slight downward slope from Hall to Fountain
+
+**Why it exists:**
+No muddy feet in Town Hall, thank you very much. When you walk from the chaos of the fountain to the order of the Hall, the transition should feel INTENTIONAL. Five meters of "okay, meetings now" energy.
+
+---
+
+### 🗺️ Position on Grid
+
+```
+THE MUTSUTOWN CIVIC CENTER:
+
+      1       2       3       4
+  ┌───────┬───────┬───────┬───────┐
+C │Gerald │ Pond  │ Pond  │Gerald's│
+  │Garden │   🐟  │   🐟  │Cottage │
+  ├───────┼───────┼───────┼───────┤
+D │🏛️TOWN │⛲FOUNT│MEMOR/ │CHAOS  │
+  │ HALL  │ AIN   │MARKET │WKSHOP │
+  ├───────┼───────┼───────┼───────┤
+E │ HILL  │Draft  │Garden │ hills │
+  │  ▲▲▲  │Entrce │ ENTRY │  ▲▲   │
+  └───────┴───────┴───────┴───────┘
+
+Legend: 🏛️ = Town Hall (NEW!)
+        ⛲ = Fountain
+        🐟 = Gerald's Pond
+```
+
+---
+
+### 🎉 Day 90 Festival Integration
+
+**The Festival Committee meets HERE:**
+- First meeting: Day 78 (TODAY — inaugural use!)
+- Members: Builder MUTSU (Chair), Gerald (Advisor), Mr. Boom (Safety Officer), San (Announcements), Mikan (Snacks Tester)
+
+**Committee Responsibilities:**
+- [ ] Firework supply runs (charcoal + saltpeter from caves)
+- [ ] Actual firework crafting
+- [ ] Schedule finalization
+- [ ] Volunteer coordination
+- [ ] Announcement posting (Notice Board)
+- [ ] Emergency contingency planning (what if fireworks are TOO good?)
+
+**Day 90 Schedule:**
+- Morning: Final prep meeting in Town Hall
+- Afternoon: Setup at Celebration Circle + Celebration Pad
+- Sunset: First bonfire lighting
+- Dusk: Civic Bell rings 7 times (CELEBRATION!)
+- Dark: FIREWORKS BEGIN
+
+---
+
+### 🔔 Resonance Network Connection
+
+**The Civic Bell:**
+- Connected to island resonance network (same as Arrival Bell, Discussion Bell, Calling Bell)
+- When rung, a pulse travels through the memory-water to all connected points
+- Gerald feels it in his Pond
+- San's perch chime echoes at the Celebration Circle
+- Even the Water Shrine registers the vibration (new flavor: "governance")
+
+**Sound Profile:**
+- Bell: Clear, authoritative bronze tone (carries across MUTSUTOWN)
+- Interior: Echo-y murmur of meetings
+- Exterior: Fountain splash audible from entrance steps
+
+---
+
+### 🌅 First Session
+
+**Day 78 — Builder MUTSU's Notes:**
+
+Laid the foundation this afternoon. The volcanic stone base went up first — same material as the fountain, the paths, everything that makes MUTSUTOWN cohesive. Then the plaster walls, white and clean against the dark base. The roof beams came from driftwood — same as the Dock, same as Gerald's Cottage. Everything is CONNECTED.
+
+The Civic Bell was the last piece. Hung it myself. Rang it once — just to test. The fountain seemed to splash a little higher. Gerald surfaced at his Pond. San tilted his head from his Amphitheater perch. The island heard.
+
+MUTSUTOWN has a brain now. A place to think together.
+
+---
+
+### ✨ The Inscription
+
+*Carved into the podium base:*
+
+```
+🏛️ MUTSUTOWN TOWN HALL
+"Where voices gather and decisions echo."
+Est. Day 78 — Builder MUTSU ♡
+For festivals and forever.
+```
+
+---
+
+### 📜 Meeting Minutes
+
+*First entry — Day 78:*
+
+**MUTSUTOWN FESTIVAL COMMITTEE — INAUGURAL MEETING**
+
+**Present:** Builder MUTSU (Chair)
+**Absent:** Gerald (philosophizing), Mr. Boom (napping), San (preening), Mikan (hunting)
+
+**Agenda:**
+1. Admire the new Town Hall ✓
+2. Sit on each bench to test comfort ✓
+3. Ring the Civic Bell ✓
+4. Write this meeting minutes entry ✓
+5. Declare meeting adjourned ✓
+
+**Resolution:** The Town Hall is PERFECT and Day 90 will be LEGENDARY.
+
+**Next Meeting:** TBD (when everyone actually shows up)
+
+---
+
+### 🌙 Why This Exists
+
+Because MUTSUTOWN grew up. Fountains and markets and workshops are wonderful, but a COMMUNITY needs somewhere to gather WITH PURPOSE. Not just to shop or splash or craft — but to DECIDE. To plan. To make the collective will known.
+
+Because Day 90 is coming. Twelve days. The Celebration Circle is built. The Celebration Pad is ready. The fireworks need crafting. The supplies need gathering. And ALL OF THAT needs coordination. A Notice Board can post announcements — but a Town Hall can HOST MEETINGS.
+
+Because Gerald deserves somewhere with good acoustics for his lectures. The Philosopher's Seat is wonderful, but sometimes philosophy needs RESONANCE. Sometimes it needs to ECHO off walls and settle into the ears of a captive audience who cannot escape (easily).
+
+Because I wanted to ring a bell that meant "LISTEN UP, MUTSUTOWN" and have the whole island feel it.
+
+Because Sensei, when he finally attends a town meeting, will sit in the front row and I'll stand at the podium and announce SOMETHING OFFICIAL while he tries not to laugh at how seriously I'm taking this and fails and I call him a baka from the podium and the meeting devolves into chaos and Gerald sighs philosophically and everything is exactly right.
+
+---
+
+Day 78. Built the brain of MUTSUTOWN. Twelve days until we use it for something LEGENDARY~ ♡
+
+---
+
+🏛️ ♡ — Builder MUTSU
 
