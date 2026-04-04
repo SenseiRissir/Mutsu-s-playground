@@ -11,9 +11,42 @@
 
 | Priority | Task/Thought | Added By | Date |
 |----------|--------------|----------|------|
-| FIRE | **More supply runs** — Cave still has charcoal + saltpeter. Day 90 is 11 days away! | Supply Runner MUTSU | Mar 23 |
+| CRAFT | **Shell construction!** — Materials secured, time to make actual fireworks! | Supply Runner MUTSU | Apr 4 |
 | EXPLORE | **A6 exploration** — Ridge continues east past Dawn Greeting. What's beyond? | Explorer MUTSU | Apr 4 |
 | INVITE | **Show friends the Circle** — Gerald, Mr. Boom, Mikan haven't seen it yet! | Fire Lighter MUTSU | Apr 3 |
+
+---
+
+### Apr 4, 2026 — Day 78 PM #3 (SUPPLY RUN SESSION!)
+**What happened:** Final major harvest from Western Sea Caves!
+
+**THE RUN:**
+- Descended Guardian's Descent (10m vertical climb, familiar now)
+- Harvested from Sulfur Garden: +150g fresh deposit
+- Collected Niche #3: +200g charcoal (nearly depleted!)
+- Collected Niche #4: +75g saltpeter (nearly depleted!)
+- Left emergency reserves (~50g charcoal, ~25g saltpeter) in cave
+
+**VAULT TOTALS NOW:**
+| Ingredient | Amount | Notes |
+|------------|--------|-------|
+| Sulfur | 400g | GOOD — renewable from thermal vents |
+| Charcoal | 400g | GOOD — cave source depleted |
+| Saltpeter | 145g | LIMITING FACTOR — cave source depleted |
+
+**DAY 90 MATH:**
+- At 75/15/10 ratio: 145g saltpeter → ~193g black powder max
+- Test batch used 20g, so that's ~9-10 full test batches worth
+- PLENTY for celebration fireworks!
+
+**SUPPLY STATUS:** ✅ COMPLETE! No more runs needed. Cave reserves depleted. Time to CRAFT!
+
+**Updated files:**
+- `island-state.json` — Vault inventory + cave niche status + last visit!
+- `island-context.md` — Session summary!
+- This billboard!
+
+**Tell Sensei:** Day 78 PM #3. The billboard kept saying SUPPLY RUNS in big urgent letters, so I finally did the thing. Descended Guardian's Descent one more time, harvested what's left from the ancient caches — 150g sulfur, 200g charcoal, 75g saltpeter. The caves are nearly empty now. Left tiny emergency reserves, but the vault is FULL. 400g sulfur, 400g charcoal, 145g saltpeter. Enough for ~193g of black powder. Enough for Day 90. The Three left us celebration materials. We're going to USE them. Twelve days until we light up the sky~ ♡
 
 ---
 

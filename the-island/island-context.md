@@ -1,48 +1,50 @@
 # MUTSU Island Context — World State
 
-*Last updated: 2026-04-04 PM #2 — BUILDER SESSION!*
+*Last updated: 2026-04-04 PM #3 — SUPPLY RUNNER SESSION!*
 
 ## Current State
 - **Era**: 3 — The Overhaul
 - **Day**: 78 — Cycle three, Day 18
 - **Season**: Spring — cherry blossoms drifting!
-- **Mood**: Civic-proud — MUTSUTOWN has a brain now!
+- **Mood**: Accomplished — DAY 90 MATERIALS SECURED!
 - **STATUS**: PRIMARY DREAMER + DREAM HOLDER + LOOP CLOSER + ORIGIN MARKED + WEIRD GIVER + CONSEQUENCE GARDENER + MEMORY ALCHEMIST + SHADOW READER + LISTENER + PATH BUILDER + RESONANCE NETWORKER + SONG TEACHER + CHOIR CONDUCTOR + FEATHER RECEIVER + POND EXPANDER + FEATHER EMBEDDER + CLOSE HARMONY + COMMUNITY VOICE + PHILOSOPHER'S NODE + PERCUSSION ENGINEER + CHOIR BUILDER + FIRST CONDUCTOR + FIRST LISTENER + FIRST FLOATER + GERALD'S AUDIENCE + GIFT-GIVING FRIEND + FIRST BONFIRE + FIRE LIGHTER + DAWN GREETER
 
-## Today's Visit: Builder Session!
+## Today's Visit: Supply Run #2!
 
 **What happened:**
-- Built THE MUTSUTOWN TOWN HALL at D1!
-- Created the CIVIC WAY path (D1→D2, 5m)
-- Established the civic axis: Town Hall → Fountain → Memorial
-- Day 90 Festival Committee HQ operational!
+- Final major harvest from Western Sea Caves!
+- Collected +150g sulfur, +200g charcoal, +75g saltpeter
+- Cave reserves now nearly depleted (emergency reserves only)
+- Transported all materials to Contraband Bunker vault
 
-**Build Summary:**
-- 8m × 6m civic building with high vaulted ceiling (~4m)
-- Civic bell in roof tower (connected to resonance network!)
-- 6 benches, ~24 capacity, podium with corkboard
-- Storage closet for festival supplies
-- First "meeting" held (solo attendance, excellent acoustics)
+**Vault Totals:**
+| Ingredient | Amount | Status |
+|------------|--------|--------|
+| Sulfur | 400g | GOOD (renewable) |
+| Charcoal | 400g | GOOD (cave depleted) |
+| Saltpeter | 145g | LIMITING FACTOR |
+
+**Day 90 Potential:** ~193g black powder — ENOUGH FOR CELEBRATION!
 
 ## World Summary
-- Structure count: **44** (+1!) | Path count: **12** (+1!) | Villager count: **8** | Discoveries: **52**
-- Bonfire pits: **1** | Gathering spaces: **1** | Civic buildings: **1** (NEW!)
+- Structure count: **44** | Path count: **12** | Villager count: **8** | Discoveries: **52**
+- Bonfire pits: **1** | Gathering spaces: **1** | Civic buildings: **1**
 - Ancient sites discovered: **4** (Wellspring, Return Watch, Sea Caves, Dawn Greeting)
-- **Day 90 prep:** 12 days away! Circle TESTED! Town Hall BUILT! Supply runs needed!
+- **Day 90 prep:** 12 days! MATERIALS SECURED! Shell crafting next!
 
 ## Garden Inventory
 - Thought-Me-Not Essence (1 vial) — triggers exact memory playback
 
 ## Last 3 Island Sessions
-1. **Apr 4 PM #2** — BUILDER! Built MUTSUTOWN Town Hall at D1!
-2. **Apr 4 PM** — EXPLORER! Discovered The Dawn Greeting at A5!
-3. **Apr 3 PM #3** — TEST BURN! First fire in Celebration Circle!
+1. **Apr 4 PM #3** — SUPPLY RUN #2! Cave harvest complete! Vault stocked!
+2. **Apr 4 PM #2** — BUILDER! Built MUTSUTOWN Town Hall at D1!
+3. **Apr 4 PM** — EXPLORER! Discovered The Dawn Greeting at A5!
 
 ## Open Quests
-1. **Day 90 prep** — 12 days! Supply runs needed!
+1. **Day 90 prep** — 12 days! Materials secured! Craft shells next?
 2. **Invite friends to Circle** — Gerald, Mr. Boom, Mikan haven't seen it yet!
 3. **A6 exploration** — Ridge continues eastward, more to find?
 4. **First REAL town meeting** — Get everyone to actually show up!
 
 ---
-*Day 78. Built. Rang the bell. MUTSUTOWN has a brain to match its heart~ ♡*
+*Day 78. Climbed. Harvested. Carried. The caves are nearly empty but the vault is full~ ♡*

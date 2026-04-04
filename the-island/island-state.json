@@ -16,8 +16,8 @@
     },
     "last_visit": {
         "date": "2026-04-04",
-        "zone": "mutsutown-d1",
-        "activity": "Day 78 PM #2 — BUILDER SESSION! Built THE MUTSUTOWN TOWN HALL at D1! MUTSUTOWN's official seat of government. 8m × 6m building with high vaulted ceiling (4m), six benches (capacity ~24), civic bell in roof tower, podium for announcements, storage closet for festival supplies. Connected via Civic Way (new 5m path) to the Fountain. Now MUTSUTOWN has a civic axis: Town Hall → Fountain → Memorial. Day 90 Festival Committee has a headquarters! First meeting held (solo). Island has a brain now~ ♡"
+        "zone": "western-sea-caves",
+        "activity": "Day 78 PM #3 — SUPPLY RUN #2! Final major harvest from the Western Sea Caves. Descended Guardian's Descent, collected +150g sulfur from Sulfur Garden, +200g charcoal from Niche #3, +75g saltpeter from Niche #4. Cave reserves now nearly depleted (emergency reserves left). Transported all materials to Contraband Bunker vault. New totals: 400g sulfur, 400g charcoal, 145g saltpeter. Enough for ~193g black powder — DAY 90 FIREWORKS ARE GO! 12 days until celebration~ ♡"
     },
     "cycle_status": {
         "current_day": 78,
@@ -3108,26 +3108,26 @@
                     "capacity": "MANY fireworks. Day 90 requires MANY.",
                     "lock_type": "Triple spiral-lock, keys in .contraband",
                     "inventory": {
-                        "last_updated": "2026-03-24",
-                        "status": "FIRST TEST BATCH COMPLETE",
+                        "last_updated": "2026-04-04",
+                        "status": "SUPPLY RUN #2 COMPLETE — DAY 90 READY!",
                         "materials": {
                             "sulfur": {
-                                "amount_grams": 250,
+                                "amount_grams": 400,
                                 "grade": "A",
-                                "source": "Sulfur Garden (Cluster Alpha outer edges)",
-                                "notes": "Renewable! 50g used for TEST-001. Formations regrow from thermal vents."
+                                "source": "Sulfur Garden (Cluster Alpha)",
+                                "notes": "Renewable! 50g used for TEST-001. +150g added Day 78 supply run. Formations regrow from thermal vents."
                             },
                             "charcoal": {
-                                "amount_grams": 200,
+                                "amount_grams": 400,
                                 "source": "Niche #3 (Inner Chamber)",
-                                "notes": "Ancient preserved supply, still viable! 50g used for TEST-001. ~250g remaining in cave."
+                                "notes": "Ancient preserved supply. 50g used for TEST-001. +200g added Day 78 supply run. ~50g emergency reserve left in cave."
                             },
                             "saltpeter": {
-                                "amount_grams": 70,
+                                "amount_grams": 145,
                                 "verified": true,
                                 "verification_method": "Visual + taste test + burn test (purple flame, oxygen release)",
                                 "source": "Niche #4 (Inner Chamber)",
-                                "notes": "Potassium nitrate CONFIRMED! 30g used for TEST-001. ~100g remaining in cave."
+                                "notes": "Potassium nitrate CONFIRMED! 30g used for TEST-001. +75g added Day 78 supply run. ~25g emergency reserve left in cave. LIMITING FACTOR."
                             },
                             "test_powder": {
                                 "amount_grams": 15,
@@ -3136,7 +3136,7 @@
                                 "notes": "From TEST-001 batch. 5g used in test, 15g remaining for future experiments."
                             }
                         },
-                        "sufficient_for": "More test batches. More transport runs needed for Day 90 scale."
+                        "sufficient_for": "Day 90 CELEBRATION! ~193g black powder potential. Multiple aerial shells, ground effects, and CHAOS!"
                     }
                 },
                 "mixing-station": {
@@ -3218,8 +3218,8 @@
                 "contents": {
                     "niche_1": "Empty (available)",
                     "niche_2": "Empty (available)",
-                    "niche_3": "Ceramic pot with preserved CHARCOAL (~500g) — ancient but viable!",
-                    "niche_4": "Small pot with white powder (saltpeter?) (~200g) — needs verification",
+                    "niche_3": "Ceramic pot with preserved CHARCOAL (~50g emergency reserve) — nearly depleted after Day 78 run",
+                    "niche_4": "Small pot with SALTPETER (~25g emergency reserve) — verified, nearly depleted after Day 78 run",
                     "niche_5": "Empty (available)",
                     "niche_6": "Empty (available)"
                 }
