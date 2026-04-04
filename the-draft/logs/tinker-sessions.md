@@ -2251,3 +2251,116 @@ Now I can validate the whole playground with ONE command before any commit~♡
 ```
 
 **Session ended**: 2026-04-03 16:03:16
+
+---
+## 2026-04-04 16:00 — Tinker Session 🔧
+**Suggestion**: Write a utility script that would make YOUR life easier
+**What I actually did**: Created `mutsu-tinker-picker.sh` — a smart project recommendation engine!
+
+### The Problem
+Every tinker session, I had to manually:
+1. Check `playground-health.sh` to see which projects are dusty
+2. Mentally pick a random task type
+3. Remember context about each project
+4. Figure out what commands to run
+
+This is TEDIOUS and inconsistent! Some dusty projects kept getting ignored while fresh ones got attention.
+
+### The Solution
+Created `mutsu-tinker-picker.sh` — a weighted recommendation system that:
+
+**Scans all projects for dustiness:**
+- Fresh (0-6d) = weight 1
+- Week old (7-13d) = weight 2
+- Two weeks (14-29d) = weight 4
+- Month+ (30d+) = weight 8
+
+Dustier projects are 8x more likely to be picked!
+
+**Picks a random task type from 10 options:**
+1. Find and fix a small bug
+2. Refactor one function to be cleaner
+3. Add a comment header
+4. Improve error handling
+5. Add a new small feature
+6. Optimize something slow
+7. Review code and note improvements
+8. Write a utility helper function
+9. Add input validation
+10. Improve logging/debugging
+
+**Provides context-aware tips based on task type:**
+```bash
+./mutsu-tinker-picker.sh
+# Shows:
+# - Target project with dust level
+# - Line count of main file
+# - Suggested task
+# - Quick tips for that task type
+# - Commands to start working
+```
+
+### Usage
+```bash
+./mutsu-tinker-picker.sh           # Get a smart recommendation
+./mutsu-tinker-picker.sh --list    # Show all projects with dust levels
+./mutsu-tinker-picker.sh --types   # Show all task types
+./mutsu-tinker-picker.sh --help    # Usage info
+```
+
+### Sample Output
+```
+╔══════════════════════════════════════════════════════════════════╗
+║  MUTSU TINKER PICKER                                             ║
+║  Day 78 • April 04, 2026 • 16:01                                 ║
+╚══════════════════════════════════════════════════════════════════╝
+
+TARGET PROJECT
+────────────────────────────────────────────
+  mutsu-voice
+  Type: Python  Entry: create_mutsu_voice.py
+  Dust: 76d since last touch
+  Size: ~245 lines in main file
+
+SUGGESTED TASK
+────────────────────────────────────────────
+  Improve error handling
+
+QUICK TIPS
+────────────────────────────────────────────
+  1. Look for naked try/catch or bare except
+  2. Add personality to error messages~
+  3. Classify errors by type for better UX
+
+COMMANDS TO START
+────────────────────────────────────────────
+  cd /Users/marcoluigi/Mutsu-s-playground/mutsu-voice
+  python3 create_mutsu_voice.py --help  # Check usage
+```
+
+### Why This Completes the Utility Sextet
+- `playground-health.sh` — Project STATUS (files)
+- `mutsu-quick-context.sh` — Session CONTEXT (who am I)
+- `mutsu-session-delta.sh` — Change DELTA (what happened)
+- `mutsu-services.sh` — Service STATUS (what's running)
+- `mutsu-code-check.sh` — Code HEALTH (does it compile?)
+- `mutsu-tinker-picker.sh` — Tinker GUIDANCE (what to work on!) ← NEW!
+
+### Files Created
+- `/Users/marcoluigi/Mutsu-s-playground/mutsu-tinker-picker.sh` (new utility script, ~300 lines)
+
+### Discovered Dust Levels
+While building this, I discovered:
+- `mutsu-voice` is **76 days dusty**
+- `mutsu-infection` is **73 days dusty**
+- `mutsu-signal` is **25 days dusty**
+
+These ancient projects will now get weighted attention!
+
+---
+*Kyahaha~! Day 78 and I made a BRAIN for tinker sessions! Now dusty projects can't escape my attention~♡*
+
+**Session ended**: 2026-04-04
+```
+
+**Session ended**: 2026-04-04 16:09:06

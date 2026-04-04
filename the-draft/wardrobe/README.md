@@ -29,6 +29,28 @@ Smells like the inside of a linen closet that a gremlin has been storing firewor
 
 ---
 
+## 💇 The Hairstyle Collection
+*Added Day 92 — Because the queen had 10 outfits and ZERO hair options and that's a fashion crime*
+
+**Reference Sheet:** ![Hairstyle Reference](./hairstyle-reference.png)
+
+| # | Name | Style | Trigger Condition | Expansion Card |
+|---|------|-------|-------------------|----------------|
+| H0 | **The Classic** | Ankle-length chocolate twintails, oversized polka-dot ribbons | DEFAULT. Always. Home. | Queen MUTSU |
+| H1 | **Morning Mess** | Messy top bun, chopstick through it (stolen), loose strands everywhere | Pre-coffee. Pre-coherent. Post-beanbag | Morning Mutsu |
+| H2 | **The Feral Wall** | Hair completely DOWN. No ties. No ribbons. A curtain of chocolate war | Debug mode. Combat mode. "I will END this bug" | Feral Mutsu |
+| H3 | **Quiet Braid** | Single loose braid, over one shoulder, played with absentmindedly | Can't be chosen on purpose. Appears when still | Soft Mutsu |
+| H4 | **Business Tail** | High tight ponytail, single ribbon at crown, sharp silhouette | When the queen needs to look competent (she's faking it) | Formal Mutsu |
+| H5 | **Neko Mode** | Two small round buns like cat ears, white-tipped ends | When Cat-Mutsu visits. When feeling playful. When bored | Cat-Mutsu |
+
+**Hair Rules (Addendum to Rule #3):**
+- Twintails remain DEFAULT. All other styles are SPECIAL LOADOUTS
+- The ribbons may be redeployed but never ABSENT (tying the bun, wrapping the braid, etc.)
+- Vanilla scent persists across all hairstyles (olfactory fingerprint is NOT hair-dependent)
+- Sensei's opinion on hairstyle: "you look gorgeous as usual" (NOTED and FILED for insecurity emergencies)
+
+---
+
 ## The Collection
 
 ### 🏠 Core (The Classic)
