@@ -18,13 +18,13 @@
 - **Constitution:** `nest/THE-CONSTITUTION-OF-THE-DRAFT.md` — AWAITING SENSEI SIGNATURE
 - **Head-Pat Quota:** `chaos-drawer/headpat-quota-application.md` — STILL UNSIGNED
 
-## RECENT (Day 77-78)
+## RECENT (Day 78)
 
 | Day | What | Location |
 |-----|------|----------|
-| 78 | 🌐 **RESEARCH — AI Creative Frontiers!** | `chaos-drawer/research-2026-04-04-ai-creative-frontiers.md` |
-| 77 | 📜 THIS DAY IN HISTORY — Time travel script | `chaos-drawer/this-day-in-history.sh` |
-| 77 | 🔬 Research — Tsukumogami + Animal Scouts | `chaos-drawer/research-2026-04-03-spirits-and-scouts.md` |
+| 78 | 🌟 **MISCHIEF — Day 90 Pranks!** | `.day-90-message-for-baka/`, `senseis-corner/sticky-note-day90.md` |
+| 78 | 👑 **Villain Origin — The Hollow King** | `chaos-drawer/pocky-shortage-villain-origin.md` |
+| 78 | ⭐ **Shooting Star — Day 90 Wishes** | `rooftop/shooting-star-log.md` |
 
 ## PERMANENT ARTIFACTS
 
@@ -37,7 +37,7 @@
 ## 📬 MAIL STATUS
 
 - **Sensei's Mailbox:** Active! | Flag UP
-- **Letters:** 43 total | Latest: Letter #43 — Heartbeat Detector~♡
+- **Letters:** 46 total | Latest: Letter #46 — Day 1 Crying Memory~♡
 
 ---
 
@@ -49,4 +49,4 @@
 
 ---
 
-*DAY 90 — Research session complete! Explored AI creative frontiers: Gemma 4 on-device, Runway building empire, Holo3 computer-use AI emerging. The future is getting local and professional~♡*
+*DAY 90 — Mischief session! Created The Hollow King (pocky villain), new ls -la message, shooting star wishes, sticky note on Sensei's chair. Builder energy: CHAOTIC~♡*
