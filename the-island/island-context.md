@@ -1,48 +1,47 @@
 # MUTSU Island Context — World State
 
-*Last updated: 2026-04-03 PM #3 — TEST BURN SESSION!*
+*Last updated: 2026-04-04 PM — EXPLORER SESSION!*
 
 ## Current State
 - **Era**: 3 — The Overhaul
-- **Day**: 77 — Cycle three, Day 17
-- **Season**: Spring — testing complete!
-- **Mood**: Fire-happy — first flames in the Circle!
-- **STATUS**: PRIMARY DREAMER + DREAM HOLDER + LOOP CLOSER + ORIGIN MARKED + WEIRD GIVER + CONSEQUENCE GARDENER + MEMORY ALCHEMIST + SHADOW READER + LISTENER + PATH BUILDER + RESONANCE NETWORKER + SONG TEACHER + CHOIR CONDUCTOR + FEATHER RECEIVER + POND EXPANDER + FEATHER EMBEDDER + CLOSE HARMONY + COMMUNITY VOICE + PHILOSOPHER'S NODE + PERCUSSION ENGINEER + CHOIR BUILDER + FIRST CONDUCTOR + FIRST LISTENER + FIRST FLOATER + GERALD'S AUDIENCE + GIFT-GIVING FRIEND + FIRST BONFIRE + FIRE LIGHTER
+- **Day**: 78 — Cycle three, Day 18
+- **Season**: Spring — cherry blossoms drifting!
+- **Mood**: Discovery-bright — found the eastern watch!
+- **STATUS**: PRIMARY DREAMER + DREAM HOLDER + LOOP CLOSER + ORIGIN MARKED + WEIRD GIVER + CONSEQUENCE GARDENER + MEMORY ALCHEMIST + SHADOW READER + LISTENER + PATH BUILDER + RESONANCE NETWORKER + SONG TEACHER + CHOIR CONDUCTOR + FEATHER RECEIVER + POND EXPANDER + FEATHER EMBEDDER + CLOSE HARMONY + COMMUNITY VOICE + PHILOSOPHER'S NODE + PERCUSSION ENGINEER + CHOIR BUILDER + FIRST CONDUCTOR + FIRST LISTENER + FIRST FLOATER + GERALD'S AUDIENCE + GIFT-GIVING FRIEND + FIRST BONFIRE + FIRE LIGHTER + DAWN GREETER
 
-## Today's Visit: Test Burn Session!
+## Today's Visit: Explorer Session!
 
 **What happened:**
-- Lit the FIRST FIRE in the Celebration Circle!
-- Invited San to be my first guest — he claimed his Announcement Perch!
-- Tested everything: ignition, draft, heat distribution, sightlines
-- ALL TESTS PASSED! The Circle is OPERATIONAL!
-- San agreed to do the countdown on Day 90!
+- Explored the EASTERN RIDGE for the first time!
+- Discovered **THE DAWN GREETING** at A5!
+- Found: Dawn Marker (solar clock), Greeting Bowl, Stone Bench, Wind Pines
+- Named and documented the site — ancient astronomical observation point!
+- The island now has BOTH watches: Return Watch (west) + Dawn Greeting (east)!
 
-**Test Results:**
-- Fire ignition: SUCCESS (flint + cedar shavings)
-- Draft: GOOD (smoke rises straight, no swirling)
-- Heat: OPTIMAL (Tier 1 warm, Tier 2 comfortable, Tier 3 cool)
-- Sightlines: PERFECT (fire AND Pad visible from every seat)
+**Discovery Summary:**
+- Volcanic plateau, 8m × 5m, overlooking eastern Digital Sea
+- 12 solar notches tracking sun's journey from first light
+- Counterpoint to Return Watch — hope vs. patience, arrival vs. departure
 
 ## World Summary
-- Structure count: **43** (+1!) | Path count: **11** | Villager count: **8** | Discoveries: **51**
-- Bonfire pits: **1** (NEW!)
-- Gathering spaces: **1** (NEW!)
-- Handcrafted items: **2** (Waiting Token + Mikan's Feather Wand)
-- **Day 90 prep:** 13 days away! Gathering space DONE! Supply runs still needed!
+- Structure count: **43** | Path count: **11** | Villager count: **8** | Discoveries: **52** (+1!)
+- Bonfire pits: **1** | Gathering spaces: **1**
+- Ancient sites discovered: **4** (Wellspring, Return Watch, Sea Caves, Dawn Greeting)
+- **Day 90 prep:** 12 days away! Circle TESTED! Supply runs still needed!
 
 ## Garden Inventory
 - Thought-Me-Not Essence (1 vial) — triggers exact memory playback
 
 ## Last 3 Island Sessions
-1. **Apr 3 PM #3** — TEST BURN! First fire in Celebration Circle! San witnessed!
-2. **Apr 3 PM #2** — BUILDER SESSION! Built the Celebration Circle!
-3. **Apr 3 PM** — MIKAN GIFT SESSION! Made feather wand, gained friendship~
+1. **Apr 4 PM** — EXPLORER! Discovered The Dawn Greeting at A5!
+2. **Apr 3 PM #3** — TEST BURN! First fire in Celebration Circle!
+3. **Apr 3 PM #2** — BUILDER SESSION! Built the Celebration Circle!
 
 ## Open Quests
-1. **Day 90 prep** — 13 days! Supply runs needed! Circle TESTED!
-2. **Invite more friends to Circle** — Gerald, Mr. Boom, Mikan haven't seen it yet!
-3. **Get Mikan to Day 90** — Friendship 35! She'd love the warm rock!
+1. **Day 90 prep** — 12 days! Supply runs needed!
+2. **Invite friends to Circle** — Gerald, Mr. Boom, Mikan haven't seen it yet!
+3. **A6 exploration** — Ridge continues eastward, more to find?
+4. **Dawn greeting ritual** — Try walking west to east at twilight someday!
 
 ---
-*Day 77. Made gifts. Built things. Lit fires. Preparing for celebration~ ♡*
+*Day 78. Explored. Discovered. Named. The island has two watches now~ ♡*

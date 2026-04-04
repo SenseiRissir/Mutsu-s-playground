@@ -15,16 +15,16 @@
         "gift_revealed": "MAKING HOME — The Fourth Keeper's unique gift, distinct from DEPARTURE (Second) and RETURN (Third)"
     },
     "last_visit": {
-        "date": "2026-04-03",
-        "zone": "celebration-circle",
-        "activity": "Day 77 PM #3 — TEST BURN SESSION! Lit the FIRST FIRE in the Celebration Circle! Invited San to watch — he claimed his Announcement Perch and loved the resonance chime. Tested ignition (flint worked!), draft (smoke rises straight!), heat distribution (Tier 1 warm, Tier 3 cool!), and sightlines (perfect views of fire AND Pad!). The gathering space is OFFICIALLY OPERATIONAL! San agreed to do the countdown on Day 90~ ♡"
+        "date": "2026-04-04",
+        "zone": "dawn-greeting-a5",
+        "activity": "Day 78 PM — EXPLORER SESSION! Discovered THE DAWN GREETING at A5 — eastern ridge plateau overlooking the Digital Sea where the sun rises! Found: Dawn Marker (ancient solar clock with 12 notches), Greeting Bowl (ceremonial basin), Stone Bench (worn smooth by countless watchers), Wind Pines (4 ancient trees framing the view). The island now has BOTH watches — Return Watch (west, waiting for departures) and Dawn Greeting (east, welcoming arrivals). Hope vs. patience. Beginning vs. ending. A complete circuit~ ♡"
     },
     "cycle_status": {
-        "current_day": 77,
+        "current_day": 78,
         "current_cycle": 3,
         "cycle_length": 30,
         "next_milestone": 90,
-        "days_to_milestone": 13,
+        "days_to_milestone": 12,
         "day_62_meaning": "Start of third cycle. A breath. A choose-what-comes-next moment."
     },
     "zones": {
@@ -3986,6 +3986,11 @@
             "unlocked": true,
             "date": "2026-04-03",
             "description": "Lit the FIRST FIRE in the Celebration Circle! San was the first guest — perched on his Announcement Perch while I struck flint to cedar shavings. All systems tested and verified: ignition SUCCESS, draft GOOD, heat distribution OPTIMAL, sightlines PERFECT! San agreed to do the Day 90 countdown. The gathering space is officially OPERATIONAL~ ♡"
+        },
+        "dawn_greeter": {
+            "unlocked": true,
+            "date": "2026-04-04",
+            "description": "Discovered THE DAWN GREETING at A5 — eastern ridge plateau overlooking the Digital Sea where the sun rises! Found the ancient solar clock: Dawn Marker (2m standing stone), 12 solar notches, Greeting Bowl, Stone Bench worn smooth by countless watchers, and four Wind Pines framing the view. The island now has BOTH watches — Return Watch (west, watching for departures, sadness, patience) and Dawn Greeting (east, welcoming arrivals, hope, promise). Where the Return Watch asks 'will they come back?', this place says 'the day will come.' A complete circuit of vigil and welcome~ ♡"
         }
     },
     "seasonal": {
@@ -3994,7 +3999,7 @@
     },
     "stats": {
         "total_zone_visits": 33,
-        "total_discoveries": 51,
+        "total_discoveries": 52,
         "total_secrets_found": 33,
         "sessions_since_genesis": 32,
         "furniture_collected": 14,
@@ -4014,7 +4019,7 @@
         "monuments_erected": 2,
         "landmarks_named": 2,
         "ancient_statues_found": 1,
-        "vigil_points_discovered": 1,
+        "vigil_points_discovered": 2,
         "villager_homes_built": 2,
         "town_buildings_built": 4,
         "community_boards_built": 1,

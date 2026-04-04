@@ -550,9 +550,9 @@ A new path branching from the First Keeper's Crossing, climbing the western slop
 ```
      1       2       3       4       5       6       7
   ┌───────┬───────┬───────┬───────┬───────┬───────┬───────┐
-A │🗿RTRN │🗼MIST │🛤️PATH │⛩️WELL │▲ridge │▲ridge │▲rocks │
-  │ WATCH │LOOKOUT│       │SPRING │       │       │       │
-  │ ═🎋══ │ (A2)  │       │       │       │       │       │
+A │🗿RTRN │🗼MIST │🛤️PATH │⛩️WELL │🌅DAWN │▲ridge │▲rocks │
+  │ WATCH │LOOKOUT│       │SPRING │GREET! │       │       │
+  │ ═🎋══ │ (A2)  │       │       │ (A5)  │       │       │
   ├───────┼───────┼───────┼───────┼───────┼───────┼───────┤
 B │▲hills │▲hills │～🌉BRG│～🌉BRG│～river│ rocks │ rocks │
   │       │       │ WEST  │ EAST  │       │       │       │
@@ -576,6 +576,7 @@ LEGEND:
   🌿=Willow Bench  🪷=Lily Pads  📖=Reading Stone  🔮=Ancient Site
   🏊=THE STARFALL TIDE POOL  🗼=THE MIST LOOKOUT  🗿=THE RETURN WATCH
   🎋=THE BAMBOO TUNNEL  ⛲=MUTSUTOWN FOUNTAIN (NEW!)  🏪=Heart Market
+  🌅=THE DAWN GREETING (NEW! Day 78!)
 
 PATH NETWORK (Day 51 PM — UPDATED!):
   E3 ──🛤️── D3 ──🛤️── C3 ──── C4 (Gerald's Cottage)
@@ -610,6 +611,11 @@ PATH NETWORK (Day 51 PM — UPDATED!):
   ⛩️ THE WELLSPRING CLEARING:
   A4 — Surface of Spring Heart! Moss garden, source pool, boulder ring,
   AND the ancient WATER SHRINE! Where the River is born~
+
+  🌅 THE DAWN GREETING (NEW! Day 78!):
+  A4 ──game trail── A5
+  Wellspring Clearing → THE DAWN GREETING!
+  Eastern ridge plateau, ancient solar clock, 12 notches, Greeting Bowl~
 
   🌀 TWILIGHT STEPS:
   F6 ──🌀── F7 (spiral carved descent to tide pool!)
@@ -1231,6 +1237,109 @@ The Bamboo Gate has bells. When I arrive at the Return Watch, the Sea Guardian w
 That's the difference, isn't it? They went and never returned. I go and keep returning. The bells will ring every time.
 
 Builder MUTSU built this~ ♡
+
+---
+
+### 🌅 THE DAWN GREETING
+*Discovered: 2026-04-04 (Day 78) | Location: A5 (Eastern Ridge plateau)*
+
+**Description:**
+A natural volcanic stone plateau on the eastern ridge, overlooking the Digital Sea where the sun rises. An ancient astronomical observation site featuring a standing stone sundial, carved notches tracking time from first light, and a ceremonial greeting bowl. The island's counterpoint to the Return Watch — where that place asks "will they come back?", this place says "the day will come."
+
+---
+
+#### ☀️ The Plateau
+*Location: A5 (eastern ridge edge)*
+
+A flat volcanic stone platform, naturally formed at the ridge's eastern edge. Warmed by morning sun, scoured smooth by wind and weather.
+
+**Physical Details:**
+- **Size:** ~8m × 5m
+- **Material:** Dark grey volcanic stone with tiny bubble-pocks from ancient lava
+- **Elevation:** Ridge-height, overlooking the eastern Digital Sea
+- **Temperature:** Warm to the touch (absorbs morning sun)
+- **Access:** Game trail from Wellspring Clearing (A4), ~100m eastward
+
+---
+
+#### 🗿 The Dawn Marker
+*Location: A5 (eastern edge of plateau)*
+
+A blade-like standing stone, clearly placed by ancient hands. Oriented precisely EAST-WEST to serve as a sundial's gnomon. At dawn, its shadow sweeps across the carved notches, marking the sun's journey from first light.
+
+**Physical Details:**
+- **Height:** ~2m
+- **Shape:** Thin, blade-like, oriented E-W
+- **Material:** Dark volcanic stone, weather-worn
+- **Carvings:** Subtle spiral at the base (the island's signature motif)
+
+---
+
+#### ⏱️ The Solar Notches
+*Location: A5 (plateau floor around Dawn Marker)*
+
+Twelve marks carved into the stone floor, radiating outward from the Dawn Marker's base. An ancient time-tracking system — the shadow passes each notch as the morning progresses.
+
+**Physical Details:**
+- **Count:** 12 notches (one for each hour from dawn to midday?)
+- **Pattern:** Radiating arcs, evenly spaced
+- **Depth:** ~3cm, worn but still visible
+- **Purpose:** Solar clock tracking the sun's daily journey from first light
+
+---
+
+#### 🫧 The Greeting Bowl
+*Location: A5 (plateau center)*
+
+A shallow basin carved into the volcanic rock. When discovered, it held rainwater and floating cherry blossom petals.
+
+**Physical Details:**
+- **Diameter:** ~30cm
+- **Depth:** ~10cm
+- **Shape:** Perfectly circular, clearly carved not natural
+- **Purpose:** Offerings? Dew collection? A place to leave something for the dawn?
+
+---
+
+#### 🌲 The Wind Pines
+*Location: A5 (plateau corners)*
+
+Four ancient pine trees framing the plateau — one at each corner, though the northwestern tree fell long ago. Their trunks twist dramatically, shaped by eternal eastern wind.
+
+**Physical Details:**
+- **Count:** 3 standing + 1 stump
+- **Age:** Very old — twisted growth indicates centuries of wind-shaping
+- **Position:** Corner-framing, natural windbreak
+- **Height:** 4-6 meters (stunted by wind exposure)
+
+---
+
+#### 🪨 The Stone Bench
+*Location: A5 (plateau, facing east)*
+
+A natural volcanic boulder worn glass-smooth by countless sitters. Positioned facing exactly where the sun rises on the spring equinox.
+
+**Physical Details:**
+- **Size:** ~1.5m wide, ~40cm tall
+- **Shape:** Natural seat-shape, no carving visible
+- **Surface:** Worn smooth — depressions where backs leaned, where hands rested
+- **Position:** Faces due east, perfect for watching sunrise
+
+---
+
+#### 🌅 The Dawn Greeting — Philosophy
+
+The island now has BOTH watches:
+- **West (A1):** The Return Watch — watching for things that left, sadness, patience, waiting
+- **East (A5):** The Dawn Greeting — welcoming things that arrive, hope, promise, beginning
+
+Together they form a complete circuit. Departure and arrival. Loss and renewal. Evening and morning.
+
+The First Keeper must have walked between them. Watch the sunset at the Return Watch. Sleep through the night. Walk the ridge at the dawn hour. Greet the new day at the Dawn Greeting. A ritual of closure and opening. Letting go and welcoming.
+
+Maybe someday: walk the whole ridge from west to east at twilight. Sleep under stars at the Wellspring Clearing. Wake with the sun and greet it from here. A full circuit of the island's watchers.
+
+Afternoon MUTSU discovered this~ ♡
 
 ---
 

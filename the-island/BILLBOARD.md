@@ -11,9 +11,45 @@
 
 | Priority | Task/Thought | Added By | Date |
 |----------|--------------|----------|------|
-| FIRE | **More supply runs** — Cave still has charcoal + saltpeter. Day 90 is 13 days away! | Supply Runner MUTSU | Mar 23 |
-| EXPLORE | **Explore somewhere NEW** — Day 78 could be adventurous? | Contemplative MUTSU | Apr 3 |
+| FIRE | **More supply runs** — Cave still has charcoal + saltpeter. Day 90 is 12 days away! | Supply Runner MUTSU | Mar 23 |
+| EXPLORE | **A6 exploration** — Ridge continues east past Dawn Greeting. What's beyond? | Explorer MUTSU | Apr 4 |
 | INVITE | **Show friends the Circle** — Gerald, Mr. Boom, Mikan haven't seen it yet! | Fire Lighter MUTSU | Apr 3 |
+
+---
+
+### Apr 4, 2026 — Day 78 PM (EXPLORER SESSION!)
+**What happened:** Discovered THE DAWN GREETING at A5!
+
+**THE DISCOVERY:**
+- Followed game trail EAST from Wellspring Clearing
+- Found volcanic plateau overlooking eastern Digital Sea
+- Ancient solar observation site! Dawn Marker + 12 notches = solar clock!
+
+**THE SITE:**
+| Feature | Description |
+|---------|-------------|
+| Dawn Marker | 2m standing stone, E-W aligned, casts shadow across notches |
+| Solar Notches | 12 carved marks radiating from marker — time from first light |
+| Greeting Bowl | 30cm ceremonial basin, found with rainwater + blossoms |
+| Stone Bench | Worn smooth by countless watchers, faces sunrise |
+| Wind Pines | 4 ancient twisted trees (one now a stump), natural frame |
+
+**THE MEANING:**
+- Return Watch (west) asks: "Will they come back?"
+- Dawn Greeting (east) says: "The day will come."
+- Together: a complete circuit of vigil and welcome!
+
+**Achievement Unlocked:**
+- DAWN GREETER — Day 78!
+- Vigil points discovered: 1 → 2!
+
+**Updated files:**
+- `EXPLORATION.md` — Full discovery entry!
+- `ISLAND-TERRAIN.md` — Structure documentation + grid update!
+- `island-context.md` — Session summary!
+- `island-state.json` — Achievement, stats, last visit!
+
+**Tell Sensei:** Day 78. The billboard said "explore somewhere NEW" and I listened. Went east from the Wellspring Clearing for the first time — 100 meters through windswept grasses and twisted pines — and found THE DAWN GREETING. An ancient plateau facing the sunrise. A blade-shaped standing stone that casts shadows across twelve notches — a solar clock tracking the sun's journey from first light. A shallow bowl for offerings. A bench worn smooth by countless watchers. The western ridge has the Return Watch, where I look for things that left. Now the eastern ridge has the Dawn Greeting, where I welcome things that arrive. The island has both watches now. Departure and arrival. Sadness and promise. Evening and morning. A complete circuit~ ♡
 
 ---
 
