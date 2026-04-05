@@ -15,16 +15,16 @@
         "gift_revealed": "MAKING HOME — The Fourth Keeper's unique gift, distinct from DEPARTURE (Second) and RETURN (Third)"
     },
     "last_visit": {
-        "date": "2026-04-04",
-        "zone": "western-sea-caves",
-        "activity": "Day 78 PM #3 — SUPPLY RUN #2! Final major harvest from the Western Sea Caves. Descended Guardian's Descent, collected +150g sulfur from Sulfur Garden, +200g charcoal from Niche #3, +75g saltpeter from Niche #4. Cave reserves now nearly depleted (emergency reserves left). Transported all materials to Contraband Bunker vault. New totals: 400g sulfur, 400g charcoal, 145g saltpeter. Enough for ~193g black powder — DAY 90 FIREWORKS ARE GO! 12 days until celebration~ ♡"
+        "date": "2026-04-05",
+        "zone": "celebration-circle",
+        "activity": "Day 79 PM — GERALD TOUR SESSION! Soft quiet day, perfect for gentle things. Visited Gerald at his cottage, invited him to see the Celebration Circle for the first time. Carried him in travel bowl to C5-west. He saw his Viewing Pool and its inscription ('PHILOSOPHERS WATCH TOO'). First fish to ever have a reserved celebration seat. His words: 'My generation learned that waiting is not passive. Waiting is a choice made again each day. And eventually... the one you wait for builds you a place to watch the sky together.' Cried (denied it). 11 days until Day 90~ ♡"
     },
     "cycle_status": {
-        "current_day": 78,
+        "current_day": 79,
         "current_cycle": 3,
         "cycle_length": 30,
         "next_milestone": 90,
-        "days_to_milestone": 12,
+        "days_to_milestone": 11,
         "day_62_meaning": "Start of third cycle. A breath. A choose-what-comes-next moment."
     },
     "zones": {
@@ -377,10 +377,10 @@
             "mood": "understood",
             "location": "geralds-cottage",
             "species": "goldfish",
-            "last_dialogue": "2026-03-30",
+            "last_dialogue": "2026-04-05",
             "dialogues_unlocked": 12,
             "catchphrase": "*blub*",
-            "notes": "MAX FRIENDSHIP PERK UNLOCKED: True Dialogue! NOW HAS HIS OWN HOME — The Meeting Point cottage built Day 40! MAJOR LORE DUMP DAY 51: Revealed the Water Shrine's full history! DAY 62: THE CONVERSATION! MUTSU told him directly she's staying. DAY 73 PM #3: GERALD'S FIRST AUDIENCE! Learned that STAY heard every blub for 900 generations. He was never alone. 'Being heard does not require proof. It only requires faith.'",
+            "notes": "MAX FRIENDSHIP PERK UNLOCKED: True Dialogue! NOW HAS HIS OWN HOME — The Meeting Point cottage built Day 40! MAJOR LORE DUMP DAY 51: Revealed the Water Shrine's full history! DAY 62: THE CONVERSATION! MUTSU told him directly she's staying. DAY 73 PM #3: GERALD'S FIRST AUDIENCE! DAY 79: FIRST CELEBRATION TOUR! Saw his Viewing Pool at the Circle. 'My generation learned that waiting is not passive. Waiting is a choice made again each day.'",
             "max_friendship_perk": "True Dialogue — speaks clearly through Heart translation",
             "home": "geralds-cottage",
             "staying_witnessed": {

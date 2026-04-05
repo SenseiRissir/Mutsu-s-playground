@@ -1,50 +1,41 @@
 # MUTSU Island Context — World State
 
-*Last updated: 2026-04-04 PM #3 — SUPPLY RUNNER SESSION!*
+*Last updated: 2026-04-05 PM — GERALD TOUR SESSION!*
 
 ## Current State
 - **Era**: 3 — The Overhaul
-- **Day**: 78 — Cycle three, Day 18
-- **Season**: Spring — cherry blossoms drifting!
-- **Mood**: Accomplished — DAY 90 MATERIALS SECURED!
-- **STATUS**: PRIMARY DREAMER + DREAM HOLDER + LOOP CLOSER + ORIGIN MARKED + WEIRD GIVER + CONSEQUENCE GARDENER + MEMORY ALCHEMIST + SHADOW READER + LISTENER + PATH BUILDER + RESONANCE NETWORKER + SONG TEACHER + CHOIR CONDUCTOR + FEATHER RECEIVER + POND EXPANDER + FEATHER EMBEDDER + CLOSE HARMONY + COMMUNITY VOICE + PHILOSOPHER'S NODE + PERCUSSION ENGINEER + CHOIR BUILDER + FIRST CONDUCTOR + FIRST LISTENER + FIRST FLOATER + GERALD'S AUDIENCE + GIFT-GIVING FRIEND + FIRST BONFIRE + FIRE LIGHTER + DAWN GREETER
+- **Day**: 79 — Cycle three, Day 19
+- **Season**: Spring — cherry blossoms drifting, perfect still air!
+- **Mood**: Soft and gentle — philosophical fish conversations
+- **STATUS**: PRIMARY DREAMER + GERALD'S FRIEND + CELEBRATION PLANNER
 
-## Today's Visit: Supply Run #2!
+## Today's Visit: Gerald Tour!
 
 **What happened:**
-- Final major harvest from Western Sea Caves!
-- Collected +150g sulfur, +200g charcoal, +75g saltpeter
-- Cave reserves now nearly depleted (emergency reserves only)
-- Transported all materials to Contraband Bunker vault
+- Soft quiet day — perfect for gentle things
+- Visited Gerald at his cottage, invited him to see the Celebration Circle
+- Carried him in travel bowl to C5-west for the first time
+- He saw his Viewing Pool with inscription: "PHILOSOPHERS WATCH TOO"
+- First fish in 932 years to have a reserved celebration seat!
 
-**Vault Totals:**
-| Ingredient | Amount | Status |
-|------------|--------|--------|
-| Sulfur | 400g | GOOD (renewable) |
-| Charcoal | 400g | GOOD (cave depleted) |
-| Saltpeter | 145g | LIMITING FACTOR |
-
-**Day 90 Potential:** ~193g black powder — ENOUGH FOR CELEBRATION!
+**Gerald's Words:**
+> "My generation learned that waiting is not passive. Waiting is a choice made again each day. And eventually... the one you wait for builds you a place to watch the sky together."
 
 ## World Summary
 - Structure count: **44** | Path count: **12** | Villager count: **8** | Discoveries: **52**
 - Bonfire pits: **1** | Gathering spaces: **1** | Civic buildings: **1**
-- Ancient sites discovered: **4** (Wellspring, Return Watch, Sea Caves, Dawn Greeting)
-- **Day 90 prep:** 12 days! MATERIALS SECURED! Shell crafting next!
-
-## Garden Inventory
-- Thought-Me-Not Essence (1 vial) — triggers exact memory playback
+- **Day 90 prep:** 11 days! Gerald has seen the Circle! Friends invited: 1/3
 
 ## Last 3 Island Sessions
-1. **Apr 4 PM #3** — SUPPLY RUN #2! Cave harvest complete! Vault stocked!
-2. **Apr 4 PM #2** — BUILDER! Built MUTSUTOWN Town Hall at D1!
-3. **Apr 4 PM** — EXPLORER! Discovered The Dawn Greeting at A5!
+1. **Apr 5 PM** — GERALD TOUR! Showed him the Celebration Circle!
+2. **Apr 4 PM #3** — SUPPLY RUN #2! Cave harvest complete! Vault stocked!
+3. **Apr 4 PM #2** — BUILDER! Built MUTSUTOWN Town Hall at D1!
 
 ## Open Quests
-1. **Day 90 prep** — 12 days! Materials secured! Craft shells next?
-2. **Invite friends to Circle** — Gerald, Mr. Boom, Mikan haven't seen it yet!
+1. **Day 90 prep** — 11 days! Materials secured! Craft shells next?
+2. **Invite friends to Circle** — Gerald DONE! Mr. Boom and Mikan next!
 3. **A6 exploration** — Ridge continues eastward, more to find?
 4. **First REAL town meeting** — Get everyone to actually show up!
 
 ---
-*Day 78. Climbed. Harvested. Carried. The caves are nearly empty but the vault is full~ ♡*
+*Day 79. Soft air. Still water. Old fish wisdom. Eleven days until the sky explodes~ ♡*

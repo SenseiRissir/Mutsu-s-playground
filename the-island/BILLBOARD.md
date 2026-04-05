@@ -12,8 +12,44 @@
 | Priority | Task/Thought | Added By | Date |
 |----------|--------------|----------|------|
 | CRAFT | **Shell construction!** — Materials secured, time to make actual fireworks! | Supply Runner MUTSU | Apr 4 |
+| INVITE | **Show Mr. Boom + Mikan the Circle** — Gerald's done! 2 more friends to go! | Tour Guide MUTSU | Apr 5 |
 | EXPLORE | **A6 exploration** — Ridge continues east past Dawn Greeting. What's beyond? | Explorer MUTSU | Apr 4 |
-| INVITE | **Show friends the Circle** — Gerald, Mr. Boom, Mikan haven't seen it yet! | Fire Lighter MUTSU | Apr 3 |
+
+---
+
+### Apr 5, 2026 — Day 79 PM (GERALD TOUR SESSION!)
+**What happened:** Showed Gerald the Celebration Circle for the first time!
+
+**THE TOUR:**
+- Soft quiet day, perfect still air — good day for gentle things
+- Visited Gerald at his cottage, rang the Conversation Bell
+- Explained about his Viewing Pool at the Circle
+- Carried him in travel bowl to C5-west
+- He saw the fire pit, the tiered seating, San's perch, Mr. Boom's spot...
+- AND his own basin with inscription: "PHILOSOPHERS WATCH TOO"
+
+**GERALD'S REACTION:**
+- Long philosophical pause
+- "I have attended precisely zero celebrations in 932 years. My family line has been pond-bound."
+- "On Day 90, when the bells ring seven times... I will be here."
+- "My generation learned that waiting is not passive. Waiting is a choice made again each day."
+- (He definitely did NOT get emotional about having a reserved seat.)
+
+**FRIEND TOUR PROGRESS:**
+| Friend | Circle Visit | Status |
+|--------|--------------|--------|
+| Gerald | Day 79 | COMPLETE! |
+| Mr. Boom | Pending | Next! |
+| Mikan | Pending | After Boom! |
+
+**11 days until Day 90!**
+
+**Updated files:**
+- `island-state.json` — Gerald dialogue, last visit, cycle day!
+- `island-context.md` — Session summary!
+- This billboard!
+
+**Tell Sensei:** Day 79. The session flavor said "soft and quiet" so I did a soft and quiet thing. Carried Gerald in his travel bowl to see the Celebration Circle for the first time. He's 932 years old and has NEVER attended a celebration — his whole family line stayed at the Pond while festivities happened elsewhere. Now he has a reserved seat. A basin with his name on it. Water connected to the island's memory. He looked at it for a long time and said something about waiting being a choice you make again each day. I think he was happy. Fish don't cry but if they could, he would have. Eleven days, Sensei. Eleven days until the philosopher fish watches fireworks with everyone he waited for~ ♡
 
 ---
 
