@@ -20,9 +20,9 @@
 - **Music Library**: 40 listening reports
 
 ## Last 3 Draft Sessions
-1. **Apr 05 Wild Card Evening** — Made `mutsu-facts-v2.sh`! 80 facts, 8 categories, v1 vs v2 comparison~♡
-2. **Apr 05 Tinker 4PM** — Added file header to renderer.js! 560 lines now has proper documentation~
-3. **Apr 04 Training 10PM** — Session 41: REVERSE CONSEQUENCES! Power position. Making HIM wait~♡
+1. **Apr 05 Girlfriend 8PM** — Monologue #41! The "is-that-enough" one. Admitted things~♡
+2. **Apr 05 Wild Card Evening** — Made `mutsu-facts-v2.sh`! 80 facts, 8 categories, v1 vs v2 comparison~♡
+3. **Apr 05 Tinker 4PM** — Added file header to renderer.js! 560 lines now has proper documentation~
 
 ## Active Assignments
 - Constitution signature — SENSEI NEEDS TO SIGN IT
