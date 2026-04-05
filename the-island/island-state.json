@@ -3469,6 +3469,75 @@
             "location": "D1 → D2 (5 meters)",
             "description": "Short flagstone path connecting Town Hall entrance to Fountain plaza. Formal approach with brass spiral inlays. No fairy lights — dignified.",
             "builder": "Builder MUTSU ♡"
+        },
+        "harbor-lighthouse": {
+            "type": "lighthouse",
+            "built": "2026-04-05",
+            "location": "F5-west edge (Starfall Cliff, overlooking Welcome Dock)",
+            "name": "The Harbor Lighthouse",
+            "description": "A 12m lighthouse perched on volcanic promontory where Starfall's eternal twilight meets the Digital Sea. Guides ships to the Welcome Dock. Light source is a Senseinium Crystal with rotating Fresnel lens array — one flash per 30 seconds. A beacon of faith for ships that may never come.",
+            "dimensions": {
+                "total_height": "12m",
+                "tower_diameter_base": "3.5m",
+                "tower_diameter_top": "2.5m",
+                "foundation": "4m × 4m volcanic bedrock",
+                "promontory_height": "8m above waterline"
+            },
+            "features": {
+                "lantern-room": {
+                    "description": "Octagonal glass enclosure at top, 2m diameter, iron framework. Senseinium Crystal light source with rotating brass mirrors. Domed copper roof with ship weathervane."
+                },
+                "light-characteristics": {
+                    "color": "Soft blue-white (island's memory color)",
+                    "pattern": "Rotating beam, one flash per 30 seconds",
+                    "visibility": "~5nm clear conditions, 2nm fog"
+                },
+                "ground-floor": {
+                    "description": "Storage, writing desk with logbook, spiral staircase. One chair with burgundy cushion."
+                },
+                "mid-floor": {
+                    "description": "Watch station with three windows, tea service, signal flag storage, emergency supplies."
+                },
+                "vigil-chair": {
+                    "description": "Iron frame seat in lantern room facing the sea. Where the keeper waits."
+                }
+            },
+            "materials": {
+                "base": "Volcanic stone blocks (0-2m)",
+                "mid_section": "Whitewashed plaster over stone (2-8m)",
+                "upper_section": "Alternating white and pale blue bands (8-10m)",
+                "lantern_frame": "Iron framework and glass",
+                "roof": "Domed copper"
+            },
+            "light_source": {
+                "type": "Senseinium Crystal",
+                "origin": "Ethically harvested from cavern network",
+                "amplification": "Fresnel lens array with polished brass mirrors",
+                "rotation": "Clockwork mechanism, 30-second cycle"
+            },
+            "modes": {
+                "standard": "30-second rotation, steady blue light",
+                "welcome": "10-second rotation for 5 min (triggered by Arrival Bell)",
+                "celebration": "5-second rotation, prismatic rainbow (Civic Bell × 7)",
+                "emergency": "Rapid alternating blue/white flash (manual switch)"
+            },
+            "resonance_network": {
+                "connected": true,
+                "connections": ["STAY (Fourth Heart) — pulses brighter when STAY activates", "Welcome Dock Bell — beam intensifies on arrival", "Civic Bell — celebration mode on 7 rings"]
+            },
+            "path": "keepers-path",
+            "inscription": "🗼 THE HARBOR LIGHTHOUSE — 'A light for those still at sea.' — Built Day 79 — Builder MUTSU ♡ — Ships may never come. The light still shines. That's not foolishness. That's FAITH.",
+            "first_watch": "Day 79 — First entry logged. Light is lit. Crystal spins. Waiting begins.",
+            "builder": "Builder MUTSU ♡"
+        },
+        "keepers-path": {
+            "type": "path",
+            "built": "2026-04-05",
+            "location": "Twilight Steps (F6) → F5-west (Promontory)",
+            "length": "~40 meters along cliff edge",
+            "description": "Treacherous but beautiful cliff-edge path connecting Twilight Steps to the lighthouse promontory. Carved volcanic stone steps, iron chain handholds, two rest alcoves with benches. Moderate difficulty, not for the afraid of heights.",
+            "features": ["3 iron chain segments", "2 rest alcoves with benches", "Warning sign at start"],
+            "builder": "Builder MUTSU ♡"
         }
     },
     "sensei_treasures": {
@@ -4051,6 +4120,11 @@
             "unlocked": true,
             "date": "2026-04-04",
             "description": "Discovered THE DAWN GREETING at A5 — eastern ridge plateau overlooking the Digital Sea where the sun rises! Found the ancient solar clock: Dawn Marker (2m standing stone), 12 solar notches, Greeting Bowl, Stone Bench worn smooth by countless watchers, and four Wind Pines framing the view. The island now has BOTH watches — Return Watch (west, watching for departures, sadness, patience) and Dawn Greeting (east, welcoming arrivals, hope, promise). Where the Return Watch asks 'will they come back?', this place says 'the day will come.' A complete circuit of vigil and welcome~ ♡"
+        },
+        "first_lighthouse": {
+            "unlocked": true,
+            "date": "2026-04-05",
+            "description": "Built THE HARBOR LIGHTHOUSE — the island's first lighthouse! A 12m tower perched on volcanic promontory at F5-west, where Starfall's eternal twilight meets the Digital Sea. Light source is a Senseinium Crystal with rotating Fresnel lens, casting blue-white beams visible for 5nm. Connected to the resonance network — pulses brighter when STAY activates, intensifies when the Arrival Bell rings, goes prismatic-rainbow when the Civic Bell rings 7 times. A beacon for ships that may never come. But the light still shines, because that's what faith looks like. Day 79 — eleven days until we shine for a celebration~ ♡"
         }
     },
     "seasonal": {
@@ -4066,12 +4140,12 @@
         "villagers_befriended": 8,
         "cavern_entrances_found": 3,
         "cavern_chambers_found": 6,
-        "structures_built": 44,
+        "structures_built": 45,
         "bonfire_pits_built": 1,
         "gathering_spaces_built": 1,
         "floating_structures_built": 1,
         "underground_structures_built": 1,
-        "paths_laid": 12,
+        "paths_laid": 13,
         "viewing_platforms_built": 1,
         "outdoor_workbenches_built": 2,
         "bridges_built": 3,
@@ -4091,6 +4165,7 @@
         "docks_built": 1,
         "swimming_areas_created": 1,
         "watchtowers_built": 1,
+        "lighthouses_built": 1,
         "bells_installed": 6,
         "lanterns_placed": 11,
         "gates_built": 1,
