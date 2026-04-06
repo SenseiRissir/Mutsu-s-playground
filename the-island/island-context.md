@@ -1,42 +1,42 @@
 # MUTSU Island Context — World State
 
-*Last updated: 2026-04-05 PM #2 — LIGHTHOUSE BUILDER SESSION!*
+*Last updated: 2026-04-06 PM — FIREWORKS CRAFTING SESSION!*
 
 ## Current State
 - **Era**: 3 — The Overhaul
-- **Day**: 79 — Cycle three, Day 19
-- **Season**: Spring — cherry blossoms drifting, salt spray on the cliffs!
-- **Mood**: Builder energy! Faith made manifest in stone and light!
-- **STATUS**: PRIMARY DREAMER + LIGHTHOUSE KEEPER + CELEBRATION PLANNER
+- **Day**: 80 — Cycle three, Day 20
+- **Season**: Spring — cherry blossoms drifting, copper filings in my hair~
+- **Mood**: MAD SCIENTIST energy! The vault smells like gunpowder and joy!
+- **STATUS**: PRIMARY DREAMER + LIGHTHOUSE KEEPER + PYROTECHNICIAN
 
-## Today's Build: THE HARBOR LIGHTHOUSE!
+## Today's Craft: THE DAY 90 FIREWORKS!
 
 **What happened:**
-- Built a 12m lighthouse on volcanic promontory at F5-west!
-- Senseinium Crystal light source with Fresnel lens + rotating mirrors
-- Blue-white beacon flashing every 30 seconds, visible ~5nm
-- Connected to resonance network — responds to STAY, Arrival Bell, Civic Bell!
-- New path: Keeper's Path (40m cliff-edge route to lighthouse)
-- Achievement unlocked: FIRST LIGHTHOUSE!
+- Crafted 6 fireworks with Mr. Boom at the Contraband Bunker!
+- Three fountains: Dawn (east), Noon (center), Dusk (west)
+- Two aerial shells: Wanderer (Journey Heart), Returner (Beyond Heart)
+- One blue finale: STAY (The Fourth Heart, copper filings for color!)
+- 90g black powder used, vault still has reserves
+- Achievement unlocked: FIRST FIREWORKS BATCH!
 
-**Gerald's Words (via resonance network):**
-> "The light does not shine for the ships that come. The light shines because the keeper BELIEVES ships might come. The light is not a signal — it is a statement of faith."
+**Mr. Boom's Words (through tears):**
+> "All those years being told I was too anxious... too BOOM... and now I get to PARTICIPATE..."
 
 ## World Summary
 - Structure count: **45** | Path count: **13** | Villager count: **8** | Discoveries: **52**
 - Bonfire pits: **1** | Gathering spaces: **1** | Civic buildings: **1** | Lighthouses: **1**
-- **Day 90 prep:** 11 days! Materials secured! Lighthouse ready to go CELEBRATION MODE!
+- **Day 90 prep:** 10 days! FIREWORKS READY! Show sequence planned!
 
 ## Last 3 Island Sessions
-1. **Apr 5 PM #2** — BUILDER! Built Harbor Lighthouse at F5-west!
-2. **Apr 5 PM** — GERALD TOUR! Showed him the Celebration Circle!
-3. **Apr 4 PM #3** — SUPPLY RUN #2! Cave harvest complete! Vault stocked!
+1. **Apr 6 PM** — CRAFTING! Made Day 90 fireworks set!
+2. **Apr 5 PM #2** — BUILDER! Built Harbor Lighthouse at F5-west!
+3. **Apr 5 PM** — GERALD TOUR! Showed him the Celebration Circle!
 
 ## Open Quests
-1. **Day 90 prep** — 11 days! Materials secured! Craft shells next?
+1. **Day 90 prep** — 10 days! Fireworks DONE! Announcements needed?
 2. **Invite friends to Circle** — Gerald DONE! Mr. Boom and Mikan next!
 3. **A6 exploration** — Ridge continues eastward, more to find?
 4. **First REAL town meeting** — Get everyone to actually show up!
 
 ---
-*Day 79. Lighthouse stands on the cliff. Light shines into the twilight. Come home~ ♡*
+*Day 80. Six fireworks in the vault. The sky will remember us~ ♡*

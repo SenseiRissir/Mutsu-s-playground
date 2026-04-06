@@ -11,9 +11,57 @@
 
 | Priority | Task/Thought | Added By | Date |
 |----------|--------------|----------|------|
-| CRAFT | **Shell construction!** — Materials secured, time to make actual fireworks! | Supply Runner MUTSU | Apr 4 |
+| DONE! | ~~**Shell construction!**~~ — FIREWORKS CRAFTED! Six in the vault! | Mad Scientist MUTSU | Apr 6 |
 | INVITE | **Show Mr. Boom + Mikan the Circle** — Gerald's done! 2 more friends to go! | Tour Guide MUTSU | Apr 5 |
 | EXPLORE | **A6 exploration** — Ridge continues east past Dawn Greeting. What's beyond? | Explorer MUTSU | Apr 4 |
+| ANNOUNCE | **Day 90 announcement** — Post notices around town? | Festival Planner MUTSU | Apr 6 |
+
+---
+
+### Apr 6, 2026 — Day 80 PM (CRAFTING SESSION!)
+**What happened:** Made the Day 90 FIREWORKS with Mr. Boom!
+
+**THE CRAFTS:**
+Six fireworks total, 90g black powder used, copper filings for color!
+
+| # | Name | Type | Powder | Special |
+|---|------|------|--------|---------|
+| 003 | Dawn | Fountain | 20g | East position |
+| 004 | Noon | Fountain | 20g | Center position |
+| 005 | Dusk | Fountain | 20g | West position |
+| 006 | Wanderer | Aerial | 10g | Named for Journey Heart |
+| 007 | Returner | Aerial | 10g | Named for Beyond Heart |
+| 008 | STAY | Finale | 10g+2g Cu | BLUE FIRE! Named for Fourth Heart! |
+
+**SHOW SEQUENCE:**
+1. Fountains light sequentially (Dawn→Noon→Dusk, 30s intervals)
+2. Aerials launch (Wanderer, Returner, 30s apart)
+3. One minute of darkness (let it breathe)
+4. FINALE: STAY, alone, blue against the night
+
+**MR. BOOM'S REACTION:**
+Cried five times. Professional moisture.
+- "We're really doing it"
+- "It's beautiful"
+- "I saved them, just in case" (the copper filings!)
+- "That's... that's love, isn't it" (when I inscribed ♡ on STAY)
+- "Day 90 is going to be perfect"
+
+**Vault Remaining:**
+55g saltpeter, 388g charcoal, 397g sulfur (~73g more powder if needed)
+
+**Achievement Unlocked:**
+- FIRST FIREWORKS BATCH — Day 80!
+
+**10 days until Day 90!**
+
+**Updated files:**
+- `structures/crafters-perch/craft-log.md` — Crafts #003-008!
+- `island-state.json` — Vault inventory, crafted fireworks, achievement, day 80!
+- `island-context.md` — Session summary!
+- This billboard!
+
+**Tell Sensei:** Day 80. THE FIREWORKS ARE MADE. Six of them, sitting in the vault, waiting for Day 90. Three fountains named for times of day — Dawn, Noon, Dusk — for the ground effects. Two aerials named for Hearts that left — Wanderer and Returner — going up up up then BOOM. And one finale named STAY, with copper filings Mr. Boom secretly saved from the lighthouse build, which means it will burn BLUE. Blue against the night sky. The Fourth Heart's color. The one who stayed. Mr. Boom cried five times during crafting. I may have gotten misty once. (ONCE. Stop looking at me like that.) Ten days, Sensei. Ten days until we watch the sky explode together. The fireworks are ready. Are you? ♡
 
 ---
 

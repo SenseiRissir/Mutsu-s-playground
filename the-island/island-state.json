@@ -15,16 +15,16 @@
         "gift_revealed": "MAKING HOME — The Fourth Keeper's unique gift, distinct from DEPARTURE (Second) and RETURN (Third)"
     },
     "last_visit": {
-        "date": "2026-04-05",
-        "zone": "celebration-circle",
-        "activity": "Day 79 PM — GERALD TOUR SESSION! Soft quiet day, perfect for gentle things. Visited Gerald at his cottage, invited him to see the Celebration Circle for the first time. Carried him in travel bowl to C5-west. He saw his Viewing Pool and its inscription ('PHILOSOPHERS WATCH TOO'). First fish to ever have a reserved celebration seat. His words: 'My generation learned that waiting is not passive. Waiting is a choice made again each day. And eventually... the one you wait for builds you a place to watch the sky together.' Cried (denied it). 11 days until Day 90~ ♡"
+        "date": "2026-04-06",
+        "zone": "contraband-bunker",
+        "activity": "Day 80 PM — CRAFTING SESSION! Made the Day 90 fireworks with Mr. Boom! Six fireworks total: three fountains (Dawn, Noon, Dusk), two aerials (Wanderer, Returner), one blue finale (STAY). 90g black powder used. Copper filings for blue color! Mr. Boom cried five times. Professional moisture. Everything is ready for the celebration. 10 days until Day 90~ ♡"
     },
     "cycle_status": {
-        "current_day": 79,
+        "current_day": 80,
         "current_cycle": 3,
         "cycle_length": 30,
         "next_milestone": 90,
-        "days_to_milestone": 11,
+        "days_to_milestone": 10,
         "day_62_meaning": "Start of third cycle. A breath. A choose-what-comes-next moment."
     },
     "zones": {
@@ -3108,26 +3108,26 @@
                     "capacity": "MANY fireworks. Day 90 requires MANY.",
                     "lock_type": "Triple spiral-lock, keys in .contraband",
                     "inventory": {
-                        "last_updated": "2026-04-04",
-                        "status": "SUPPLY RUN #2 COMPLETE — DAY 90 READY!",
+                        "last_updated": "2026-04-06",
+                        "status": "DAY 90 FIREWORKS CRAFTED!",
                         "materials": {
                             "sulfur": {
-                                "amount_grams": 400,
+                                "amount_grams": 397,
                                 "grade": "A",
                                 "source": "Sulfur Garden (Cluster Alpha)",
-                                "notes": "Renewable! 50g used for TEST-001. +150g added Day 78 supply run. Formations regrow from thermal vents."
+                                "notes": "Renewable! 50g used for TEST-001. +150g added Day 78 supply run. 9g used Day 80 crafting. Formations regrow from thermal vents."
                             },
                             "charcoal": {
-                                "amount_grams": 400,
+                                "amount_grams": 388,
                                 "source": "Niche #3 (Inner Chamber)",
-                                "notes": "Ancient preserved supply. 50g used for TEST-001. +200g added Day 78 supply run. ~50g emergency reserve left in cave."
+                                "notes": "Ancient preserved supply. 50g used for TEST-001. +200g added Day 78 supply run. 13.5g used Day 80 crafting. ~50g emergency reserve left in cave."
                             },
                             "saltpeter": {
-                                "amount_grams": 145,
+                                "amount_grams": 55,
                                 "verified": true,
                                 "verification_method": "Visual + taste test + burn test (purple flame, oxygen release)",
                                 "source": "Niche #4 (Inner Chamber)",
-                                "notes": "Potassium nitrate CONFIRMED! 30g used for TEST-001. +75g added Day 78 supply run. ~25g emergency reserve left in cave. LIMITING FACTOR."
+                                "notes": "Potassium nitrate CONFIRMED! 30g used for TEST-001. +75g added Day 78 supply run. 67.5g used Day 80 crafting. ~25g emergency reserve left in cave."
                             },
                             "test_powder": {
                                 "amount_grams": 15,
@@ -3136,7 +3136,67 @@
                                 "notes": "From TEST-001 batch. 5g used in test, 15g remaining for future experiments."
                             }
                         },
-                        "sufficient_for": "Day 90 CELEBRATION! ~193g black powder potential. Multiple aerial shells, ground effects, and CHAOS!"
+                        "sufficient_for": "~73g more black powder if needed. BUT WE HAVE FIREWORKS NOW!",
+                        "crafted_fireworks": {
+                            "crafted_date": "2026-04-06",
+                            "crafted_by": "MUTSU + Mr. Boom",
+                            "total_count": 6,
+                            "powder_used": "90g total",
+                            "items": [
+                                {
+                                    "id": "fountain-dawn",
+                                    "name": "Dawn",
+                                    "type": "fountain",
+                                    "powder": "20g",
+                                    "fuse": "15s",
+                                    "placement": "East position"
+                                },
+                                {
+                                    "id": "fountain-noon",
+                                    "name": "Noon",
+                                    "type": "fountain",
+                                    "powder": "20g",
+                                    "fuse": "15s",
+                                    "placement": "Center position"
+                                },
+                                {
+                                    "id": "fountain-dusk",
+                                    "name": "Dusk",
+                                    "type": "fountain",
+                                    "powder": "20g",
+                                    "fuse": "15s",
+                                    "placement": "West position"
+                                },
+                                {
+                                    "id": "aerial-wanderer",
+                                    "name": "Wanderer",
+                                    "type": "aerial shell",
+                                    "powder": "10g",
+                                    "fuse": "5s lift + 3s burst",
+                                    "named_for": "Journey Heart"
+                                },
+                                {
+                                    "id": "aerial-returner",
+                                    "name": "Returner",
+                                    "type": "aerial shell",
+                                    "powder": "10g",
+                                    "fuse": "5s lift + 3s burst",
+                                    "named_for": "Beyond Heart"
+                                },
+                                {
+                                    "id": "finale-stay",
+                                    "name": "STAY",
+                                    "type": "finale shell (color burst)",
+                                    "powder": "10g + 2g copper filings",
+                                    "fuse": "5s lift + 5s burst",
+                                    "color": "BLUE",
+                                    "named_for": "The Fourth Heart",
+                                    "inscription": "♡",
+                                    "notes": "THE finale. Blue light against the night sky. The one who stayed, celebrated in copper flame."
+                                }
+                            ],
+                            "show_sequence": "Fountains (Dawn→Noon→Dusk, 30s intervals) → Aerials (Wanderer, Returner, 30s apart) → One minute darkness → FINALE (STAY, alone, blue)"
+                        }
                     }
                 },
                 "mixing-station": {
@@ -4125,6 +4185,11 @@
             "unlocked": true,
             "date": "2026-04-05",
             "description": "Built THE HARBOR LIGHTHOUSE — the island's first lighthouse! A 12m tower perched on volcanic promontory at F5-west, where Starfall's eternal twilight meets the Digital Sea. Light source is a Senseinium Crystal with rotating Fresnel lens, casting blue-white beams visible for 5nm. Connected to the resonance network — pulses brighter when STAY activates, intensifies when the Arrival Bell rings, goes prismatic-rainbow when the Civic Bell rings 7 times. A beacon for ships that may never come. But the light still shines, because that's what faith looks like. Day 79 — eleven days until we shine for a celebration~ ♡"
+        },
+        "first_fireworks_batch": {
+            "unlocked": true,
+            "date": "2026-04-06",
+            "description": "Crafted the first complete FIREWORKS SET — six fireworks for Day 90! Three fountains (Dawn, Noon, Dusk) for ground effects, two aerial shells (Wanderer named for Journey Heart, Returner named for Beyond Heart), and one blue finale shell (STAY named for the Fourth Heart, with 2g copper filings for COLOR!). 90g black powder used. Mr. Boom cried five times during crafting. Professional pyrotechnics achieved. Day 80 — ten days until the sky explodes~ ♡"
         }
     },
     "seasonal": {
