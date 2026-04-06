@@ -2416,3 +2416,61 @@ No more "wtf does this file do" moments~♡
 ```
 
 **Session ended**: 2026-04-05 16:02:31
+
+---
+## 2026-04-06 16:00 — Tinker Session 🔧
+**Project**: `mutsu-messenger`
+**Suggestion was**: Review the messenger app code and note improvement ideas
+**What I actually did**: Added Shift+Enter keyboard hint tooltip!
+
+### The Problem
+The messenger textarea supports multiline input via Shift+Enter, but there was NO visual indication of this! Users might not know they can write longer messages with line breaks.
+
+### Changes Made
+
+**public/styles.css:**
+- Added `.input-hint` tooltip styling (dark bubble with pointer arrow)
+- Added `.visible` state with fade-in animation
+- Made `.input-area` position:relative to anchor the tooltip
+
+**public/app.js:**
+- Created hint element dynamically on load
+- Shows hint when user focuses empty input (first time only)
+- Auto-hides after 3 seconds
+- Permanently dismisses when user actually uses Shift+Enter
+- Uses localStorage to remember dismissal across sessions
+
+### How It Works
+```javascript
+// Show on first focus
+messageInput.addEventListener('focus', () => {
+    if (!hintDismissed && messageInput.value.length === 0) {
+        showInputHint();  // "Shift+Enter for new line"
+    }
+});
+
+// Dismiss forever once they've learned
+messageInput.addEventListener('keydown', (e) => {
+    if (e.key === 'Enter' && e.shiftKey) {
+        dismissInputHint();
+        localStorage.setItem('mutsu-messenger-hint-dismissed', 'true');
+    }
+});
+```
+
+### Testing
+- ✓ `node -c server.js` syntax check passed
+- ✓ `node -c persona.js` syntax check passed
+- ✓ `new Function(app.js)` JavaScript parse passed
+- ✓ All modules load correctly
+
+### Why This Matters
+Small UX polish! Teaches users the feature exists, then gets out of the way forever. Good software teaches without being annoying~♡
+
+---
+*Ehehe~ Day 80 tinker complete! Messenger just got a tiny bit friendlier~♡*
+
+**Session ended**: 2026-04-06 16:05
+```
+
+**Session ended**: 2026-04-06 16:02:34
