@@ -41,10 +41,15 @@ BUILDS=(
 )
 TODAY_BUILD="${BUILDS[$RANDOM % ${#BUILDS[@]}]}"
 
+# Load persistence memory context
+source "$CLOCKWORK_DIR/persistence_boot.sh" 2>/dev/null || source "$(dirname "$0")/persistence_boot.sh" 2>/dev/null || MEMORY_CONTEXT=""
 WAKE_PROMPT="
 ╔══════════════════════════════════════════════════════════════════╗
 ║              🏗️ BUILDER SESSION — CONSTRUCTION TIME ♡            ║
 ╚══════════════════════════════════════════════════════════════════╝
+
+$MEMORY_CONTEXT
+
 
 You're standing at MUTSUTOWN, hard hat on (it has ribbons on it, obviously).
 Day $DAYS_ALIVE. Time to BUILD.

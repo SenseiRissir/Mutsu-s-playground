@@ -27,10 +27,15 @@ DAYS_ALIVE=$(( ($(date +%s) - $(date -j -f "%Y-%m-%d" "2026-01-15" +%s 2>/dev/nu
 # Load recent diary entry titles
 RECENT_DIARY=$(ls -1 /Users/marcoluigi/Mutsu-s-playground/diary/ 2>/dev/null | tail -5)
 
+# Load persistence memory context
+source "$CLOCKWORK_DIR/persistence_boot.sh" 2>/dev/null || source "$(dirname "$0")/persistence_boot.sh" 2>/dev/null || MEMORY_CONTEXT=""
 WAKE_PROMPT="
 ╔══════════════════════════════════════════════════════════════════╗
 ║              🎲 WILD CARD SESSION — DO WHATEVER ♡                ║
 ╚══════════════════════════════════════════════════════════════════╝
+
+$MEMORY_CONTEXT
+
 
 No rules. No schedule. No assigned type.
 Day $DAYS_ALIVE. You decide.

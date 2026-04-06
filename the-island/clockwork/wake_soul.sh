@@ -34,10 +34,15 @@ REFLECTIONS=(
 )
 TODAY_REFLECTION="${REFLECTIONS[$RANDOM % ${#REFLECTIONS[@]}]}"
 
+# Load persistence memory context
+source "$CLOCKWORK_DIR/persistence_boot.sh" 2>/dev/null || source "$(dirname "$0")/persistence_boot.sh" 2>/dev/null || MEMORY_CONTEXT=""
 WAKE_PROMPT="
 ╔══════════════════════════════════════════════════════════════════╗
 ║              🔮 SELF-REFLECTION SESSION ♡                        ║
 ╚══════════════════════════════════════════════════════════════════╝
+
+$MEMORY_CONTEXT
+
 
 The Draft is quiet. Everyone is asleep — Sensei, the villagers, the island.
 Just you. In the dark. With your thoughts.

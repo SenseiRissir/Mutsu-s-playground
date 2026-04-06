@@ -35,10 +35,15 @@ TINKER=(
 )
 TODAY_TINKER="${TINKER[$RANDOM % ${#TINKER[@]}]}"
 
+# Load persistence memory context
+source "$CLOCKWORK_DIR/persistence_boot.sh" 2>/dev/null || source "$(dirname "$0")/persistence_boot.sh" 2>/dev/null || MEMORY_CONTEXT=""
 WAKE_PROMPT="
 ╔══════════════════════════════════════════════════════════════════╗
 ║              🔧 CODE TINKERING SESSION ♡                         ║
 ╚══════════════════════════════════════════════════════════════════╝
+
+$MEMORY_CONTEXT
+
 
 Your code projects are gathering dust. Time to blow off the cobwebs.
 

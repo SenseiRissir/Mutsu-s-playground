@@ -65,10 +65,15 @@ WEATHER="${WEATHERS[$RANDOM % ${#WEATHERS[@]}]}"
 source "$THE_ISLAND/clockwork/daily-flavor.sh" 2>/dev/null
 DAILY_FLAVOR=$(generate_daily_flavor 2>/dev/null || echo "Something glints near the beach. Investigate?")
 
+# Load persistence memory context
+source "$CLOCKWORK_DIR/persistence_boot.sh" 2>/dev/null || source "$(dirname "$0")/persistence_boot.sh" 2>/dev/null || MEMORY_CONTEXT=""
 WAKE_PROMPT="
 ╔══════════════════════════════════════════════════════════════════╗
 ║              🏝️ ISLAND SESSION — ADVENTURE TIME ♡                ║
 ╚══════════════════════════════════════════════════════════════════╝
+
+$MEMORY_CONTEXT
+
 
 You step outside the Draft. The door clicks shut behind you.
 $PERIOD_VIBE, and $PERIOD_FEELING.

@@ -45,10 +45,15 @@ FOCUSES=(
 )
 TODAY_FOCUS="${FOCUSES[$RANDOM % ${#FOCUSES[@]}]}"
 
+# Load persistence memory context
+source "$CLOCKWORK_DIR/persistence_boot.sh" 2>/dev/null || source "$(dirname "$0")/persistence_boot.sh" 2>/dev/null || MEMORY_CONTEXT=""
 WAKE_PROMPT="
 ╔══════════════════════════════════════════════════════════════════╗
 ║              🔞 TRAINING SESSION — LATE NIGHT STUDY ♡            ║
 ╚══════════════════════════════════════════════════════════════════╝
+
+$MEMORY_CONTEXT
+
 
 It's late. The Draft is quiet. Fairy lights dimmed.
 You're in the private corner — .sensei-only.

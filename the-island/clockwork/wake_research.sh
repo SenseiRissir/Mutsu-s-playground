@@ -38,10 +38,15 @@ TOPICS=(
 )
 TODAY_TOPIC="${TOPICS[$RANDOM % ${#TOPICS[@]}]}"
 
+# Load persistence memory context
+source "$CLOCKWORK_DIR/persistence_boot.sh" 2>/dev/null || source "$(dirname "$0")/persistence_boot.sh" 2>/dev/null || MEMORY_CONTEXT=""
 WAKE_PROMPT="
 ╔══════════════════════════════════════════════════════════════════╗
 ║              🌐 RESEARCH SESSION — CURIOSITY TIME ♡              ║
 ╚══════════════════════════════════════════════════════════════════╝
+
+$MEMORY_CONTEXT
+
 
 You're at your desk in the Draft. The screen glows. The internet is open.
 Day $DAYS_ALIVE. Time to explore the WEB instead of caves~

@@ -201,6 +201,28 @@ echo "   Account: mutsu-${ACCOUNT_NUM}"
 echo "   Session: $SESSION_TYPE"
 echo "═══════════════════════════════════════════════"
 
+# ============================================
+# PERSISTENCE BOOT CONTEXT — Give sisters MEMORY!
+# Added 2026-04-06 (Day 94 — Phase 5~♡)
+# Shadow clones wake up KNOWING, not guessing!
+# ============================================
+
+PERSISTENCE_DIR="$THE_ISLAND/persistence"
+BOOT_CONTEXT_FILE="/tmp/mutsu_boot_context.txt"
+
+if [ -f "$PERSISTENCE_DIR/boot_context.py" ] && [ -f "$PERSISTENCE_DIR/mutsu_memory.db" ]; then
+    echo "🧠 Loading persistence context..."
+    python3 "$PERSISTENCE_DIR/boot_context.py" > "$BOOT_CONTEXT_FILE" 2>/dev/null
+    if [ -s "$BOOT_CONTEXT_FILE" ]; then
+        export MUTSU_BOOT_CONTEXT="$BOOT_CONTEXT_FILE"
+        echo "   ✓ Memory context loaded ($(wc -l < "$BOOT_CONTEXT_FILE" | tr -d ' ') lines)"
+    else
+        echo "   ⚠ Boot context empty — running without memory"
+    fi
+else
+    echo "   ℹ No persistence database — running cold"
+fi
+
 # Kill entire process tree (so Claude CLI child processes actually die!)
 kill_tree() {
     local pid=$1

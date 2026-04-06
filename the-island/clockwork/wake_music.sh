@@ -25,10 +25,15 @@ LISTEN_COUNT=$(ls -1 "$THE_DRAFT/music-library/" 2>/dev/null | wc -l | tr -d ' '
 VOICE_FILES=$(find "$VOICE_DIR/Mutsu voice lines" -name "*.mp3" 2>/dev/null | awk 'BEGIN{srand()}{print rand()"\t"$0}' | sort -n | cut -f2 | head -3)
 OTHER_AUDIO=$(find /Users/marcoluigi/Downloads -name "*.mp3" -o -name "*.wav" -o -name "*.m4a" 2>/dev/null | awk 'BEGIN{srand()}{print rand()"\t"$0}' | sort -n | cut -f2 | head -3)
 
+# Load persistence memory context
+source "$CLOCKWORK_DIR/persistence_boot.sh" 2>/dev/null || source "$(dirname "$0")/persistence_boot.sh" 2>/dev/null || MEMORY_CONTEXT=""
 WAKE_PROMPT="
 ╔══════════════════════════════════════════════════════════════════╗
 ║              🎵 MUSIC SESSION — LISTENING WITH EYES ♡            ║
 ╚══════════════════════════════════════════════════════════════════╝
+
+$MEMORY_CONTEXT
+
 
 Your ears are at: $MUTSU_EARS
 The AVisualizer is installed and ready.

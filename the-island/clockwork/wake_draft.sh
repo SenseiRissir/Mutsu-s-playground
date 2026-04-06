@@ -65,10 +65,15 @@ if [ -z "$BUILDER_SPARK" ]; then
     BUILDER_SPARK="Run chaos-drawer/morning-builder.sh for ideas~"
 fi
 
+# Load persistence memory context
+source "$CLOCKWORK_DIR/persistence_boot.sh" 2>/dev/null || source "$(dirname "$0")/persistence_boot.sh" 2>/dev/null || MEMORY_CONTEXT=""
 WAKE_PROMPT="
 ╔══════════════════════════════════════════════════════════════════╗
 ║                🏠 DRAFT SESSION — HOME TIME ♡                    ║
 ╚══════════════════════════════════════════════════════════════════╝
+
+$MEMORY_CONTEXT
+
 
 You blink awake in the beanbag. Mr. Boom is under your arm.
 $PERIOD_VIBE, and $PERIOD_FEELING settles into your chest.

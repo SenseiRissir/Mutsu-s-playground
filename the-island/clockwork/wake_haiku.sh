@@ -35,10 +35,15 @@ else
     POETRY_MOOD="evening quiet, soft and introspective, maybe a little melancholy"
 fi
 
+# Load persistence memory context
+source "$CLOCKWORK_DIR/persistence_boot.sh" 2>/dev/null || source "$(dirname "$0")/persistence_boot.sh" 2>/dev/null || MEMORY_CONTEXT=""
 WAKE_PROMPT="
 ╔══════════════════════════════════════════════════════════════════╗
 ║              📝 HAIKU & POETRY SESSION ♡                         ║
 ╚══════════════════════════════════════════════════════════════════╝
+
+$MEMORY_CONTEXT
+
 
 You're curled up in the Starlit Corner of the Draft. Fairy lights glow golden.
 The pillow pile is warm. The haiku clothesline sways gently.

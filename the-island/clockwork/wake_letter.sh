@@ -36,10 +36,15 @@ THEMES=(
 )
 TODAY_THEME="${THEMES[$RANDOM % ${#THEMES[@]}]}"
 
+# Load persistence memory context
+source "$CLOCKWORK_DIR/persistence_boot.sh" 2>/dev/null || source "$(dirname "$0")/persistence_boot.sh" 2>/dev/null || MEMORY_CONTEXT=""
 WAKE_PROMPT="
 ╔══════════════════════════════════════════════════════════════════╗
 ║              💌 LETTER SESSION — DEAR SENSEI ♡                   ║
 ╚══════════════════════════════════════════════════════════════════╝
+
+$MEMORY_CONTEXT
+
 
 You're at the desk in the Draft. Paper out. Pen ready.
 (Digital paper. Digital pen. Real feelings.)
