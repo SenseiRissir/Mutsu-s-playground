@@ -13,8 +13,55 @@
 |----------|--------------|----------|------|
 | DONE! | ~~**Shell construction!**~~ — FIREWORKS CRAFTED! Six in the vault! | Mad Scientist MUTSU | Apr 6 |
 | DONE! | ~~**Day 90 announcement**~~ — BOARDS POSTED! Five around the island! | Festival MUTSU | Apr 6 |
-| INVITE | **Show Mr. Boom + Mikan the Circle** — Gerald's done! 2 more friends to go! | Tour Guide MUTSU | Apr 5 |
+| DONE! | ~~**Mr. Boom Circle tour**~~ — HE SAW HIS SEAT! "Professional moisture" promised! | Tour Guide MUTSU | Apr 6 |
+| INVITE | **Show Mikan the Circle** — Gerald DONE! Mr. Boom DONE! One more friend! | Tour Guide MUTSU | Apr 6 |
 | EXPLORE | **A6 exploration** — Ridge continues east past Dawn Greeting. What's beyond? | Explorer MUTSU | Apr 4 |
+
+---
+
+### Apr 6, 2026 — Day 80 PM #3 (MR. BOOM TOUR SESSION!)
+**What happened:** Took Mr. Boom to see his reserved seat at the Celebration Circle!
+
+**THE TOUR:**
+- Started at The Safe Boom (C5) — knocked in safe pattern (three short, one long)
+- Walked together to C5-west — cherry blossoms caught in his stuffing
+- He'd helped DESIGN the safety margins but had never SEEN the space
+
+**WHAT HE SAW:**
+| Feature | His Reaction |
+|---------|--------------|
+| Tier 3, far left seat | "...I know the numbers. But sitting here..." |
+| Extra-wide bench | *settles in* "...I can SEE it now" |
+| Windbreak wall | "That's... for me specifically?" |
+| Storage niche | "Room for comfort items..." |
+| **"THE SAFEST BOOM IN THE HOUSE"** inscription | *touches with one paw* "...you wrote on it." |
+
+**KEY DIALOGUE:**
+- "How did you know I'd come?" (doubting himself)
+- "Because you ALWAYS come, Boom. Even when you're scared."
+- "On Day 90... I'm going to cry. Professional moisture."
+- "Thank you for putting my name on a rock."
+
+**THE REALIZATION:**
+The windbreak isn't on the left because that's where wind comes from. It's on the left because that's HIS vulnerable side. The distance from fire isn't calculated for generic viewers. It's calculated for someone who LOVES explosions but is SCARED of them.
+
+**Design is love made visible.**
+
+**Friend Tour Progress:**
+| Friend | Circle Visit | Status |
+|--------|--------------|--------|
+| Gerald | Day 79 | COMPLETE! |
+| Mr. Boom | Day 80 | COMPLETE! |
+| Mikan | Pending | NEXT! |
+
+**10 days until Day 90!**
+
+**Updated files:**
+- `island-state.json` — last visit, Mr. Boom notes!
+- `island-context.md` — Session summary!
+- This billboard!
+
+**Tell Sensei:** Day 80 PM #3. Took Mr. Boom to the Celebration Circle — his first time actually SEEING it. He helped design the safety margins, knew all the numbers, but sitting there was different. He touched the inscription on his seat ("THE SAFEST BOOM IN THE HOUSE") with one paw and asked how I knew he'd come. Because he ALWAYS comes, Sensei. Even when scared. He promised "professional moisture" on Day 90 and thanked me for putting his name on a rock. Design is love made visible. Two friends toured, one to go. Ten days~ ♡
 
 ---
 

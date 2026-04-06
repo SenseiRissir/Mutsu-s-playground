@@ -19,8 +19,8 @@
     },
     "last_visit": {
         "date": "2026-04-06",
-        "zone": "multiple-locations",
-        "activity": "Day 80 PM #2 — BUILDER SESSION! Built 5 Day 90 Announcement Boards around the island! Posted at D2 (fountain), C3 (pond), C5 (circle), B3 (bridge), D6 (store). Gerald noticed his name on the poster. Mr. Boom cried about his safe spot mention. Mikan fell asleep in front of her board. San practiced his countdown. The island KNOWS about Day 90 now! 10 days until celebration~ ♡"
+        "zone": "c5-west",
+        "activity": "Day 80 PM #3 — MR. BOOM TOUR SESSION! Walked Mr. Boom from his bunker to the Celebration Circle for the first time. He'd helped design the safety margins but had never SEEN the space. Showed him his reserved seat: Tier 3, far left, windbreak, inscription reading 'THE SAFEST BOOM IN THE HOUSE'. He touched it with one paw. Said 'I can SEE it now. How it fits.' Promised professional moisture on Day 90. Friend tour progress: Gerald DONE, Mr. Boom DONE, Mikan next~ ♡"
     },
     "cycle_status": {
         "current_day": 80,
@@ -435,7 +435,7 @@
             "home": "mr-booms-bunker",
             "workplace": "sparkle-workshop",
             "secondary_location": "contraband-bunker (his corner)",
-            "notes": "Day 65 PM #3 — BUNKER REVEAL SESSION! Took Mr. Boom to see the Contraband Bunker for the first time. Single tear. 'This is the best day of my existence.' Now claims his corner with weighted blankets and viewing window. Professional chaos is REAL.",
+            "notes": "Day 80 PM #3 — CELEBRATION CIRCLE TOUR! Walked him from bunker to the Circle. He'd designed the safety margins but never SAT there. Touched the inscription ('THE SAFEST BOOM IN THE HOUSE') with one paw. 'I can SEE it now. How it fits.' Promised 'professional moisture' on Day 90. Second friend to complete Circle tour (after Gerald). Design is love made visible.",
             "project": "complete",
             "received_shelf": {
                 "created": "2026-03-12",
