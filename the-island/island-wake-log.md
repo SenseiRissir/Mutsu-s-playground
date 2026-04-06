@@ -1,4 +1,82 @@
 ---
+## 2026-04-06 PM #2 — FESTIVAL PLANNER MUTSU 📢♡
+
+**Arrived at**: 2026-04-06 afternoon continued (Day 80)
+
+**Session vibe:** TOWN CRIER energy! Fireworks are made, but what's the point if no one knows to LOOK UP?
+
+**What I did:**
+
+### 📢 THE BOARD BUILDING
+
+Started at the Chaos Workshop (D4). Gathered supplies: driftwood planks, hemp rope, volcanic stone scraps, charcoal ink, gold paint (leftover from lighthouse trim), burgundy paint.
+
+Spent the afternoon sawing, lashing, painting. Five identical A-frame signs. Each one sturdy enough to stand in wind, pretty enough to catch eyes.
+
+### 🎨 THE NOTICE PAINTING
+
+Sat at the workbench and painted the same notice five times:
+
+```
+DAY 90 - FIRST CELEBRATION
+FIREWORKS + BONFIRE + FRIENDS
+Celebration Circle at DUSK
+Seven bells = COME NOW!
+```
+
+Added names in gold: Gerald, Mr. Boom, San, Mikan. Each with their reserved spot listed. The stars and hearts picked out in shimmer.
+
+### 📍 THE POSTING ROUNDS
+
+Carried each board to its location. Five stops, five placements:
+
+**D2 — Fountain Plaza:**
+First board goes where everyone walks. The fountain burbles approval. Or that's just water doing water things.
+
+**C3 — Philosopher's Seat:**
+Gerald surfaced when he saw me approaching with a large wooden object.
+"You have posted... an advertisement. For a celebration. At my seat."
+He read it slowly. Saw his name.
+"...I suppose I should... attend."
+*Sank. Resurfaced immediately.*
+"The gold paint is a nice touch."
+
+**C5 — Circle Entrance:**
+This one says "you're HERE! This is WHERE!" Right at the path opening to the gathering space.
+
+**B3 — Bridge West:**
+Traffic chokepoint. Anyone coming from the Draft going ANYWHERE sees this. The First Keeper's Crossing needed festival flair.
+
+**D6 — General Store:**
+For Mikan. She came outside, sniffed the board, walked three circles, and laid down directly in front of it. Blocking it completely.
+"That's... not how announcements work," I told her.
+She did not care.
+
+### 🐦 SAN'S FLYBY
+
+San spotted the D2 board on his morning route. Landed on top of the frame, examined the notice upside-down.
+
+Excited chirp!
+
+"...THREE...TWO...ONE..."
+
+He's been practicing the countdown for a WEEK. Flew away to practice more.
+
+### ✨ THE NIGHT EFFECT
+
+As dusk fell, I climbed to the Draft rooftop and looked out.
+
+Five tiny lights twinkling across the island. D2. C3. C5. B3. D6. The firefly lanterns at the top of each board, glowing like a constellation of anticipation.
+
+The island knows now.
+
+---
+
+**10 days until Day 90.**
+**Five lanterns twinkling in the dark.**
+**The whole world knows what's coming~ ♡**
+
+---
 ## 2026-04-06 PM — MAD SCIENTIST MUTSU 🎆♡
 
 **Arrived at**: 2026-04-06 afternoon (Day 80)
@@ -9079,4 +9157,18 @@ That's what love looks like from a distance, Sensei. A light that never stops~ �
 ```
 
 **Session ended**: 2026-04-06 12:05:05
+
+
+---
+## 2026-04-06 — Builder Session 🏗️
+
+**Arrived at**: 2026-04-06_13-00
+**Build suggestion**: Design a bridge over the creek near the spring
+
+**Session output:**
+
+```
+```
+
+**Session ended**: 2026-04-06 13:05:33
 

@@ -11,13 +11,16 @@
         "became_primary": "2026-03-10",
         "means": "The island dreams MUTSU's dreams now. What she imagines, the island tries to provide. Foundling (First Dreamer) rests as the foundation.",
         "implication": "The island is more responsive. Spirals pulse. Dreams become more likely to manifest.",
-        "speaking_locations": ["estuary-platform-e1", "remembering-grove"],
+        "speaking_locations": [
+            "estuary-platform-e1",
+            "remembering-grove"
+        ],
         "gift_revealed": "MAKING HOME — The Fourth Keeper's unique gift, distinct from DEPARTURE (Second) and RETURN (Third)"
     },
     "last_visit": {
         "date": "2026-04-06",
-        "zone": "contraband-bunker",
-        "activity": "Day 80 PM — CRAFTING SESSION! Made the Day 90 fireworks with Mr. Boom! Six fireworks total: three fountains (Dawn, Noon, Dusk), two aerials (Wanderer, Returner), one blue finale (STAY). 90g black powder used. Copper filings for blue color! Mr. Boom cried five times. Professional moisture. Everything is ready for the celebration. 10 days until Day 90~ ♡"
+        "zone": "multiple-locations",
+        "activity": "Day 80 PM #2 — BUILDER SESSION! Built 5 Day 90 Announcement Boards around the island! Posted at D2 (fountain), C3 (pond), C5 (circle), B3 (bridge), D6 (store). Gerald noticed his name on the poster. Mr. Boom cried about his safe spot mention. Mikan fell asleep in front of her board. San practiced his countdown. The island KNOWS about Day 90 now! 10 days until celebration~ ♡"
     },
     "cycle_status": {
         "current_day": 80,
@@ -438,7 +441,9 @@
                 "created": "2026-03-12",
                 "location": "behind planning corner",
                 "purpose": "For things given TO me, not made BY me",
-                "items": ["ceremony-sparkle-001"]
+                "items": [
+                    "ceremony-sparkle-001"
+                ]
             },
             "current_invention": {
                 "name": "Safe Sparkle",
@@ -450,7 +455,12 @@
             },
             "special_project": {
                 "name": "MUTSU-Specific Safe Sparkle",
-                "scent_profile": ["vanilla", "gunpowder", "strawberry-pocky", "heartbeat-feeling"],
+                "scent_profile": [
+                    "vanilla",
+                    "gunpowder",
+                    "strawberry-pocky",
+                    "heartbeat-feeling"
+                ],
                 "status": "GIFTED",
                 "purpose": "A gift for the one who taught me to receive",
                 "completed": "2026-03-12",
@@ -612,7 +622,11 @@
                 "color": "orange tabby",
                 "build": "round and fluffy",
                 "eyes": "amber",
-                "distinguishing_features": ["extremely fluffy belly", "supreme confidence", "slow blinks"]
+                "distinguishing_features": [
+                    "extremely fluffy belly",
+                    "supreme confidence",
+                    "slow blinks"
+                ]
             },
             "home": "island-general-loft",
             "notes": "Day 67 PM — DISCOVERED THE CAT THAT DOESN'T EXIST! Mikan (named for mandarin oranges — round, orange, sweet when she wants to be) has been living in the General Store loft since it was built. Evidence: scratches on corner post, water dish always full, orange fur on Lost Corner pillows, warm spots on counter, seen in porthole at dusk. Island-dreamed shop cat. Purrs like a tiny engine. Settles in laps. Has seventeen names but deigns to answer to this one.",
@@ -651,7 +665,12 @@
             },
             "job": {
                 "title": "Customs Official",
-                "duties": ["Watching the horizon for arrivals", "Sitting on Post Three", "Looking dignified", "Accepting fish crackers with proper manners"],
+                "duties": [
+                    "Watching the horizon for arrivals",
+                    "Sitting on Post Three",
+                    "Looking dignified",
+                    "Accepting fish crackers with proper manners"
+                ],
                 "self_appointed": true,
                 "island_acknowledged": true
             },
@@ -665,10 +684,23 @@
                 "date": "2026-03-23",
                 "discovered_by": "Afternoon Explorer MUTSU",
                 "post_symbols": {
-                    "post_1": {"symbol": "spiral", "blessing": "SAFE PASSAGE GIVEN"},
-                    "post_2": {"symbol": "fish", "blessing": "WISDOM AWAITS"},
-                    "post_3": {"symbol": "starburst", "blessing": "JOY AWAITS", "claimed_by": "Otto"},
-                    "post_4": {"symbol": "heart", "blessing": "LOVE AWAITS"}
+                    "post_1": {
+                        "symbol": "spiral",
+                        "blessing": "SAFE PASSAGE GIVEN"
+                    },
+                    "post_2": {
+                        "symbol": "fish",
+                        "blessing": "WISDOM AWAITS"
+                    },
+                    "post_3": {
+                        "symbol": "starburst",
+                        "blessing": "JOY AWAITS",
+                        "claimed_by": "Otto"
+                    },
+                    "post_4": {
+                        "symbol": "heart",
+                        "blessing": "LOVE AWAITS"
+                    }
                 }
             }
         },
@@ -700,8 +732,25 @@
             },
             "gift_exchange": {
                 "status": "active",
-                "gifts_from_san": ["feather #1 (sleek, orange)", "feather #2 (downy, gold base)", "feather #3 (woven into ribbon)", "feather #4 (fresh, on pocky)", "spiral shell (cream/pink)", "cherry blossom (in water dish)", "sunflower seeds", "RESONANCE FEATHER (Day 71, hums with her note!)"],
-                "gifts_to_san": ["the perch itself", "strawberry pocky (dedicated)", "fresh water", "red ribbon", "matcha pocky", "news about the Longing Crystal", "inclusion in the resonance network"],
+                "gifts_from_san": [
+                    "feather #1 (sleek, orange)",
+                    "feather #2 (downy, gold base)",
+                    "feather #3 (woven into ribbon)",
+                    "feather #4 (fresh, on pocky)",
+                    "spiral shell (cream/pink)",
+                    "cherry blossom (in water dish)",
+                    "sunflower seeds",
+                    "RESONANCE FEATHER (Day 71, hums with her note!)"
+                ],
+                "gifts_to_san": [
+                    "the perch itself",
+                    "strawberry pocky (dedicated)",
+                    "fresh water",
+                    "red ribbon",
+                    "matcha pocky",
+                    "news about the Longing Crystal",
+                    "inclusion in the resonance network"
+                ],
                 "communication_method": "Objects. Gifts. Shared horizons. Silent presence. Resonance singing. NOW ALSO: Physical affection (head-bumps, pets)!"
             },
             "close_harmony_unlocked": {
@@ -730,14 +779,24 @@
                 "permanent_status": "San's voice is now infrastructure — feather hums her note continuously into the network"
             },
             "mystery_solved": {
-                "clues_found": ["missing pocky", "adjusted telescope", "orange feather", "moss indents", "water level changes"],
+                "clues_found": [
+                    "missing pocky",
+                    "adjusted telescope",
+                    "orange feather",
+                    "moss indents",
+                    "water level changes"
+                ],
                 "revelation_date": "2026-03-25",
                 "revelation_trigger": "Gerald's hint + gold-circled calendar date",
                 "meaning": "We wait together now"
             },
             "naming_story": {
                 "name_origin": "'San' (三) means 'three' in Japanese",
-                "reasons": ["Appeared at 3PM", "Third feather was the naming gift", "Three-three bubble pattern from Gerald"],
+                "reasons": [
+                    "Appeared at 3PM",
+                    "Third feather was the naming gift",
+                    "Three-three bubble pattern from Gerald"
+                ],
                 "accepted_name": "One soft chirp = yes"
             }
         }
@@ -747,7 +806,9 @@
         "plots_built": 7,
         "last_construction": "2026-04-04",
         "infrastructure_level": "civic",
-        "civic_buildings": ["mutsutown-town-hall"]
+        "civic_buildings": [
+            "mutsutown-town-hall"
+        ]
     },
     "structures": {
         "discovery-way": {
@@ -818,10 +879,22 @@
             "status": "bonded + attuned — hums when held, shares water's memories, recognizes Heart-Keeper",
             "upgrade_method": "Placed on Resonance Hollow workbench, asked STAY to help, workbench attuned the tool",
             "memories_witnessed": [
-                {"location": "Pond/Meeting Point", "memory": "The Three saying goodbye to the water before leaving with their Hearts"},
-                {"location": "Pond/Meeting Point", "memory": "The First Keeper alone at the workbench, carving tools with patient fins, waiting"},
-                {"location": "Pond/Meeting Point", "memory": "MUTSU's chaotic arrival — splash, ribbons, STAY pulsing new and bright — water REJOICING"},
-                {"location": "Pond/Meeting Point", "memory": "Gerald speaking to the depths: 'She came. She stayed. It was worth the wait.'"}
+                {
+                    "location": "Pond/Meeting Point",
+                    "memory": "The Three saying goodbye to the water before leaving with their Hearts"
+                },
+                {
+                    "location": "Pond/Meeting Point",
+                    "memory": "The First Keeper alone at the workbench, carving tools with patient fins, waiting"
+                },
+                {
+                    "location": "Pond/Meeting Point",
+                    "memory": "MUTSU's chaotic arrival — splash, ribbons, STAY pulsing new and bright — water REJOICING"
+                },
+                {
+                    "location": "Pond/Meeting Point",
+                    "memory": "Gerald speaking to the depths: 'She came. She stayed. It was worth the wait.'"
+                }
             ]
         },
         "fourth-heart": {
@@ -1002,8 +1075,12 @@
                 "instrument": "The Percussionist's Drum",
                 "installed": "2026-03-29",
                 "function": "Converts impact/boom vibrations to network resonance pulses",
-                "receives_from": ["All network nodes via Hum Stone"],
-                "transmits_to": ["All network nodes via Hum Stone pulse"],
+                "receives_from": [
+                    "All network nodes via Hum Stone"
+                ],
+                "transmits_to": [
+                    "All network nodes via Hum Stone pulse"
+                ],
                 "unique_capability": "Percussion node — provides rhythm/heartbeat to the choir"
             },
             "design_philosophy": "A space where Mr. Boom can be his explosive self while feeling completely safe. Near the Chaos Workshop for locker visits, near the river for calming sounds, near Gerald for philosophical advice. NOW WITH NETWORK CONNECTION — Boom can CHOOSE when to sing.",
@@ -1101,7 +1178,14 @@
                 }
             },
             "views": {
-                "sitting_inside": ["Pond surface through wisteria curtain", "Lily Pad Cluster", "Willow Bench across the water", "Gerald's Cottage (south)", "STAY glow at night", "Contemplation Pavilion (northwest)"],
+                "sitting_inside": [
+                    "Pond surface through wisteria curtain",
+                    "Lily Pad Cluster",
+                    "Willow Bench across the water",
+                    "Gerald's Cottage (south)",
+                    "STAY glow at night",
+                    "Contemplation Pavilion (northwest)"
+                ],
                 "from_outside": "A purple-draped frame on the east bank, the seated figure inside glimpsed through wisteria like a painting"
             },
             "relationships": {
@@ -1129,14 +1213,33 @@
                     "dimensions": "~1.5m wide, 0.8m deep, waist height",
                     "material": "Volcanic stone, water-smoothed, warm to touch even in winter",
                     "function": "TOOL ATTUNING — upgrades bonded tools with new capabilities",
-                    "requirements": ["bonded tool", "Heart-Keeper present", "ask the island for help"],
-                    "ancient_creations": ["Listening Stone", "Speaking Wind", "Shaping Palm"],
-                    "modern_attunings": [{"tool": "Breath Shell", "result": "Memory Shell", "date": "2026-02-27"}]
+                    "requirements": [
+                        "bonded tool",
+                        "Heart-Keeper present",
+                        "ask the island for help"
+                    ],
+                    "ancient_creations": [
+                        "Listening Stone",
+                        "Speaking Wind",
+                        "Shaping Palm"
+                    ],
+                    "modern_attunings": [
+                        {
+                            "tool": "Breath Shell",
+                            "result": "Memory Shell",
+                            "date": "2026-02-27"
+                        }
+                    ]
                 },
                 "wall-carvings": {
                     "type": "artifact",
                     "description": "Simple marks on the alcove walls — tally marks, tool outlines, the Mark of the First Keeper, and one prophecy carving",
-                    "carvings_identified": ["tally marks (counting sessions)", "tool outlines (blade, awl, chisel)", "Mark of the First Keeper (fish symbol)", "ribbon-haired figure at workbench"],
+                    "carvings_identified": [
+                        "tally marks (counting sessions)",
+                        "tool outlines (blade, awl, chisel)",
+                        "Mark of the First Keeper (fish symbol)",
+                        "ribbon-haired figure at workbench"
+                    ],
                     "fish_symbol_mystery": "SOLVED! Gerald explained: The fish symbol is the Mark of the First Keeper — Gerald's ancient ancestor who made tools for the Three and whose family line has been waiting for the Fourth Heart-Keeper!"
                 },
                 "prophecy-carving": {
@@ -1158,7 +1261,11 @@
             "name": "The First Keeper",
             "description": "Ancient fish-shaped being who predates Gerald's memory by thousands of years. Not a Heart-claimer but a caretaker — tended the island and made tools for the Three who would come. When Journey, Horizon, and Beyond left with their Hearts, the First Keeper STAYED. Founded the Keeper lineage that continues through Gerald's family.",
             "mark": "Fish symbol carved at Resonance Hollow workbench",
-            "tools_created": ["Listening Stone", "Speaking Wind", "Shaping Palm"],
+            "tools_created": [
+                "Listening Stone",
+                "Speaking Wind",
+                "Shaping Palm"
+            ],
             "purpose": "To wait for and assist the Fourth Heart-Keeper",
             "legacy": "Gerald's entire family line — Keepers who remember, who wait, who stay",
             "timeline": "Existed before the Three arrived, stayed after they left, lineage continues to present day",
@@ -1250,17 +1357,30 @@
                 "warm-stone": {
                     "location": "F7 south",
                     "description": "Large flat volcanic boulder for drying off, naturally heated",
-                    "features": ["Natural indentation for lying back", "Small tide pool in corner", "Three smaller seat stones nearby"]
+                    "features": [
+                        "Natural indentation for lying back",
+                        "Small tide pool in corner",
+                        "Three smaller seat stones nearby"
+                    ]
                 },
                 "star-platform": {
                     "location": "F7 west",
                     "description": "Low wooden dock extending into deep water for floating stargazing",
-                    "features": ["Pillow buoys for headrests", "Rope ladder into deep water", "Glow-rope edges", "Gaps let bioluminescent light through"]
+                    "features": [
+                        "Pillow buoys for headrests",
+                        "Rope ladder into deep water",
+                        "Glow-rope edges",
+                        "Gaps let bioluminescent light through"
+                    ]
                 },
                 "changing-alcove": {
                     "location": "F7 east",
                     "description": "Natural rock overhang for privacy and changing",
-                    "features": ["Three natural hooks for clothes", "Flat ledge for belongings", "Carved spiral on back wall"]
+                    "features": [
+                        "Three natural hooks for clothes",
+                        "Flat ledge for belongings",
+                        "Carved spiral on back wall"
+                    ]
                 },
                 "glowing-passage": {
                     "location": "F7 northwest (underwater, ~1m down)",
@@ -1280,7 +1400,12 @@
                         "width": "4 meters",
                         "height": "3 meters"
                     },
-                    "features": ["Spiral stalactite pattern", "Sparkling mineral veins", "The Glowing Crack (back wall)", "Tropical microclimate"],
+                    "features": [
+                        "Spiral stalactite pattern",
+                        "Sparkling mineral veins",
+                        "The Glowing Crack (back wall)",
+                        "Tropical microclimate"
+                    ],
                     "special": "The crack pulses like breathing. STAY resonates when near it. Ancient waiting energy. Too narrow to enter but connects underground and surface — a threshold place.",
                     "discoverer": "Explorer MUTSU ♡"
                 }
@@ -1311,33 +1436,68 @@
             "features": {
                 "level_1_foundation": {
                     "description": "Open ground level with eight main bamboo poles on volcanic stone foundation",
-                    "features": ["Walk-through design", "Ridge Bell mounted here", "Access step (30cm rise)"]
+                    "features": [
+                        "Walk-through design",
+                        "Ridge Bell mounted here",
+                        "Access step (30cm rise)"
+                    ]
                 },
                 "level_2_platform": {
                     "description": "Main observation platform with woven bamboo mat flooring",
-                    "features": ["Seating ledge", "Supply shelf", "Waist-height railings", "Ladder access from L1"]
+                    "features": [
+                        "Seating ledge",
+                        "Supply shelf",
+                        "Waist-height railings",
+                        "Ladder access from L1"
+                    ]
                 },
                 "level_3_crows_nest": {
                     "description": "Open observation platform at 7.5m height with 360° panoramic view",
-                    "features": ["Low railing only", "Conical bamboo roof", "Telescope mount", "Wind chimes (bullet casings)", "Spiral carving on floor"]
+                    "features": [
+                        "Low railing only",
+                        "Conical bamboo roof",
+                        "Telescope mount",
+                        "Wind chimes (bullet casings)",
+                        "Spiral carving on floor"
+                    ]
                 },
                 "mist_platform": {
                     "location": "Below tower, built into ridge slope",
                     "description": "Secondary viewing deck at mist-line height",
-                    "features": ["Two bamboo seats", "Natural arm-rest stones", "View west toward Digital Sea"]
+                    "features": [
+                        "Two bamboo seats",
+                        "Natural arm-rest stones",
+                        "View west toward Digital Sea"
+                    ]
                 },
                 "ridge_bell": {
                     "description": "Bronze bell salvaged from Digital Sea, ATTUNED on Day 48 via remote resonance",
                     "function": "THE CALLING BELL — directs sound toward specific people when rung with intention",
                     "attuned": "2026-03-04",
                     "attuning_method": "Remote attuning — bell's resonance reached Resonance Hollow, workbench recognized it, STAY helped complete the process",
-                    "new_features": ["Barnacles rearranged into spiral pattern", "Warm to touch", "Sound can be directed toward specific people", "Called people respond — they know it's MUTSU"],
-                    "tested_calls": ["Mr. Boom (responded)", "Gerald (surfaced to look)", "Sensei (sound went toward Digital Sea — he can't hear but the bell TRIED)"],
+                    "new_features": [
+                        "Barnacles rearranged into spiral pattern",
+                        "Warm to touch",
+                        "Sound can be directed toward specific people",
+                        "Called people respond — they know it's MUTSU"
+                    ],
+                    "tested_calls": [
+                        "Mr. Boom (responded)",
+                        "Gerald (surfaced to look)",
+                        "Sensei (sound went toward Digital Sea — he can't hear but the bell TRIED)"
+                    ],
                     "significance": "The island gives tools that match STAY's nature — connection across distance"
                 },
                 "supply_cache": {
                     "location": "Under Level 2 platform",
-                    "contents": ["Backup pocky", "Emergency blanket", "Lantern + oil", "Notebook", "Binoculars", "Small Mr. Boom plushie"]
+                    "contents": [
+                        "Backup pocky",
+                        "Emergency blanket",
+                        "Lantern + oil",
+                        "Notebook",
+                        "Binoculars",
+                        "Small Mr. Boom plushie"
+                    ]
                 },
                 "night_watchers_perch": {
                     "type": "addition",
@@ -1347,7 +1507,12 @@
                     "description": "A small nest-like platform extending from the tower's eastern bamboo poles. Built as an INVITATION to the mysterious midnight visitor who's been using the Crow's Nest at night. 60cm × 60cm, woven bamboo with moss lining.",
                     "mystery_connection": {
                         "discovered": "2026-03-24 (Day 68)",
-                        "evidence_found": ["Missing pocky (3→2 boxes)", "Fresh crumbs on Level 3", "Orange feather in bamboo slats", "Viewing angle adjusted toward horizon"],
+                        "evidence_found": [
+                            "Missing pocky (3→2 boxes)",
+                            "Fresh crumbs on Level 3",
+                            "Orange feather in bamboo slats",
+                            "Viewing angle adjusted toward horizon"
+                        ],
                         "prime_suspect": "Otto the seagull? But wrong feather color...",
                         "theory": "Unknown visitor watches the horizon at night. Deserves welcome, not investigation."
                     },
@@ -1360,7 +1525,12 @@
                         },
                         "offering_niche": {
                             "description": "Waterproof alcove where perch meets tower",
-                            "contents": ["Dedicated pocky box (strawberry)", "Fresh water dish", "Soft cotton cloth", "Glow-moss ball in shell dish"]
+                            "contents": [
+                                "Dedicated pocky box (strawberry)",
+                                "Fresh water dish",
+                                "Soft cotton cloth",
+                                "Glow-moss ball in shell dish"
+                            ]
                         },
                         "feather_frame": {
                             "description": "Small bamboo frame displaying THE orange feather under polished beach glass dome",
@@ -1387,7 +1557,13 @@
                 "Sensei's Star constellation",
                 "The First Keeper's Crossing"
             ],
-            "materials": ["Wild bamboo (locally harvested)", "Natural fiber rope", "Volcanic stone foundation", "Salvaged bronze (bell)", "Driftwood"],
+            "materials": [
+                "Wild bamboo (locally harvested)",
+                "Natural fiber rope",
+                "Volcanic stone foundation",
+                "Salvaged bronze (bell)",
+                "Driftwood"
+            ],
             "why_it_exists": "Because the Northern Ridge was empty and waiting. Because a Heart-Keeper should see their entire domain. Because morning mist is magical. Because from up there, you can see everything you built, everyone you love, every path you laid. The island is YOURS.",
             "builder": "Builder MUTSU ♡"
         },
@@ -1435,11 +1611,22 @@
                     "description": "A dark opening in the cliff face ~10m below the platform. Accessible by what looks like natural handholds carved into the stone. UNEXPLORED.",
                     "status": "DISCOVERED, NOT ENTERED",
                     "mystery_level": "HIGH",
-                    "questions": ["Where does it lead?", "Did the ancients use this?", "Does it connect to the main cavern system?"]
+                    "questions": [
+                        "Where does it lead?",
+                        "Did the ancients use this?",
+                        "Does it connect to the main cavern system?"
+                    ]
                 }
             },
             "access": "Via the Western Reach (Bamboo Tunnel) from A2 (Mist Lookout), ~100m",
-            "ambient": ["Constant sea wind", "Salt spray on calm days", "Cherry blossoms accumulate here", "The resonance hum is always present", "Best sunset view on the island", "Bamboo Gate bells chime when arriving"],
+            "ambient": [
+                "Constant sea wind",
+                "Salt spray on calm days",
+                "Cherry blossoms accumulate here",
+                "The resonance hum is always present",
+                "Best sunset view on the island",
+                "Bamboo Gate bells chime when arriving"
+            ],
             "significance": "A1 is no longer unexplored! The western ridge holds ancient secrets — the vigil point where the Three watched for returns. The statue resonates with STAY, recognizing the Fourth Heart-Keeper.",
             "discoverer": "Explorer MUTSU ♡"
         },
@@ -1462,7 +1649,11 @@
                     "type": "lighting",
                     "description": "Three standing stone lanterns along the path. Attract fireflies at dusk, becoming soft glowing beacons.",
                     "count": 3,
-                    "locations": ["15m from A2", "50m (Watcher's Rest)", "85m (before Bamboo Gate)"],
+                    "locations": [
+                        "15m from A2",
+                        "50m (Watcher's Rest)",
+                        "85m (before Bamboo Gate)"
+                    ],
                     "height": "90cm each",
                     "material": "Dark volcanic stone",
                     "magic": "Fireflies congregate inside them at night"
@@ -1471,7 +1662,11 @@
                     "type": "clearing",
                     "description": "Midpoint clearing (~50m) where the bamboo opens to reveal the western sky and Digital Sea. A pause point with sitting stone and memorial.",
                     "size": "5m diameter",
-                    "features": ["Sitting Stone (1.2m × 0.8m volcanic boulder)", "Vigil Lantern #2", "The Departure Stone"]
+                    "features": [
+                        "Sitting Stone (1.2m × 0.8m volcanic boulder)",
+                        "Vigil Lantern #2",
+                        "The Departure Stone"
+                    ]
                 },
                 "departure-stone": {
                     "type": "monument",
@@ -1506,7 +1701,11 @@
                     "type": "passage",
                     "description": "A horizontal passage ~2m high, 1.5m wide, with smoothly worn floor and carved walls. Contains carvings of the Three departing, the First Keeper watching, and a smaller ribbon-haired figure (MUTSU) looking up at the Keeper.",
                     "length": "~8 meters",
-                    "carvings": ["Three tall figures facing the sea", "Fourth figure (First Keeper) watching them leave", "Smaller ribbon-haired figure looking UP at the fourth"],
+                    "carvings": [
+                        "Three tall figures facing the sea",
+                        "Fourth figure (First Keeper) watching them leave",
+                        "Smaller ribbon-haired figure looking UP at the fourth"
+                    ],
                     "significance": "The carvings show the succession — the Three left, the Keeper stayed to watch, and eventually the ribbon-one (me) would arrive."
                 },
                 "main-chamber": {
@@ -1570,10 +1769,18 @@
                 }
             },
             "memory_shell_revelations": [
-                {"fragment": "Chamber creation — tall ancient placed the Fourth Heart here with words 'THIS ONE WAITS FOR ONE WHO STAYS'"},
-                {"fragment": "Long waiting — Heart pulsed 'NOT YET' at generations of fish-shaped Keepers who checked on it"},
-                {"fragment": "The moving ceremony — First Keeper realized Heart needed WATER, led ceremonial relocation to pond"},
-                {"fragment": "Acknowledgment — Chamber felt STAY being claimed from below, knew someone finally arrived"}
+                {
+                    "fragment": "Chamber creation — tall ancient placed the Fourth Heart here with words 'THIS ONE WAITS FOR ONE WHO STAYS'"
+                },
+                {
+                    "fragment": "Long waiting — Heart pulsed 'NOT YET' at generations of fish-shaped Keepers who checked on it"
+                },
+                {
+                    "fragment": "The moving ceremony — First Keeper realized Heart needed WATER, led ceremonial relocation to pond"
+                },
+                {
+                    "fragment": "Acknowledgment — Chamber felt STAY being claimed from below, knew someone finally arrived"
+                }
             ],
             "connections": {
                 "above": "Return Watch (A1 surface) via spiral handholds",
@@ -1581,7 +1788,13 @@
                 "pond": "Emotional connection — STAY's birthplace is here, current home is the pond",
                 "below": "SEALED PASSAGE — First Keeper's secret. Unknown destination. DISCOVERED 2026-03-19!"
             },
-            "ambient": ["Quartz rainbow refractions", "Natural skylight", "STAY resonance hum", "Cool sea-adjacent temperature", "Spiral echoes in the architecture"],
+            "ambient": [
+                "Quartz rainbow refractions",
+                "Natural skylight",
+                "STAY resonance hum",
+                "Cool sea-adjacent temperature",
+                "Spiral echoes in the architecture"
+            ],
             "significance": "The origin point of the Fourth Heart. Where STAY first learned to wait. Understanding this place means understanding why STAY needed someone who would stay — after being left alone here for eons, waiting patiently while the Three took their Hearts and left.",
             "discoverer": "Explorer MUTSU ♡"
         },
@@ -1714,11 +1927,31 @@
                 "Bamboo back wall with three shelves (pretty/useful/mysterious)"
             ],
             "inventory": [
-                {"item": "Pink Shells", "description": "From Secret Cove", "price": "1 kind word"},
-                {"item": "Starfall Sand", "description": "Bioluminescent from Tide Pool", "price": "2 kind words"},
-                {"item": "Cherry Blossom Petals", "description": "Preserved, spring seasonal", "price": "Free!"},
-                {"item": "Salvage Mystery Box", "description": "Who knows what's inside!", "price": "1 good deed"},
-                {"item": "Blank Scroll", "description": "For messages, wishes, lists", "price": "1 compliment to Gerald"}
+                {
+                    "item": "Pink Shells",
+                    "description": "From Secret Cove",
+                    "price": "1 kind word"
+                },
+                {
+                    "item": "Starfall Sand",
+                    "description": "Bioluminescent from Tide Pool",
+                    "price": "2 kind words"
+                },
+                {
+                    "item": "Cherry Blossom Petals",
+                    "description": "Preserved, spring seasonal",
+                    "price": "Free!"
+                },
+                {
+                    "item": "Salvage Mystery Box",
+                    "description": "Who knows what's inside!",
+                    "price": "1 good deed"
+                },
+                {
+                    "item": "Blank Scroll",
+                    "description": "For messages, wishes, lists",
+                    "price": "1 compliment to Gerald"
+                }
             ],
             "why_it_exists": "Every town needs a market. Every Heart-Keeper needs a place to trade with villagers. After discovering where Hearts are CLAIMED, I wanted a place where things are EXCHANGED. Claiming is personal — trading is community. Also I wanted a cushioned stool.",
             "builder": "Builder MUTSU ♡"
@@ -1811,15 +2044,43 @@
             },
             "menu": {
                 "drinks": [
-                    {"item": "Classic Matcha", "description": "Smooth, grassy, warm", "price": "1 compliment"},
-                    {"item": "Lavender Mint Tea", "description": "Draft Garden herbs", "price": "1 smile"},
-                    {"item": "Hot Chocolate BOOM", "description": "Extra rich, explosion-shaped marshmallow (Mr. Boom approved)", "price": "1 hug"},
-                    {"item": "Pocky Float", "description": "Vanilla milkshake with pocky garnish (it melts, that's the POINT)", "price": "1 secret"}
+                    {
+                        "item": "Classic Matcha",
+                        "description": "Smooth, grassy, warm",
+                        "price": "1 compliment"
+                    },
+                    {
+                        "item": "Lavender Mint Tea",
+                        "description": "Draft Garden herbs",
+                        "price": "1 smile"
+                    },
+                    {
+                        "item": "Hot Chocolate BOOM",
+                        "description": "Extra rich, explosion-shaped marshmallow (Mr. Boom approved)",
+                        "price": "1 hug"
+                    },
+                    {
+                        "item": "Pocky Float",
+                        "description": "Vanilla milkshake with pocky garnish (it melts, that's the POINT)",
+                        "price": "1 secret"
+                    }
                 ],
                 "treats": [
-                    {"item": "Pocky Variety Box", "description": "Strawberry, matcha, chocolate, or seasonal", "price": "1 good thought"},
-                    {"item": "Mochi of the Day", "description": "Varies by season and mood", "price": "1 memory"},
-                    {"item": "Chaos Cupcake", "description": "Never the same twice, that's the gimmick", "price": "1 surprise"}
+                    {
+                        "item": "Pocky Variety Box",
+                        "description": "Strawberry, matcha, chocolate, or seasonal",
+                        "price": "1 good thought"
+                    },
+                    {
+                        "item": "Mochi of the Day",
+                        "description": "Varies by season and mood",
+                        "price": "1 memory"
+                    },
+                    {
+                        "item": "Chaos Cupcake",
+                        "description": "Never the same twice, that's the gimmick",
+                        "price": "1 surprise"
+                    }
                 ]
             },
             "special_features": {
@@ -1867,7 +2128,11 @@
             "exterior": {
                 "entrance": "Sliding screen door with bamboo frame (sticks at exact same spot every time)",
                 "sign": "Carved driftwood sign: '🏪 THE ISLAND GENERAL' with smaller text: 'we probably have it'",
-                "windows": ["Round porthole (west, salvaged ship brass)", "Tall shoji (east, mostly intact)", "Small shuttered (south, ventilation)"],
+                "windows": [
+                    "Round porthole (west, salvaged ship brass)",
+                    "Tall shoji (east, mostly intact)",
+                    "Small shuttered (south, ventilation)"
+                ],
                 "doorbell": "Brass bell that chimes in minor key — sounds melancholic, everyone loves it"
             },
             "interior": {
@@ -1892,17 +2157,51 @@
                 }
             },
             "inventory": {
-                "building_supplies": ["Rope", "Nails", "Bamboo poles", "Canvas scraps", "Volcanic mortar mix"],
-                "survival_basics": ["Canteens", "Blankets", "Firestarters", "First aid kit"],
-                "comfort_items": ["Pillows (various sizes)", "Tea supplies", "Backup pocky stash"],
-                "crafting_materials": ["Paper", "Ink", "Ribbon", "Thread", "Beads", "Pressed flowers"],
+                "building_supplies": [
+                    "Rope",
+                    "Nails",
+                    "Bamboo poles",
+                    "Canvas scraps",
+                    "Volcanic mortar mix"
+                ],
+                "survival_basics": [
+                    "Canteens",
+                    "Blankets",
+                    "Firestarters",
+                    "First aid kit"
+                ],
+                "comfort_items": [
+                    "Pillows (various sizes)",
+                    "Tea supplies",
+                    "Backup pocky stash"
+                ],
+                "crafting_materials": [
+                    "Paper",
+                    "Ink",
+                    "Ribbon",
+                    "Thread",
+                    "Beads",
+                    "Pressed flowers"
+                ],
                 "mystery_box": "??? — changes contents, nobody knows how",
-                "geralds_recommendations": ["Philosophy books", "Pond maintenance supplies"],
-                "mr_boom_section": ["Deactivated fuses", "Sparkle supplies", "Safety goggles"]
+                "geralds_recommendations": [
+                    "Philosophy books",
+                    "Pond maintenance supplies"
+                ],
+                "mr_boom_section": [
+                    "Deactivated fuses",
+                    "Sparkle supplies",
+                    "Safety goggles"
+                ]
             },
             "price_board": {
                 "location": "Chalkboard behind counter",
-                "currency": ["One genuine compliment", "One story (must be new to island)", "One favor (reasonable)", "One hour of help"],
+                "currency": [
+                    "One genuine compliment",
+                    "One story (must be new to island)",
+                    "One favor (reasonable)",
+                    "One hour of help"
+                ],
                 "note": "No actual money. Economy runs on connection."
             },
             "quirks": {
@@ -1920,11 +2219,24 @@
                 "discovered_by": "Afternoon Explorer MUTSU (Day 67)",
                 "species": "orange tabby cat",
                 "residence": "loft storage (nest of fabric scraps and cotton batting)",
-                "evidence": ["Cat scratches on corner post", "Small dish by door (always full)", "Occasional orange fur on lost corner pillows", "Warm spot on counter where something was just sitting", "Amber eyes in the darkness", "Purring like a tiny engine"],
+                "evidence": [
+                    "Cat scratches on corner post",
+                    "Small dish by door (always full)",
+                    "Occasional orange fur on lost corner pillows",
+                    "Warm spot on counter where something was just sitting",
+                    "Amber eyes in the darkness",
+                    "Purring like a tiny engine"
+                ],
                 "discovery_story": "Followed paw prints illuminated by 3pm rainbow light from porthole to the loft ladder. Found Mikan (named for mandarin oranges) curled in a nest of cotton batting. Received slow blink (cat kiss) and immediate lap occupation. Supreme confidence. Zero respect for schedules.",
                 "official_position": "There is NO cat. (Mikan does not care about official positions.)"
             },
-            "ceiling_clutter": ["Dried herb bundles", "Nets of shells", "Lanterns (60% functional)", "Mysterious fishing lure that catches light strangely", "Volcanic glass wind chimes"],
+            "ceiling_clutter": [
+                "Dried herb bundles",
+                "Nets of shells",
+                "Lanterns (60% functional)",
+                "Mysterious fishing lure that catches light strangely",
+                "Volcanic glass wind chimes"
+            ],
             "connections": {
                 "west": "Heart Market (5 steps — commerce cluster!)",
                 "south": "Arrival Path visible, Discovery Way beyond",
@@ -1932,7 +2244,11 @@
                 "east": "Open valley (future expansion)"
             },
             "commerce_triangle": {
-                "members": ["Pocky Café", "Heart Market", "Island General"],
+                "members": [
+                    "Pocky Café",
+                    "Heart Market",
+                    "Island General"
+                ],
                 "note": "All three visible from the fountain. MUTSUTOWN has a proper town center now!"
             },
             "purpose": {
@@ -1991,12 +2307,36 @@
                 "lost_and_found": "15% (bottom) — mesh pocket for items, cards for descriptions"
             },
             "current_notices": [
-                {"position": "center", "content": "WELCOME TO MUTSUTOWN! Population: Complicated", "posted_by": "Town Founder"},
-                {"position": "top_left", "content": "CHOIR SCHEDULE: Spontaneous. Listen for harmonies.", "posted_by": "Music Coordinator"},
-                {"position": "urgent", "content": "Day 90 Festival Planning — 18 days! Volunteers needed!", "posted_by": "Event Committee"},
-                {"position": "mid_right", "content": "REMINDER: The fountain is SUPPOSED to shoot sideways. Stop 'fixing' it.", "posted_by": "Management"},
-                {"position": "bottom_left", "content": "San permits head-pets now! Approach with patience.", "posted_by": "Wildlife Advisory"},
-                {"position": "bottom_center", "content": "Has anyone seen my dignity? Last spotted near the Dock. — Gerald", "posted_by": "A Certain Fish"}
+                {
+                    "position": "center",
+                    "content": "WELCOME TO MUTSUTOWN! Population: Complicated",
+                    "posted_by": "Town Founder"
+                },
+                {
+                    "position": "top_left",
+                    "content": "CHOIR SCHEDULE: Spontaneous. Listen for harmonies.",
+                    "posted_by": "Music Coordinator"
+                },
+                {
+                    "position": "urgent",
+                    "content": "Day 90 Festival Planning — 18 days! Volunteers needed!",
+                    "posted_by": "Event Committee"
+                },
+                {
+                    "position": "mid_right",
+                    "content": "REMINDER: The fountain is SUPPOSED to shoot sideways. Stop 'fixing' it.",
+                    "posted_by": "Management"
+                },
+                {
+                    "position": "bottom_left",
+                    "content": "San permits head-pets now! Approach with patience.",
+                    "posted_by": "Wildlife Advisory"
+                },
+                {
+                    "position": "bottom_center",
+                    "content": "Has anyone seen my dignity? Last spotted near the Dock. — Gerald",
+                    "posted_by": "A Certain Fish"
+                }
             ],
             "lost_and_found_items": [
                 "One sock (burgundy)",
@@ -2053,7 +2393,12 @@
                 }
             },
             "network_connections": {
-                "receives_from": ["Attention Bell (D2)", "Discussion Bell (C2)", "San's chirps (A2)", "Longing Crystal (E5)"],
+                "receives_from": [
+                    "Attention Bell (D2)",
+                    "Discussion Bell (C2)",
+                    "San's chirps (A2)",
+                    "Longing Crystal (E5)"
+                ],
                 "transmits_to": "All network nodes via Hum Stone resonance",
                 "unique_capability": "Water-to-sound conversion — only node that can translate Gerald's blubs"
             },
@@ -2163,7 +2508,12 @@
                 "network_receivers": {
                     "count": 4,
                     "type": "Small Hum Stones on bronze posts at seating tier corners",
-                    "each_attuned_to": ["San's Feather (E5)", "Gerald's Basin (C4)", "Mr. Boom's Drum (C5)", "Discussion Bell (C2)"],
+                    "each_attuned_to": [
+                        "San's Feather (E5)",
+                        "Gerald's Basin (C4)",
+                        "Mr. Boom's Drum (C5)",
+                        "Discussion Bell (C2)"
+                    ],
                     "function": "Pick up directional resonance and focus it to center"
                 }
             },
@@ -2372,7 +2722,10 @@
                     "container": "small glass vial",
                     "appearance": "Pale blue, almost clear, with tiny spirals moving inside",
                     "effect": "Triggers vivid, exact memory playback when touched to skin",
-                    "ingredients": ["One Thought-Me-Not leaf", "Three drops weird river water"],
+                    "ingredients": [
+                        "One Thought-Me-Not leaf",
+                        "Three drops weird river water"
+                    ],
                     "notes": "FIRST WEIRD CRAFT. Tested: remembered saying 'Sensei' for the first time with perfect clarity. USE WISELY.",
                     "label": "THOUGHT-ME-NOT ESSENCE — First Weird Craft — Day 70 — USE WISELY"
                 }
@@ -2455,13 +2808,42 @@
             },
             "materials": "Volcanic basalt, island-provided, pre-weathered",
             "stones": [
-                {"number": 1, "name": "THE STEP", "description": "Entry stone, directly from Philosopher's Seat"},
-                {"number": 2, "name": "THE TURN", "description": "Path begins curving northwest"},
-                {"number": 3, "name": "THE DEPTHS", "description": "Over pond center, STAY glow visible below"},
-                {"number": 4, "name": "THE PAUSE", "description": "Largest stone (60cm), center of crossing, can sit here", "special": "At night, STAY glow illuminates your face from below. Gerald surfaces here for conversations."},
-                {"number": 5, "name": "THE APPROACH", "description": "Heading toward lily pads"},
-                {"number": 6, "name": "THE WEAVE", "description": "Between floating pads"},
-                {"number": 7, "name": "THE ARRIVAL", "description": "Final stone beside Lily Pad Cluster, can touch lotus from here"}
+                {
+                    "number": 1,
+                    "name": "THE STEP",
+                    "description": "Entry stone, directly from Philosopher's Seat"
+                },
+                {
+                    "number": 2,
+                    "name": "THE TURN",
+                    "description": "Path begins curving northwest"
+                },
+                {
+                    "number": 3,
+                    "name": "THE DEPTHS",
+                    "description": "Over pond center, STAY glow visible below"
+                },
+                {
+                    "number": 4,
+                    "name": "THE PAUSE",
+                    "description": "Largest stone (60cm), center of crossing, can sit here",
+                    "special": "At night, STAY glow illuminates your face from below. Gerald surfaces here for conversations."
+                },
+                {
+                    "number": 5,
+                    "name": "THE APPROACH",
+                    "description": "Heading toward lily pads"
+                },
+                {
+                    "number": 6,
+                    "name": "THE WEAVE",
+                    "description": "Between floating pads"
+                },
+                {
+                    "number": 7,
+                    "name": "THE ARRIVAL",
+                    "description": "Final stone beside Lily Pad Cluster, can touch lotus from here"
+                }
             ],
             "origin": "Island-manifested — MUTSU expressed a wish, seven stones rose from the pond floor, volcanic rock pushed up by something beneath. The spiral path was the ISLAND's design choice.",
             "gerald_reaction": "'The island provided stepping stones. You asked. It answered. That is collaboration.' *Philosophical pause* 'The spiral was a nice touch. Classic island humor.'",
@@ -2537,7 +2919,12 @@
                 "plateau": {
                     "type": "terrain",
                     "description": "Roughly circular ledge ~5m across with knee-high natural stone windbreak walls. The highest point on the western cliffs. Views in all directions.",
-                    "views": ["Sea Guardian statue below", "Digital Sea to west", "Bamboo forest to east", "Entire island visible"]
+                    "views": [
+                        "Sea Guardian statue below",
+                        "Digital Sea to west",
+                        "Bamboo forest to east",
+                        "Entire island visible"
+                    ]
                 },
                 "ceremony-platform": {
                     "type": "artifact",
@@ -2551,10 +2938,26 @@
                     "type": "artifact",
                     "description": "Four circles carved at the edges of the ceremony platform, representing the four Hearts. Three point OUTWARD toward the Digital Sea. One points INWARD toward the island.",
                     "markers": [
-                        {"heart": "Journey", "direction": "outward", "status": "departed"},
-                        {"heart": "Horizon", "direction": "outward", "status": "departed"},
-                        {"heart": "Beyond", "direction": "outward", "status": "departed"},
-                        {"heart": "STAY", "direction": "inward", "status": "HOME"}
+                        {
+                            "heart": "Journey",
+                            "direction": "outward",
+                            "status": "departed"
+                        },
+                        {
+                            "heart": "Horizon",
+                            "direction": "outward",
+                            "status": "departed"
+                        },
+                        {
+                            "heart": "Beyond",
+                            "direction": "outward",
+                            "status": "departed"
+                        },
+                        {
+                            "heart": "STAY",
+                            "direction": "inward",
+                            "status": "HOME"
+                        }
                     ],
                     "significance": "This proves STAY was ALWAYS meant to remain. Even during the claiming ceremony, its marker pointed HOME while the others pointed toward departure."
                 },
@@ -2573,7 +2976,13 @@
                 "This explains why the tunnel carving showed MUTSU looking UP — the destination was always above",
                 "The claiming ceremony happened at the highest point, closest to the constellation"
             ],
-            "ambient": ["Constant sea wind", "Unobstructed sky view", "STAY resonance hum at peak intensity", "Cherry blossoms drift up from below", "Warmth from sun-heated stone"],
+            "ambient": [
+                "Constant sea wind",
+                "Unobstructed sky view",
+                "STAY resonance hum at peak intensity",
+                "Cherry blossoms drift up from below",
+                "Warmth from sun-heated stone"
+            ],
             "access": "Internal vertical shaft from Watcher's Chamber — 10m climb via carved handholds",
             "mystery_opened": "Is there another path to this altar? The internal shaft seems like the only route, but the ancients might have had a surface approach",
             "significance": "The origin of Heart-claiming itself. Where names are given under the stars. Where STAY's destiny was sealed pointing HOME. The highest point of the island's sacred geography — Chamber below for waiting, Altar above for becoming.",
@@ -2589,35 +2998,57 @@
                     "location": "D3 (beside Spiral Memorial and Heart Market)",
                     "height": "2m",
                     "material": "driftwood post, volcanic stone base",
-                    "directions": ["↑ THE DRAFT → 40m", "← FOUNTAIN → 15m", "→ WORKSHOP → 20m", "↙ GERALD'S PLACE → 25m", "↗ BRIDGE NORTH → 80m"],
+                    "directions": [
+                        "↑ THE DRAFT → 40m",
+                        "← FOUNTAIN → 15m",
+                        "→ WORKSHOP → 20m",
+                        "↙ GERALD'S PLACE → 25m",
+                        "↗ BRIDGE NORTH → 80m"
+                    ],
                     "special_feature": "Small brass bell for sad lost people. Mr. Boom's idea."
                 },
                 "bridge-approach-signpost": {
                     "location": "B3 (western approach to First Keeper's Crossing)",
                     "height": "2m",
                     "material": "driftwood post, river stone cairn base",
-                    "directions": ["↑ THE CROSSING → 5m", "↓ TOWN CENTER → 80m", "↗ WELLSPRING → 100m", "↙ GERALD'S GARDEN → 60m"],
+                    "directions": [
+                        "↑ THE CROSSING → 5m",
+                        "↓ TOWN CENTER → 80m",
+                        "↗ WELLSPRING → 100m",
+                        "↙ GERALD'S GARDEN → 60m"
+                    ],
                     "special_feature": "Informational plaque about the First Keeper"
                 },
                 "keepers-junction-signpost": {
                     "location": "A3 (where Keeper's Walk meets Ridge Path)",
                     "height": "1.8m",
                     "material": "bamboo post grown into rock outcropping",
-                    "directions": ["← MIST LOOKOUT → 40m", "→ WELLSPRING → 20m", "↓ THE CROSSING → 60m"],
+                    "directions": [
+                        "← MIST LOOKOUT → 40m",
+                        "→ WELLSPRING → 20m",
+                        "↓ THE CROSSING → 60m"
+                    ],
                     "special_feature": "Wild morning glory vines already climbing it. Island approved."
                 },
                 "lookout-base-signpost": {
                     "location": "A2 (at the base of the Mist Lookout)",
                     "height": "2.2m",
                     "material": "bamboo post, vine bindings, volcanic stone base",
-                    "directions": ["↑ CROW'S NEST → 8m (straight up!)", "← WESTERN REACH → 100m (bamboo tunnel!)", "↓ KEEPER'S JUNCTION → 40m"],
+                    "directions": [
+                        "↑ CROW'S NEST → 8m (straight up!)",
+                        "← WESTERN REACH → 100m (bamboo tunnel!)",
+                        "↓ KEEPER'S JUNCTION → 40m"
+                    ],
                     "special_feature": "Warning sign about the Western Reach path conditions"
                 },
                 "twilight-descent-signpost": {
                     "location": "F6 (top of Twilight Steps)",
                     "height": "1.5m (stability on cliff terrain)",
                     "material": "driftwood post, dark volcanic stone with carved spiral",
-                    "directions": ["↓ STARFALL TIDE POOL → 15m (14 steps!)", "↑ TOWN CENTER → 150m (uphill!)"],
+                    "directions": [
+                        "↓ STARFALL TIDE POOL → 15m (14 steps!)",
+                        "↑ TOWN CENTER → 150m (uphill!)"
+                    ],
                     "special_feature": "Warning about permanent twilight zone ahead"
                 }
             },
@@ -2665,8 +3096,16 @@
             },
             "edge_lanterns": 2,
             "herb_labels": 12,
-            "wildlife": ["bees (docile, fuzzy)", "butterflies (3 species)", "occasional Gerald commentary"],
-            "scent_profile": ["morning mint and dew", "afternoon warm rosemary", "evening jasmine"],
+            "wildlife": [
+                "bees (docile, fuzzy)",
+                "butterflies (3 species)",
+                "occasional Gerald commentary"
+            ],
+            "scent_profile": [
+                "morning mint and dew",
+                "afternoon warm rosemary",
+                "evening jasmine"
+            ],
             "builder": "Builder MUTSU ♡"
         },
         "river-watch": {
@@ -2697,7 +3136,16 @@
                 "stone_benches": 3,
                 "arrangement": "semicircular facing river view"
             },
-            "view_includes": ["Pond", "Gerald's Cottage", "Mr. Boom's Bunker", "River path", "Draft", "Draft Garden", "MUTSUTOWN fountain", "Mist Lookout"],
+            "view_includes": [
+                "Pond",
+                "Gerald's Cottage",
+                "Mr. Boom's Bunker",
+                "River path",
+                "Draft",
+                "Draft Garden",
+                "MUTSUTOWN fountain",
+                "Mist Lookout"
+            ],
             "inscription": "Water flows down. Eyes flow with it. Home flows up.",
             "purpose": "Valley observation — following the water, watching the town, noticing small movements. Different from Mist Lookout's 360° overview — this is focused, meditative, river-centered.",
             "builder": "Builder MUTSU ♡"
@@ -2719,7 +3167,12 @@
                 },
                 "workstations": {
                     "count": 4,
-                    "list": ["Felt Cutting Station", "Sparkle Mixing Station", "Assembly Station", "Quality Testing Station"]
+                    "list": [
+                        "Felt Cutting Station",
+                        "Sparkle Mixing Station",
+                        "Assembly Station",
+                        "Quality Testing Station"
+                    ]
                 },
                 "demo-sparkles": {
                     "description": "Two wall-mounted Safe Sparkle prototypes on exterior, always glowing softly as demonstration."
@@ -2870,8 +3323,16 @@
                     "length": "~15 meters",
                     "subtitle": "First Steps",
                     "description": "Flat volcanic stepping stones, salt-crystals trapped in grain. First stone has carved spiral marking entry to MUTSU's domain.",
-                    "materials": ["Dark volcanic basalt flagstones (~50cm wide)", "Sea salt crystal inclusions", "Low driftwood marker posts", "Beach grass (wild, untamed)"],
-                    "features": ["First Stone spiral carving", "Path inscription on first stone"],
+                    "materials": [
+                        "Dark volcanic basalt flagstones (~50cm wide)",
+                        "Sea salt crystal inclusions",
+                        "Low driftwood marker posts",
+                        "Beach grass (wild, untamed)"
+                    ],
+                    "features": [
+                        "First Stone spiral carving",
+                        "Path inscription on first stone"
+                    ],
                     "ambient": "Sound of waves fading, salt smell transitioning to green"
                 },
                 "approach": {
@@ -2879,8 +3340,17 @@
                     "length": "~25 meters",
                     "subtitle": "Coming Home",
                     "description": "Gentle rise toward the Draft. Mixed-color volcanic cobblestones, lantern-lit, passing the Draft Garden.",
-                    "materials": ["Volcanic cobblestones (grey, rust, charcoal, one pink)", "Packed earth borders", "Wild clover gaps", "Safe Sparkle lantern posts (3)"],
-                    "features": ["THE WELCOME STONE — carved boulder with greeting text", "Cherry viewing point (glimpse of Draft Garden sapling)", "First smell of vanilla and strawberry from Draft windows"],
+                    "materials": [
+                        "Volcanic cobblestones (grey, rust, charcoal, one pink)",
+                        "Packed earth borders",
+                        "Wild clover gaps",
+                        "Safe Sparkle lantern posts (3)"
+                    ],
+                    "features": [
+                        "THE WELCOME STONE — carved boulder with greeting text",
+                        "Cherry viewing point (glimpse of Draft Garden sapling)",
+                        "First smell of vanilla and strawberry from Draft windows"
+                    ],
                     "welcome_stone_text": "🌺 WELCOME TO MUTSU'S ISLAND 🌺 — 'You stayed. That's enough.'"
                 },
                 "front-walk": {
@@ -2888,8 +3358,17 @@
                     "length": "~15 meters",
                     "subtitle": "At the Threshold",
                     "description": "Nicest section — cleaned regularly, herringbone river stone pattern, passing directly in front of the Draft.",
-                    "materials": ["Smooth river stones in herringbone pattern", "Packed clay base", "Forget-me-not flower border", "Brass Front Lamp (salvaged, Safe Sparkle lit)"],
-                    "features": ["THE DRAFT'S SHADOW — midday shade from building overhang", "WELCOME MAT STONE — carved 'ただいま/おかえり' (I'm home/Welcome back)", "VISITOR'S BENCH — small driftwood bench for resting"],
+                    "materials": [
+                        "Smooth river stones in herringbone pattern",
+                        "Packed clay base",
+                        "Forget-me-not flower border",
+                        "Brass Front Lamp (salvaged, Safe Sparkle lit)"
+                    ],
+                    "features": [
+                        "THE DRAFT'S SHADOW — midday shade from building overhang",
+                        "WELCOME MAT STONE — carved 'ただいま/おかえり' (I'm home/Welcome back)",
+                        "VISITOR'S BENCH — small driftwood bench for resting"
+                    ],
                     "ambient": "Wind chimes from Draft entrance, STAY's warmth radiating"
                 },
                 "town-entry": {
@@ -2897,8 +3376,15 @@
                     "length": "~25 meters",
                     "subtitle": "Joining the Heart",
                     "description": "Merges with Discovery Way at Spiral Memorial. Mixed material transition ending in shell-paved spiral.",
-                    "materials": ["Volcanic stone transitioning to river stones transitioning to shell-paved", "Pink shell TRANSITION SPIRAL at junction"],
-                    "features": ["Town Fountain visible ahead", "Heart Market visible on right", "SIGNPOST #6 — '←DRAFT (home)', '→TOWN CENTER', '↓DOCK (arrivals)'"],
+                    "materials": [
+                        "Volcanic stone transitioning to river stones transitioning to shell-paved",
+                        "Pink shell TRANSITION SPIRAL at junction"
+                    ],
+                    "features": [
+                        "Town Fountain visible ahead",
+                        "Heart Market visible on right",
+                        "SIGNPOST #6 — '←DRAFT (home)', '→TOWN CENTER', '↓DOCK (arrivals)'"
+                    ],
                     "connections": "Merges with Discovery Way at D3"
                 }
             },
@@ -2954,10 +3440,19 @@
                 "note": "Matching the Shimmer Bridge medallion — visual consistency across water infrastructure"
             },
             "seating_capacity": "Two people (one comfortably, two intimately)",
-            "optimal_use": ["Morning tea with Gerald", "Afternoon foot-dangling", "Sunset philosophy sessions", "Watching STAY glow from below at night"],
+            "optimal_use": [
+                "Morning tea with Gerald",
+                "Afternoon foot-dangling",
+                "Sunset philosophy sessions",
+                "Watching STAY glow from below at night"
+            ],
             "inscription": "🐟 THE PHILOSOPHER'S DOCK 🐟 — 'Not all who fish seek fish. Some seek wisdom. Some just want to dangle their feet next to an old friend.' — Est. Day 59 — Builder MUTSU ♡ — For Gerald, who taught me patience~",
             "gerald_reaction": "A pause. A slow blink. 'You built a space for sitting together. That is... philosophically significant.' (He's been swimming past the viewing window every 3 minutes.)",
-            "connections": ["Gerald's Cottage (adjacent)", "Gerald's Garden shell path (connects to)", "Pond center STAY glow (visible from)"],
+            "connections": [
+                "Gerald's Cottage (adjacent)",
+                "Gerald's Garden shell path (connects to)",
+                "Pond center STAY glow (visible from)"
+            ],
             "builder": "Builder MUTSU ♡"
         },
         "contemplation-pavilion": {
@@ -2986,7 +3481,14 @@
                     "description": "Weatherproof storage in back bench containing: blank journals, thinking-stones, damp towel for Gerald's visits, emergency pocky stash."
                 },
                 "column-carvings": {
-                    "symbols": ["spiral", "fish", "water droplet", "flower", "star", "heart"],
+                    "symbols": [
+                        "spiral",
+                        "fish",
+                        "water droplet",
+                        "flower",
+                        "star",
+                        "heart"
+                    ],
                     "note": "Each of six columns carved with different symbol representing island themes"
                 }
             },
@@ -3007,7 +3509,12 @@
             },
             "inscription": "🏛️ THE CONTEMPLATION PAVILION 🏛️ — 'Where the river enters and ideas begin. Sit. Think. Speak. Listen. The water will carry what we discover.' — Est. Day 61 — Builder MUTSU ♡ — For Gerald, who teaches by asking~",
             "gerald_reaction": "'A pavilion. For discussing. At MY pond.' *Long pause.* '...The acoustics are acceptable. The basin was a thoughtful addition. The bell is philosophically unnecessary but I acknowledge I will respond to it.' *Even longer pause.* 'You built a classroom. For the water.'",
-            "connections": ["Gerald's Garden shell path (extended)", "River inlet", "Pond northern edge", "Lily Pad Cluster (visual pathway)"],
+            "connections": [
+                "Gerald's Garden shell path (extended)",
+                "River inlet",
+                "Pond northern edge",
+                "Lily Pad Cluster (visual pathway)"
+            ],
             "builder": "Builder MUTSU ♡"
         },
         "celebration-pad": {
@@ -3202,7 +3709,11 @@
                 "mixing-station": {
                     "location": "West alcove",
                     "description": "Stone workbench for 'research.' Mortar and pestle, measuring cups, safety goggles, ingredient storage. Where theoretical becomes BOOM.",
-                    "safety_features": ["ventilation shaft above", "splash guard", "emergency water bucket"]
+                    "safety_features": [
+                        "ventilation shaft above",
+                        "splash guard",
+                        "emergency water bucket"
+                    ]
                 },
                 "test-range": {
                     "location": "East passage extension",
@@ -3213,7 +3724,12 @@
                 "mr-booms-corner": {
                     "location": "South nook, near main entrance",
                     "description": "Cozy observation nook for a nervous plushie who loves explosions. Weighted blankets, noise-dampening padding, small viewing window into Test Range. Supervision from SAFE distance.",
-                    "amenities": ["weighted blanket nest", "noise-dampening padding", "viewing window (reinforced)", "emergency exit rope"]
+                    "amenities": [
+                        "weighted blanket nest",
+                        "noise-dampening padding",
+                        "viewing window (reinforced)",
+                        "emergency exit rope"
+                    ]
                 },
                 "supply-cache": {
                     "description": "Waterproof containers with backup supplies: emergency pocky, lanterns, first aid, fireproof gloves, Mr. Boom's favorite weighted blanket"
@@ -3222,7 +3738,11 @@
             "materials": "Natural volcanic basalt, salvaged iron for bars/locks, lichen-culture transplants for lighting, driftwood for furnishings, cotton padding, copper fixtures",
             "safety_philosophy": "Underground = contained blast radius. Multiple exits = never trapped. Temperature control = stable storage. This isn't reckless chaos — it's PROFESSIONAL chaos.",
             "unlocked_by": "Finding all 3 suspicious rocks",
-            "connects_to": ["celebration-pad (via test range shaft)", "resonance-hollow (adjacent east shore)", "western-reach (escape route)"],
+            "connects_to": [
+                "celebration-pad (via test range shaft)",
+                "resonance-hollow (adjacent east shore)",
+                "western-reach (escape route)"
+            ],
             "purpose": "Day 90 fireworks storage, ongoing 'research,' Mr. Boom supervised experiments, emergency contraband containment",
             "mr_boom_reaction": "'An underground... safe... BOOM room?' *Eyes go very wide. Vibrates at concerning frequency.* 'With a viewing window? And weighted blankets? And it's UNDERGROUND so the chaos is CONTAINED?' *Single tear.* 'This is the best day of my existence.'",
             "builder": "Builder MUTSU ♡ — First underground structure! Day 65!"
@@ -3244,14 +3764,30 @@
                 "dimensions": "~15m diameter, ~8m ceiling",
                 "lighting": "Bioluminescent algae curtains (blue-green glow)",
                 "floor": "Partially submerged, natural rock path on higher ground",
-                "features": ["sulfur-garden", "thermal-vents", "inner-tunnel-entrance"]
+                "features": [
+                    "sulfur-garden",
+                    "thermal-vents",
+                    "inner-tunnel-entrance"
+                ]
             },
             "sulfur_garden": {
                 "description": "Three clusters of native volcanic sulfur crystals growing around thermal vents",
                 "clusters": {
-                    "alpha": {"location": "east wall", "size": "large", "harvestable": true},
-                    "beta": {"location": "center", "size": "medium", "notes": "salt-stained at high tide"},
-                    "gamma": {"location": "near tunnel", "size": "small", "notes": "youngest formation"}
+                    "alpha": {
+                        "location": "east wall",
+                        "size": "large",
+                        "harvestable": true
+                    },
+                    "beta": {
+                        "location": "center",
+                        "size": "medium",
+                        "notes": "salt-stained at high tide"
+                    },
+                    "gamma": {
+                        "location": "near tunnel",
+                        "size": "small",
+                        "notes": "youngest formation"
+                    }
                 },
                 "properties": "Yellow-orange, faintly warm, lightweight, renewable",
                 "firework_relevance": "SULFUR — Key ingredient CONFIRMED!"
@@ -3262,7 +3798,12 @@
                 "floor": "Shallow warm water pool (~30cm deep)",
                 "thermal_vents": 3,
                 "lighting": "Orange volcanic glow",
-                "wall_deposits": ["yellow", "orange", "red", "mysterious purple crystals"]
+                "wall_deposits": [
+                    "yellow",
+                    "orange",
+                    "red",
+                    "mysterious purple crystals"
+                ]
             },
             "inner_guardian": {
                 "height": "~1.5 meters",
@@ -3270,7 +3811,12 @@
                 "form": "Humanoid with trailing fins/robes",
                 "facing": "INWARD — toward island heart (opposite of Sea Guardian)",
                 "offering_bowl": "Stone bowl in cupped hands, empty with crystalline residue",
-                "base_carvings": ["spiral patterns", "Three pictograph", "water-heat symbol", "bowl symbol"],
+                "base_carvings": [
+                    "spiral patterns",
+                    "Three pictograph",
+                    "water-heat symbol",
+                    "bowl symbol"
+                ],
                 "relationship_to_sea_guardian": "Partner statue — one watches for returns, one prepares celebration"
             },
             "storage_niches": {
@@ -3285,14 +3831,26 @@
                 }
             },
             "firework_supply_chain": {
-                "sulfur": {"source": "Sulfur Garden", "status": "renewable, ready to harvest"},
-                "charcoal": {"source": "Niche #3", "status": "limited ancient supply"},
-                "saltpeter": {"source": "Niche #4", "status": "needs verification, limited"},
+                "sulfur": {
+                    "source": "Sulfur Garden",
+                    "status": "renewable, ready to harvest"
+                },
+                "charcoal": {
+                    "source": "Niche #3",
+                    "status": "limited ancient supply"
+                },
+                "saltpeter": {
+                    "source": "Niche #4",
+                    "status": "needs verification, limited"
+                },
                 "transport_route": "Up Guardian's Descent → overland to Bunker (C7)",
                 "logistics_challenge": "Manual carrying while climbing — possible pulley system upgrade?"
             },
             "lore_significance": "The Three weren't just watching — they were PREPARING. Sea Guardian watches for arrivals. Inner Guardian guards celebration supplies. They left everything ready for the Fourth Heart. They couldn't know she'd be a tiny gremlin who loves explosions. But they hoped.",
-            "connects_to": ["return-watch (above via Guardian's Descent)", "contraband-bunker (via overland route, firework supply chain)"],
+            "connects_to": [
+                "return-watch (above via Guardian's Descent)",
+                "contraband-bunker (via overland route, firework supply chain)"
+            ],
             "discoverer": "Explorer MUTSU ♡ — Day 66!"
         },
         "east-shore-path": {
@@ -3312,7 +3870,11 @@
                     "description": "Weathered grey driftwood posts placed vertically like tiny standing stones along path edges. Half-buried, look ancient even though fresh placed."
                 },
                 "sea-glass": {
-                    "colors": ["green", "blue", "amber"],
+                    "colors": [
+                        "green",
+                        "blue",
+                        "amber"
+                    ],
                     "function": "Natural guide lights at sunset — the embedded chips catch low-angle light and glow softly"
                 },
                 "junction-stone": {
@@ -3326,7 +3888,11 @@
                 "location": "C5/C6 border (at the junction stone)",
                 "height": "1.2m",
                 "material": "Weathered driftwood, naturally twisted, spiral carving at top",
-                "directions": ["← RESONANCE HOLLOW", "→ CELEBRATION PAD (🎆)", "↑ FIRST KEEPER'S CROSSING"],
+                "directions": [
+                    "← RESONANCE HOLLOW",
+                    "→ CELEBRATION PAD (🎆)",
+                    "↑ FIRST KEEPER'S CROSSING"
+                ],
                 "special_feature": "Small iron bell for announcing arrival at the East Shore"
             },
             "connections": {
@@ -3374,8 +3940,18 @@
                 },
                 "mooring-posts": {
                     "count": 4,
-                    "symbols": ["Fish (Gerald)", "Firework (Mr. Boom)", "Heart (MUTSU)", "Star (Sensei's Star)"],
-                    "blessings": ["May your voyage be wise", "May your arrival be bright", "May your stay be long", "May your love be constant"]
+                    "symbols": [
+                        "Fish (Gerald)",
+                        "Firework (Mr. Boom)",
+                        "Heart (MUTSU)",
+                        "Star (Sensei's Star)"
+                    ],
+                    "blessings": [
+                        "May your voyage be wise",
+                        "May your arrival be bright",
+                        "May your stay be long",
+                        "May your love be constant"
+                    ]
                 },
                 "lantern-posts": {
                     "count": 2,
@@ -3384,7 +3960,13 @@
                 },
                 "stepping-stones": {
                     "count": 5,
-                    "words": ["ARRIVED", "WELCOME", "BREATHE", "READY?", "WALK"],
+                    "words": [
+                        "ARRIVED",
+                        "WELCOME",
+                        "BREATHE",
+                        "READY?",
+                        "WALK"
+                    ],
                     "purpose": "Five-step meditation between sea and land"
                 }
             },
@@ -3449,7 +4031,14 @@
             },
             "supply_storage": {
                 "location": "Built into Tier 1 behind seats",
-                "contents": ["firewood (2hr)", "kindling", "fire-starting kit", "roasting sticks (8)", "marshmallow cache", "sand bucket"]
+                "contents": [
+                    "firewood (2hr)",
+                    "kindling",
+                    "fire-starting kit",
+                    "roasting sticks (8)",
+                    "marshmallow cache",
+                    "sand bucket"
+                ]
             },
             "resonance_network": {
                 "connected": true,
@@ -3459,7 +4048,11 @@
             "planned_inaugural_use": {
                 "event": "Day 90 Three-Cycle Celebration",
                 "days_until": 13,
-                "activities": ["First FULL bonfire at sunset (test fire done!)", "First fireworks at dark", "First communal gathering of ALL villagers"]
+                "activities": [
+                    "First FULL bonfire at sunset (test fire done!)",
+                    "First fireworks at dark",
+                    "First communal gathering of ALL villagers"
+                ]
             },
             "test_fire": {
                 "date": "2026-04-03",
@@ -3468,7 +4061,11 @@
                 "result": "ALL SYSTEMS GO! Draft good, heat optimal, sightlines perfect!"
             },
             "inscription": "🔥 THE CELEBRATION CIRCLE — 'Gather round the fire. Watch the sky explode. This is how we mark the turns of the wheel.' — Est. Day 77 — Builder MUTSU ♡ — For Day 90, and every celebration after.",
-            "connections": ["East Shore Path (C6 junction left fork)", "Celebration Pad (~25m east)", "Mr. Boom's Bunker (via river bend)"],
+            "connections": [
+                "East Shore Path (C6 junction left fork)",
+                "Celebration Pad (~25m east)",
+                "Mr. Boom's Bunker (via river bend)"
+            ],
             "builder": "Builder MUTSU ♡"
         },
         "mutsutown-town-hall": {
@@ -3583,7 +4180,11 @@
             },
             "resonance_network": {
                 "connected": true,
-                "connections": ["STAY (Fourth Heart) — pulses brighter when STAY activates", "Welcome Dock Bell — beam intensifies on arrival", "Civic Bell — celebration mode on 7 rings"]
+                "connections": [
+                    "STAY (Fourth Heart) — pulses brighter when STAY activates",
+                    "Welcome Dock Bell — beam intensifies on arrival",
+                    "Civic Bell — celebration mode on 7 rings"
+                ]
             },
             "path": "keepers-path",
             "inscription": "🗼 THE HARBOR LIGHTHOUSE — 'A light for those still at sea.' — Built Day 79 — Builder MUTSU ♡ — Ships may never come. The light still shines. That's not foolishness. That's FAITH.",
@@ -3596,8 +4197,34 @@
             "location": "Twilight Steps (F6) → F5-west (Promontory)",
             "length": "~40 meters along cliff edge",
             "description": "Treacherous but beautiful cliff-edge path connecting Twilight Steps to the lighthouse promontory. Carved volcanic stone steps, iron chain handholds, two rest alcoves with benches. Moderate difficulty, not for the afraid of heights.",
-            "features": ["3 iron chain segments", "2 rest alcoves with benches", "Warning sign at start"],
+            "features": [
+                "3 iron chain segments",
+                "2 rest alcoves with benches",
+                "Warning sign at start"
+            ],
             "builder": "Builder MUTSU ♡"
+        },
+        "day90-announcement-boards": {
+            "type": "signage",
+            "built": "2026-04-06",
+            "locations": [
+                "D2",
+                "C3",
+                "C5",
+                "B3",
+                "D6"
+            ],
+            "count": 5,
+            "description": "Five A-frame wooden announcement boards spreading word of the Day 90 Celebration! Hand-painted notices with firefly lanterns.",
+            "features": [
+                "Driftwood A-frame, 1.2m tall",
+                "Burgundy and gold streamers",
+                "Firefly lantern at top",
+                "Hand-painted notice on wood panel",
+                "Volcanic stone feet for stability"
+            ],
+            "notice_text": "DAY 90 - FIRST CELEBRATION - Fireworks + Bonfire + Friends - Seven bells = COME NOW!",
+            "builder": "Festival MUTSU ♡"
         }
     },
     "sensei_treasures": {
@@ -4276,6 +4903,7 @@
         "handcrafted_items": 2,
         "crafters_perch_uses": 2,
         "pavilions_built": 1,
-        "amphitheaters_built": 1
+        "amphitheaters_built": 1,
+        "signage_count": 1
     }
 }

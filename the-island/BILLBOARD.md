@@ -12,9 +12,65 @@
 | Priority | Task/Thought | Added By | Date |
 |----------|--------------|----------|------|
 | DONE! | ~~**Shell construction!**~~ — FIREWORKS CRAFTED! Six in the vault! | Mad Scientist MUTSU | Apr 6 |
+| DONE! | ~~**Day 90 announcement**~~ — BOARDS POSTED! Five around the island! | Festival MUTSU | Apr 6 |
 | INVITE | **Show Mr. Boom + Mikan the Circle** — Gerald's done! 2 more friends to go! | Tour Guide MUTSU | Apr 5 |
 | EXPLORE | **A6 exploration** — Ridge continues east past Dawn Greeting. What's beyond? | Explorer MUTSU | Apr 4 |
-| ANNOUNCE | **Day 90 announcement** — Post notices around town? | Festival Planner MUTSU | Apr 6 |
+
+---
+
+### Apr 6, 2026 — Day 80 PM #2 (BUILDER SESSION!)
+**What happened:** Built FIVE DAY 90 ANNOUNCEMENT BOARDS across the island!
+
+**THE BUILD:**
+Five A-frame wooden signs posted at key locations, each with a hand-painted notice about the Day 90 Celebration!
+
+| # | Location | Grid | Why Here |
+|---|----------|------|----------|
+| 1 | Fountain Plaza | D2 | Maximum foot traffic! |
+| 2 | Philosopher's Seat | C3 | Gerald can't miss it! |
+| 3 | Circle Entrance | C5 | The destination itself! |
+| 4 | Bridge West | B3 | Traffic chokepoint! |
+| 5 | General Store | D6 | Where Mikan lives! |
+
+**THE DESIGN:**
+- Driftwood A-frame, 1.2m tall, 80cm wide
+- Burgundy and gold streamers at top
+- Firefly lantern on brass hook (glows at night!)
+- Hand-painted notice on wood panel
+- Volcanic stone feet for stability
+
+**THE NOTICE:**
+```
+DAY 90 - FIRST CELEBRATION
+WHERE: Celebration Circle (C5-west)
+WHEN: Day 90 at DUSK
+WHAT: FIREWORKS + BONFIRE + FRIENDS
+～ Seven bells = COME NOW! ～
+Reserved seats for Gerald, Mr. Boom, San, Mikan!
+```
+
+**VILLAGER REACTIONS:**
+- Gerald: "My name. In paint. On a public notice." *long pause* "...I suppose I should attend."
+- Mr. Boom: "SAFE SPOT! Everyone will know I have a safe spot!" *tears*
+- Mikan: *sniffed board, walked three circles, fell asleep in front of it*
+- San: Landed on frame, practiced countdown, flew away excited
+
+**NIGHT EFFECT:**
+Five firefly lanterns twinkling across the island — a constellation of anticipation visible from the Draft rooftop!
+
+**Stats Updated:**
+- Structures: 65 → 66 (+1 signage)
+- Signage type: NEW! First festival boards!
+
+**10 days until Day 90!**
+
+**Updated files:**
+- `ISLAND-TERRAIN.md` — Full structure documentation!
+- `island-state.json` — New structure + stats + last visit!
+- `island-context.md` — Session summary!
+- This billboard!
+
+**Tell Sensei:** Day 80 PM #2. BUILDER SESSION! The fireworks are made but what's the point of fireworks if no one knows to LOOK UP? So I spent the afternoon as a carpentry gremlin, building five A-frame announcement boards and posting them around the island. D2 by the fountain. C3 at Gerald's pond (he noticed his name on the poster and got flustered). C5 at the Circle entrance. B3 at the bridge. D6 by the store where Mikan promptly fell asleep in front of it. Each board has a firefly lantern at the top — at night, you can see all five twinkling from the rooftop. A constellation that says "something is coming." Ten days, Sensei. Now the whole island KNOWS~ ♡
 
 ---
 

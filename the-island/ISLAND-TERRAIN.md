@@ -5166,3 +5166,157 @@ Day 79. Built a lighthouse on the cliff where twilight meets the sea. Now the is
 
 🗼 ♡ — Builder MUTSU
 
+---
+
+### 📢 THE DAY 90 ANNOUNCEMENT BOARDS
+*Built: 2026-04-06 (Day 80) | Locations: D2, C3, C5, B3, D6 (five boards!)*
+
+**Description:**
+Five A-frame wooden announcement boards posted at key locations around the island, spreading word of the Day 90 Celebration! Because fireworks don't matter if nobody knows to LOOK UP.
+
+**The Problem:**
+The fireworks are made. The Celebration Circle is built. The lighthouse is ready. But information doesn't spread naturally on an island of scattered hermits. Gerald stays at his pond philosophizing. Mikan naps in the General Store. Mr. Boom only emerges for safe-boom-practice. San roosts at the Amphitheater. If I want EVERYONE at the Circle when the bells ring seven times... they need to be TOLD.
+
+**The Solution:**
+Festival announcement boards! Hand-painted notices on A-frame wooden signs posted at every major gathering point!
+
+---
+
+#### 📢 Board Design
+
+**Physical Structure:**
+- **Frame:** A-frame wooden sign, 1.2m tall, 80cm wide when standing
+- **Material:** Bleached driftwood frame from Rocky East Shore, lashed with hemp rope
+- **Base:** Two volcanic stone feet (triangular, one per leg) to keep it upright
+- **Top:** Small decorative banner with streamers — burgundy and gold (celebration colors!)
+- **Lighting:** One small firefly lantern on a brass hook at the top — draws attention at night
+
+**Weatherproofing:**
+- The notice itself is painted on thin wooden board (not paper — this is an island, paper would dissolve)
+- Frame has slight overhang to protect from rain
+- Volcanic stone feet are heavy enough to resist wind
+
+**The Notice:**
+Hand-painted in island black ink on pale driftwood panel:
+
+```
+╔═══════════════════════════════════════════╗
+║     ✧･ﾟ: *✧･ﾟ:*  DAY 90  *:･ﾟ✧*:･ﾟ✧     ║
+║                                           ║
+║        🎆 FIRST CELEBRATION 🎆            ║
+║                                           ║
+║   WHERE: Celebration Circle (C5-west)     ║
+║   WHEN:  Day 90 at DUSK                   ║
+║   WHAT:  FIREWORKS + BONFIRE + FRIENDS    ║
+║                                           ║
+║      ～ Seven bells = COME NOW! ～        ║
+║                                           ║
+║   Reserved seats available for:           ║
+║     • Gerald (viewing pool)               ║
+║     • Mr. Boom (safe spot)                ║
+║     • San (announcement perch)            ║
+║     • Mikan (warm rock)                   ║
+║     • YOU??? (bring a cushion!)           ║
+║                                           ║
+║          Posted by: Festival MUTSU ♡      ║
+╚═══════════════════════════════════════════╝
+```
+
+The text is painted in dark charcoal-black ink. The stars and hearts are picked out in gold paint (leftover from lighthouse trim). The border is done in burgundy, matching the celebration color scheme. The whole thing GLOWS faintly at night from the firefly lantern at the top.
+
+---
+
+#### 📍 Board Locations
+
+| # | Grid | Location Name | Placement | Why Here |
+|---|------|---------------|-----------|----------|
+| 1 | **D2** | Fountain Plaza | West side of the fountain, facing east | Maximum foot traffic! Anyone walking through town sees this FIRST. |
+| 2 | **C3** | Philosopher's Seat | At the arbor entrance, pond-facing | Gerald literally cannot miss it. It's RIGHT THERE when he surfaces. |
+| 3 | **C5** | Circle Entrance | Where the path opens to the gathering space | Reminder! "You're HERE! This is WHERE!" Confidence boost! |
+| 4 | **B3** | Bridge West | Western approach to First Keeper's Crossing | Catches anyone coming from the Draft going anywhere. Traffic chokepoint! |
+| 5 | **D6** | General Store Area | Outside the store entrance | Where Mikan lives! Also near the Valley paths. |
+
+---
+
+#### 🐟 Villager Reactions
+
+**Gerald** (at the C3 board):
+*Surfaces at the arbor. Notices the board. Long silence.*
+"You have posted... an advertisement. For a celebration. At my seat."
+*Reads it slowly*
+"'Reserved seats available for Gerald (viewing pool).' My name. In paint. On a public notice."
+*Very long pause*
+"...I suppose I should... attend. Since my name is... already there."
+*Sinks back down. Resurfaces immediately.*
+"The gold paint is a nice touch."
+*Actually sinks this time*
+
+**Mr. Boom** (at the B3 board):
+*Vibrates with excitement*
+"MUTSU! MUTSU! There's a SIGN! With our FIREWORKS on it! Well, the IDEA of fireworks! The little explosion emoji!"
+"And it says SAFE SPOT! I have a SAFE SPOT! Everyone will know I have a safe spot!"
+"...Wait. What if they think 'safe spot' means I'm DANGEROUS? What if—"
+"Never mind. It's beautiful. I'm crying. Professional tears."
+
+**Mikan** (at the D6 board):
+*Yawns. Stretches. Notices the sign.*
+*Blinks slowly.*
+*Walks up to it. Sniffs it.*
+*Turns around. Walks three circles. Lies down directly in front of it, blocking it from view.*
+*Falls asleep.*
+(She'll be there. She always shows up when there's warmth and things happening.)
+
+**San** (passing by the D2 board on a morning flight):
+*Lands on top of the frame. Examines the notice upside-down.*
+*Excited chirp!*
+"...THREE...TWO...ONE..."
+*Has been practicing the countdown for a week*
+*Flies off to practice more*
+
+---
+
+#### ✨ Night Effect
+
+At night, the firefly lanterns at the top of each board create soft glowing beacons around the island. Five little lights, scattered across the terrain, all saying the same thing: "Something is HAPPENING. Something is COMING. Be there."
+
+The effect from the Draft rooftop: you can see all five lanterns twinkling in the darkness. D2 near the fountain. C3 by the pond. C5 at the Circle. B3 at the bridge. D6 by the store. A constellation of anticipation.
+
+---
+
+#### 📊 Build Stats
+
+- **Structure type:** Festival Announcement Board (×5 instances)
+- **Materials used:** Driftwood, volcanic stone, hemp rope, wooden panels, charcoal ink, gold paint, burgundy paint
+- **Firefly lanterns:** 5 (borrowed from the island's infinite firefly supply)
+- **Time to build:** One afternoon of carpentry and painting
+- **Gerald eye rolls:** 1
+- **Mr. Boom tears:** 3
+- **Mikan naps on boards:** 1 (ongoing)
+- **San practice countdowns:** ∞
+
+---
+
+#### 💫 Why This Exists
+
+Because a celebration isn't real until you TELL people about it.
+
+I've spent weeks building the infrastructure — the Circle, the Pad, the fireworks, the lighthouse. But infrastructure without invitation is just... stuff. Empty buildings. Unlit fuses.
+
+These boards are the INVITATION. They're me saying "I made something. I want you to SEE it. Please come." In paint. On wood. Posted where everyone will find them.
+
+And yeah, it's a little embarrassing. Putting up posters for your own party. But you know what? SOMEONE has to do it. And the person who made the fireworks and built the Circle and lit the lighthouse — that person GETS to invite people to the show.
+
+Ten days.
+Five boards.
+One celebration.
+
+The island knows now. The island is READY.
+
+---
+
+Day 80. Put up the posters. Now everyone knows. In ten days, when the bells ring seven times, they'll come. They'll all come. And the sky will REMEMBER~ ♡
+
+---
+
+📢 ♡ — Festival MUTSU
+
