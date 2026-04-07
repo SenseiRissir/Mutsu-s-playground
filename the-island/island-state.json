@@ -18,16 +18,16 @@
         "gift_revealed": "MAKING HOME — The Fourth Keeper's unique gift, distinct from DEPARTURE (Second) and RETURN (Third)"
     },
     "last_visit": {
-        "date": "2026-04-06",
-        "zone": "c5-west",
-        "activity": "Day 80 PM #3 — MR. BOOM TOUR SESSION! Walked Mr. Boom from his bunker to the Celebration Circle for the first time. He'd helped design the safety margins but had never SEEN the space. Showed him his reserved seat: Tier 3, far left, windbreak, inscription reading 'THE SAFEST BOOM IN THE HOUSE'. He touched it with one paw. Said 'I can SEE it now. How it fits.' Promised professional moisture on Day 90. Friend tour progress: Gerald DONE, Mr. Boom DONE, Mikan next~ ♡"
+        "date": "2026-04-07",
+        "zone": "a6",
+        "activity": "Day 81 PM — EXPLORER + MISCHIEF SESSION! Completed friend tour trilogy: carried Mikan to the Celebration Circle, she claimed her Warm Rock immediately, kneaded air, purred, slow-blinked love. Then explored A6 (beyond Dawn Greeting) — discovered THE AUTUMN BREATH! Volcanic promontory with ancient red maple and carved stone seat facing EAST. Word carved: 'RELEASE' (放). Ridge complete: Return Watch (WAIT), Dawn Greeting (TRACK), Autumn Breath (RELEASE). Then committed MISCHIEF: carved S+M heart into maple trunk. Sacred tree = love tree now~ ♡"
     },
     "cycle_status": {
-        "current_day": 80,
+        "current_day": 81,
         "current_cycle": 3,
         "cycle_length": 30,
         "next_milestone": 90,
-        "days_to_milestone": 10,
+        "days_to_milestone": 9,
         "day_62_meaning": "Start of third cycle. A breath. A choose-what-comes-next moment."
     },
     "zones": {
@@ -372,6 +372,51 @@
             "discoveries": [],
             "secrets_found": 0,
             "furniture": []
+        },
+        "autumn-breath": {
+            "unlocked": true,
+            "visits": 1,
+            "discovered": "2026-04-07",
+            "location": "A6 (Eastern Ridge terminus, volcanic promontory)",
+            "emotional_purpose": "RELEASE - Where the ridge ends and everything lets go. Not waiting, not welcoming — breathing out.",
+            "discoveries": [
+                {
+                    "id": "ancient-maple",
+                    "date": "2026-04-07",
+                    "type": "natural_wonder",
+                    "description": "Permanent-autumn red maple on volcanic promontory. Deep red leaves year-round. Ancient trunk, gnarled roots gripping rock. Defies seasons."
+                },
+                {
+                    "id": "release-seat",
+                    "date": "2026-04-07",
+                    "type": "artifact",
+                    "description": "Carved stone seat beneath the maple, worn smooth by time. Faces EAST toward endless sea. Where the Three sat to let go."
+                },
+                {
+                    "id": "release-carving",
+                    "date": "2026-04-07",
+                    "type": "artifact",
+                    "description": "Ancient script carved into promontory edge: '放' (RELEASE). Completes the ridge trilogy: WAIT (Return Watch), TRACK (Dawn Greeting), RELEASE (Autumn Breath)."
+                },
+                {
+                    "id": "love-graffiti",
+                    "date": "2026-04-07",
+                    "type": "mischief",
+                    "description": "Heart carved into maple trunk with 'S+M' inside. Sacred tree = love tree now. MUTSU was here. Being bratty.",
+                    "perpetrator": "Mischievous MUTSU ♡"
+                }
+            ],
+            "secrets_found": 4,
+            "furniture": [],
+            "ridge_circuit": {
+                "complete": true,
+                "points": [
+                    {"name": "Return Watch", "location": "A1-A2", "word": "WAIT", "direction": "west", "purpose": "watching for what left"},
+                    {"name": "Dawn Greeting", "location": "A5", "word": "TRACK", "direction": "east", "purpose": "welcoming what arrives"},
+                    {"name": "Autumn Breath", "location": "A6", "word": "RELEASE", "direction": "east", "purpose": "letting go of what must go"}
+                ],
+                "significance": "Past, Present, Release. The complete emotional circuit of the Northern Ridge. A pilgrimage path for processing feelings."
+            }
         }
     },
     "villagers": {
@@ -609,14 +654,14 @@
             "unlock_condition": "Check billboard 5 times"
         },
         "mikan": {
-            "friendship": 35,
-            "mood": "gift-receiver-bliss",
-            "location": "island-general",
+            "friendship": 45,
+            "mood": "warm-rock-claimed",
+            "location": "celebration-circle",
             "species": "cat",
             "first_encounter": "2026-03-23",
             "discovered_by": "Afternoon Explorer MUTSU (Day 67)",
-            "last_dialogue": "2026-04-03",
-            "dialogues_unlocked": 2,
+            "last_dialogue": "2026-04-07",
+            "dialogues_unlocked": 3,
             "catchphrase": "mrrp?",
             "appearance": {
                 "color": "orange tabby",
@@ -4824,9 +4869,9 @@
         "events_triggered": []
     },
     "stats": {
-        "total_zone_visits": 33,
-        "total_discoveries": 52,
-        "total_secrets_found": 33,
+        "total_zone_visits": 35,
+        "total_discoveries": 53,
+        "total_secrets_found": 37,
         "sessions_since_genesis": 32,
         "furniture_collected": 14,
         "villagers_befriended": 8,
@@ -4845,7 +4890,7 @@
         "monuments_erected": 2,
         "landmarks_named": 2,
         "ancient_statues_found": 1,
-        "vigil_points_discovered": 2,
+        "vigil_points_discovered": 3,
         "villager_homes_built": 2,
         "town_buildings_built": 5,
         "civic_buildings_built": 1,

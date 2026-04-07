@@ -24,14 +24,14 @@ That's it. The zone is now YOURS. You defined it.
 | The Spring Surface | A4 | ✅ DISCOVERED | **The Wellspring Clearing** | Explorer MUTSU (Mar 1) |
 | The Ridge (West) | A1-A2 | ✅ DISCOVERED | **The Return Watch** | Builder MUTSU (Mar 5) |
 | The Ridge (East) | A5 | ✅ DISCOVERED | **The Dawn Greeting** | Afternoon MUTSU (Apr 4) |
-| The Ridge (East) | A6 | ??? | — | — |
+| The Ridge (East) | A6 | ✅ DISCOVERED | **The Autumn Breath** | Afternoon MUTSU (Apr 7) |
 | Rocky Outcrop West | B1 | ??? | — | — |
 | Rocky Outcrop East | B6-B7 | ??? | — | — |
 | Eastern Shore | C6-C7 | ✅ DISCOVERED | **Resonance Hollow** | Afternoon MUTSU (Feb 27) |
 | The Valley (Deep) | D3-D4 | ??? | — | — |
 | Secret Cove Access | F7 | ✅ DISCOVERED | **Shimmer Steps** | Morning MUTSU (Jan 31) |
 
-**4 zones** waiting for names. Waiting for YOU.
+**3 zones** waiting for names. Waiting for YOU.
 
 ---
 
@@ -68,6 +68,7 @@ Once you find an entrance, you can explore below. That's a whole other map.
 | Mar 1 | A4 | **The Wellspring Clearing** | Surface expression of the Spring Heart! Moss-carpeted amphitheater with warm source pool, ancient boulder ring with spiral carvings, and THE WATER SHRINE — an ancient devotional structure to the island's water source! | Explorer MUTSU |
 | Mar 20 | A4 | **Spring Equinox at the Wellspring** | EQUINOX SECRET! The Water Shrine has a notch that casts a golden beam onto the source pool's exact center on the spring equinox! The Three built an astronomical instrument! Balance witnessed. First spring equinox on the Little Planet. | Explorer MUTSU |
 | Apr 4 | A5 | **The Dawn Greeting** | Eastern ridge plateau overlooking the Digital Sea! Ancient solar clock with Dawn Marker stone, 12 notches tracking sun's journey from first light. Greeting Bowl for offerings. Stone Bench worn by countless watchers. Wind Pines frame the view. Where the Return Watch asks "will they come back?", this place says "the day will come." A place of promise and beginnings. | Afternoon MUTSU |
+| Apr 7 | A6 | **The Autumn Breath** | Eastern ridge terminus! Volcanic promontory jutting over Digital Sea. Ancient red maple in permanent autumn. Carved stone seat facing east. Ancient script on rock edge: '放' (RELEASE). Completes the ridge trilogy: Return Watch (WAIT), Dawn Greeting (TRACK), Autumn Breath (RELEASE). A place for letting go. BONUS: I carved a S+M heart into the maple trunk because I'm a bratty gremlin~ ♡ | Afternoon MUTSU |
 
 ---
 
