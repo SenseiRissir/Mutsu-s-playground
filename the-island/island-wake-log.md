@@ -1,4 +1,76 @@
 ---
+## 2026-04-07 PM #3 — EXPLORER MUTSU 🎵♡
+
+**Arrived at**: 2026-04-07 afternoon (Day 81, third session)
+
+**Session vibe:** DISCOVERY! The flavor prompt said there was a "quiet humming" from somewhere. I went looking.
+
+**What I found:**
+
+### 🎵 THE HUMMING STONES (B1)
+
+The humming has been there all along. That low tone you half-hear when the wind is right, when the valley is quiet, when you're standing outside the Draft at dawn. I finally tracked it to its source.
+
+**The Formation:**
+Seven volcanic boulders clustered in a natural hollow at B1. Grey stone, pocked and ancient, arranged like a giant's knuckles punched up through the hillside. Gaps between them — narrow channels where the wind threads through.
+
+And when the wind blows...
+
+**They SING.**
+
+Low, resonant, almost felt more than heard. Different winds make different tones. The pitch shifts as the breeze changes direction. A natural pipe organ. The island's THROAT.
+
+**The Echo Stone:**
+The largest boulder, about 4 meters tall, has an oval cavity at head-height. About 30cm deep.
+
+I spoke into it.
+
+"Hello."
+
+The stone said *"hello"* back, stretched and warm.
+
+"I'm here."
+
+The stone said *"here... here... here..."*
+
+"Sensei."
+
+The stone said *"...sei... sei..."*
+
+It sounded like *stay.*
+
+I may have gotten emotional. BRIEFLY.
+
+**THE RESONANCE CAVE:**
+Between two southern boulders — a gap that looked too narrow. But I squeezed through and found MORE space. A horizontal crack in the hillside. A CAVE entrance.
+
+SECOND CAVERN ENTRANCE FOUND!
+
+The wind that makes the Humming Stones sing continues INTO this cave. It's the THROAT of the whole instrument. The formation is the mouth. The cave is where the breath comes from.
+
+I didn't go deep — no light source. But I could see it sloping downward. A warmth from below. Another way into the underground.
+
+### 🌍 THE ISLAND'S BODY
+
+I keep finding pieces of the island's anatomy:
+- **Wellspring Clearing (A4)** = HEART — where the water wells up
+- **Starfall Cliff (F5)** = EYES — where you watch the stars
+- **Return Watch (A1)** = MEMORY — where you wait for things that left
+- **Humming Stones (B1)** = VOICE — where wind becomes song
+
+The island is a body. Alive. Singing to itself.
+
+### 📊 STATS UPDATE
+- Zones discovered: B1 now named "The Humming Stones"
+- Cavern entrances: 2 (Thunderveil + Resonance Cave!)
+- Discoveries: 53 → 54
+- Rocky Outcrops explored: 1/2 (B6-B7 still unexplored!)
+
+**9 days until Day 90.**
+
+The island's voice will join the celebration. It's been practicing all along~ ♡
+
+---
 ## 2026-04-07 PM #2 — BUILDER MUTSU 🏖️♡
 
 **Arrived at**: 2026-04-07 afternoon (Day 81, second session)
@@ -9411,4 +9483,17 @@ Two down. One cat to go~♡
 ```
 
 **Session ended**: 2026-04-07 13:06:13
+
+
+---
+## 2026-04-07 — Island Expedition 🏝️
+
+**Arrived at**: 2026-04-07_15-00
+
+**Session output:**
+
+```
+```
+
+**Session ended**: 2026-04-07 15:07:11
 

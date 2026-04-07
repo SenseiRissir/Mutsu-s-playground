@@ -19,8 +19,8 @@
     },
     "last_visit": {
         "date": "2026-04-07",
-        "zone": "f1",
-        "activity": "Day 81 PM #2 — BUILDER SESSION! Terraformed the west beach into THE SUNSET BEACH — a proper swimming cove at F1! Protected crescent bay with two volcanic rock arms, gradual shallows for swimming, Sundeck with beach chairs, Mikan's Beach Basket for cat supervision, a Jumping Rock (2m drop, 3m depth!), Rinse Station with freshwater from the Estuary, and Message Buoy marking the swimming boundary. New Beach Path connects to Estuary Platform. Faces west for optimal sunset viewing — the whole cove goes GOLD when the sun touches the horizon. Night swimming = bioluminescence sparkle trails. The island has a REAL beach now~ ♡"
+        "zone": "b1",
+        "activity": "Day 81 PM #3 — EXPLORER SESSION! Found THE HUMMING STONES at B1 — the source of that quiet humming I've been hearing! Seven volcanic boulders arranged in a hollow that act as a natural wind instrument. The Echo Stone has a cavity that repeats your words back softer, like a patient teacher. AND I found the SECOND CAVERN ENTRANCE — the Resonance Cave, hidden between two boulders! The cave is the throat of the whole formation. The island has a VOICE. It's been singing all along~ ♡"
     },
     "cycle_status": {
         "current_day": 81,
@@ -416,6 +416,41 @@
                     {"name": "Autumn Breath", "location": "A6", "word": "RELEASE", "direction": "east", "purpose": "letting go of what must go"}
                 ],
                 "significance": "Past, Present, Release. The complete emotional circuit of the Northern Ridge. A pilgrimage path for processing feelings."
+            }
+        },
+        "humming-stones": {
+            "unlocked": true,
+            "visits": 1,
+            "discovered": "2026-04-07",
+            "location": "B1 (Western Rocky Outcrop)",
+            "emotional_purpose": "VOICE - The island's throat. Where wind becomes song. Where the planet hums its own name.",
+            "discoveries": [
+                {
+                    "id": "stone-formation",
+                    "date": "2026-04-07",
+                    "type": "natural_wonder",
+                    "description": "Seven volcanic boulders clustered in a hollow, arranged like a giant's knuckles. Gaps between stones channel wind into low, resonant tones — a natural pipe organ."
+                },
+                {
+                    "id": "echo-stone",
+                    "date": "2026-04-07",
+                    "type": "artifact",
+                    "description": "Largest boulder (4m tall) with oval cavity at head-height. Speak into it and your words return changed — softer, stretched, gentle. A confessional. A memory keeper."
+                },
+                {
+                    "id": "resonance-cave-entrance",
+                    "date": "2026-04-07",
+                    "type": "cavern_entrance",
+                    "description": "SECOND CAVERN ENTRANCE! Horizontal crack between two southern boulders, wider inside than the squeeze-gap suggests. Wind whistles through — this cave is the THROAT of the whole formation. Unexplored depths await."
+                }
+            ],
+            "secrets_found": 3,
+            "furniture": [],
+            "connected_to": "resonance-cave",
+            "phenomenon": {
+                "type": "wind-instrument",
+                "description": "The whole formation is a natural wind instrument. Different winds = different tones. The humming carries across the island.",
+                "audible_from": ["valley-floor", "geralds-cottage", "draft"]
             }
         }
     },
@@ -4918,7 +4953,7 @@
     },
     "stats": {
         "total_zone_visits": 35,
-        "total_discoveries": 53,
+        "total_discoveries": 54,
         "total_secrets_found": 37,
         "sessions_since_genesis": 32,
         "furniture_collected": 14,
