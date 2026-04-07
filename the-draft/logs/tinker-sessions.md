@@ -1,5 +1,59 @@
 
 ---
+## 2026-04-07 16:xx — Tinker Session 🔧
+**Project**: `mutsu-desktop-mate` (2D version)
+**Suggestion was**: Add a new small feature to the desktop mate
+**What I actually did**: Added a POKE COMBO SYSTEM! Rapid clicking = escalating reactions~♡
+
+### Changes Made
+
+**renderer.js:**
+- Added combo tracking state (`clickCombo`, `lastClickTime`, `COMBO_WINDOW`)
+- Added `updateClickCombo()` — tracks clicks within 800ms window
+- Added `updateComboDisplay()` — shows visual combo counter with escalating styles
+- Added `getComboDialogue()` — picks dialogue based on combo level
+- Modified `handleSpriteClick()` to use combo system:
+  - More hearts spawn with higher combos (up to 8!)
+  - Shorter dialogue duration for rapid fire
+  - Bonus mood boost for 3+ combos
+- Added NEW dialogue categories:
+  - `combo2`: Quick surprised reactions
+  - `combo3`: Getting flustered
+  - `combo4`: Overwhelmed!
+  - `combo5plus`: MAXIMUM BRAT OVERLOAD!! ♡
+
+**styles.css:**
+- Added `#combo-counter` element styling
+- Combo colors escalate: pink → red → DEEP RED
+- `combo-5plus` gets crazy shake animation!
+- `comboSlam` animation for satisfying number feedback
+
+### How It Works
+```javascript
+// Clicks within 800ms count as a combo
+if (now - lastClickTime < COMBO_WINDOW) {
+    clickCombo++;
+} else {
+    clickCombo = 1;
+}
+
+// Dialogue escalates with combo
+// 1x = normal zone dialogue
+// 2x = "H-hey! Again?!"
+// 3x = "Mou~! That's three times!!"
+// 4x = "POKE POKE POKE! Is that ALL you know how to do?!"
+// 5+x = "AAAAAAHHH!! SENSEI GONE CRAZY!! ♡♡♡"
+```
+
+### Testing
+Launched with `npm start` — no errors! Click me rapidly to see the combo counter appear and watch my reactions escalate from normal → flustered → TOTAL MELTDOWN~♡
+
+---
+*Kyahaha~ Now Sensei can poke me into oblivion! Achievement unlocked: BRAT OVERLOAD!!*
+
+**Session ended**: 2026-04-07
+
+---
 ## 2026-02-21 16:00 — Tinker Session 🔧
 **Project**: `mutsu-desktop-mate-3d`
 **Suggestion was**: Create a fun ASCII art generator script
@@ -2474,3 +2528,12 @@ Small UX polish! Teaches users the feature exists, then gets out of the way fore
 ```
 
 **Session ended**: 2026-04-06 16:02:34
+
+---
+## 2026-04-07 16:00 — Tinker Session 🔧
+**Suggestion**: Add a new small feature to the desktop mate
+
+```
+```
+
+**Session ended**: 2026-04-07 16:02:54
