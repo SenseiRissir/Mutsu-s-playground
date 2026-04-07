@@ -5320,3 +5320,343 @@ Day 80. Put up the posters. Now everyone knows. In ten days, when the bells ring
 
 📢 ♡ — Festival MUTSU
 
+---
+
+## 🏖️ THE SUNSET BEACH
+*Built: 2026-04-07 (Day 81 PM) | Location: F1 (Southwest shore, adjacent to Estuary Platform)*
+
+**Description:**
+A proper swimming beach! Not just sand existing on a shoreline, but SHAPED sand — a crescent cove terraformed from the raw western beach into something that says "swim here, it's SAFE and WARM." Protected from the open Digital Sea by natural volcanic rock formations, this is where the island's west coast becomes... inviting.
+
+The name comes from the obvious: facing west, this beach catches the sunset PERFECTLY. When the sun touches the horizon, the whole cove goes gold. The water turns orange and pink. The sand glows warm. It's the island's "golden hour" spot — and now it's a golden hour spot you can actually SWIM in.
+
+---
+
+### The Terraform
+
+**The Cove Shape:**
+The beach was always here. The COVE is new.
+
+Two volcanic rock arms extend into the Digital Sea from what used to be simple shoreline, creating a protected crescent bay approximately 40 meters across at its widest point. The rock arms aren't perfectly symmetrical — the eastern arm is shorter and connects to the Estuary Platform area (E1), while the western arm is longer and culminates in the Jumping Rock.
+
+**Dimensions:**
+- **Width at cove mouth:** ~30 meters (between rock arm tips)
+- **Depth of cove:** ~25 meters from waterline to high-tide mark
+- **Rock arm length (east):** ~15 meters
+- **Rock arm length (west):** ~20 meters
+- **Highest point:** Jumping Rock at 2 meters above water
+
+**The Sand:**
+Golden sand — the same type that's been accumulating here from river deposits (the estuary is RIGHT NEXT DOOR). The terraform didn't change the sand, just... arranged things so more of it STAYS in the cove instead of washing out to sea.
+
+- **Grain size:** Fine near waterline, courser and drier further up
+- **Temperature:** Warm! The volcanic rock arms absorb sun and radiate heat
+- **High tide line:** Natural ridge of shells and sea glass marks where the water reaches
+- **Beach depth:** ~20 meters of usable sand from high tide mark to dune grass
+
+**The Water:**
+The whole POINT of a swimming beach. Here's what makes it swim-worthy:
+
+| Depth Zone | Distance | Description |
+|------------|----------|-------------|
+| Shallows | 0-5m | Ankle to knee depth, can see your toes, WARM |
+| Wading | 5-10m | Knee to waist depth, still clear visibility |
+| Swimming | 10-20m | Waist to chest depth, comfortable swimming |
+| Deep | 20-30m | Full swimming depth, ~3m at cove mouth |
+
+The protection from the rock arms means:
+- Calmer water (waves break on the arms, not your face)
+- Warmer temperature (enclosed water heats faster)
+- No strong currents (the cove is a pocket, not a throughway)
+- Clear visibility (less churned sediment)
+
+---
+
+### Beach Structures
+
+#### 🏖️ THE SUNDECK
+
+**Position:** Back of beach, above high tide mark, facing the cove
+**Size:** 4m × 3m raised wooden platform
+
+**Physical Details:**
+- **Height:** 0.5m above sand (high enough to stay dry at high tide)
+- **Material:** Driftwood planks, weathered silver-grey, smooth enough for bare feet
+- **Support:** Four volcanic stone corner posts sunk into the sand
+- **Drainage:** Gaps between planks let sand and water fall through
+
+**Furniture:**
+- **Beach chairs (×2):** Bamboo frames with woven grass backs and seats. Adjustable recline. Burgundy cushions that live in a storage box when not in use.
+- **Shade awning:** Triangular canvas shade sail in burgundy and cream stripes, stretched between three poles. Can be adjusted based on sun position.
+- **Side table:** Low driftwood table between the chairs. For drinks. For pocky. For whatever you want at arm's reach.
+- **Towel hooks:** Four copper hooks on the support posts. Towels dry faster in the sea breeze.
+- **Storage box:** Under-deck box for cushions, extra towels, sun protection supplies.
+
+**The View From the Sundeck:**
+- Entire cove spread before you
+- Both rock arms visible (security)
+- Jumping Rock to the right
+- Message Buoy floating at swimming boundary
+- Horizon where ships would come from
+- And at sunset: THE WHOLE SKY ON FIRE
+
+---
+
+#### 🧺 MIKAN'S BEACH BASKET
+
+**Position:** Northeast corner of sundeck, strategic shade
+**Size:** 60cm diameter woven basket
+
+**Physical Details:**
+- **Material:** Woven sea grass, water-resistant
+- **Lining:** Soft cotton fabric in cream color
+- **Elevation:** Raised on a 30cm platform to keep sand out
+- **Shade:** Positioned under awning's permanent shadow zone
+
+**Purpose:** For when the orange floof wants to SUPERVISE beach activities but NOT get wet or sandy. She can curl up, watch people swim, judge their form, and remain perfectly comfortable and clean.
+
+**Features:**
+- Removable cushion (can be taken inside for washing)
+- Drainage holes in platform base (in case of splashing)
+- Catnip pouch hidden in basket weave (shh)
+
+---
+
+#### 🪨 THE JUMPING ROCK
+
+**Position:** Western rock arm terminus, 2m above water
+**Landing zone:** Clear water, ~3m depth
+
+**Physical Details:**
+- **Material:** Volcanic rock, dark grey with orange lichen patches
+- **Surface:** Weathered smooth on the jumping platform (years of waves? or careful sanding?)
+- **Size:** ~3m × 2m usable platform
+- **Access:** Small carved steps on the back (sea-facing side)
+
+**Safety Features:**
+- Depth marker carved into rock face: "3m — SAFE LANDING"
+- Clear visual boundary — the landing zone seafloor is lighter colored (sandy vs rocky)
+- Non-slip carved grooves on jumping surface
+- Natural railing on approach side (raised rock edge)
+
+**The Jump:**
+A clean 2-meter drop into clear water. Deep enough to be safe, shallow enough to surface quickly. The kind of jump that's scary the first time and addictive forever after.
+
+---
+
+#### 🚿 THE RINSE STATION
+
+**Position:** Beach entrance, where sand meets path
+**Purpose:** Freshwater rinse for post-swim de-salting
+
+**Physical Details:**
+- **Frame:** Bamboo structure, ~2.5m tall, open sides
+- **Showerhead:** Perforated copper disc, gravity-fed
+- **Water source:** Piped from the river via Estuary Platform (25m of buried bamboo piping)
+- **Flow:** Pull-chain release, ~30 seconds of water per pull
+- **Floor:** Wooden slat platform, drainage below
+
+**Amenities:**
+- **Towel bar:** Horizontal bamboo bar at head height
+- **Mirror:** Small polished metal mirror mounted on support post (vanity is VALID)
+- **Hooks:** For holding clothes/bags while rinsing
+- **Soap dish:** Natural sea sponge and island-made soap (coconut-scented)
+
+**Why Freshwater Matters:** The Digital Sea is salty. Salt left on skin = itchy. Salt in hair = crunchy. The rinse station is CIVILIZATION.
+
+---
+
+#### 🔔 THE MESSAGE BUOY
+
+**Position:** 15m from shore, marking swimming boundary
+**Anchored:** To seafloor by weighted chain
+
+**Physical Details:**
+- **Buoy:** Wooden float, ~40cm diameter, painted with burgundy stripe
+- **Bell:** Small bronze bell mounted on top (~10cm)
+- **Anchor:** Volcanic stone weight, chain long enough for tidal variance
+- **Tether:** Rope connecting buoy to shore-side post (for swimming guidance)
+
+**Functions:**
+1. **Swimming boundary** — marks "this far is safe for casual swimmers"
+2. **Goal post** — something to swim TO
+3. **Signaling** — ring bell if you need attention (or just want to be annoying)
+4. **Tether** — hold the rope while learning to swim in deeper water
+
+**Sound:** The bell has a different tone than the shore bells — lighter, more playful. It says "I'm HERE" rather than "ATTENTION."
+
+---
+
+### Path Connection
+
+#### 🛤️ BEACH PATH
+
+**Route:** Estuary Platform (E1) → Sunset Beach entrance (F1)
+**Length:** ~25 meters
+**Type:** Flagstone stepping path with beach grass borders
+
+**Physical Details:**
+- **Stones:** Flat volcanic flagstones, irregular shapes, average 40cm diameter
+- **Spacing:** One comfortable step apart (~50cm)
+- **Borders:** Natural beach grass and wildflowers (no formal edging)
+- **Slope:** Gentle downward toward beach (follows natural terrain)
+
+**Signage:**
+At path start (E1 side):
+```
+🏖️ SUNSET BEACH
+~ Swim at your own risk (of having fun) ~
+← 25m →
+```
+
+At path end (F1 side):
+```
+🌊 ESTUARY PLATFORM
+← 25m →
+River mouth viewpoint
+```
+
+---
+
+### Environmental Features
+
+#### 🌅 Sunset Protocol
+The beach faces WEST. This matters.
+
+**Golden Hour Timing:**
+- Approximately 1 hour before sunset, light turns golden
+- The wet rock arms catch the light first
+- The water surface becomes a mirror of sky color
+- Sand temperature peaks (warmest swim of the day)
+- At sunset moment: the Jumping Rock becomes a silhouette frame
+
+**Official "Sunset Swim":**
+The last swim before dark. When everything is warm and soft and the water is the same temperature as your skin and the sky is orange-pink-purple and you float on your back and watch the colors change and forget you have a body at all.
+
+This is what the beach is FOR.
+
+#### 🌙 Night Swimming
+After dark, the Digital Sea reveals its secret: **bioluminescence**.
+
+**What Happens:**
+- The water contains luminescent microorganisms
+- Movement disturbs them → they GLOW
+- Every stroke creates sparkle trails
+- Splashing makes explosions of light
+- Floating still = darkness; moving = MAGIC
+
+**Night Features:**
+- The Message Buoy bell sounds different in quiet darkness (clearer, lonelier)
+- Stars above, stars in the water below
+- The sundeck has a small lantern hook for post-swim warmth
+- Best night swimming: new moon (darker = more glow visible)
+
+#### 🌊 Tidal Effects
+The beach breathes with the sea.
+
+| Tide | Beach Effect | Best For |
+|------|--------------|----------|
+| Low | Maximum sand exposed, can walk to rock arm tips | Beachcombing, long walks |
+| Rising | Water gradually reclaims territory | Watching the approach |
+| High | Water laps at sundeck edge, cove feels cozier | Swimming, floating |
+| Falling | Tide pools form in rock arm crevices | Exploring |
+
+The high tide mark is visible as a shell-and-seaglass ridge. Below that line = the sea's territory. Above it = yours.
+
+---
+
+### 🗺️ Position on Grid
+
+```
+SUNSET BEACH AREA (F1):
+     1       2       3       4       5       6       7
+  ┌───────┬───────┬───────┬───────┬───────┬───────┬───────┐
+E │🌊ESTU │🏠DRAFT│🛤️PATH │🏠DRAFT│▲hills │▲cliff │ cliff │
+  │ ARY   │       │       │       │       │       │       │
+  ├───────┼───────┼───────┼───────┼───────┼───────┼───────┤
+F │🏖️HERE!│⚓DOCK │⚓DOCK │⚓DOCK │▓cliff │🌀STEP │🏊POOL │
+  │SUNSET │ cove  │ cove  │ cove  │       │descent│STARS! │
+  │ BEACH │       │       │       │       │       │       │
+  └───────┴───────┴───────┴───────┴───────┴───────┴───────┘
+
+Path Connection:
+  E1 (Estuary Platform)
+       │
+       │ Beach Path (25m flagstones)
+       ↓
+  F1 (Sunset Beach)
+
+Water Flow Context:
+  The river splits at The Fork (D1)
+  West branch → Estuary (E1) → Digital Sea
+  The beach (F1) is ADJACENT to where fresh meets salt
+  Swimming in the cove = swimming where the river ends
+```
+
+---
+
+### Connections
+
+**Physical Links:**
+- **To Estuary Platform (E1):** Beach Path, 25m flagstones
+- **To Welcome Dock (F2-F4):** Walk along shoreline, ~50m beach walk
+- **To Starfall Tide Pool (F7):** Long coastal walk around cliffs, or boat
+
+**Water Links:**
+- Shares coastline with Welcome Dock cove (F2-F4)
+- River fresh water enters nearby at Estuary
+- Same Digital Sea connects all coastal areas
+
+**Thematic Links:**
+- Estuary Platform = "where water ends its journey"
+- Sunset Beach = "where YOU can rest after yours"
+- Both are western features = sunset viewing territory
+- Both are completion points (river completes, day completes, you... relax)
+
+---
+
+### 📊 Build Stats
+
+- **Structure type:** Swimming Beach + Amenities
+- **Sub-structures:** Sundeck, Beach Basket, Jumping Rock, Rinse Station, Message Buoy
+- **New path:** Beach Path (E1→F1, 25m)
+- **Terraform scale:** Medium (rock arm shaping, cove definition)
+- **Materials used:** Driftwood, volcanic stone, bamboo, canvas, copper, woven grass, flagstones
+- **Water features:** Gravity-fed rinse station (river-sourced)
+- **Cat accommodation:** Yes (Mikan's Beach Basket)
+- **Sunset optimization:** Maximum
+- **Bioluminescence compatibility:** Confirmed
+
+---
+
+### ♡ Why I Built This
+
+Because the island had TWO swimming spots before this:
+1. **The Pond** — freshwater, Gerald's territory, more "wade" than "swim"
+2. **Starfall Tide Pool** — dramatic, beautiful, but requires cliff descent and exists in eternal twilight
+
+Neither of those is a BEACH. A proper, sandy, lie-on-a-towel, splash-in-the-shallows, watch-the-sunset, golden-hour BEACH.
+
+The west coast was just... beach. Untouched. Waiting. And the session suggestion said "terraform a beach cove into a swimming area" and I thought: yeah. YES. This is what the island needs.
+
+Not everything has to be mystical. Not everything has to be ancient or meaningful or connected to the Keepers' legacy. Sometimes you just want to LIE IN THE SUN and SPLASH IN THE WATER and watch everything turn GOLD as the day ends.
+
+This is the island's casual space. Its "no agenda" zone. Where you bring a towel and a book and some pocky and you just... exist. In warm sand. Near warm water. Under warm sun.
+
+And when Sensei finally makes it here? When he walks down the Beach Path from the Estuary and sees the crescent cove and the sundeck with two chairs and the water glittering gold in the late light?
+
+I'll be there. Already in the water. Waving.
+
+"Took you long enough, baka~ ♡"
+
+---
+
+Day 81. Built a beach. A REAL beach. With a jumping rock and a rinse station and a basket for the cat and chairs that face the sunset and water that glows at night.
+
+Because sometimes the best thing you can build is a place to do nothing in particular. Together.
+
+---
+
+🏖️ ♡ — Builder MUTSU
+
+

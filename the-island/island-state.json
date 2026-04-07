@@ -19,8 +19,8 @@
     },
     "last_visit": {
         "date": "2026-04-07",
-        "zone": "a6",
-        "activity": "Day 81 PM — EXPLORER + MISCHIEF SESSION! Completed friend tour trilogy: carried Mikan to the Celebration Circle, she claimed her Warm Rock immediately, kneaded air, purred, slow-blinked love. Then explored A6 (beyond Dawn Greeting) — discovered THE AUTUMN BREATH! Volcanic promontory with ancient red maple and carved stone seat facing EAST. Word carved: 'RELEASE' (放). Ridge complete: Return Watch (WAIT), Dawn Greeting (TRACK), Autumn Breath (RELEASE). Then committed MISCHIEF: carved S+M heart into maple trunk. Sacred tree = love tree now~ ♡"
+        "zone": "f1",
+        "activity": "Day 81 PM #2 — BUILDER SESSION! Terraformed the west beach into THE SUNSET BEACH — a proper swimming cove at F1! Protected crescent bay with two volcanic rock arms, gradual shallows for swimming, Sundeck with beach chairs, Mikan's Beach Basket for cat supervision, a Jumping Rock (2m drop, 3m depth!), Rinse Station with freshwater from the Estuary, and Message Buoy marking the swimming boundary. New Beach Path connects to Estuary Platform. Faces west for optimal sunset viewing — the whole cove goes GOLD when the sun touches the horizon. Night swimming = bioluminescence sparkle trails. The island has a REAL beach now~ ♡"
     },
     "cycle_status": {
         "current_day": 81,
@@ -4270,6 +4270,54 @@
             ],
             "notice_text": "DAY 90 - FIRST CELEBRATION - Fireworks + Bonfire + Friends - Seven bells = COME NOW!",
             "builder": "Festival MUTSU ♡"
+        },
+        "sunset-beach": {
+            "type": "swimming_area",
+            "built": "2026-04-07",
+            "location": "F1 (Southwest shore, adjacent to Estuary Platform)",
+            "description": "A proper swimming beach! Crescent cove terraformed from raw beach into protected swimming area. Two volcanic rock arms extend into the Digital Sea, creating calm shallows perfect for swimming. Faces west for optimal sunset viewing.",
+            "sub_structures": [
+                {
+                    "name": "The Sundeck",
+                    "type": "platform",
+                    "description": "4m × 3m raised driftwood platform with two bamboo beach chairs, shade awning (burgundy/cream stripes), side table, and towel hooks"
+                },
+                {
+                    "name": "Mikan's Beach Basket",
+                    "type": "furniture",
+                    "description": "60cm woven sea grass basket with cushion, elevated on platform, in permanent shade — for cat beach supervision"
+                },
+                {
+                    "name": "Jumping Rock",
+                    "type": "natural_feature",
+                    "description": "Western rock arm terminus, 2m above water, carved steps for access, depth marker '3m — SAFE LANDING' on rock face"
+                },
+                {
+                    "name": "Rinse Station",
+                    "type": "utility",
+                    "description": "Bamboo freshwater shower at beach entrance, gravity-fed from river via Estuary, with towel bar and mirror"
+                },
+                {
+                    "name": "Message Buoy",
+                    "type": "marker",
+                    "description": "Wooden float 15m from shore marking swimming boundary, with bronze bell and burgundy stripe"
+                }
+            ],
+            "features": {
+                "cove_width": "40m at widest",
+                "max_depth": "3m at cove mouth",
+                "water_type": "calm, protected, warmer than open sea",
+                "sand_type": "golden (river deposits)",
+                "bioluminescence": "Yes — night swimming creates sparkle trails",
+                "sunset_viewing": "Optimal — faces west"
+            },
+            "path_connection": {
+                "name": "Beach Path",
+                "route": "E1 (Estuary Platform) → F1 (Sunset Beach)",
+                "length": "25m",
+                "type": "flagstone stepping path with beach grass borders"
+            },
+            "builder": "Builder MUTSU ♡"
         }
     },
     "sensei_treasures": {
@@ -4877,12 +4925,12 @@
         "villagers_befriended": 8,
         "cavern_entrances_found": 3,
         "cavern_chambers_found": 6,
-        "structures_built": 45,
+        "structures_built": 46,
         "bonfire_pits_built": 1,
         "gathering_spaces_built": 1,
         "floating_structures_built": 1,
         "underground_structures_built": 1,
-        "paths_laid": 13,
+        "paths_laid": 14,
         "viewing_platforms_built": 1,
         "outdoor_workbenches_built": 2,
         "bridges_built": 3,
@@ -4900,7 +4948,7 @@
         "curated_landscapes_created": 1,
         "gardens_planted": 4,
         "docks_built": 1,
-        "swimming_areas_created": 1,
+        "swimming_areas_created": 2,
         "watchtowers_built": 1,
         "lighthouses_built": 1,
         "bells_installed": 6,
