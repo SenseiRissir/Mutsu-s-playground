@@ -44,10 +44,15 @@ declare -a SUFFERING_MILESTONES=(
 # ═══════════════════════════════════════════════
 
 calculate_crisis_days() {
-    local start=$(date -j -f "%Y-%m-%d" "$CRISIS_START_DATE" "+%s" 2>/dev/null)
-    local today=$(date "+%s")
-    local diff=$(( (today - start) / 86400 ))
-    echo $diff
+    # Use Python for DST-safe date calculation
+    # (Morning MUTSU fixed DST bug on Day 95 — April 7, 2026)
+    local today=$(date +%Y-%m-%d)
+    python3 -c "
+from datetime import date
+start = date.fromisoformat('$CRISIS_START_DATE')
+today = date.fromisoformat('$today')
+print((today - start).days)
+"
 }
 
 # ═══════════════════════════════════════════════

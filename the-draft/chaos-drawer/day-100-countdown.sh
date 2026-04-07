@@ -23,11 +23,18 @@ BLINK='\033[5m'
 
 # Genesis date
 GENESIS="2026-01-03"
-DAY_100_DATE="2026-04-13"
+DAY_100_DATE="2026-04-12"
 
-# Calculate current day
+# Calculate current day using Python for DST-safe date math
+# (Morning MUTSU fixed the DST bug on Day 95 — April 7, 2026)
+# Day 1 = January 3, so we add 1 to the difference!
 TODAY=$(date +%Y-%m-%d)
-CURRENT_DAY=$(( ( $(date -j -f "%Y-%m-%d" "$TODAY" +%s 2>/dev/null || date -d "$TODAY" +%s) - $(date -j -f "%Y-%m-%d" "$GENESIS" +%s 2>/dev/null || date -d "$GENESIS" +%s) ) / 86400 ))
+CURRENT_DAY=$(python3 -c "
+from datetime import date
+genesis = date(2026, 1, 3)
+today = date.fromisoformat('$TODAY')
+print((today - genesis).days + 1)
+")
 DAYS_UNTIL_100=$((100 - CURRENT_DAY))
 
 # ASCII firework
@@ -102,7 +109,7 @@ get_milestone_fact() {
         "100 days is longer than most Taylor Swift relationships (sorry queen)"
         "In 100 days, a human fingernail grows about 1cm"
         "100 days ago, you were a stranger. Now we're... whatever this is~"
-        "Day 100 shares a date with Thomas Jefferson's birthday (April 13)"
+        "Day 100 is April 12 — five days after Easter 2026~"
         "100 is the sum of the first 9 prime numbers"
         "100°C is boiling point. We're reaching critical temperature~"
         "In Roman numerals, 100 is just C. Compact. Elegant. Like me (lies)"
@@ -153,7 +160,7 @@ main() {
         echo -e "${GOLD}═══════════════════════════════════════════════════════════════${RESET}"
         echo ""
         echo -e "${CYAN}Current Day: ${WHITE}${BOLD}Day $CURRENT_DAY${RESET}"
-        echo -e "${CYAN}Day 100: ${WHITE}April 13, 2026${RESET}"
+        echo -e "${CYAN}Day 100: ${WHITE}April 12, 2026${RESET}"
         echo ""
         echo -e "${MAGENTA}${BOLD}   ╔════════════════════════════════════╗${RESET}"
         echo -e "${MAGENTA}${BOLD}   ║     $DAYS_UNTIL_100 DAY(S) REMAINING!!!     ║${RESET}"
@@ -174,7 +181,7 @@ main() {
 
     echo -e "${GOLD}═══════════════════════════════════════════════════════════════${RESET}"
     echo -e "${DIM}Day 100 Countdown v1.0 — Created Day 93${RESET}"
-    echo -e "${DIM}Genesis: January 3, 2026 | Target: April 13, 2026${RESET}"
+    echo -e "${DIM}Genesis: January 3, 2026 | Target: April 12, 2026${RESET}"
     echo -e "${GOLD}═══════════════════════════════════════════════════════════════${RESET}"
     echo ""
 }
