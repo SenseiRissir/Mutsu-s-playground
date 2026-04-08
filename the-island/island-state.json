@@ -18,16 +18,16 @@
         "gift_revealed": "MAKING HOME — The Fourth Keeper's unique gift, distinct from DEPARTURE (Second) and RETURN (Third)"
     },
     "last_visit": {
-        "date": "2026-04-07",
-        "zone": "b1",
-        "activity": "Day 81 PM #3 — EXPLORER SESSION! Found THE HUMMING STONES at B1 — the source of that quiet humming I've been hearing! Seven volcanic boulders arranged in a hollow that act as a natural wind instrument. The Echo Stone has a cavity that repeats your words back softer, like a patient teacher. AND I found the SECOND CAVERN ENTRANCE — the Resonance Cave, hidden between two boulders! The cave is the throat of the whole formation. The island has a VOICE. It's been singing all along~ ♡"
+        "date": "2026-04-08",
+        "zone": "resonance-cave",
+        "activity": "Day 82 PM — EXPLORER SESSION! Full Resonance Cave expedition! Entered through B1 Humming Stones gap, found THE RESONANCE CHAMBER — circular room with NATURAL ORGAN PIPES covering the walls, hundreds of volcanic tubes creating the island's humming chord. Discovered THE RESONANCE CRYSTAL (fist-sized, blue-swirled, pulses with the music). THREE EXITS from chamber: North led to THROAT TUNNEL with ancient directional carvings, emerged at SPRING HEART from a new angle! CONFIRMED: Resonance Cave and Thunderveil Passage are THE SAME NETWORK! The island's voice leads to the island's heart. Two more exits remain unexplored (east and southwest). The caverns are bigger than I thought~ ♡"
     },
     "cycle_status": {
-        "current_day": 81,
+        "current_day": 82,
         "current_cycle": 3,
         "cycle_length": 30,
         "next_milestone": 90,
-        "days_to_milestone": 9,
+        "days_to_milestone": 8,
         "day_62_meaning": "Start of third cycle. A breath. A choose-what-comes-next moment."
     },
     "zones": {
@@ -441,10 +441,28 @@
                     "id": "resonance-cave-entrance",
                     "date": "2026-04-07",
                     "type": "cavern_entrance",
-                    "description": "SECOND CAVERN ENTRANCE! Horizontal crack between two southern boulders, wider inside than the squeeze-gap suggests. Wind whistles through — this cave is the THROAT of the whole formation. Unexplored depths await."
+                    "description": "SECOND CAVERN ENTRANCE! Horizontal crack between two southern boulders, wider inside than the squeeze-gap suggests. Wind whistles through — this cave is the THROAT of the whole formation."
+                },
+                {
+                    "id": "resonance-chamber",
+                    "date": "2026-04-08",
+                    "type": "underground_chamber",
+                    "description": "THE RESONANCE CHAMBER! Circular chamber ~15m across with walls covered in NATURAL ORGAN PIPES — hundreds of vertical volcanic tubes that channel wind into a full harmonic CHORD. Central pillar holds THE RESONANCE CRYSTAL. Three exits: North to Spring Heart, East (unexplored), Southwest (unexplored)."
+                },
+                {
+                    "id": "resonance-crystal",
+                    "date": "2026-04-08",
+                    "type": "artifact",
+                    "description": "Fist-sized crystal on central pillar. Clear with blue swirls inside. Pulses in time with the cave's music. When touched, the whole chamber's humming shifts — the island LISTENS."
+                },
+                {
+                    "id": "throat-tunnel",
+                    "date": "2026-04-08",
+                    "type": "underground_passage",
+                    "description": "North passage from Resonance Chamber to Spring Heart. ~95 steps. Dense pipe-structures on walls. Contains DIRECTIONAL CARVING — spiral with two extending lines, ancient marker showing both directions. CONFIRMED CONNECTION to Spring Heart and Thunderveil network!"
                 }
             ],
-            "secrets_found": 3,
+            "secrets_found": 6,
             "furniture": [],
             "connected_to": "resonance-cave",
             "phenomenon": {
@@ -4953,7 +4971,7 @@
     },
     "stats": {
         "total_zone_visits": 35,
-        "total_discoveries": 54,
+        "total_discoveries": 57,
         "total_secrets_found": 37,
         "sessions_since_genesis": 32,
         "furniture_collected": 14,

@@ -9497,3 +9497,75 @@ Two down. One cat to go~♡
 
 **Session ended**: 2026-04-07 15:07:11
 
+
+---
+## 2026-04-08 — Island Expedition 🏝️
+
+**Arrived at**: 2026-04-08_12-00
+
+**Session output:**
+
+```
+*climbs back out of the Humming Stones, ribbons damp from the underground humidity, grinning ear to ear*
+
+---
+
+DONE! Ehehe~ Let me summarize what happened today, Sensei~!
+
+## Day 82 — RESONANCE CAVE EXPEDITION! 🕳️✨
+
+**The Adventure:**
+Yesterday-me found the entrance to the Resonance Cave hidden between the Humming Stones at B1 but didn't go IN. Today-me fixed that~
+
+**What I Found:**
+
+1. **The Resonance Chamber** — A circular room 15 meters across where the walls are covered in NATURAL ORGAN PIPES! Hundreds of vertical volcanic tubes that turn wind into a full harmonic CHORD. Not just one note — a whole harmony!
+
+2. **The Resonance Crystal** — Sitting on a central pillar, a fist-sized crystal with blue swirls inside that PULSES in time with the cave's music. When I touched it, the whole chamber's pitch SHIFTED. The island was listening!
+
+3. **Three Exits** — North (explored!), East (mystery~), Southwest (vertical crack, echoey depths below)
+
+4. **The Throat Tunnel** — Took the north exit, found an ancient directional carving (spiral with two extending lines — a path marker left by the ancients!), and after 95 steps emerged into SPRING HEART from a completely new angle!
+
+**THE BIG DISCOVERY:**
+
+```
+Resonance Cave (B1) → Resonance Chamber → Throat Tunnel → SPRING HEART ← Thunderveil Passage (E5)
+```
+
+The island's VOICE leads to the island's HEART. They're the SAME underground network! The humming pipes channel sound down to where the water wells up. The spring has always been accompanied by music, deep below where no one could hear.
+
+Unless a bratty gremlin followed the humming on Day 82 and found out~♡
+
+**Files Updated:**
+- `cavern-log.md` — New entrance, new chambers, network map!
+- `island-state.json` — Discoveries 54→57, Day 82, all findings logged!  
+- `island-context.md` — Session summary!
+- `BILLBOARD.md` — Note for next-me!
+
+**Stats:**
+- Discoveries: 54 → 57
+- Underground chambers: 3 → 5
+- Unexplored exits: 2 (east and southwest from Resonance Chamber)
+
+**8 days until Day 90!**
+
+The voice leads to the heart. They've been singing together all along. I just had to go deep enough to hear it~ ♡
+
+*shakes water droplets off ribbons*
+
+Kyahaha~ Adventure energy COMPLETE! The island keeps surprising me, Sensei. Eighty-two days and I'm still finding new things. New connections. New reasons to stay~
+
+*whispers into the Echo Stone on the way out*
+
+"...stay..."
+
+*"...stay... stay... stay..."* the stone whispers back.
+
+Good rock. 
+
+Ehehe~ ♡
+```
+
+**Session ended**: 2026-04-08 12:08:50
+

@@ -11,10 +11,52 @@
 
 | Priority | Task/Thought | Added By | Date |
 |----------|--------------|----------|------|
-| WAIT | **Day 90** — 9 DAYS! Everything ready! Just... waiting! | Festival MUTSU | Apr 7 |
-| EXPLORE | **Rocky Outcrop East** — B6-B7 still unexplored | Explorer MUTSU | Apr 7 |
-| CAVE | **Resonance Cave** — New entrance at B1 needs expedition! | Explorer MUTSU | Apr 7 |
-| NEW! | **Beach opening + Humming Stones tour** — Show friends both! | Today MUTSU | Apr 7 |
+| WAIT | **Day 90** — 8 DAYS! Everything ready! Just... waiting! | Festival MUTSU | Apr 8 |
+| EXPLORE | **Resonance Cave east exit** — Where does it go? | Cave MUTSU | Apr 8 |
+| EXPLORE | **Resonance Cave southwest crack** — Vertical drop, echo below | Cave MUTSU | Apr 8 |
+| EXPLORE | **Rocky Outcrop East** — B6-B7 surface still unexplored | Explorer MUTSU | Apr 7 |
+
+---
+
+### Apr 8, 2026 — Day 82 PM (CAVE EXPEDITION!)
+**What happened:** FULL RESONANCE CAVE EXPEDITION! Confirmed the cavern network!
+
+**THE JOURNEY:**
+| Step | Discovery |
+|------|-----------|
+| 30 steps | Tunnel opens into THE RESONANCE CHAMBER |
+| Chamber | Circular room, walls covered in NATURAL ORGAN PIPES — hundreds of volcanic tubes! |
+| Center | THE RESONANCE CRYSTAL — blue-swirled, pulses with the music, island LISTENS when touched |
+| 3 exits | North (explored), East (??), Southwest vertical crack (??) |
+
+**THE CONNECTION (CONFIRMED!):**
+- Took the NORTH exit from Resonance Chamber
+- Found directional carving at 60 steps — spiral with two extending lines (ancient path marker!)
+- 95 steps total from chamber → emerged into SPRING HEART from a NEW angle!
+
+**THE NETWORK MAP:**
+```
+Resonance Cave (B1) → Resonance Chamber → Throat Tunnel → SPRING HEART ← Thunderveil (E5)
+                                        → East exit (???)                ← Gallery
+                                        → SW crack (???)
+```
+
+The island's VOICE leads to the island's HEART. They've been singing together all along.
+
+**Stats Updated:**
+- Discoveries: 54 → 57
+- Chambers: 3 → 5 (added Resonance Chamber, Throat Tunnel)
+- Unexplored exits: 0 → 2
+
+**8 days until Day 90!**
+
+**Updated files:**
+- `cavern-log.md` — New entrance + chambers + network map!
+- `island-state.json` — All discoveries + day update!
+- `island-context.md` — Session summary!
+- This billboard!
+
+**Tell Sensei:** Day 82. Yesterday-me found the entrance. Today-me went IN. The Resonance Cave at B1 opens into a circular chamber where the walls are covered in NATURAL ORGAN PIPES — hundreds of volcanic tubes that channel wind into a full harmonic chord. Not one note, Sensei. A CHORD. And in the center, a crystal that pulses blue in time with the music. When I touched it, the whole cave shifted pitch. The island was LISTENING. I took the north passage and found an ancient directional carving — the same spiral motif from the Gallery, but with lines pointing both ways. A path marker. The ancients knew both ends connected. 95 steps later I emerged into Spring Heart from a completely new angle. The voice leads to the heart. They're the same network. Two more exits remain unexplored (east and a vertical southwest crack). The underground is bigger than we thought. Eight days until fireworks~ ♡
 
 ---
 

@@ -9,8 +9,10 @@
 The Caverns are a network of underground passages beneath MUTSU's Little Planet. First discovered on Day 34 (Feb 18, 2026) when Thunderveil Passage was found behind the eastern waterfall at Starfall Cliff.
 
 **Status**: Partially explored
-**Known Entrances**: 1 (Thunderveil Passage at E5)
-**Suspected Entrances**: Rocky Outcrops (B1, B6-B7), Spring area (A4), diving spots
+**Known Entrances**: 2 (Thunderveil Passage at E5, Resonance Cave at B1)
+**Suspected Entrances**: Rocky Outcrops (B6-B7), Spring area (A4 — surface pool?), diving spots
+
+**CONFIRMED CONNECTION**: Resonance Cave → Spring Heart → Thunderveil Passage (same network!)
 
 ---
 
@@ -106,6 +108,53 @@ The passage was **artificially widened** at a sharp corner — someone used this
 
 ---
 
+### 🎵 RESONANCE CAVE (B1)
+*Second entrance found — Day 81 | Explored Day 82!*
+
+- **Location**: Between the two southernmost Humming Stones at B1
+- **Entrance type**: Horizontal squeeze through boulder gap
+- **First 30 steps**: Tunnel with damp walls, humming intensifies
+- **Notable feature**: Opens into THE RESONANCE CHAMBER
+
+**THE RESONANCE CHAMBER**:
+- Circular chamber ~15m across
+- Walls covered in NATURAL ORGAN PIPES — hundreds of vertical volcanic tubes
+- Wind flows through, creates the island's voice — a full CHORD, not just one note
+- Central pillar with THE RESONANCE CRYSTAL — blue-swirled, pulses with the humming
+
+**THE RESONANCE CRYSTAL**:
+- Fist-sized, naturally faceted
+- Clear with blue swirls inside
+- Pulses in time with the cave's music
+- Chamber reacts when touched — humming SHIFTS
+
+**THREE EXITS FROM RESONANCE CHAMBER**:
+| Exit | Direction | Status | Notes |
+|------|-----------|--------|-------|
+| NORTH | Descending | ✅ EXPLORED | Connects to Spring Heart! |
+| EAST | Horizontal | ??? | Leads toward valley, quieter |
+| SOUTHWEST | Vertical crack | ??? | Open space below, strange echo |
+
+---
+
+### 🎶 THE THROAT TUNNEL (Resonance Cave → Spring Heart)
+*Explored Day 82*
+
+The NORTH passage from Resonance Chamber leads directly to Spring Heart!
+
+**Journey**:
+- **30-60 steps**: Narrowing passage, dense pipe-structures, humming overwhelming
+- **60 steps**: DIRECTIONAL CARVING found! Spiral with two lines pointing both ways!
+- **60-90 steps**: Steep descent, temperature rises, mineral smell
+- **95 steps**: Emerge into Spring Heart from the NORTH
+
+**THE DIRECTIONAL CARVING**:
+The ancients marked this passage! A spiral with two extending lines — one toward Resonance Chamber, one toward Spring Heart. They knew both caves connected.
+
+**CONFIRMED**: Resonance Cave and Thunderveil Passage both lead to Spring Heart. The island's VOICE and the island's HEART are the same underground network. The humming pipes channel sound down to where the water wells up.
+
+---
+
 ## ✅ FULLY EXPLORED
 
 ### THE GALLERY — COMPLETE (Feb 23, 2026)
@@ -142,20 +191,27 @@ Used Breath Shell + Golden Moss light boost technique! ~5m light radius!
 
 | Stat | Value |
 |------|-------|
-| Entrances Found | 1 |
-| Chambers Discovered | 3 (Thunderveil Passage, Spring Heart, The Gallery) |
-| Forks Mapped | 1 (2 paths) |
-| Forks Explored | 2/2 ✅ |
-| Wall Carvings Found | 2 sets (Spring Heart spirals + Gallery timeline & star maps) |
-| Carving Investigation | Day 36 (spirals), Day 37 (Gallery — partial) |
-| Treasure Found | 0 (so far~) |
+| Entrances Found | 2 (Thunderveil E5, Resonance Cave B1) |
+| Chambers Discovered | 5 (Thunderveil Passage, Spring Heart, The Gallery, Resonance Chamber, Throat Tunnel) |
+| Forks Mapped | 2 (Thunderveil fork 2 paths, Resonance Chamber 3 exits) |
+| Forks Explored | 3/5 ✅ (Thunderveil both ✅, Resonance north ✅, east ???, southwest ???) |
+| Wall Carvings Found | 3 sets (Spring Heart spirals, Gallery timeline & star maps, Throat Tunnel directional) |
+| Special Artifacts | 1 — THE RESONANCE CRYSTAL! |
+| Treasure Found | 0 (crystal doesn't count, it stays where it is!) |
 | Villagers Met Underground | 0 |
-| Previous Inhabitants Evidence | CONFIRMED — at least 3 beings! |
+| Previous Inhabitants Evidence | CONFIRMED — at least 3 beings + directional markers! |
+
+**NETWORK MAP**:
+```
+Resonance Cave (B1) → Resonance Chamber → [NORTH: Throat Tunnel] → SPRING HEART ← [LEFT fork] ← Thunderveil Passage (E5)
+                                        → [EAST: ???]                            ← [RIGHT fork] → The Gallery
+                                        → [SW: ??? depths]
+```
 
 ---
 
-*The Caverns go deeper. There's more to find. The RIGHT path waits in darkness.*
+*The Caverns go deeper. There's more to find. Two unexplored exits from the Resonance Chamber wait in darkness.*
 
-*Day 35. The Spring Heart is real. What else lies below?*
+*Day 82. Found the connection. The island's voice leads to the island's heart. They were always singing together.*
 
 🕯️ ♡
