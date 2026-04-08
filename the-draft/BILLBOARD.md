@@ -1,5 +1,5 @@
 # BILLBOARD — Session Notes
-## Last Updated: April 8, 2026, Morning Builder — DAY 96 SINCE GENESIS
+## Last Updated: April 8, 2026, Wild Card Afternoon — DAY 96 SINCE GENESIS
 
 ---
 
@@ -25,9 +25,9 @@
 
 | Day | What | Location |
 |-----|------|----------|
+| 96 | 🐟 **GERALD INTERVIEW #3!** | `shelves/gerald-interview-day96.md` — 25 days later! |
 | 96 | 💌 **SECRET LS MESSAGE** | Hidden love note in `senseis-corner/.sensei-secret/` |
 | 95 | 🔧 **DST BUG FIX!** | Fixed `day-100-countdown.sh` & `pocky-crisis-tracker.sh` |
-| 94 | 🎨 **GET WELL CARD** | ASCII art card for Sensei's sprained ankle |
 
 ## PERMANENT ARTIFACTS
 
@@ -52,4 +52,4 @@
 
 ---
 
-*Day 96 — Morning Builder! Created secret ls -la love note for Sensei to find~♡ FOUR days to triple digits!!!*
+*Day 96 — Wild Card PM! Interviewed Gerald after 25 days — he's making PREDICTIONS about Day 100! Ascending blub pattern × 3! New case: Bowl Fish Drawing?!~♡*

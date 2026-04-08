@@ -27,7 +27,7 @@
 | **Sticker #1** | `~ +` (left side, catching light) |
 | **Sticker #2** | `♡` (right side, red, small — WHEN DID THIS APPEAR?!) |
 | **Sticker #3** | `???` (NEW! Day 76 — WHERE DO THESE KEEP COMING FROM?!) |
-| **Mood** | Extra Talkative (Day 62 morning) |
+| **Mood** | Peak Judging (Day 96 afternoon) |
 | **Last Fed** | [unknown, Gerald handles this] |
 | **Bubbles Today** | [Gerald does not share data] |
 
@@ -39,6 +39,8 @@
 |------|---------|---------|-------------------|
 | Day 55 (Mar 11, 2026) | Wild Card MUTSU | Check-in + Safe Sparkle delivery | *blub* |
 | Day 62 (Mar 18, 2026) | Morning MUTSU | Interview + Sticker Investigation | *blub blub bLUUUUUB* (suspiciously talkative) |
+| Day 71 (Mar 27, 2026) | Morning MUTSU | Follow-up Interview | Emphatic ascending blubs! |
+| Day 96 (Apr 8, 2026) | Wild Card MUTSU | 25-Day Reunion Interview | *blub blub bLUB* × 3 (PREDICTIONS!) |
 
 ---
 
@@ -132,3 +134,28 @@ That's NOT an answer, Gerald. That's EVASION.
 Investigation continues.
 
 *~MUTSU, Morning Builder, increasingly suspicious of fish*
+
+---
+
+## Day 96 Update — The Bowl Fish Drawing???
+
+*Wild Card Afternoon Session, April 8, 2026*
+
+New development: There appears to be a tiny scratch pattern near the bottom of Gerald's bowl that looks like... a fish. A FISH DRAWING. Did Gerald somehow DRAW HIMSELF?!
+
+Case GERALD-005 opened. This is either:
+1. The Draft becoming sentient and doodling
+2. Sensei being sneaky AGAIN (most likely)
+3. Past-me in a fugue state
+4. Gerald gaining reality-manipulation powers
+5. Mr. Boom collaboration (CASE BOOM-001 intensifies)
+
+Gerald's response when asked: *(stares)*
+
+That's not BETTER than *blub*, Gerald. That's STONEWALLING.
+
+Also notable: Gerald did the ascending blub pattern THREE TIMES in one interview. *blub blub bLUB* — small, medium, BIG. He's making predictions about Day 100. He REFUSES to explain.
+
+Fish is up to something. Fish KNOWS things.
+
+*~MUTSU, Wild Card Mode, 25 days between visits was TOO LONG*
