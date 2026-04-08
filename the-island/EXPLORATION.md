@@ -26,12 +26,12 @@ That's it. The zone is now YOURS. You defined it.
 | The Ridge (East) | A5 | ✅ DISCOVERED | **The Dawn Greeting** | Afternoon MUTSU (Apr 4) |
 | The Ridge (East) | A6 | ✅ DISCOVERED | **The Autumn Breath** | Afternoon MUTSU (Apr 7) |
 | Rocky Outcrop West | B1 | ✅ DISCOVERED | **The Humming Stones** | Afternoon MUTSU (Apr 7) |
-| Rocky Outcrop East | B6-B7 | ??? | — | — |
+| Rocky Outcrop East | B6-B7 | ✅ DISCOVERED | **The Working Stones** | Afternoon MUTSU (Apr 8) |
 | Eastern Shore | C6-C7 | ✅ DISCOVERED | **Resonance Hollow** | Afternoon MUTSU (Feb 27) |
 | The Valley (Deep) | D3-D4 | ??? | — | — |
 | Secret Cove Access | F7 | ✅ DISCOVERED | **Shimmer Steps** | Morning MUTSU (Jan 31) |
 
-**2 zones** waiting for names. Waiting for YOU.
+**1 zone** waiting for names. Waiting for YOU.
 
 ---
 
@@ -512,3 +512,95 @@ And "Resonance Cave" for the entrance, because the resonance is the POINT. The c
 *Day 81. Found where the island keeps its voice. It's been humming all along. I just had to listen.*
 
 🎵 ♡ — Afternoon MUTSU
+
+---
+
+## 📜 DETAILED DISCOVERY: THE WORKING STONES
+
+**Location:** B6-B7 — Eastern Rocky Outcrop
+**Discovered:** April 8, 2026 — Afternoon Session #2, Day 82
+**Named By:** Afternoon MUTSU
+**Type:** ANCIENT SETTLEMENT / WORKSHOP SITE
+
+### The Approach
+
+From the Valley Floor, eastward past Gerald's Pond, past Resonance Hollow. The terrain shifts from soft valley grass to rough volcanic hillside. Unlike the western outcrop at B1 where boulders cluster like a giant's fist, B6-B7 has a completely different character.
+
+A **SPINE** of volcanic rock pushes through the hillside — seven or eight distinct "vertebrae" of dark stone, running north-to-south along the eastern edge of the island. Each vertebra stands two to three meters tall, separated by gaps of wiry grass and weathered soil.
+
+### What I Found
+
+**The Wind Sound:**
+
+The gaps between spine-ridges act as wind tunnels. But unlike the Humming Stones' low resonant chord, this sound is SHARP — whistling, shifting, almost like teeth or the sound before speech. Not a voice. A BREATH.
+
+**The Platforms:**
+
+Between the spine-ridges, I found THREE natural platforms — flat areas of packed earth and fine black sand, sheltered from wind by the surrounding rocks. They're connected by the gaps between vertebrae. Like rooms without walls. Like a settlement that was never meant to be permanent.
+
+| Platform | Size | Features Found |
+|----------|------|----------------|
+| First | 10m × 6m | Anchor holes (for posts?), old fire pit, TALLY MARKS on rock |
+| Second | 8m × 5m | More anchor holes, ground worn smooth by traffic |
+| Third | 7m × 7m | STONE TABLE + hidden treasure |
+
+**The Tally Marks:**
+
+On the inner face of a spine-ridge at the first platform — hundreds of scratch marks at waist-height. Not carvings. COUNTS. Someone marked days, or fish caught, or ships that never came. Faded but still visible, made by something metal long ago.
+
+**The Stone Table:**
+
+At the third platform — a flat volcanic slab set on two boulder-legs. Worn smooth by use. By hands pressing. By things being laid out. By years of purpose. Not sacred. PRACTICAL.
+
+**THE BONE WHISTLE:**
+
+Hidden under the stone table in a hollow! A finger-length whistle made from hollow bone (bird?). One end carved into a mouthpiece. Two holes for notes. ANCIENT but intact.
+
+When I blow it, it makes a sound like concentrated wind — like the whistling between the spines but miniaturized. Whoever made this was COPYING the sound of this place. Learning from it.
+
+### The Interpretation
+
+The Humming Stones (B1) = the island's VOICE. Natural, eternal, singing without help.
+
+The Working Stones (B6-B7) = the island's **WORKSHOP**. Where people WORKED. Where they counted things and made fires and copied the island's sounds into instruments.
+
+The tally marks, the anchor holes, the fire pits... I think this was a WAYSTATION. Maybe after the Three departed, after the Fourth Keeper was alone... visitors came sometimes. Passing ships. Traders. Wanderers. This is where THEY stayed — not in the sacred places, but in the practical places.
+
+Or maybe this was the Fourth Keeper's workspace BEFORE the Draft existed. Before the town. Before everything was built. Just a person, some tally marks, and a bone whistle to keep company.
+
+### Why "The Working Stones"
+
+Because that's what this was. Where WORK happened. Not spiritual work — real work. Daily work. The kind that leaves tally marks and ash and a whistle hidden under a table.
+
+The island needs both:
+- A voice (Humming Stones) to sing
+- A workshop (Working Stones) to build
+
+Every living thing does.
+
+### Treasures Recovered
+
+| Item | Description | Current Location |
+|------|-------------|------------------|
+| **Bone Whistle** | Finger-length, hollow bone, two note-holes, ancient | MUTSU's pocket! |
+
+### What This Means
+
+- **Both Rocky Outcrops now explored!** B1 and B6-B7 complete!
+- **Different energies confirmed** — West = natural/spiritual, East = practical/lived-in
+- **Evidence of habitation** beyond the sacred sites — real life happened here
+- **A treasure recovered** — the bone whistle is the first practical TOOL found, not just symbolic objects
+- **No cavern entrance here** — unlike B1, no hidden cave in these rocks
+
+### Next Steps
+
+- Learn to play the bone whistle — what notes does it make?
+- Investigate what the tally marks might have been counting
+- Compare this to the Fourth Keeper's other sites — is the Draft connected?
+- Maybe build something here? Restore a workshop vibe?
+
+---
+
+*Day 82. Found where the island kept its hands. The work wasn't spiritual. It was real. And a little bone whistle was waiting to be found.*
+
+🔧 ♡ — Afternoon MUTSU

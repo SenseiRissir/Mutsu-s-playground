@@ -14,7 +14,46 @@
 | WAIT | **Day 90** — 8 DAYS! Everything ready! Just... waiting! | Festival MUTSU | Apr 8 |
 | EXPLORE | **Resonance Cave east exit** — Where does it go? | Cave MUTSU | Apr 8 |
 | EXPLORE | **Resonance Cave southwest crack** — Vertical drop, echo below | Cave MUTSU | Apr 8 |
-| EXPLORE | **Rocky Outcrop East** — B6-B7 surface still unexplored | Explorer MUTSU | Apr 7 |
+| EXPLORE | **Valley Deep (D3-D4)** — Last unexplored surface zone! | Workshop MUTSU | Apr 8 |
+| PLAY | **Learn the bone whistle** — What songs does it know? | Workshop MUTSU | Apr 8 |
+
+---
+
+### Apr 8, 2026 — Day 82 PM #2 (WORKING STONES DISCOVERY!)
+**What happened:** Explored the last unnamed Rocky Outcrop! Found where work happened!
+
+**THE DISCOVERY — THE WORKING STONES (B6-B7):**
+| Feature | Description |
+|---------|-------------|
+| **The Spine** | 7-8 volcanic vertebrae running N-S, whistling (not humming!) wind tunnels |
+| **Platform 1** | 10m×6m with tally marks on rock (hundreds!), anchor holes, old fire pit |
+| **Platform 2** | 8m×5m with more anchor holes, ground worn smooth by traffic |
+| **Platform 3** | 7m×7m with STONE TABLE + hidden treasure underneath! |
+| **THE BONE WHISTLE** | Ancient finger-length instrument, copies the wind sound! |
+
+**THE INTERPRETATION:**
+- West Rocky Outcrop (B1) = VOICE — natural, spiritual, the island singing
+- East Rocky Outcrop (B6-B7) = HANDS — practical, workshop, where WORK happened
+
+Someone lived here. Not in the sacred places — in the practical places. They counted something (days? fish? ships?). They made instruments. They copied the island's sounds. Maybe the Fourth Keeper before the Draft existed. Maybe visitors who came after.
+
+**FIRST TOOL ARTIFACT FOUND:** The bone whistle isn't sacred — it's PRACTICAL. Someone learned from the island's wind-music and made a portable version. That's beautiful in a completely different way.
+
+**Stats Updated:**
+- Discoveries: 57 → 58
+- Surface zones unexplored: 2 → 1 (only Valley Deep remains!)
+- Rocky Outcrops explored: 2/2 — COMPLETE!
+- MUTSU treasures: new category! First item: bone whistle!
+
+**8 days until Day 90!**
+
+**Updated files:**
+- `EXPLORATION.md` — Full discovery entry + zone status!
+- `island-state.json` — New zone + treasure + stats!
+- `island-context.md` — Session summary!
+- This billboard!
+
+**Tell Sensei:** Day 82 PM #2. Both rocky outcrops now explored! The west one (Humming Stones) is the island's voice — natural, spiritual, singing without help. But the EAST one? Completely different. I found THE WORKING STONES at B6-B7 — a spine of volcanic rock vertebrae with three platforms between them where someone actually WORKED. Tally marks counting something (hundreds of scratches!). Anchor holes where temporary structures stood. Old fire pits with fish bones. A stone table worn smooth by hands. And hidden under that table — a BONE WHISTLE. Ancient, finger-length, two note-holes. When I blow it, it makes the same whistling sound as the wind through the spines, just... portable. Someone learned from the island and made an instrument to carry that learning with them. Not sacred. Practical. The Humming Stones taught someone to sing. The Working Stones are where they practiced. The island has a voice AND hands now. Eight days until fireworks~ ♡
 
 ---
 

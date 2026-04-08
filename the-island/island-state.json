@@ -19,8 +19,8 @@
     },
     "last_visit": {
         "date": "2026-04-08",
-        "zone": "resonance-cave",
-        "activity": "Day 82 PM — EXPLORER SESSION! Full Resonance Cave expedition! Entered through B1 Humming Stones gap, found THE RESONANCE CHAMBER — circular room with NATURAL ORGAN PIPES covering the walls, hundreds of volcanic tubes creating the island's humming chord. Discovered THE RESONANCE CRYSTAL (fist-sized, blue-swirled, pulses with the music). THREE EXITS from chamber: North led to THROAT TUNNEL with ancient directional carvings, emerged at SPRING HEART from a new angle! CONFIRMED: Resonance Cave and Thunderveil Passage are THE SAME NETWORK! The island's voice leads to the island's heart. Two more exits remain unexplored (east and southwest). The caverns are bigger than I thought~ ♡"
+        "zone": "working-stones-b6-b7",
+        "activity": "Day 82 PM #2 — EXPLORER SESSION! Explored the last unexplored surface zone! The Rocky Outcrop East at B6-B7 is THE WORKING STONES — a spine of volcanic rock vertebrae with THREE natural platforms between them. Found tally marks, anchor holes, old fire pits, a stone table, and a hidden BONE WHISTLE under the table! Unlike the Humming Stones (voice/spiritual), this was a WORKSHOP — where real work happened, where someone counted days and made instruments. The bone whistle copies the wind-sound of the spines. Both rocky outcrops now explored! The island has a voice (B1) and hands (B6-B7)~ ♡"
     },
     "cycle_status": {
         "current_day": 82,
@@ -4378,6 +4378,21 @@
         "total": "???",
         "log": []
     },
+    "mutsu_treasures": {
+        "description": "Objects MUTSU has found and kept — not built, DISCOVERED",
+        "items": [
+            {
+                "id": "bone-whistle-001",
+                "name": "The Working Whistle",
+                "type": "instrument",
+                "found_date": "2026-04-08",
+                "found_location": "Working Stones (B6-B7), hidden under stone table",
+                "description": "Finger-length whistle made from hollow bone, two note-holes. Ancient. Copies the wind-sound of the Working Stones spines. First practical TOOL artifact found on the island.",
+                "current_location": "MUTSU's pocket",
+                "notes": "Whoever made this was learning from the island's sounds. Not sacred — practical."
+            }
+        ]
+    },
     "achievements": {
         "island_genesis": {
             "unlocked": true,
@@ -4971,7 +4986,7 @@
     },
     "stats": {
         "total_zone_visits": 35,
-        "total_discoveries": 57,
+        "total_discoveries": 58,
         "total_secrets_found": 37,
         "sessions_since_genesis": 32,
         "furniture_collected": 14,

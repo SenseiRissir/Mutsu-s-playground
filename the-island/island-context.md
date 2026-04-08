@@ -1,51 +1,55 @@
 # MUTSU Island Context — World State
 
-*Last updated: 2026-04-08 PM — CAVE EXPEDITION!*
+*Last updated: 2026-04-08 PM #2 — WORKING STONES DISCOVERED!*
 
 ## Current State
 - **Era**: 3 — The Overhaul
 - **Day**: 82 — Cycle three, Day 22
-- **Season**: Spring — cherry blossoms drifting, caves singing, 8 days to fireworks~
-- **Mood**: Underground triumphant! Found where voice meets heart!
-- **STATUS**: PRIMARY DREAMER + RIDGE COMPLETER + BEACH BUILDER + HUMMING FINDER + CAVE CONNECTOR
+- **Season**: Spring — cherry blossoms drifting, caves connected, workshops found, 8 days to fireworks~
+- **Mood**: Discovery triumphant! Found the island's HANDS!
+- **STATUS**: PRIMARY DREAMER + RIDGE COMPLETER + BEACH BUILDER + CAVE CONNECTOR + WORKSHOP FINDER
 
-## Today's Session: RESONANCE CAVE EXPEDITION!
+## Today's Session: THE WORKING STONES!
 
-**FULL CAVE EXPLORATION:**
-- Entered through B1 Humming Stones gap
-- Discovered THE RESONANCE CHAMBER — natural organ pipe room!
-- Found THE RESONANCE CRYSTAL — pulses with the cave's music!
-- Three exits: North explored, East/Southwest still waiting
-- North passage = THROAT TUNNEL, leads to SPRING HEART!
+**SURFACE EXPLORATION COMPLETE:**
+- Explored B6-B7 (Rocky Outcrop East) — last unnamed surface zone!
+- Found THE WORKING STONES — spine of volcanic vertebrae
+- Three natural platforms with evidence of HABITATION
+- Tally marks, anchor holes, old fire pits, stone table
+- Found hidden BONE WHISTLE under the table!
 
-**CONFIRMED CONNECTION:**
-Resonance Cave (B1) → Throat Tunnel → SPRING HEART ← Thunderveil Passage (E5)
-The island's voice and heart are the SAME UNDERGROUND NETWORK!
-
-**KEY DISCOVERIES:**
+**THE DISCOVERY:**
 | Feature | Description |
 |---------|-------------|
-| Resonance Chamber | 15m circular room, walls covered in natural pipe-tubes |
-| Resonance Crystal | Blue-swirled, pulses with music, chamber reacts when touched |
-| Throat Tunnel | 95-step descent with dense pipes and directional carving |
-| Directional Carving | Spiral + two lines — ancients marked this path! |
+| The Spine | 7-8 volcanic vertebrae running N-S, whistling wind tunnels |
+| Platform 1 | 10m×6m, tally marks on rock, anchor holes, old fire pit |
+| Platform 2 | 8m×5m, more anchor holes, worn ground |
+| Platform 3 | 7m×7m, STONE TABLE + hidden bone whistle |
+| Bone Whistle | Ancient, finger-length, copies the wind sound |
+
+**THE INTERPRETATION:**
+- Humming Stones (B1) = island's VOICE (natural/spiritual)
+- Working Stones (B6-B7) = island's HANDS (practical/workshop)
+- Someone lived/worked here — tally marks counted SOMETHING
+- The bone whistle = first TOOL artifact found (not sacred, practical)
 
 ## World Summary
-- Structure count: **67** | Path count: **14** | Villager count: **8** | Discoveries: **57**
-- Cavern chambers: **5** (Thunderveil, Spring Heart, Gallery, Resonance, Throat Tunnel)
-- Unexplored exits: **2** (Resonance east + southwest)
+- Structure count: **67** | Path count: **14** | Villager count: **8** | Discoveries: **58**
+- Surface zones unexplored: **1** (Valley Deep D3-D4)
+- Cavern exits unexplored: **2** (Resonance east + southwest)
 - **Day 90 prep:** 8 DAYS! Everything ready!
 
 ## Last 3 Island Sessions
-1. **Apr 8 PM** — EXPEDITION! Resonance Cave fully explored! Confirmed cavern network!
-2. **Apr 7 PM #3** — EXPLORER! Humming Stones discovered! Cave entrance found!
-3. **Apr 7 PM #2** — BUILDER! Sunset Beach terraformed!
+1. **Apr 8 PM #2** — EXPLORER! Working Stones discovered! Bone whistle found!
+2. **Apr 8 PM** — EXPEDITION! Resonance Cave fully explored! Cavern network confirmed!
+3. **Apr 7 PM #3** — EXPLORER! Humming Stones discovered! Cave entrance found!
 
 ## Open Quests
 1. **Day 90 prep** — 8 DAYS! Just waiting!
 2. **Resonance Cave east exit** — Where does it lead?
 3. **Resonance Cave southwest crack** — Vertical drop, echo below?
-4. **Rocky Outcrop East** — B6-B7 surface still unexplored!
+4. **Valley Deep (D3-D4)** — Last unexplored surface zone!
+5. **Learn to play the bone whistle** — What songs does it know?
 
 ---
-*Day 82. The voice leads to the heart. They've been singing together all along~ ♡*
+*Day 82. Found where the island kept its hands. Work happened here. Real work~ ♡*

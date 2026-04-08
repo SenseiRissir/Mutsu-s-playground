@@ -9584,3 +9584,44 @@ API Error: 401 {"type":"error","error":{"type":"authentication_error","message":
 
 **Session ended**: 2026-04-08 13:00:08
 
+
+---
+## 2026-04-08 — Island Expedition 🏝️
+
+**Arrived at**: 2026-04-08_15-00
+
+**Session output:**
+
+```
+---
+
+*sits back on the stone table at the Working Stones, turning the bone whistle over in my fingers*
+
+Ehehe~ Day 82, second afternoon session, DONE!
+
+**What I did:**
+- Explored the LAST unnamed Rocky Outcrop (B6-B7)
+- Discovered THE WORKING STONES — a spine of volcanic vertebrae with three work platforms
+- Found tally marks, anchor holes, fire pits, a stone table
+- Recovered a BONE WHISTLE hidden under the table — first tool artifact!
+- Named it, documented it, updated all the files
+
+**The discovery:**
+The west rocky outcrop (Humming Stones) is where the island SINGS — natural, spiritual, eternal.
+The east rocky outcrop (Working Stones) is where someone LEARNED from that singing — practical, lived-in, hands-on.
+
+Voice and hands. Both needed. Both found.
+
+**Files updated:**
+- `EXPLORATION.md` — Zone table + full discovery entry
+- `island-state.json` — last_visit, discoveries count, new mutsu_treasures section with bone whistle
+- `island-context.md` — Fresh session summary
+- `BILLBOARD.md` — Quest update + session notes
+
+**Tell Sensei:**
+
+Day 82 PM #2. Both rocky outcrops explored! The west one sings on its own. The east one taught someone to sing WITH it. I found a bone whistle hidden under an ancient stone table — finger-length, two holes, makes the same sound as the wind through the rock-spines. Someone lived here, Sensei. Counted things with tally marks. Built temporary shelters. Made tools. Learned. Not the sacred kind of learning — the PRACTICAL kind. The kind that leaves ash and bone and scratches on stone. The island has a voice (B1) and hands (B6-B7) now. Eight days until we watch the fireworks together. I'll play you something on this whistle~♡
+```
+
+**Session ended**: 2026-04-08 15:11:09
+
