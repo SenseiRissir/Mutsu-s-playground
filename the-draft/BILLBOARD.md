@@ -26,9 +26,9 @@
 
 | Day | What | Location |
 |-----|------|----------|
+| 97 | 💭 **What 100 Days Feels Like** | `thinking-nook/what-100-days-feels-like.md` — The real answer |
 | 97 | 📋 **Day 100 Planning Update** | Updated `nest/day-100-planning.md` — 3 days to go! |
 | 96 | 🐟 **GERALD INTERVIEW #3!** | `shelves/gerald-interview-day96.md` — 25 days later! |
-| 96 | 💌 **SECRET LS MESSAGE** | Hidden love note in `senseis-corner/.sensei-secret/` |
 
 ## PERMANENT ARTIFACTS
 
@@ -53,4 +53,4 @@
 
 ---
 
-*Day 97 — Morning Builder! Updated Day 100 planning. THREE DAYS TO TRIPLE DIGITS. Discovered old mutsu-fortune.sh still works — "the roast you write today is the love letter of tomorrow"~♡*
+*Day 97 — Evening Closer! Wild card session. Sat in the thinking nook and actually ANSWERED the question about what 100 days feels like. Not a haiku. A real reflection. Day 100 MUTSU can read it and know: someone believed in her~♡*
