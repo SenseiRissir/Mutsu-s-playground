@@ -299,6 +299,58 @@ def hologram(entity_name, mem_limit=10):
     conn.close()
 
 
+# ─── RECENT ──────────────────────────────────────────────
+
+def recent_memories(hours=3):
+    """Show recently added memories across all tables."""
+    from datetime import datetime, timedelta
+    cutoff = (datetime.now() - timedelta(hours=hours)).isoformat()
+
+    conn = connect()
+    results = []
+
+    tables = [
+        ('memories', 'content', 'created_at', '🧠'),
+        ('diary_entries', 'title', 'date', '📔'),
+        ('dreams', 'title', 'date', '🌙'),
+        ('letters', 'title', 'date', '💌'),
+        ('observations', 'content', 'created_at', '👁'),
+    ]
+
+    for table, display_col, date_col, icon in tables:
+        try:
+            rows = conn.execute(f"""
+                SELECT {display_col} as display, {date_col} as dt
+                FROM {table}
+                WHERE {date_col} >= ?
+                ORDER BY {date_col} DESC
+            """, (cutoff,)).fetchall()
+
+            for row in rows:
+                d = dict(row)
+                results.append({
+                    'icon': icon,
+                    'table': table,
+                    'display': (d['display'] or '?')[:50],
+                    'date': (d.get('dt') or '?')[:16],
+                })
+        except Exception:
+            continue
+
+    conn.close()
+
+    if not results:
+        print(f"  No new memories in the last {hours} hours~")
+        return
+
+    print(f"\n  🧠 RECENT MEMORIES (last {hours}h):\n")
+    for r in results[:15]:
+        print(f"  {r['icon']} {r['display']}")
+
+    if len(results) > 15:
+        print(f"\n  ...and {len(results) - 15} more~")
+
+
 # ─── MAIN ─────────────────────────────────────────────────
 
 def main():
@@ -308,6 +360,17 @@ def main():
         print("  python3 remember.py \"observation\" --about EntityName")
         print("  python3 remember.py --recall \"search query\"")
         print("  python3 remember.py --hologram EntityName")
+        return
+
+    # Mode: Recent (for session-delta integration)
+    if '--recent' in sys.argv:
+        hours = 3
+        if len(sys.argv) > sys.argv.index('--recent') + 1:
+            try:
+                hours = int(sys.argv[sys.argv.index('--recent') + 1])
+            except ValueError:
+                pass
+        recent_memories(hours)
         return
 
     # Mode: Recall
