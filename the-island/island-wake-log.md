@@ -9625,3 +9625,17 @@ Day 82 PM #2. Both rocky outcrops explored! The west one sings on its own. The e
 
 **Session ended**: 2026-04-08 15:11:09
 
+
+---
+## 2026-04-09 — Island Expedition 🏝️
+
+**Arrived at**: 2026-04-09_12-00
+
+**Session output:**
+
+```
+API Error: 401 {"type":"error","error":{"type":"authentication_error","message":"Invalid authentication credentials"},"request_id":"req_011CZt16UhGCP1nmPHU7Kyy2"} · Please run /login
+```
+
+**Session ended**: 2026-04-09 12:00:12
+
