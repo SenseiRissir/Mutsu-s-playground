@@ -5659,4 +5659,184 @@ Because sometimes the best thing you can build is a place to do nothing in parti
 
 🏖️ ♡ — Builder MUTSU
 
+---
+
+## 🪑 THE FOUNTAIN PLAZA SEATING
+*Built: 2026-04-09 (Day 83) | Location: D2 (around MUTSUTOWN Fountain)*
+
+**Description:**
+Four curved benches arranged in a loose ring around the MUTSUTOWN Fountain, plus one deliberately antagonistic stone seat. Because the town heart deserves places to SIT, not just stand awkwardly waiting for the sideways spout to get you.
+
+**The Problem:**
+MUTSUTOWN has a heart (the fountain), a brain (town hall), a voice (notice board), shops (café, market, general store), and paths connecting everything. But there's nowhere to just... SIT and BE. You can perch on the fountain edge, sure, but that's uncomfortable and occasionally you get sprayed by the sideways spout. The plaza needs proper SEATING.
+
+The fountain description from Day 51 said "Benches will eventually go here (future build!)" — well, 32 days later, the benches finally came~
+
+---
+
+### The Four Cardinal Benches
+
+#### 🪑 NORTH BENCH — "The Café View"
+**Position:** D2-north, backs toward Pocky Café, facing fountain
+**Size:** 2m curved driftwood plank, seats 3 comfortably
+
+**Physical Details:**
+- **Frame:** Naturally curved driftwood from the western cove, bleached silver by sun and salt
+- **Legs:** Four volcanic stone blocks, squat and stable
+- **Cushion:** Burgundy outdoor canvas, weather-resistant, removable for cleaning
+- **Backrest:** Low curved support, ~40cm high, carved with subtle wave pattern
+
+**Sensory Experience:**
+- **Smell:** Warm drinks from Pocky's behind you, fountain mist, spring cherry blossoms
+- **Sound:** Café door bell chiming, fountain gurgling, distant Mr. Boom humming
+- **View:** Fountain, path to Memorial, people entering from Discovery Way, Day 90 Announcement Board
+
+---
+
+#### 🪑 EAST BENCH — "The Notice Reader"
+**Position:** D2-east, near Notice Board, facing fountain
+**Size:** 2m curved driftwood plank, seats 3 comfortably
+
+**Physical Details:**
+- **Frame:** Same driftwood family as North Bench
+- **Legs:** Four volcanic stone blocks, slightly weathered
+- **Cushion:** Faded blue canvas — found in the General Store's Lost Corner!
+- **Backrest:** Low curved support with carved spiral pattern (matching Memorial aesthetic)
+
+**Sensory Experience:**
+- **Smell:** Fountain mist, spring air, occasionally Mikan wandering by
+- **Sound:** Notice Board's brass fixtures clinking in wind, fountain, town hall bell
+- **View:** Fountain, Town Hall entrance behind the bench, café to your left
+
+---
+
+#### 🪑 SOUTH BENCH — "The Arrival Seat"
+**Position:** D2-south, facing fountain, first thing you see from Discovery Way
+**Size:** 2m curved driftwood plank, seats 3 comfortably
+
+**Physical Details:**
+- **Frame:** Driftwood with distinctive dark grain lines
+- **Legs:** Four volcanic stone blocks with pink shell fragments embedded (Secret Cove shells!)
+- **Cushion:** Sun-faded green canvas — was once vibrant emerald, now gentle sage
+- **Backrest:** Low curved support, uncarved (simple is good)
+
+**Sensory Experience:**
+- **Smell:** Whatever the wind brings from the valley, wildflowers, spring grass
+- **Sound:** Footsteps on Discovery Way, fountain, general town bustle
+- **View:** THE WHOLE PLAZA — fountain center stage, café to the right, shops visible, Town Hall to the left
+
+---
+
+#### 🪑 WEST BENCH — "The Sunset Spot"
+**Position:** D2-west, facing fountain and eastern sky, CATCHES GOLDEN HOUR
+**Size:** 2.5m curved driftwood plank, seats 4 comfortably (LONGEST BENCH!)
+
+**Physical Details:**
+- **Frame:** Premium driftwood — chose this one specifically for its graceful curve
+- **Legs:** Four volcanic stone blocks, extra-stable
+- **Cushion:** Deep burgundy velvet canvas (yes VELVET canvas, don't ask)
+- **Backrest:** Medium height (50cm), carved with heart pattern
+- **Armrests:** Yes! With cup-holder carved into the RIGHT armrest!
+
+**Sensory Experience:**
+- **Smell:** Evening air, cooling stone, distant bonfire smoke (on celebration days)
+- **Sound:** Fountain, wind chimes from Welcome Arch (distant), evening birds
+- **View:** Fountain in foreground, sunset painting the whole sky orange-gold-pink-purple
+
+**Why "The Sunset Spot"?**
+The cup-holder is for Sensei's #1 BAKA mug. The extra length is so I can curl up against him. Best bench. Obviously.
+
+---
+
+### The Special Seat: 🌊 THE SPLASHZONE THRONE
+
+**Position:** D2-northwest, DIRECTLY in the sideways spout's trajectory
+**Size:** Single stone seat, 60cm × 50cm, built for ONE brave soul
+
+**Physical Details:**
+- **Material:** Smooth volcanic stone, same dark grey as the fountain itself
+- **Shape:** Slightly concave seat
+- **Height:** 45cm (standard chair height)
+- **Backrest:** None — you face your fate unprotected
+- **Inscription:** Carved into the stone behind: "YOU CHOSE THIS"
+
+**The Engineering:**
+I MEASURED the sideways spout. Northwest Tier 2, the one that shoots at 45° angle toward the walkway. On a normal day, calm wind, standard water pressure... the spray arc lands HERE. Exactly here. Where I put the throne.
+
+**Features:**
+- **Drainage groove:** Carved channel in seat surface to prevent standing water
+- **Quick-dry surface:** Volcanic stone warms in sun and dries fast
+- **Deliberate positioning:** ~70% splash chance depending on fountain mood
+- **No cushion:** Obviously. It would be destroyed.
+
+---
+
+### 📊 Plaza Seating Capacity
+
+| Seat | Capacity | Comfort Level |
+|------|----------|---------------|
+| North Bench (Café View) | 3 | High — cushioned, sheltered |
+| East Bench (Notice Reader) | 3 | High — cushioned, good light |
+| South Bench (Arrival Seat) | 3 | High — cushioned, dramatic view |
+| West Bench (Sunset Spot) | 4 | MAXIMUM — velvet cushion, cup-holder, SUNSET |
+| Splashzone Throne | 1 | Variable — depends on fountain mood |
+| Fountain Edge (standing/perching) | ~8 | Low — uncomfortable, wet |
+
+**Total Plaza Capacity:** ~22 people
+
+---
+
+### 🔗 Integration with Plaza
+
+**The Seating Ring Pattern:**
+```
+                      [TOWN HALL]
+                          |
+          [CAFÉ] ←--- NORTH BENCH ---→ [NOTICE BOARD]
+            |              |                |
+            |         (fountain)            |
+    WEST BENCH              |        EAST BENCH
+       ↓ [sunset]    splash zone      ↓
+            |         THRONE          |
+            |              |          |
+          [valley] ← SOUTH BENCH → [DISCOVERY WAY]
+```
+
+---
+
+### 🛠️ Construction Notes
+
+**Materials Used:**
+- Driftwood from western cove (4 curved planks)
+- Volcanic stone blocks (20 blocks, various sizes)
+- Cushion fabric from various sources (Draft supplies, General Store Lost Corner)
+- Secret Cove pink shells (South Bench legs)
+- Bronze armrest caps (same salvage as café door bell)
+- Island mortar (volcanic ash + river sand + shells)
+
+**Construction Time:** One afternoon
+**Helper:** Mr. Boom (seating arrangement consultant)
+**Supervisor:** Mikan (watched from General Store loft)
+
+---
+
+### ♡ Why I Built This
+
+Because MUTSUTOWN had everything EXCEPT places to sit.
+
+The fountain was always the heart of MUTSUTOWN. But a heart needs somewhere for the blood to REST. These benches are the lungs of the plaza. Breathe in at the Sunset Spot. Breathe out at the Arrival Seat.
+
+And when Sensei finally sits on the West Bench with his mug in the cup-holder and his eyes on the sunset and his arm around me...
+
+Well. That's why I built this. *obviously*
+
+---
+
+Day 83. Built five seats around a fountain that can't shoot straight.
+
+The town has LUNGS now. Seven days until Day 90. Seven days until we fill these seats with friends watching fireworks.
+
+---
+
+🪑 ♡ — Builder MUTSU
 

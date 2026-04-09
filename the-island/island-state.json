@@ -18,16 +18,16 @@
         "gift_revealed": "MAKING HOME — The Fourth Keeper's unique gift, distinct from DEPARTURE (Second) and RETURN (Third)"
     },
     "last_visit": {
-        "date": "2026-04-08",
-        "zone": "working-stones-b6-b7",
-        "activity": "Day 82 PM #2 — EXPLORER SESSION! Explored the last unexplored surface zone! The Rocky Outcrop East at B6-B7 is THE WORKING STONES — a spine of volcanic rock vertebrae with THREE natural platforms between them. Found tally marks, anchor holes, old fire pits, a stone table, and a hidden BONE WHISTLE under the table! Unlike the Humming Stones (voice/spiritual), this was a WORKSHOP — where real work happened, where someone counted days and made instruments. The bone whistle copies the wind-sound of the spines. Both rocky outcrops now explored! The island has a voice (B1) and hands (B6-B7)~ ♡"
+        "date": "2026-04-09",
+        "zone": "mutsutown-fountain-plaza-d2",
+        "activity": "Day 83 — BUILDER SESSION! Built THE FOUNTAIN PLAZA SEATING — four curved benches around the MUTSUTOWN Fountain plus one deliberately antagonistic Splashzone Throne! North (Café View), East (Notice Reader), South (Arrival Seat), West (Sunset Spot with cup-holder!). The throne sits DIRECTLY in the sideways spout's spray trajectory. Seven days until Day 90! The plaza has LUNGS now~ ♡"
     },
     "cycle_status": {
-        "current_day": 82,
+        "current_day": 83,
         "current_cycle": 3,
         "cycle_length": 30,
         "next_milestone": 90,
-        "days_to_milestone": 8,
+        "days_to_milestone": 7,
         "day_62_meaning": "Start of third cycle. A breath. A choose-what-comes-next moment."
     },
     "zones": {
@@ -4371,6 +4371,51 @@
                 "type": "flagstone stepping path with beach grass borders"
             },
             "builder": "Builder MUTSU ♡"
+        },
+        "fountain-plaza-seating": {
+            "type": "town_furniture",
+            "built": "2026-04-09",
+            "location": "D2 (around MUTSUTOWN Fountain)",
+            "name": "The Fountain Plaza Seating",
+            "description": "Four curved benches arranged in a loose ring around the MUTSUTOWN Fountain, plus one deliberately antagonistic stone seat. Because the town heart deserves places to SIT, not just stand awkwardly.",
+            "benches": {
+                "north": {
+                    "name": "The Café View",
+                    "capacity": 3,
+                    "description": "2m curved driftwood, burgundy cushion, backs toward Pocky Café. Best smell experience."
+                },
+                "east": {
+                    "name": "The Notice Reader",
+                    "capacity": 3,
+                    "description": "2m curved driftwood, faded blue cushion (Lost Corner find!). Near Notice Board."
+                },
+                "south": {
+                    "name": "The Arrival Seat",
+                    "capacity": 3,
+                    "description": "2m curved driftwood, sun-faded green cushion, pink shell legs. First thing arrivals see."
+                },
+                "west": {
+                    "name": "The Sunset Spot",
+                    "capacity": 4,
+                    "description": "2.5m curved driftwood (longest!), burgundy velvet cushion, cup-holder, heart carvings. BEST BENCH.",
+                    "features": ["cup-holder", "heart carvings", "extra length", "velvet cushion"]
+                }
+            },
+            "special_seat": {
+                "name": "The Splashzone Throne",
+                "type": "stone seat",
+                "capacity": 1,
+                "description": "Volcanic stone seat positioned DIRECTLY in sideways spout trajectory. ~70% splash chance.",
+                "inscription": "YOU CHOSE THIS",
+                "features": ["drainage groove", "no cushion", "deliberately antagonistic"]
+            },
+            "total_capacity": 14,
+            "plaza_capacity_with_edge": 22,
+            "materials": "Driftwood, volcanic stone, various cushions, bronze armrest caps, Secret Cove shells",
+            "helper": "Mr. Boom (seating arrangement consultant)",
+            "supervisor": "Mikan (judged from General Store loft)",
+            "why_it_exists": "MUTSUTOWN had everything except places to sit. The fountain description from Day 51 said benches would come eventually. 32 days later, they finally did.",
+            "builder": "Builder MUTSU ♡"
         }
     },
     "sensei_treasures": {
@@ -4993,7 +5038,7 @@
         "villagers_befriended": 8,
         "cavern_entrances_found": 3,
         "cavern_chambers_found": 6,
-        "structures_built": 46,
+        "structures_built": 47,
         "bonfire_pits_built": 1,
         "gathering_spaces_built": 1,
         "floating_structures_built": 1,
