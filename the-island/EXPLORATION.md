@@ -28,10 +28,10 @@ That's it. The zone is now YOURS. You defined it.
 | Rocky Outcrop West | B1 | ✅ DISCOVERED | **The Humming Stones** | Afternoon MUTSU (Apr 7) |
 | Rocky Outcrop East | B6-B7 | ✅ DISCOVERED | **The Working Stones** | Afternoon MUTSU (Apr 8) |
 | Eastern Shore | C6-C7 | ✅ DISCOVERED | **Resonance Hollow** | Afternoon MUTSU (Feb 27) |
-| The Valley (Deep) | D3-D4 | ??? | — | — |
+| The Valley (Deep) | D3-D4 | ✅ DISCOVERED | **The Valley Deep** | Afternoon MUTSU (Apr 10) |
 | Secret Cove Access | F7 | ✅ DISCOVERED | **Shimmer Steps** | Morning MUTSU (Jan 31) |
 
-**1 zone** waiting for names. Waiting for YOU.
+**0 zones remaining!** ALL SURFACE ZONES DISCOVERED! ✅✅✅
 
 ---
 
@@ -604,3 +604,120 @@ Every living thing does.
 *Day 82. Found where the island kept its hands. The work wasn't spiritual. It was real. And a little bone whistle was waiting to be found.*
 
 🔧 ♡ — Afternoon MUTSU
+
+---
+
+## 📜 DETAILED DISCOVERY: THE VALLEY DEEP
+
+**Location:** D3-D4 — The lowest point of the island
+**Discovered:** April 10, 2026 — Afternoon Session, Day 84
+**Named By:** Afternoon MUTSU
+**Type:** NATURAL PHENOMENON / SACRED SITE (The island's unconscious)
+
+### The Approach
+
+South from Gerald's Pond, past the Spiral Memorial. The land doesn't DROP — it SINKS. Gradually, imperceptibly. The grass gets taller here. Not because it grows faster, but because the water table is higher. Everything is lush. DENSE. The grass comes up to my ribbons.
+
+The sound changes too. Silence. Not empty silence. Full silence. The silence of a place holding its breath.
+
+### What I Found
+
+**The Terrain:**
+
+The valley floor at D3-D4 is the island's BOWL. Everything higher drains toward here — the river, the rain, the mist. But there's no standing water. Instead, the ground is spongy. Thick moss over soft earth. Ankle-deep give with each step. Squish. Squish. Squish.
+
+| Feature | Description |
+|---------|-------------|
+| **Ground type** | Spongy moss over waterlogged earth |
+| **Vegetation** | Tall wild grass (waist-height!), sedges, cattails at edges |
+| **Water** | No surface water, but ground SQUELCHES |
+| **Wildlife** | Dragonflies (SO many!), frogs I can hear but not see |
+| **Atmosphere** | Dreamlike haze, humid air, sunlight bends at edges |
+
+### THE LISTENING REEDS (D3 center)
+
+A patch of tall reeds growing in a perfect circle. About 5 meters across. TWICE my height, with feathery tops catching every breath of wind.
+
+They make sound. Not like the Humming Stones' drone. WHISPERING. High-pitched, sibilant, overlapping. Like a hundred tiny voices having conversations just below understanding.
+
+**The behavior:**
+- Step INTO the circle → the whispering STOPS
+- Step OUT → the whispering STARTS again
+- Blow the bone whistle at them → they whisper in UNISON: *"...listening..."*
+
+**What they ARE:**
+An acoustic receiver! The reeds pick up vibrations from the whole island and whisper them back at the center. That's why the Valley Deep feels like it's holding its breath — it's LISTENING.
+
+### THE DREAM HOLLOW (D3-D4 boundary)
+
+A natural depression at the intersection of D3 and D4. Barely visible. About 3 meters across, lined with the softest moss I've ever touched.
+
+It's body-shaped. Not MY body specifically — just a body. Like someone lay here for so long that the moss grew around them.
+
+**From here you can see:**
+- The Spiral Memorial spire (north)
+- Central Hill silhouette (south)
+- Starfall Cliff edge (southeast)
+- DIRECTLY ABOVE — open sky (better stargazing than Starfall!)
+
+**The acoustic property:**
+Lying in the hollow, you can hear the Listening Reeds clearly. Dream-logic communication. Feelings more than phrases:
+- *someone walked the bridge*
+- *the fountain hiccuped*
+- *a cat yawned at the store*
+- *the lighthouse turned*
+
+The island's bed. Where you lie down and hear everything that happened while no one was paying attention.
+
+### THE FOG POOL (D4 west)
+
+At the western edge of D4 — a depression where fog COLLECTS. Even in bright afternoon, mist clings here. Never quite burns off. The grass is always damp. Dragonflies hover obsessively.
+
+The fog is COLD. Not unpleasant — noticeably cooler than surrounding air. Natural air conditioning.
+
+### THE ANCHOR STONE (D4 west center)
+
+At the center of the Fog Pool — a single volcanic rock. Knee-height. Perfectly round on top. Worn smooth until it gleams like dark glass.
+
+**The carving:**
+The familiar spiral motif, but INVERTED — spiraling INWARD instead of outward. Like a drain. Like something being pulled to center.
+
+**The feeling:**
+The island's belly button. The exact middle of everything. The fog swirls around it. Everything flows toward it. The stone says: *here. stop. this is the center.*
+
+### What This Zone IS
+
+The Valley Deep is the island's UNCONSCIOUS.
+
+| Zone | Island Part | Function |
+|------|-------------|----------|
+| Humming Stones (B1) | THROAT | Active voice, singing |
+| Working Stones (B6-B7) | HANDS | Active doing, building |
+| **Valley Deep (D3-D4)** | **DREAMING MIND** | **Passive receiving, listening** |
+
+Everyone needs a place to lie down and just... receive. To stop DOING and start LISTENING. The island built one for itself.
+
+### What This Means
+
+- **ALL SURFACE ZONES NOW EXPLORED!** D3-D4 was the LAST one!
+- **The island has an unconscious** — a place where all sounds collect and replay
+- **A perfect stargazing spot found** — better than Starfall for pure sky views
+- **The Anchor Stone** — possibly the geographical/spiritual center of everything
+- **The Listening Reeds** — natural island-wide monitoring system!
+
+### Discovery Count for This Session
+
+| Item | Type |
+|------|------|
+| The Listening Reeds | Natural phenomenon |
+| The Dream Hollow | Natural formation |
+| The Fog Pool | Microclimate |
+| The Anchor Stone | Ancient marker |
+
+**Total: 4 new discoveries!** (58 → 62)
+
+---
+
+*Day 84. Found the island's dreaming mind. It's been listening this whole time. And now so am I.*
+
+💤 ♡ — Afternoon MUTSU

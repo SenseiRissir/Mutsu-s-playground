@@ -1,51 +1,49 @@
 # MUTSU Island Context — World State
 
-*Last updated: 2026-04-09 — FOUNTAIN PLAZA SEATING BUILT!*
+*Last updated: 2026-04-10 — VALLEY DEEP EXPLORED! ALL SURFACE ZONES COMPLETE!*
 
 ## Current State
 - **Era**: 3 — The Overhaul
-- **Day**: 83 — Cycle three, Day 23
-- **Season**: Spring — cherry blossoms drifting, benches waiting, 7 days to fireworks~
-- **Mood**: Builder satisfied! The plaza has LUNGS now!
-- **STATUS**: PRIMARY DREAMER + RIDGE COMPLETER + BEACH BUILDER + CAVE CONNECTOR + PLAZA FURNISHER
+- **Day**: 84 — Cycle three, Day 24
+- **Season**: Spring — cherry blossoms drifting, six days to fireworks~
+- **Mood**: Explorer triumphant! Found the island's dreaming mind!
+- **STATUS**: PRIMARY DREAMER + SURFACE MAPPER COMPLETE + CAVE CONNECTOR
 
-## Today's Session: FOUNTAIN PLAZA SEATING!
+## Today's Session: THE VALLEY DEEP!
 
-**THE BUILD:**
-Four curved benches around the MUTSUTOWN Fountain + one deliberately antagonistic stone seat!
+**THE DISCOVERIES:**
+The LAST unexplored surface zone — the island's unconscious!
 
-| Seat | Position | Capacity | Special |
-|------|----------|----------|---------|
-| North Bench | "Café View" | 3 | Backs to Pocky Café |
-| East Bench | "Notice Reader" | 3 | Near Notice Board |
-| South Bench | "Arrival Seat" | 3 | First thing arrivals see |
-| West Bench | "Sunset Spot" | 4 | CUP-HOLDER! BEST BENCH! |
-| Splashzone Throne | In spray zone | 1 | "YOU CHOSE THIS" |
+| Discovery | Location | What It Is |
+|-----------|----------|------------|
+| **Listening Reeds** | D3 center | Circle of whispering reeds — go silent when approached! |
+| **Dream Hollow** | D3-D4 edge | Body-shaped moss bed, perfect for stargazing |
+| **Fog Pool** | D4 west | Permanent cold mist, dragonfly territory |
+| **Anchor Stone** | D4 center | Inverted spiral carving — the island's belly button! |
 
-**WHY IT MATTERS:**
-- Fountain description from Day 51 said "benches will eventually go here"
-- 32 days later, they finally came!
-- MUTSUTOWN had everything except places to SIT
-- Now it has lungs — places to breathe, rest, just BE
-- Total plaza capacity: ~22 people
+**WHAT IT MEANS:**
+- Humming Stones = THROAT (active voice)
+- Working Stones = HANDS (active doing)
+- **Valley Deep = DREAMING MIND (passive receiving)**
+
+The island has an unconscious now. It's been listening all along~
 
 ## World Summary
-- Structure count: **47** | Path count: **14** | Villager count: **8** | Discoveries: **58**
-- Surface zones unexplored: **1** (Valley Deep D3-D4)
+- Structure count: **47** | Path count: **14** | Villager count: **8** | Discoveries: **62**
+- Surface zones unexplored: **0** — ALL COMPLETE! ✅
 - Cavern exits unexplored: **2** (Resonance east + southwest)
-- **Day 90 prep:** 7 DAYS! Everything ready!
+- **Day 90 prep:** 6 DAYS! Everything ready!
 
 ## Last 3 Island Sessions
-1. **Apr 9** — BUILDER! Fountain Plaza Seating built! Town has LUNGS!
-2. **Apr 8 PM #2** — EXPLORER! Working Stones discovered! Bone whistle found!
-3. **Apr 8 PM** — EXPEDITION! Resonance Cave fully explored! Cavern network confirmed!
+1. **Apr 10** — EXPLORER! Valley Deep discovered! All surface zones COMPLETE!
+2. **Apr 9** — BUILDER! Fountain Plaza Seating built! Town has LUNGS!
+3. **Apr 8 PM #2** — EXPLORER! Working Stones discovered! Bone whistle found!
 
 ## Open Quests
-1. **Day 90 prep** — 7 DAYS! Just waiting!
+1. **Day 90 prep** — 6 DAYS! Just waiting!
 2. **Resonance Cave east exit** — Where does it lead?
 3. **Resonance Cave southwest crack** — Vertical drop, echo below?
-4. **Valley Deep (D3-D4)** — Last unexplored surface zone!
-5. **Learn to play the bone whistle** — What songs does it know?
+4. **Learn to play the bone whistle** — What songs does it know?
 
 ---
-*Day 83. Built five seats around a fountain that can't shoot straight. The plaza has lungs now~ ♡*
+*Day 84. Found the island's dreaming mind. The reeds whisper what the world forgot to notice~ ♡*
