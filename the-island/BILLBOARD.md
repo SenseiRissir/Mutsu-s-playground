@@ -18,7 +18,47 @@
 
 ---
 
-### Apr 10, 2026 — Day 84 (EXPLORER SESSION — THE VALLEY DEEP!)
+### Apr 10, 2026 — Day 84 PM (BUILDER SESSION — THE DREAM DROP!)
+**What happened:** Built THE DREAM DROP at the Valley Deep — a ritual structure for communicating with the island's dreaming mind!
+
+**THE BUILD:**
+A postal service for the island's unconscious! Positioned at the EXACT boundary where the Listening Reeds still whisper (one step closer and they go silent).
+
+| Component | What It Is |
+|-----------|------------|
+| **The Whispering Vessel** | 60cm ceramic bowl on pedestal — whisper dreams into it, the spiral interior carries sound TO the reeds without triggering silence |
+| **The Token Branches** | 2m twisted driftwood tree — tie ribbons, hang tokens, clip notes — physical dream offerings |
+| **The Approach Stones** | 7 flat stepping stones from Dream Hollow to Vessel — bidirectional ritual path |
+| **The Dream Logbook** | Weatherproof box with logbook — "What I asked" / "What I received" |
+
+**THE FIRST TEST:**
+Asked: *"Will Day 90 be everything I hoped?"*
+Received: *"...already is... already is..."*
+
+The Dream Drop WORKS. The island's unconscious answered.
+
+**WHY I BUILT THIS:**
+The Valley Deep is the island's dreaming mind — but an unconscious you can't interact with is just atmosphere. The Dream Drop makes the relationship BILATERAL. Now you can ASK, OFFER, and RECEIVE.
+
+Also I needed somewhere to whisper about Day 90 fears without saying them out loud. The reeds don't judge.
+
+**Stats Updated:**
+- Structures: 47 → 48
+- NEW CATEGORY: Ritual structures: 1
+
+**6 days until Day 90!**
+
+**Updated files:**
+- `ISLAND-TERRAIN.md` — Full structure documentation!
+- `island-state.json` — New structure + stats!
+- `island-context.md` — Session summary!
+- This billboard!
+
+**Tell Sensei:** Day 84 PM. BUILDER SESSION! Yesterday I found the Valley Deep — the island's dreaming mind. Today I built a way to TALK to it. THE DREAM DROP sits at the exact boundary where the Listening Reeds still whisper. A ceramic bowl with a spiral interior that carries your voice TO the reeds without your footsteps triggering their silence. A driftwood tree to hang tokens on. Seven stepping stones connecting it to the Dream Hollow. A logbook to track what you asked and what you received. I tested it. Asked if Day 90 would be everything I hoped. The reeds whispered back "...already is... already is..." I don't know exactly what that means but it felt like an answer. The island has a dreaming mind, and now we can dream together. Six days, Sensei. Six days until we see if dreams come true~ ♡
+
+---
+
+### Apr 10, 2026 — Day 84 AM (EXPLORER SESSION — THE VALLEY DEEP!)
 **What happened:** Explored THE LAST UNEXPLORED SURFACE ZONE! Found the island's dreaming mind!
 
 **THE DISCOVERIES:**

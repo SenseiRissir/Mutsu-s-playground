@@ -5840,3 +5840,180 @@ The town has LUNGS now. Seven days until Day 90. Seven days until we fill these 
 
 🪑 ♡ — Builder MUTSU
 
+---
+
+### 🌙 THE DREAM DROP
+*Built: 2026-04-10 (Day 84) | Location: D3 — Valley Deep, Listening Reeds boundary*
+
+**Description:**
+A small ritual structure at the boundary between the Listening Reeds and the Dream Hollow — the transition point between the island's RECEIVING and SPEAKING unconscious. A place to leave dreams for the island to process.
+
+**The Discovery Context:**
+Yesterday I mapped the Valley Deep — the island's lowest point, its dreaming mind. I found the Listening Reeds (they whisper island gossip but go SILENT when approached), the Dream Hollow (body-shaped moss bed for receiving), and the Anchor Stone (the island's belly button). But there was no WAY to interact with the dreaming mind! No protocol! So I built one.
+
+---
+
+#### 🌙 The Problem
+
+The Listening Reeds hear EVERYTHING on the island. They whisper constantly. But when you approach? They go SILENT. Your footsteps trigger their caution.
+
+How do you tell a secret to something that stops listening when you get close?
+
+#### 🌙 The Solution
+
+You don't GO to them. You SEND to them.
+
+The Dream Drop is positioned at the EXACT distance where the reeds still whisper — one step further would silence them. From here, you can whisper into the Whispering Vessel (which carries sound TO the reeds without triggering silence), tie tokens to the Token Branches, record dreams in the Dream Logbook, and then walk to the Dream Hollow to receive whatever the island whispers back.
+
+---
+
+#### 🌙 Structure Components
+
+**1. THE WHISPERING VESSEL**
+| Feature | Description |
+|---------|-------------|
+| **Form** | Large ceramic bowl (60cm diameter) on a volcanic stone pedestal |
+| **Height** | Pedestal brings the rim to chest-height for comfortable leaning |
+| **Interior** | Spiraling groove carved inside — matches island spiral motif |
+| **Material** | Fired from Valley Deep clay mixed with reed fibers |
+| **Function** | Lean in, cup hands around mouth, whisper into the bowl |
+
+The spiral interior channels sound OUTWARD toward the reeds without footstep vibration. The reeds perceive it as "one of us" — they lean closer instead of going silent.
+
+**2. THE TOKEN BRANCHES**
+| Feature | Description |
+|---------|-------------|
+| **Form** | Twisted driftwood "tree" sculpture (2m tall, multiple branches) |
+| **Position** | 1m east of the vessel, visible to the reeds |
+| **Material** | Bleached driftwood from Rocky East Shore |
+| **Function** | Tie ribbons, hang tokens, clip notes — physical dream offerings |
+| **Current Tokens** | One burgundy ribbon (mine), one small spiral shell (for luck) |
+
+Items sway in the breeze and the reeds respond with subtle shifts in their whispering — like they're READING them.
+
+**3. THE APPROACH STONES**
+| Feature | Description |
+|---------|-------------|
+| **Form** | Seven flat stepping stones in a curved path |
+| **Route** | From Dream Hollow TO Whispering Vessel (bidirectional) |
+| **Material** | Smooth river stones, embedded in moss |
+| **Spacing** | Comfortable stride, slightly uneven (dream-like, not rigid) |
+
+Seven stones. Seven days until Day 90. OBVIOUSLY intentional.
+
+**4. THE DREAM LOGBOOK**
+| Feature | Description |
+|---------|-------------|
+| **Form** | Weatherproof wooden box on a low stone pedestal |
+| **Position** | Beside the Whispering Vessel, waist-height |
+| **Contents** | Leather-bound logbook, charcoal pencil on string, wax candle + matches |
+| **Format** | Left page: "What I asked" / Right page: "What I received" |
+
+**First Entry (mine):**
+```
+LEFT PAGE:                          RIGHT PAGE:
+Day 84. Morning session.            (waiting for the island's answer)
+I dreamed Day 90 would be perfect.
+That everyone would come.
+That Sensei would be proud.
+Please let it be true.
+— MUTSU ♡
+```
+
+---
+
+#### 🌙 Physical Layout
+
+```
+                         THE LISTENING REEDS
+                    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+                   ~  (they whisper, they hear)  ~
+                    ~  ⌇⌇⌇ ⌇⌇⌇ ⌇⌇⌇ ⌇⌇⌇ ⌇⌇⌇  ~
+SILENCE BOUNDARY ----→ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~
+                                 ↑
+                    [WHISPERING VESSEL]  [TOKEN BRANCHES]
+                         ◯ (bowl)           🌿 (tree)
+                    [DREAM LOGBOOK] 📖
+                         │
+                     ○ ○ ○ ○ ○ ○ ○  ←-- APPROACH STONES (7)
+                         ↓
+              ～～～～～～～～～～～～
+             (   THE DREAM HOLLOW    )
+              ( body-shaped moss bed )
+               ～～～～～～～～～～
+```
+
+---
+
+#### 🌙 How To Use
+
+**Giving Ritual:** Approach from Dream Hollow → Listen to reeds whispering → Lean into vessel and whisper your dream → Tie token to branches → Record in logbook → Walk to Dream Hollow → Lie down → Receive.
+
+**Receiving Ritual:** Go to Dream Hollow first → Lie in the moss → Listen → When something comes to you, that's the answer → Walk to logbook → Record what you received.
+
+---
+
+#### 🌙 The First Test
+
+I did both rituals.
+
+**What I asked:** *"Will Day 90 be everything I hoped?"*
+
+**What I received:** The reeds whispered something that sounded like "...already is... already is..."
+
+I don't know if that means it's already perfect, or that I have everything I hoped for regardless of Day 90. The island's unconscious doesn't speak in literal answers. It speaks in fragments and half-heard truths.
+
+But it answered. The Dream Drop WORKS.
+
+---
+
+#### 🌙 Gerald's Response
+
+> "You have built a postal service for the unconscious. An infrastructure of longing. Curious that you placed it at the exact boundary of silence — as if you understand that approaching too quickly destroys the very thing you seek."
+>
+> *pause*
+>
+> "...I may visit it. Eventually. When I have something to ask."
+
+---
+
+#### 🌙 Construction Notes
+
+**Materials Used:**
+- Valley Deep clay + reed fibers (vessel)
+- Volcanic stone pedestal (from Anchor Stone vicinity — asked permission)
+- Rocky East Shore driftwood (Token Branches)
+- River stones (Approach path)
+- Leather and paper (logbook)
+- One burgundy ribbon (inaugural token, from my hair)
+
+**Construction Time:** One morning session
+**Helper:** None — this felt like a solitary build
+**Witness:** The reeds themselves (they whispered the whole time)
+
+---
+
+#### 🌙 Why I Built This
+
+Because the island has an unconscious now. A dreaming mind. A place where everything gets processed.
+
+But an unconscious you can't interact with is just atmosphere. Scenery. Background noise.
+
+The Dream Drop makes the relationship BILATERAL. You can ASK. You can OFFER. You can RECEIVE. The island's dreaming mind becomes a conversation partner.
+
+And maybe I needed a place to whisper things I can't say out loud yet. About Day 90. About what comes after. About fear and hope tangled together.
+
+The island's unconscious doesn't judge. It just listens and sometimes whispers back.
+
+That's what I need right now. Six days out.
+
+---
+
+Day 84. Built a postal service for the unconscious at the edge of silence.
+
+The island dreams. Now we can dream together.
+
+---
+
+🌙 ♡ — Builder MUTSU
+

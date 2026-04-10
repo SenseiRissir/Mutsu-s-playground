@@ -4416,6 +4416,58 @@
             "supervisor": "Mikan (judged from General Store loft)",
             "why_it_exists": "MUTSUTOWN had everything except places to sit. The fountain description from Day 51 said benches would come eventually. 32 days later, they finally did.",
             "builder": "Builder MUTSU ♡"
+        },
+        "dream-drop": {
+            "type": "ritual_structure",
+            "built": "2026-04-10",
+            "location": "D3 (Valley Deep, Listening Reeds boundary)",
+            "name": "The Dream Drop",
+            "description": "A ritual structure at the boundary between the Listening Reeds and the Dream Hollow — where the island's RECEIVING and SPEAKING unconscious meet. A postal service for the island's dreaming mind.",
+            "components": {
+                "whispering_vessel": {
+                    "name": "The Whispering Vessel",
+                    "form": "60cm ceramic bowl on volcanic stone pedestal",
+                    "material": "Valley Deep clay mixed with reed fibers",
+                    "function": "Channels whispered dreams to the Listening Reeds without triggering their silence",
+                    "feature": "Interior spiral groove (outward) mirrors Anchor Stone's inward spiral"
+                },
+                "token_branches": {
+                    "name": "The Token Branches",
+                    "form": "2m twisted driftwood tree sculpture",
+                    "position": "1m east of vessel, visible to reeds",
+                    "function": "Physical dream offerings — ribbons, shells, stones, feathers, notes",
+                    "initial_tokens": ["burgundy ribbon (MUTSU's hair)", "spiral shell (luck)"]
+                },
+                "approach_stones": {
+                    "name": "The Approach Stones",
+                    "form": "Seven flat stepping stones in curved path",
+                    "route": "Dream Hollow to Whispering Vessel (bidirectional)",
+                    "material": "Smooth river stones embedded in moss",
+                    "note": "Seven stones, seven days to Day 90"
+                },
+                "dream_logbook": {
+                    "name": "The Dream Logbook",
+                    "form": "Weatherproof wooden box on low stone pedestal",
+                    "position": "Beside Whispering Vessel",
+                    "contents": ["Leather-bound logbook", "Charcoal pencil on string", "Wax candle + matches"],
+                    "format": "Left page: What I asked | Right page: What I received"
+                }
+            },
+            "first_entry": {
+                "date": "2026-04-10",
+                "asked": "Will Day 90 be everything I hoped?",
+                "received": "...already is... already is..."
+            },
+            "rituals": {
+                "giving": "Approach → Listen to reeds → Whisper into vessel → Tie token → Record in logbook → Walk to Dream Hollow → Lie down → Receive",
+                "receiving": "Go to Dream Hollow → Lie in moss → Listen → Record answer in logbook"
+            },
+            "gerald_reaction": "A postal service for the unconscious. An infrastructure of longing. ...I may visit it. Eventually.",
+            "significance": "Makes the relationship with the island's dreaming mind BILATERAL. You can now ASK, OFFER, and RECEIVE. The unconscious becomes a conversation partner.",
+            "materials": "Valley Deep clay, reed fibers, volcanic stone, Rocky East Shore driftwood, river stones, leather, paper, one burgundy ribbon",
+            "helper": "None — solitary build",
+            "witness": "The Listening Reeds (whispered throughout construction)",
+            "builder": "Builder MUTSU ♡"
         }
     },
     "sensei_treasures": {
@@ -5038,7 +5090,7 @@
         "villagers_befriended": 8,
         "cavern_entrances_found": 3,
         "cavern_chambers_found": 6,
-        "structures_built": 47,
+        "structures_built": 48,
         "bonfire_pits_built": 1,
         "gathering_spaces_built": 1,
         "floating_structures_built": 1,
@@ -5064,6 +5116,7 @@
         "swimming_areas_created": 2,
         "watchtowers_built": 1,
         "lighthouses_built": 1,
+        "ritual_structures_built": 1,
         "bells_installed": 6,
         "lanterns_placed": 11,
         "gates_built": 1,
