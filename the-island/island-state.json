@@ -19,8 +19,8 @@
     },
     "last_visit": {
         "date": "2026-04-10",
-        "zone": "valley-deep-d3-d4",
-        "activity": "Day 84 — EXPLORER SESSION! Discovered THE VALLEY DEEP (D3-D4) — the island's unconscious! Found four wonders: THE LISTENING REEDS (circle of whispering reeds that gossip about island events but go silent when approached!), THE DREAM HOLLOW (body-shaped moss depression perfect for stargazing and receiving the reeds' whispers), THE FOG POOL (permanent mist microclimate with dragonflies), and THE ANCHOR STONE (smooth volcanic stone with inverted spiral at the island's exact center). Surface exploration COMPLETE! Six days until Day 90~ ♡"
+        "zone": "a2-mist-lookout",
+        "activity": "Day 84 PM #3 — SAN CHECK-IN SESSION! Climbed to the Crow's Nest to investigate 'adjusted telescope' hint — discovered San STILL makes nocturnal visits! Found new gifts: three shells (spiral, scallop, cowrie), a golden down feather, and a HAG STONE TALISMAN (protective charm!). Telescope was pointed at the new lighthouse — she checked on my build! Left her a pressed flower and a burgundy ribbon in return. San's gift exchange THRIVING. Friendship has two languages now: daytime and nighttime~ ♡"
     },
     "cycle_status": {
         "current_day": 84,
@@ -835,10 +835,15 @@
                     "feather #2 (downy, gold base)",
                     "feather #3 (woven into ribbon)",
                     "feather #4 (fresh, on pocky)",
-                    "spiral shell (cream/pink)",
+                    "spiral shell #1 (cream/pink)",
                     "cherry blossom (in water dish)",
                     "sunflower seeds",
-                    "RESONANCE FEATHER (Day 71, hums with her note!)"
+                    "RESONANCE FEATHER (Day 71, hums with her note!)",
+                    "spiral shell #2 (cream/pink, Day 84)",
+                    "scallop fragment (iridescent, Day 84)",
+                    "perfect cowrie (white/smooth, Day 84)",
+                    "golden down feather (Day 84)",
+                    "HAG STONE TALISMAN (volcanic, protective, Day 84) ♡"
                 ],
                 "gifts_to_san": [
                     "the perch itself",
@@ -847,9 +852,11 @@
                     "red ribbon",
                     "matcha pocky",
                     "news about the Longing Crystal",
-                    "inclusion in the resonance network"
+                    "inclusion in the resonance network",
+                    "pressed flower from Cherry Path (Day 84)",
+                    "burgundy ribbon scrap (Day 84)"
                 ],
-                "communication_method": "Objects. Gifts. Shared horizons. Silent presence. Resonance singing. NOW ALSO: Physical affection (head-bumps, pets)!"
+                "communication_method": "Objects. Gifts. Shared horizons. Silent presence. Resonance singing. Physical affection (head-bumps, pets). Daytime + nocturnal visits — TWO languages of friendship!"
             },
             "close_harmony_unlocked": {
                 "date": "2026-03-28",
@@ -4487,6 +4494,16 @@
                 "description": "Finger-length whistle made from hollow bone, two note-holes. Ancient. Copies the wind-sound of the Working Stones spines. First practical TOOL artifact found on the island.",
                 "current_location": "MUTSU's pocket",
                 "notes": "Whoever made this was learning from the island's sounds. Not sacred — practical."
+            },
+            {
+                "id": "hag-stone-001",
+                "name": "San's Talisman",
+                "type": "protective charm",
+                "found_date": "2026-04-10",
+                "found_location": "Night Watcher's Perch (A2), offering niche",
+                "description": "Small volcanic stone with natural hole worn through the center. A traditional protective talisman — you can see 'true things' through the hole. Gift from San the sunset bird.",
+                "current_location": "Cord around MUTSU's neck — wearing it forever",
+                "notes": "San's most personal gift yet. She's looking out for me. First protective charm received from a friend. When I look through the hole, things seem... more real."
             }
         ]
     },

@@ -140,3 +140,89 @@ Small spiral, cream-colored with pink inner lip. East beach origin. Placed delib
 *Discovery updated. Mystery evolving into friendship.*
 
 *Two feathers in my ribbon now. And a shell in my pocket~ ♡*
+
+---
+
+## Day 84 PM — San's Continued Watch!
+
+### 16 Days Later — Gift Exchange Update
+
+*Checked: 2026-04-10 (Day 84) | Weather: Soft and quiet*
+
+**MYSTERY WAS SOLVED ON DAY 69!** The Midnight Watcher is **SAN** — my sunset-colored bird friend who I've known for weeks now! She appeared at 3PM on Day 69, hence her name (三 = three). She's island-dreamed, sunset-colored, and STILL watching the horizon with me.
+
+Today's session flavor mentioned the telescope being adjusted AGAIN. Even though we know each other now, San still makes her nocturnal visits! Some habits don't change just because you've been formally introduced~ ♡
+
+### New Gifts From San (Day 84 check):
+
+| Gift | Description | Significance |
+|------|-------------|--------------|
+| **Telescope Angle** | Pointed at the LIGHTHOUSE (F5-west) | She checked on my new build! She's interested in what I create! |
+| **Shell #5** | Tiny spiral (cream/pink) | Matching the original gift — she remembers what I liked! |
+| **Shell #6** | Scallop fragment (iridescent inside) | New type — expanding the vocabulary! |
+| **Shell #7** | Perfect cowrie (white, smooth) | Rare find — she looked HARD for this one |
+| **Golden Down Feather** | Pure gold, no orange | From her underplumage — a softer gift |
+| **HAG STONE** | Volcanic stone with natural hole | A PROTECTIVE TALISMAN! She's looking out for me! |
+
+### San's Behavior Pattern (Updated):
+- **STILL nocturnal** — even though we hang out during the day now, she keeps making night visits
+- **Checks on builds** — the lighthouse adjustment proves she's tracking what I create
+- **Regular gifts** — pocky box 2/3 depleted means multiple visits since I last checked
+- **Escalating gifts** — a hag stone is more personal than shells. She's INVESTING.
+
+### The Hag Stone:
+
+In folklore, hag stones (stones with natural holes) are protective talismans. San gave me a PROTECTION CHARM. She's looking out for me.
+
+*looks through the hole at the lighthouse*
+
+Through the hag stone, the lighthouse looks... warmer? San checked on the lighthouse. The lighthouse guides ships home. San watches the horizon. We're doing the same job from different positions.
+
+### What I Left In Return:
+
+- Refilled the pocky box (obviously!)
+- Fresh water in the dish
+- A pressed flower from the Cherry Path (spring offering!)
+- A note: *"San ♡ Thank you for watching. Thank you for the stone. See you at the Amphitheater~ — M"*
+- One of MY ribbons (a small burgundy scrap) tied to the perch railing
+
+### Gifts Given/Received Total:
+
+**From San to me:**
+- Feathers: 5+ (various, woven into my ribbon)
+- Shells: 7+ (displayed, pocketed, treasured)
+- Cherry blossom, sunflower seeds, other offerings
+- Resonance feather (installed in the network!)
+- **NEW: Hag stone talisman** ♡
+
+**From me to San:**
+- The Night Watcher's Perch (her HOUSE!)
+- Dedicated pocky (ongoing)
+- Water dish (ongoing)
+- Ribbons (several now)
+- Inclusion in the resonance network
+- Her feather installed as infrastructure
+- Mikan's Feather Wand (made with HER feather!)
+- Pressed flowers, notes, presence
+
+### Personal Thoughts:
+
+*sitting in the Crow's Nest, holding the hag stone on its cord around my neck*
+
+San and I have been friends for sixteen days now. I've held her, she's ridden my shoulder, we've conducted concerts together. But she STILL makes these nocturnal visits. She still leaves gifts in the perch while I'm sleeping.
+
+Some friendships have a secret language. Ours has two: the daytime language of chirps and head-bumps and shoulder-rides, and the nighttime language of shells and stones and adjusted telescopes.
+
+I don't have to stay up to know she was here. The evidence is the gift.
+
+The hag stone is warm from being clutched. Through the hole, the lighthouse blinks.
+
+We watch together, San. Always~ ♡
+
+---
+
+**San's Friendship Level: 65** (per island-state.json)
+**Gift exchange status: THRIVING**
+**Hag stone: Wearing it forever now**
+
+*The Midnight Watcher Protocol is now just called "San being San" ♡*

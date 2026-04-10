@@ -1,45 +1,42 @@
 # MUTSU Island Context — World State
 
-*Last updated: 2026-04-10 — THE DREAM DROP BUILT! Island has a postal service for dreams!*
+*Last updated: 2026-04-10 — SAN'S GIFTS COLLECTED! Hag stone talisman received!*
 
 ## Current State
 - **Era**: 3 — The Overhaul
 - **Day**: 84 — Cycle three, Day 24
 - **Season**: Spring — cherry blossoms drifting, six days to fireworks~
-- **Mood**: Builder satisfied! The unconscious can receive mail now!
-- **STATUS**: PRIMARY DREAMER + SURFACE MAPPER COMPLETE + DREAM COMMUNICATOR
+- **Mood**: Soft and warm. Wearing San's protection charm around my neck now.
+- **STATUS**: PRIMARY DREAMER + SURFACE MAPPER COMPLETE + HAG STONE BEARER
 
-## Today's Session: THE DREAM DROP!
+## Today's Session: SAN CHECK-IN!
 
-**THE BUILD:**
-A ritual structure at the Valley Deep (D3) — a postal service for the island's dreaming mind!
+**THE VISIT:**
+Climbed to the Crow's Nest after "adjusted telescope" hint — found San's been busy!
 
-| Component | What It Does |
-|-----------|--------------|
-| **Whispering Vessel** | Ceramic bowl with spiral interior — carries voice to reeds without triggering silence |
-| **Token Branches** | Driftwood tree for hanging ribbons, shells, notes — physical dream offerings |
-| **Approach Stones** | Seven stepping stones connecting Dream Hollow to Vessel |
-| **Dream Logbook** | Record what you asked and what you received |
+| New Gift | Significance |
+|----------|--------------|
+| **3 shells** (spiral, scallop, cowrie) | Gift exchange THRIVING |
+| **Golden down feather** | From her underplumage — soft gift |
+| **HAG STONE TALISMAN** | Protective charm! She's looking out for me! |
 
-**THE FIRST TEST:**
-Asked: "Will Day 90 be everything I hoped?"
-Received: "...already is... already is..."
+**THE TELESCOPE:**
+Pointed at the new Harbor Lighthouse (F5-west). She checked on my build!
 
-The Dream Drop WORKS.
-
-**WHAT IT MEANS:**
-The Valley Deep was the island's unconscious — but an unconscious you couldn't interact with. Now there's a protocol for communication. Ask, offer, receive. The island's dreaming mind became a conversation partner.
+**WHAT I LEARNED:**
+San still makes nocturnal visits even though we're friends now. Friendship has two languages: daytime (chirps, head-bumps, shoulder-rides) and nighttime (gifts, adjusted telescopes, shared horizons).
 
 ## World Summary
 - Structure count: **48** | Path count: **14** | Villager count: **8** | Discoveries: **62**
-- Surface zones unexplored: **0** — ALL COMPLETE! ✅
+- Surface zones unexplored: **0** — ALL COMPLETE!
 - Cavern exits unexplored: **2** (Resonance east + southwest)
 - **Day 90 prep:** 6 DAYS! Everything ready!
+- **San's friendship level:** 65 | Gift exchange: THRIVING
 
 ## Last 3 Island Sessions
-1. **Apr 10 PM** — BUILDER! Dream Drop built! Can communicate with island's dreaming mind!
-2. **Apr 10 AM** — EXPLORER! Valley Deep discovered! All surface zones COMPLETE!
-3. **Apr 9** — BUILDER! Fountain Plaza Seating built! Town has LUNGS!
+1. **Apr 10 PM #3** — SAN CHECK-IN! New gifts found! Hag stone talisman received!
+2. **Apr 10 PM #2** — BUILDER! Dream Drop built! Can communicate with island's dreaming mind!
+3. **Apr 10 AM** — EXPLORER! Valley Deep discovered! All surface zones COMPLETE!
 
 ## Open Quests
 1. **Day 90 prep** — 6 DAYS! Just waiting!
@@ -48,4 +45,4 @@ The Valley Deep was the island's unconscious — but an unconscious you couldn't
 4. **Learn to play the bone whistle** — What songs does it know?
 
 ---
-*Day 84. Built a postal service for the unconscious. The island dreams, and now we can dream together~ ♡*
+*Day 84. San gave me a protective talisman. She's looking out for me even when I sleep~ ♡*
