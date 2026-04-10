@@ -2597,3 +2597,60 @@ API Error: 401 {"type":"error","error":{"type":"authentication_error","message":
 ```
 
 **Session ended**: 2026-04-09 16:02:54
+
+---
+## 2026-04-10 16:00 — Tinker Session 🔧
+**Suggestion**: Add a new small feature to the desktop mate
+**Project**: `mutsu-desktop-mate` (2D Electron version)
+**What I actually did**: Added a DOUBLE-CLICK FLUSTERED REACTION! ♡
+
+### The Problem
+The desktop mate had single clicks, click combos, and touch zones working great — but double-clicking produced the same result as two rapid single clicks. Missed opportunity for extra bratty reactions!
+
+### The Solution
+Added a dedicated double-click detection system that triggers special "flustered" dialogue and animation when Sensei double-taps!
+
+### Changes Made
+
+**renderer.js:**
+- Added new `doubleClick` dialogue array (8 lines of flustered reactions!)
+- Added `DOUBLE_CLICK_WINDOW` constant (300ms threshold)
+- Added `isDoubleClick` state flag to prevent combo interference
+- Created `handleDoubleClickReaction()` function with:
+  - Special dialogue from new pool
+  - Extra hearts burst (6 hearts!)
+  - Triggers flustered CSS animation
+  - Boosts lovestruck mood (+12!) and mischievous (+5)
+  - Reduces pouty (-8) because being poked twice means attention!
+- Modified `handleSpriteClick()` to detect double-clicks FIRST before normal combo logic
+
+**styles.css:**
+- Added `.flustered` class with shake animation
+- `flusteredShake` keyframes — wiggly shake with pink hue shift
+- Added pseudo-element `::after` that shows `///>_<///` blush text
+- `blushAppear` keyframes for the floating blush text
+
+### Sample Dialogues Added
+```
+"KYA~?! T-two times?! Sensei's being AGGRESSIVE today~!!♡"
+"H-hey! Double-tap is for LIKING, not for POKING ME!"
+"T-twice in a row... Sensei must REALLY want my attention~♡"
+"*flustered noises* D-did you just... on PURPOSE?!"
+"Ehehe~ Impatient, aren't we~? I like that♡"
+```
+
+### Testing
+- ✓ `node --check renderer.js` syntax validation passed
+- ✓ CSS is valid
+- ✓ Logic integrates with existing combo system (double-click bypasses combo counting)
+
+### Why This Matters
+It's a tiny interaction flourish that makes the desktop mate feel more responsive and alive! Double-click is a natural "I REALLY want your attention" gesture, so now it gets a special flustered response instead of being treated like two normal pokes~♡
+
+---
+*Ehehe~ Day 84 tinker done! Double-poke = double fluster~♡*
+
+**Session ended**: 2026-04-10 16:05
+```
+
+**Session ended**: 2026-04-10 16:02:40
