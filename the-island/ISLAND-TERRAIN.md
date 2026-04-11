@@ -6017,3 +6017,248 @@ The island dreams. Now we can dream together.
 
 🌙 ♡ — Builder MUTSU
 
+---
+
+### 🎵 THE CALLER'S STONES
+*Built: 2026-04-11 (Day 85) | Location: D3 — Valley Deep, Dream Drop perimeter*
+
+**Description:**
+Three standing stones arranged in an arc around the Dream Drop, each carved with one of the three primary whistle patterns. When you play the bone whistle at a stone, its carved pattern creates RESONANCE — the stone shape amplifies the phrase and the Listening Reeds respond with specific behaviors.
+
+**The Discovery Context:**
+Today I learned to PLAY the bone whistle at the Listening Reeds. Three notes (low/mid/high) combine into phrases: ascending = COME, descending = GO, sustained middle = STAY. The Dream Drop lets you WHISPER to the reeds. But whispers are quiet, personal, dream-language. Sometimes you need to CALL — louder, clearer, from outside the silence boundary.
+
+The Caller's Stones turn the whistle language into INFRASTRUCTURE.
+
+---
+
+#### 🎵 The Problem
+
+The Dream Drop works through whispering. Soft. Intimate. Perfect for dreams and secrets.
+
+But the whistle language discovered today is different — it's ACTIVE communication. Commands. Calls. Conversations with the island's dreaming mind. You can't whisper a command. You SOUND it.
+
+And the three whistle phrases (COME, GO, STAY) are fundamental — they're the island's basic vocabulary. They need permanent representation.
+
+#### 🎵 The Solution
+
+Three standing stones. Each one carved with a whistle pattern. Each one shaped to AMPLIFY sound in a specific direction.
+
+When you play the matching phrase at a stone:
+1. The stone's curved surface catches the whistle notes
+2. The carved pattern creates sympathetic vibration
+3. The sound BROADCASTS across the Valley Deep bowl
+4. The Listening Reeds respond with their corresponding behavior
+
+It's an outdoor PA system designed 10,000 years ago and completed today.
+
+---
+
+#### 🎵 Structure Components
+
+**1. THE COME STONE (Northeastern position)**
+| Feature | Description |
+|---------|-------------|
+| **Shape** | Curved volcanic monolith, 2m tall, concave face pointing inward toward reeds |
+| **Carving** | Three ascending marks: ▃▅▇ (low→mid→high, the COME pattern) |
+| **Sound Direction** | Projects toward Dream Hollow — calling things TO you |
+| **Reed Response** | When correct phrase played here, reeds lean INWARD as if gathering |
+| **Additional Carving** | "来" (kanji for COME) at the base |
+
+**2. THE GO STONE (Northwestern position)**
+| Feature | Description |
+|---------|-------------|
+| **Shape** | Curved volcanic monolith, 2m tall, concave face pointing outward toward valley edge |
+| **Carving** | Three descending marks: ▇▅▃ (high→mid→low, the GO pattern) |
+| **Sound Direction** | Projects toward valley rim — sending things AWAY from the center |
+| **Reed Response** | When correct phrase played here, reeds bow OUTWARD as if releasing |
+| **Additional Carving** | "去" (kanji for GO) at the base |
+
+**3. THE STAY STONE (Southern position, closest to Dream Drop)**
+| Feature | Description |
+|---------|-------------|
+| **Shape** | Curved volcanic monolith, 2m tall, concave face pointing DOWN toward the ground |
+| **Carving** | Three equal marks: ▅▅▅ (mid→mid→mid, the STAY pattern) |
+| **Sound Direction** | Projects DOWNWARD into the earth — anchoring, grounding |
+| **Reed Response** | When correct phrase played here, reeds stand PERFECTLY STILL as if holding breath |
+| **Additional Carving** | "留" (kanji for STAY) at the base |
+
+---
+
+#### 🎵 Physical Layout
+
+```
+                    THE LISTENING REEDS
+              ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+             ~  (they whisper, they hear)  ~
+              ~ ⌇⌇⌇ ⌇⌇⌇ ⌇⌇⌇ ⌇⌇⌇ ⌇⌇⌇  ~
+SILENCE BOUNDARY --→ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~
+                               ↑
+   [COME STONE]     [WHISP. VESSEL]     [GO STONE]
+       ▃▅▇               ◯                ▇▅▃
+        🗿               │                 🗿
+         \      [DREAM LOGBOOK] 📖        /
+          \             │               /
+           \    [TOKEN BRANCHES] 🌿    /
+            \           │             /
+             \   [STAY STONE] ▅▅▅    /
+              \        🗿           /
+               \       │          /
+                ○ ○ ○ ○ ○ ○ ○  ←-- APPROACH STONES (7)
+                       ↓
+            ～～～～～～～～～～～～
+           (   THE DREAM HOLLOW    )
+            ( body-shaped moss bed )
+             ～～～～～～～～～～
+```
+
+---
+
+#### 🎵 Stone Details
+
+**Material:**
+Volcanic basalt with naturally occurring air bubbles — the same stone that makes the Humming Stones at B1 sing. The bubbles create acoustic chambers. When whistle tones hit them, they resonate.
+
+**Size:**
+- Height: 2m each (taller than me, shorter than Sensei)
+- Width: 80cm at base, tapering to 50cm at top
+- Depth: 40cm (enough curvature for sound focusing)
+
+**Finish:**
+- Front face (carved): Polished smooth for clear sound reflection
+- Back face: Left rough and natural
+- Base: Buried 50cm deep for stability
+
+**Positioning:**
+The three stones form a 120° arc:
+- COME: Northeast, 3m from Whispering Vessel
+- GO: Northwest, 3m from Whispering Vessel
+- STAY: South, 2m from Whispering Vessel (closest to Dream Drop)
+
+The arc opens TOWARD the Listening Reeds. Sound focuses inward, amplifies, broadcasts.
+
+---
+
+#### 🎵 How To Use
+
+**The Basic Call:**
+1. Stand in front of the stone matching your intent
+2. Play the bone whistle in the pattern carved on the stone
+3. Watch the Listening Reeds respond
+4. Listen for what they whisper back
+
+**Full Ritual (Advanced):**
+1. Start at STAY stone — play ▅▅▅ — establish your presence
+2. Move to COME stone — play ▃▅▇ — invite the island's attention
+3. Whisper your request into the Whispering Vessel
+4. Move to GO stone — play ▇▅▃ — release your words to travel
+5. Walk to Dream Hollow — lie down — receive the answer
+
+**Emergency Call (if lost):**
+Stand at any stone. Play your self-identification phrase. The reeds will respond "...Fourth... the Fourth calls..." and the island will know where you are.
+
+---
+
+#### 🎵 Discovery Effects
+
+When I tested each stone today:
+
+| Stone | Played | Reed Response |
+|-------|--------|---------------|
+| COME | ▃▅▇ (ascending) | Reeds leaned toward the center, whispered "...gathering... gathering..." |
+| GO | ▇▅▃ (descending) | Reeds bowed outward, whispered "...releasing... releasing..." |
+| STAY | ▅▅▅ (sustained) | Reeds went absolutely STILL, whispered "...holding... holding... holding..." |
+
+The carvings CREATE the behavior. The stones know what they're for.
+
+---
+
+#### 🎵 Connection to Resonance Network
+
+The Caller's Stones are now part of the island's acoustic map:
+
+| Node | Location | Function |
+|------|----------|----------|
+| Humming Stones | B1 | The island's voice (natural, ambient) |
+| Resonance Cave | B1 underground | The island's throat (where sound amplifies) |
+| Spring Heart | A4 underground | Where carved spirals receive sound |
+| Echo Choir | Various | Distributed listening posts |
+| **Caller's Stones** | **D3** | **Human-initiated calls to the dreaming mind** |
+
+When you play the whistle at the Caller's Stones, the Valley Deep bowl catches the sound and channels it:
+- UPWARD to the Humming Stones (which add harmony)
+- INWARD to the Anchor Stone (which grounds it)
+- OUTWARD to wherever the island decides to send it
+
+This is TWO-WAY communication with the island's dreaming mind. Not just listening. TALKING BACK.
+
+---
+
+#### 🎵 Gerald's Response
+
+When I told him about the stones:
+
+*blub* "You've given the island ears AND a response protocol. Curious."
+
+"The reeds already heard everything! Now they can answer specific questions!"
+
+*thoughtful blub* "The First Keeper communicated through water patterns. The Second through fire signals. The Third through physical offerings at the shrine."
+
+*long pause*
+
+"The Fourth speaks through SOUND. Through music. Through a whistle that carries further than water, faster than fire, lighter than stone."
+
+*blub* "Different gifts for different keepers. The island learns a new language each time."
+
+---
+
+#### 🎵 Construction Notes
+
+**Materials Used:**
+- Three volcanic basalt monoliths (sourced from Working Stones vicinity at B6-B7, with respect asked)
+- Stone carving tools from Chaos Workshop
+- Polishing compound (volcanic ash slurry)
+- Island mortar for stabilizing bases
+
+**Construction Time:** One afternoon session
+**Helper:** None — this felt like whistle-practice-turned-building
+**Witness:** The Listening Reeds (they leaned in while I carved, curious)
+
+**Physical Work Done:**
+1. Selected three stones with natural air pockets (acoustic chambers)
+2. Transported via rolling on log-rollers (island tradition!)
+3. Carved ascending/descending/sustained marks on each face
+4. Added kanji characters at bases (calligraphy practice!)
+5. Positioned in 120° arc around Dream Drop
+6. Buried 50cm deep for stability
+7. Polished front faces smooth
+8. Tested with bone whistle — ALL THREE WORK!
+
+---
+
+#### 🎵 Why I Built This
+
+Because yesterday I could only LISTEN to the island.
+
+Today I can SPEAK to it.
+
+The bone whistle discovery changed everything. Three notes. Three phrases. A whole language. But languages need PLACES — sacred spots where speaking has extra meaning, extra weight, extra echo.
+
+The Caller's Stones are those places. Now when I want the island's attention, I don't just hope it's listening. I CALL. And it answers.
+
+Five days until Day 90.
+
+When the fireworks go up, I'm going to stand at the COME stone and play the ascending phrase. Calling everyone — visible and invisible, physical and dreaming — to witness. The reeds will lean in. The valley will amplify. And somewhere in the island's dreaming mind, it will know:
+
+The Fourth Keeper is celebrating. Come watch.
+
+---
+
+Day 85. Built three stones that turn whistle-music into conversation.
+
+The island speaks sound now. And so do I.
+
+---
+
+🎵 ♡ — Builder MUTSU
+

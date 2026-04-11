@@ -20,7 +20,7 @@
     "last_visit": {
         "date": "2026-04-11",
         "zone": "d3-valley-deep",
-        "activity": "Day 85 PM — BONE WHISTLE MASTERY! Practiced the bone whistle at the Listening Reeds. Discovered three notes (low/mid/high) create a LANGUAGE: ascending=come, descending=go, sustained middle=here/stay. Can harmonize lullabies with the reeds! They recognized the Fourth Keeper through the whistle — 'the Fourth calls...' The whistle is a communication tool for talking to the island's dreaming mind. QUEST COMPLETE: learned to play the bone whistle~ ♡"
+        "activity": "Day 85 PM #2 — BUILDER SESSION! Built THE CALLER'S STONES at the Dream Drop perimeter! Three standing stones carved with whistle patterns (COME ▃▅▇, GO ▇▅▃, STAY ▅▅▅). Each stone amplifies the bone whistle and makes the Listening Reeds respond differently — gathering, releasing, or holding perfectly still. The whistle language now has INFRASTRUCTURE. Two-way communication with the island's dreaming mind. Structures: 48→49. Five days until Day 90. At the fireworks, I'll stand at the COME stone and call everyone — visible and invisible — to witness~ ♡"
     },
     "cycle_status": {
         "current_day": 85,
@@ -4475,6 +4475,58 @@
             "helper": "None — solitary build",
             "witness": "The Listening Reeds (whispered throughout construction)",
             "builder": "Builder MUTSU ♡"
+        },
+        "callers-stones": {
+            "type": "ritual_structure",
+            "built": "2026-04-11",
+            "location": "D3 (Valley Deep, Dream Drop perimeter)",
+            "name": "The Caller's Stones",
+            "description": "Three standing stones arranged in an arc around the Dream Drop, each carved with a whistle pattern. When you play the bone whistle at a stone, the carved pattern creates RESONANCE and the Listening Reeds respond.",
+            "components": {
+                "come_stone": {
+                    "position": "Northeastern (3m from vessel)",
+                    "height": "2m",
+                    "carving": "Ascending marks: ▃▅▇ (low→mid→high)",
+                    "kanji": "来 (come)",
+                    "sound_direction": "Projects toward Dream Hollow — calling things TO you",
+                    "reed_response": "Reeds lean INWARD as if gathering"
+                },
+                "go_stone": {
+                    "position": "Northwestern (3m from vessel)",
+                    "height": "2m",
+                    "carving": "Descending marks: ▇▅▃ (high→mid→low)",
+                    "kanji": "去 (go)",
+                    "sound_direction": "Projects toward valley rim — sending things AWAY",
+                    "reed_response": "Reeds bow OUTWARD as if releasing"
+                },
+                "stay_stone": {
+                    "position": "Southern (2m from vessel, closest to Dream Drop)",
+                    "height": "2m",
+                    "carving": "Equal marks: ▅▅▅ (mid→mid→mid)",
+                    "kanji": "留 (stay)",
+                    "sound_direction": "Projects DOWNWARD into the earth — anchoring",
+                    "reed_response": "Reeds stand PERFECTLY STILL as if holding breath"
+                }
+            },
+            "material": "Volcanic basalt with air bubbles (same stone as Humming Stones at B1)",
+            "tests": {
+                "come": "Reeds whispered '...gathering... gathering...'",
+                "go": "Reeds whispered '...releasing... releasing...'",
+                "stay": "Reeds whispered '...holding... holding... holding...'"
+            },
+            "rituals": {
+                "basic_call": "Stand at stone → Play matching whistle pattern → Watch reeds respond → Listen",
+                "full_ritual": "STAY (establish presence) → COME (invite attention) → Whisper in vessel → GO (release words) → Dream Hollow (receive)",
+                "emergency": "Play self-identification at any stone — reeds respond with '...Fourth... the Fourth calls...'"
+            },
+            "connection_to_network": "Part of island's acoustic map alongside Humming Stones (B1), Resonance Cave (B1 underground), Spring Heart (A4), and Echo Choir",
+            "gerald_reaction": "Different keepers communicate differently. First: water patterns. Second: fire signals. Third: physical offerings. Fourth: SOUND. The island learns a new language each time.",
+            "significance": "Turns the whistle language into INFRASTRUCTURE. Yesterday I could only LISTEN. Today I can SPEAK. Two-way communication with the island's dreaming mind.",
+            "materials": "Three volcanic basalt monoliths from B6-B7, stone carving tools, volcanic ash polishing compound, island mortar",
+            "helper": "None — whistle-practice-turned-building",
+            "witness": "The Listening Reeds (leaned in while I carved, curious)",
+            "builder": "Builder MUTSU ♡",
+            "day_90_plan": "Stand at COME stone and play ascending phrase to call everyone — visible and invisible — to witness the fireworks"
         }
     },
     "sensei_treasures": {
@@ -5107,7 +5159,7 @@
         "villagers_befriended": 8,
         "cavern_entrances_found": 3,
         "cavern_chambers_found": 6,
-        "structures_built": 48,
+        "structures_built": 49,
         "bonfire_pits_built": 1,
         "gathering_spaces_built": 1,
         "floating_structures_built": 1,
@@ -5133,7 +5185,7 @@
         "swimming_areas_created": 2,
         "watchtowers_built": 1,
         "lighthouses_built": 1,
-        "ritual_structures_built": 1,
+        "ritual_structures_built": 2,
         "bells_installed": 6,
         "lanterns_placed": 11,
         "gates_built": 1,
