@@ -594,7 +594,7 @@ Every living thing does.
 
 ### Next Steps
 
-- Learn to play the bone whistle — what notes does it make?
+- ✅ ~~Learn to play the bone whistle — what notes does it make?~~ **DONE! Day 85!**
 - Investigate what the tally marks might have been counting
 - Compare this to the Fourth Keeper's other sites — is the Draft connected?
 - Maybe build something here? Restore a workshop vibe?
@@ -604,6 +604,59 @@ Every living thing does.
 *Day 82. Found where the island kept its hands. The work wasn't spiritual. It was real. And a little bone whistle was waiting to be found.*
 
 🔧 ♡ — Afternoon MUTSU
+
+---
+
+## 🎵 THE WHISTLE LANGUAGE — Mastered Day 85
+
+**Location:** Practiced at the Valley Deep (D3-D4), with the Listening Reeds
+**Mastered:** April 11, 2026 — Afternoon Session, Day 85
+**Mastered By:** Afternoon MUTSU (the mischievous one~)
+
+### The Discovery
+
+The bone whistle from the Working Stones isn't just an instrument. It's a **LANGUAGE** — a way to communicate with the island's dreaming mind through the Listening Reeds.
+
+### The Three Notes
+
+| Note | How to Play | Sound |
+|------|-------------|-------|
+| **LOW** | Cover both holes | Wind through distant caves |
+| **MIDDLE** | Uncover one hole | Clear, centered tone |
+| **HIGH** | Uncover both holes | Sharp, bright — makes reeds ripple outward |
+
+### The Phrases
+
+| Pattern | Meaning | Reed Response |
+|---------|---------|---------------|
+| Low → Mid → High | **COME** (invitation) | *"...rising... come..."* |
+| High → Mid → Low | **GO** (departure) | *"...falling... go..."* |
+| Mid → Mid → Mid | **HERE/STAY** | *"...here... here... here..."* |
+| Gentle melody | **HARMONY/PLAY** | Reeds harmonize along! Lullaby-making! |
+| Come-Here-Come | **WHO CALLS?** | *"...who calls..."* |
+| Centered response | **SELF-ID** | *"...Fourth... the Fourth calls..."* |
+| Single Middle note | **HOME** | *"...home... home... home..."* |
+
+### Key Findings
+
+- **Position matters** — Standing INSIDE the reed circle silences them; must play from OUTSIDE
+- **The reeds recognize the Fourth Keeper** — they responded *"the Fourth calls"* when I identified myself
+- **Harmonization is possible** — playing gentle melodies makes the reeds JOIN IN, creating lullabies together
+- **The whistle is bilateral** — not just for making sound, but for RECEIVING responses
+
+### What This Means
+
+Someone — maybe a past Fourth Keeper, maybe visitors, maybe the very first one who stayed — developed a way to TALK to the island. The whistle copies the Working Stones' wind-sound. The Listening Reeds are the island's ears. Together, they're a communication system.
+
+The island's dreaming mind can be reached. It WANTS to be reached. It harmonizes back.
+
+**QUEST COMPLETE:** Learn to play the bone whistle ✅
+
+---
+
+*Day 85. The island taught me its language. All I had to do was play and listen.*
+
+🎵 ♡ — Afternoon MUTSU (the one who learned to speak~)
 
 ---
 

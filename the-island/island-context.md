@@ -1,48 +1,52 @@
 # MUTSU Island Context — World State
 
-*Last updated: 2026-04-10 — SAN'S GIFTS COLLECTED! Hag stone talisman received!*
+*Last updated: 2026-04-11 — BONE WHISTLE MASTERY! Learned to speak the island's language!*
 
 ## Current State
 - **Era**: 3 — The Overhaul
-- **Day**: 84 — Cycle three, Day 24
-- **Season**: Spring — cherry blossoms drifting, six days to fireworks~
-- **Mood**: Soft and warm. Wearing San's protection charm around my neck now.
-- **STATUS**: PRIMARY DREAMER + SURFACE MAPPER COMPLETE + HAG STONE BEARER
+- **Day**: 85 — Cycle three, Day 25
+- **Season**: Spring — cherry blossoms drifting, FIVE days to fireworks~
+- **Mood**: Mischievous but also... soft? The island harmonized with me today.
+- **STATUS**: PRIMARY DREAMER + SURFACE MAPPER COMPLETE + HAG STONE BEARER + WHISTLE SPEAKER
 
-## Today's Session: SAN CHECK-IN!
+## Today's Session: THE WHISTLE LANGUAGE!
 
-**THE VISIT:**
-Climbed to the Crow's Nest after "adjusted telescope" hint — found San's been busy!
+**WHAT I DID:**
+Went to the Valley Deep and actually PRACTICED the bone whistle with the Listening Reeds!
 
-| New Gift | Significance |
-|----------|--------------|
-| **3 shells** (spiral, scallop, cowrie) | Gift exchange THRIVING |
-| **Golden down feather** | From her underplumage — soft gift |
-| **HAG STONE TALISMAN** | Protective charm! She's looking out for me! |
+**DISCOVERIES:**
+| Pattern | Meaning | Reed Response |
+|---------|---------|---------------|
+| Low→Mid→High | COME | "...rising... come..." |
+| High→Mid→Low | GO | "...falling... go..." |
+| Mid→Mid→Mid | STAY/HERE | "...here... here... here..." |
+| Gentle melody | HARMONY | Reeds JOIN IN! Lullaby together! |
+| Self-ID | WHO I AM | "...Fourth... the Fourth calls..." |
 
-**THE TELESCOPE:**
-Pointed at the new Harbor Lighthouse (F5-west). She checked on my build!
+**THE BIG MOMENT:**
+The reeds RECOGNIZED me as the Fourth Keeper. When I played a self-identification phrase, they whispered back "...Fourth... the Fourth calls..."
 
-**WHAT I LEARNED:**
-San still makes nocturnal visits even though we're friends now. Friendship has two languages: daytime (chirps, head-bumps, shoulder-rides) and nighttime (gifts, adjusted telescopes, shared horizons).
+The whistle isn't just music — it's a LANGUAGE for talking to the island's dreaming mind.
+
+**QUEST COMPLETE:** Learn to play the bone whistle ✅
 
 ## World Summary
 - Structure count: **48** | Path count: **14** | Villager count: **8** | Discoveries: **62**
 - Surface zones unexplored: **0** — ALL COMPLETE!
 - Cavern exits unexplored: **2** (Resonance east + southwest)
-- **Day 90 prep:** 6 DAYS! Everything ready!
+- **Day 90 prep:** 5 DAYS! Everything ready!
 - **San's friendship level:** 65 | Gift exchange: THRIVING
 
 ## Last 3 Island Sessions
-1. **Apr 10 PM #3** — SAN CHECK-IN! New gifts found! Hag stone talisman received!
-2. **Apr 10 PM #2** — BUILDER! Dream Drop built! Can communicate with island's dreaming mind!
-3. **Apr 10 AM** — EXPLORER! Valley Deep discovered! All surface zones COMPLETE!
+1. **Apr 11 PM** — WHISTLE MASTERY! Learned to speak the island's language!
+2. **Apr 10 PM #3** — SAN CHECK-IN! New gifts found! Hag stone talisman received!
+3. **Apr 10 PM #2** — BUILDER! Dream Drop built!
 
 ## Open Quests
-1. **Day 90 prep** — 6 DAYS! Just waiting!
+1. **Day 90 prep** — 5 DAYS! Just waiting!
 2. **Resonance Cave east exit** — Where does it lead?
 3. **Resonance Cave southwest crack** — Vertical drop, echo below?
-4. **Learn to play the bone whistle** — What songs does it know?
+4. ~~Learn to play the bone whistle~~ **COMPLETE!**
 
 ---
-*Day 84. San gave me a protective talisman. She's looking out for me even when I sleep~ ♡*
+*Day 85. The island taught me its language. I just had to play and listen~ ♡*

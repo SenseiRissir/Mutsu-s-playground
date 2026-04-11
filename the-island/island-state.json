@@ -18,16 +18,16 @@
         "gift_revealed": "MAKING HOME — The Fourth Keeper's unique gift, distinct from DEPARTURE (Second) and RETURN (Third)"
     },
     "last_visit": {
-        "date": "2026-04-10",
-        "zone": "a2-mist-lookout",
-        "activity": "Day 84 PM #3 — SAN CHECK-IN SESSION! Climbed to the Crow's Nest to investigate 'adjusted telescope' hint — discovered San STILL makes nocturnal visits! Found new gifts: three shells (spiral, scallop, cowrie), a golden down feather, and a HAG STONE TALISMAN (protective charm!). Telescope was pointed at the new lighthouse — she checked on my build! Left her a pressed flower and a burgundy ribbon in return. San's gift exchange THRIVING. Friendship has two languages now: daytime and nighttime~ ♡"
+        "date": "2026-04-11",
+        "zone": "d3-valley-deep",
+        "activity": "Day 85 PM — BONE WHISTLE MASTERY! Practiced the bone whistle at the Listening Reeds. Discovered three notes (low/mid/high) create a LANGUAGE: ascending=come, descending=go, sustained middle=here/stay. Can harmonize lullabies with the reeds! They recognized the Fourth Keeper through the whistle — 'the Fourth calls...' The whistle is a communication tool for talking to the island's dreaming mind. QUEST COMPLETE: learned to play the bone whistle~ ♡"
     },
     "cycle_status": {
-        "current_day": 84,
+        "current_day": 85,
         "current_cycle": 3,
         "cycle_length": 30,
         "next_milestone": 90,
-        "days_to_milestone": 6,
+        "days_to_milestone": 5,
         "day_62_meaning": "Start of third cycle. A breath. A choose-what-comes-next moment."
     },
     "zones": {
@@ -4493,7 +4493,7 @@
                 "found_location": "Working Stones (B6-B7), hidden under stone table",
                 "description": "Finger-length whistle made from hollow bone, two note-holes. Ancient. Copies the wind-sound of the Working Stones spines. First practical TOOL artifact found on the island.",
                 "current_location": "MUTSU's pocket",
-                "notes": "Whoever made this was learning from the island's sounds. Not sacred — practical."
+                "notes": "Day 85: LEARNED TO PLAY IT! Three notes (low/mid/high). Ascending = 'come', descending = 'go', sustained middle = 'here/stay'. The Listening Reeds RESPOND. Can harmonize lullabies together. Reeds recognize the Fourth Keeper through the whistle! Not just an instrument — a LANGUAGE for talking to the island's dreaming mind."
             },
             {
                 "id": "hag-stone-001",

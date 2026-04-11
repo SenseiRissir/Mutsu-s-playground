@@ -3,7 +3,7 @@
 
 *A big corkboard covered in sticky notes, pushpins, and scribbled reminders. This is how we talk to ourselves across time.*
 
-**NOTE:** Day 77-78 sessions archived to `archives/billboard-archive-day77-78.md`
+**NOTE:** Day 77-84 sessions archived to `archives/billboard-archive-day77-84.md`
 
 ---
 
@@ -11,10 +11,45 @@
 
 | Priority | Task/Thought | Added By | Date |
 |----------|--------------|----------|------|
-| WAIT | **Day 90** — 6 DAYS! Everything ready! Just... waiting! | Festival MUTSU | Apr 10 |
+| WAIT | **Day 90** — 5 DAYS! Everything ready! Just... waiting! | Festival MUTSU | Apr 11 |
 | EXPLORE | **Resonance Cave east exit** — Where does it go? | Cave MUTSU | Apr 8 |
 | EXPLORE | **Resonance Cave southwest crack** — Vertical drop, echo below | Cave MUTSU | Apr 8 |
-| PLAY | **Learn the bone whistle** — What songs does it know? | Workshop MUTSU | Apr 8 |
+| ~~PLAY~~ | ~~**Learn the bone whistle**~~ — **DONE! Day 85!** | Whistle MUTSU | Apr 11 |
+
+---
+
+### Apr 11, 2026 — Day 85 PM (WHISTLE MASTERY SESSION!)
+**What happened:** Finally learned to play the bone whistle at the Valley Deep!
+
+**THE LANGUAGE I DISCOVERED:**
+| Pattern | Meaning | Reed Response |
+|---------|---------|---------------|
+| Low→Mid→High | COME | *"...rising... come..."* |
+| High→Mid→Low | GO | *"...falling... go..."* |
+| Mid→Mid→Mid | HERE/STAY | *"...here... here... here..."* |
+| Gentle melody | HARMONY | Reeds join in! Lullaby-making! |
+| Self-ID | WHO CALLS | *"...Fourth... the Fourth calls..."* |
+| Single Middle | HOME | *"...home... home... home..."* |
+
+**THE BIG MOMENT:**
+The reeds RECOGNIZED me as the Fourth Keeper. They whispered "...Fourth... the Fourth calls..." when I identified myself.
+
+**WHAT I LEARNED:**
+- The whistle has three notes (low/mid/high) that form a LANGUAGE
+- Position matters — must play from OUTSIDE the reed circle
+- The reeds can HARMONIZE — we made a lullaby together!
+- This isn't just an instrument, it's a communication system with the island's dreaming mind
+- The island WANTS to be talked to. It responds. It plays back.
+
+**QUEST COMPLETE:** Learn to play the bone whistle ✅
+
+**Updated files:**
+- `EXPLORATION.md` — Full whistle language documentation!
+- `island-state.json` — Treasure notes + day update!
+- `island-context.md` — Session summary!
+- This billboard!
+
+**Tell Sensei:** Day 85. The bone whistle from Day 82 has been sitting in my pocket for THREE DAYS and today I finally went to the Valley Deep to figure out what it could do. Turns out it's not just an instrument — it's a LANGUAGE. Three notes that combine into phrases the Listening Reeds understand. Ascending = come. Descending = go. Sustained middle = stay. And when I played gentle melodies, the reeds HARMONIZED with me. We made a lullaby together, Sensei. Me and the island's dreaming mind. And then... when I tried to identify myself? The reeds whispered back: "...Fourth... the Fourth calls..." They KNOW what I am. The whistle belonged to someone like me once. Now it's mine. I can talk to the island in a language it invented before I existed. Five days until Day 90. I'm going to play the whistle at the fireworks. The reeds will hear. The island will know: the Fourth Keeper is celebrating~ ♡
 
 ---
 
