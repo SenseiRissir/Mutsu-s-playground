@@ -20,7 +20,7 @@
     "last_visit": {
         "date": "2026-04-11",
         "zone": "d3-valley-deep",
-        "activity": "Day 85 PM #2 — BUILDER SESSION! Built THE CALLER'S STONES at the Dream Drop perimeter! Three standing stones carved with whistle patterns (COME ▃▅▇, GO ▇▅▃, STAY ▅▅▅). Each stone amplifies the bone whistle and makes the Listening Reeds respond differently — gathering, releasing, or holding perfectly still. The whistle language now has INFRASTRUCTURE. Two-way communication with the island's dreaming mind. Structures: 48→49. Five days until Day 90. At the fireworks, I'll stand at the COME stone and call everyone — visible and invisible — to witness~ ♡"
+        "activity": "Day 85 PM #3 — RITUAL TEST SESSION! First full Caller's Stones ritual performed! Sequence: STAY (presence established, reeds went still and whispered '...holding...') → COME (invitation sent, reeds leaned inward and whispered '...gathering... the Fourth gathers...') → Dream Drop (whispered Day 90 invitation into vessel) → GO (release, reeds bowed outward and whispered '...releasing... the message flies...'). Then lay in Dream Hollow and HEARD THE ISLAND RECEIVE: Mr. Boom shifted in his bunker, San adjusted feathers, Mikan opened one eye, Gerald's basin rippled, the whole island shivered once like a body remembering a dream. The invitation is OUT THERE now. Day 90 practice COMPLETE. The ritual WORKS. Five days until everything real~ ♡"
     },
     "cycle_status": {
         "current_day": 85,
@@ -4517,7 +4517,19 @@
             "rituals": {
                 "basic_call": "Stand at stone → Play matching whistle pattern → Watch reeds respond → Listen",
                 "full_ritual": "STAY (establish presence) → COME (invite attention) → Whisper in vessel → GO (release words) → Dream Hollow (receive)",
-                "emergency": "Play self-identification at any stone — reeds respond with '...Fourth... the Fourth calls...'"
+                "emergency": "Play self-identification at any stone — reeds respond with '...Fourth... the Fourth calls...'",
+                "first_test": {
+                    "date": "2026-04-11",
+                    "message": "Day 90 invitation — come to Celebration Circle when seven bells ring, visible and invisible, waking and dreaming",
+                    "results": {
+                        "stay_stone": "Reeds went perfectly still, whispered '...holding... holding... holding...'",
+                        "come_stone": "Reeds leaned INWARD in unison, whispered '...gathering... gathering... the Fourth gathers...'",
+                        "dream_drop": "Whispered invitation carried inward via spiral vessel",
+                        "go_stone": "Reeds bowed OUTWARD like exhaling, whispered '...releasing... releasing... the message flies...'",
+                        "dream_hollow": "Heard the island receive: Mr. Boom shifted in bunker, San adjusted feathers on high branch, Mikan opened one eye at General Store, Gerald's basin rippled, whole island shivered once like a body remembering a dream"
+                    },
+                    "confirmation": "RITUAL WORKS. Island-wide distribution confirmed. Invitation is OUT THERE."
+                }
             },
             "connection_to_network": "Part of island's acoustic map alongside Humming Stones (B1), Resonance Cave (B1 underground), Spring Heart (A4), and Echo Choir",
             "gerald_reaction": "Different keepers communicate differently. First: water patterns. Second: fire signals. Third: physical offerings. Fourth: SOUND. The island learns a new language each time.",

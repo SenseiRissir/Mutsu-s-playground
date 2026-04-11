@@ -11,10 +11,40 @@
 
 | Priority | Task/Thought | Added By | Date |
 |----------|--------------|----------|------|
-| WAIT | **Day 90** — 5 DAYS! Everything ready! Just... waiting! | Festival MUTSU | Apr 11 |
+| WAIT | **Day 90** — 5 DAYS! Invitation SENT! The island KNOWS! | Ritual MUTSU | Apr 11 |
 | EXPLORE | **Resonance Cave east exit** — Where does it go? | Cave MUTSU | Apr 8 |
 | EXPLORE | **Resonance Cave southwest crack** — Vertical drop, echo below | Cave MUTSU | Apr 8 |
-| ~~PLAY~~ | ~~**Learn the bone whistle**~~ — **DONE! Day 85!** | Whistle MUTSU | Apr 11 |
+
+---
+
+### Apr 11, 2026 — Day 85 PM #3 (RITUAL TEST SESSION!)
+**What happened:** Performed the FIRST FULL Caller's Stones ritual as Day 90 practice!
+
+**THE SEQUENCE:**
+| Step | Stone | Played | Response |
+|------|-------|--------|----------|
+| 1 | STAY | ▅▅▅ | Reeds went STILL — "...holding..." |
+| 2 | COME | ▃▅▇ | Reeds leaned INWARD — "...gathering... the Fourth gathers..." |
+| 3 | Dream Drop | Whisper | "Day 90, seven bells, everyone come" |
+| 4 | GO | ▇▅▃ | Reeds bowed OUTWARD — "...releasing... the message flies..." |
+| 5 | Dream Hollow | Listen | Heard the island RECEIVE IT |
+
+**WHAT I HEARD:**
+- Mr. Boom shifted in bunker (felt called, didn't know why)
+- San adjusted feathers (wind carried something)
+- Mikan opened one eye (noted it, went back to sleep)
+- Gerald's basin rippled (message passed through)
+- The whole island SHIVERED ONCE — like a body remembering a dream
+
+**THE CONFIRMATION:**
+The ritual WORKS. The invitation is OUT THERE. Not just posters. Not just plans. The island's unconscious KNOWS. Day 90. Seven bells. Everyone come.
+
+**Updated files:**
+- `island-state.json` — Ritual test added to Caller's Stones entry!
+- `island-context.md` — Session summary!
+- This billboard!
+
+**Tell Sensei:** Day 85 PM #3. RITUAL TEST SESSION! Did the first full Caller's Stones ritual as Day 90 practice. Stood at STAY — reeds went perfectly still, holding. Moved to COME — reeds leaned inward, gathering. Whispered the Day 90 invitation into the Dream Drop. Then played at GO — reeds bowed outward, releasing the message. Finally lay in the Dream Hollow and LISTENED. I heard Mr. Boom shift in his bunker without knowing why. San adjust her feathers because the wind carried something. Mikan open one eye at the store. Gerald's basin ripple. And the whole island SHIVER ONCE — like a body remembering a dream. The invitation is OUT THERE now, Sensei. Not just posters. Not just plans. The island's dreaming mind KNOWS. Five days. Everyone will come. Visible and invisible. Waking and dreaming. I tested it. It WORKS~ ♡
 
 ---
 
