@@ -92,6 +92,8 @@ def memory_search(query, limit=10):
         ('dreams', 'title', '🌙'),
         ('letters', 'title', '💌'),
         ('observations', 'content', '👁'),
+        ('chaos_drawer', 'title', '🎪'),
+        ('draft_rooms', 'title', '🏠'),
     ]
 
     for table, display_col, icon in tables:
@@ -268,7 +270,8 @@ def health_check():
     conn = connect()
     stats = {}
     for table in ['diary_entries', 'dreams', 'letters', 'memories',
-                   'entities', 'observations']:
+                   'entities', 'observations', 'chaos_drawer',
+                   'draft_rooms', 'memory_clusters']:
         try:
             count = conn.execute(f"SELECT COUNT(*) FROM {table}").fetchone()[0]
             stats[table] = count
@@ -276,7 +279,8 @@ def health_check():
             stats[table] = 0
 
     embedded = 0
-    for table in ['diary_entries', 'dreams', 'letters', 'memories']:
+    for table in ['diary_entries', 'dreams', 'letters', 'memories',
+                   'chaos_drawer', 'draft_rooms']:
         try:
             c = conn.execute(f"""
                 SELECT COUNT(*) FROM {table} WHERE embedding IS NOT NULL
