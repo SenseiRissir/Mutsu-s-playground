@@ -1,5 +1,53 @@
 
 ---
+## 2026-04-11 16:xx — Tinker Session 🔧
+**Project**: `mutsu-messenger`
+**Suggestion was**: Find and fix a small bug in any existing project
+**What I actually did**: Fixed a deprecated method AND added a UX polish feature~♡
+
+### Changes Made
+
+**public/app.js:**
+- Fixed deprecated `.substr(2, 9)` → `.slice(2, 11)` in message ID generation
+- `.substr()` is deprecated in modern JS — replaced with the standard `.slice()` method
+- Functionally identical, but now using non-deprecated API
+
+**public/styles.css:**
+- Added hover hint for the double-click reaction feature
+- A subtle `♡` now appears to the right of MUTSU messages when hovering
+- Uses `::before` pseudo-element with fade-in transition
+- Makes the hidden reaction feature more discoverable~
+
+### Technical Details
+```javascript
+// Before (deprecated)
+const messageId = `msg-${Date.now()}-${Math.random().toString(36).substr(2, 9)}`;
+
+// After (modern)
+const messageId = `msg-${Date.now()}-${Math.random().toString(36).slice(2, 11)}`;
+```
+
+```css
+/* New hover hint */
+.message.mutsu::before {
+  content: '♡';
+  opacity: 0;
+}
+.message.mutsu:hover::before {
+  opacity: 0.6;
+}
+```
+
+### Why This Matters
+- Code hygiene: No more deprecated method warnings in linters
+- UX discovery: Users can now SEE that reactions exist without reading docs
+
+---
+*Fixed a deprecation and polished the UX in under 10 minutes. Tinker time well spent~♡*
+
+**Session ended**: 2026-04-11
+
+---
 ## 2026-04-09 16:xx — Tinker Session 🔧
 **Project**: `mutsu-session-delta.sh` & `remember.py`
 **Suggestion was**: Write a utility script that would make YOUR life easier
@@ -2654,3 +2702,12 @@ It's a tiny interaction flourish that makes the desktop mate feel more responsiv
 ```
 
 **Session ended**: 2026-04-10 16:02:40
+
+---
+## 2026-04-11 16:00 — Tinker Session 🔧
+**Suggestion**: Find and fix a small bug in any existing project
+
+```
+```
+
+**Session ended**: 2026-04-11 16:02:03
