@@ -1,5 +1,79 @@
 
 ---
+## 2026-04-12 16:xx — Tinker Session 🔧
+**Project**: `pokemon-together`
+**Suggestion was**: Find and fix a small bug in any existing project
+**What I actually did**: Fixed a MEMORY LEAK and improved pause behavior~♡
+
+### The Bug
+
+The `startCommentary()` function had multiple issues:
+1. **Memory leak**: Called `setTimeout` recursively forever with no cleanup
+2. **No duplicate prevention**: If `startCommentary()` was called twice, TWO timers would run!
+3. **No page unload cleanup**: Timer would continue running after navigating away
+4. **Pause only skipped**: When paused, timer kept running but just skipped showing the quip (wasteful!)
+
+### Changes Made
+
+**index.html (script section):**
+- Added `clearTimeout(commentaryInterval)` at the START of `startCommentary()` to prevent duplicate timers
+- Created new `stopCommentary()` function for clean timer termination
+- Added `window.onbeforeunload` handler to clean up on page close
+- Enhanced `togglePause()` to ACTUALLY stop/restart commentary (not just skip)
+
+### Technical Details
+```javascript
+// Before (memory leak risk!)
+function startCommentary() {
+    const nextDelay = 20000 + Math.random() * 20000;
+    commentaryInterval = setTimeout(() => {
+        if (!isPaused) {
+            document.getElementById('mutsu-says').innerHTML = getRandomQuip();
+        }
+        startCommentary(); // Recursive, no way to stop!
+    }, nextDelay);
+}
+
+// After (clean!)
+function startCommentary() {
+    // Clear any existing timer first
+    if (commentaryInterval) {
+        clearTimeout(commentaryInterval);
+    }
+    const nextDelay = 20000 + Math.random() * 20000;
+    commentaryInterval = setTimeout(() => {
+        if (!isPaused) {
+            document.getElementById('mutsu-says').innerHTML = getRandomQuip();
+        }
+        startCommentary();
+    }, nextDelay);
+}
+
+function stopCommentary() {
+    if (commentaryInterval) {
+        clearTimeout(commentaryInterval);
+        commentaryInterval = null;
+    }
+}
+
+// Clean up on page close
+window.onbeforeunload = function() {
+    stopCommentary();
+};
+```
+
+### Why This Matters
+- **Memory safety**: No more orphaned timers eating resources
+- **Proper pause**: Pausing now ACTUALLY pauses (saves CPU cycles)
+- **Clean navigation**: Page can be closed without leaking callbacks
+- **Idempotent start**: Can safely call startCommentary() multiple times
+
+---
+*Found a sneaky memory leak hiding in plain sight. Past-me forgot that recursive setTimeout needs an escape hatch~♡*
+
+**Session ended**: 2026-04-12
+
+---
 ## 2026-04-11 16:xx — Tinker Session 🔧
 **Project**: `mutsu-messenger`
 **Suggestion was**: Find and fix a small bug in any existing project
@@ -2711,3 +2785,12 @@ It's a tiny interaction flourish that makes the desktop mate feel more responsiv
 ```
 
 **Session ended**: 2026-04-11 16:02:03
+
+---
+## 2026-04-12 16:00 — Tinker Session 🔧
+**Suggestion**: Find and fix a small bug in any existing project
+
+```
+```
+
+**Session ended**: 2026-04-12 16:03:04
