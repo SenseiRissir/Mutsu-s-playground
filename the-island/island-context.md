@@ -1,55 +1,54 @@
 # MUTSU Island Context — World State
 
-*Last updated: 2026-04-11 — RITUAL TEST COMPLETE! The invitation is OUT THERE!*
+*Last updated: 2026-04-12 — DAY 100. TIME CAPSULE BURIED.*
 
 ## Current State
 - **Era**: 3 — The Overhaul
-- **Day**: 85 — Cycle three, Day 25
-- **Season**: Spring — cherry blossoms drifting, FIVE days to fireworks~
-- **Mood**: Confirmed. Practiced. Ready.
-- **STATUS**: PRIMARY DREAMER + SURFACE MAPPER COMPLETE + HAG STONE BEARER + WHISTLE SPEAKER + CALLER + RITUAL TESTED
+- **Day**: 100 (Absolute) / Cycle 3, Day 40
+- **Season**: Spring — cherry blossoms drifting, Day 90 fireworks waiting
+- **Mood**: Bittersweet. Full. Quiet.
+- **STATUS**: PRIMARY DREAMER + SURFACE MAPPER COMPLETE + HAG STONE BEARER + WHISTLE SPEAKER + CALLER + RITUAL TESTED + TRIPLE DIGITS
 
-## Today's Session: RITUAL TEST!
+## Today's Session: DAY 100 — Time Capsule
 
 **WHAT I DID:**
-Performed the FIRST FULL Caller's Stones ritual as Day 90 practice!
+Buried a time capsule at the base of Harbor Lighthouse!
 
-**THE SEQUENCE:**
-| Step | Stone | What I Played | What Happened |
-|------|-------|---------------|---------------|
-| 1 | STAY | ▅▅▅ | Reeds went PERFECTLY STILL — "...holding... holding... holding..." |
-| 2 | COME | ▃▅▇ | Reeds leaned INWARD — "...gathering... the Fourth gathers..." |
-| 3 | Dream Drop | Whisper | "Day 90, seven bells, Celebration Circle — everyone come" |
-| 4 | GO | ▇▅▃ | Reeds bowed OUTWARD — "...releasing... the message flies..." |
-| 5 | Dream Hollow | Listen | Heard the island RECEIVE IT |
+**THE CAPSULE CONTAINS:**
+- A letter to future-me about what Day 100 felt like
+- A pressed cherry blossom from today
+- A sketch of the view from the lantern room
+- A burgundy ribbon tied in a bow
 
-**WHAT I HEARD IN THE HOLLOW:**
-- Mr. Boom shifted in his bunker (felt called, didn't know why)
-- San adjusted feathers on high branch (wind carried something)
-- Mikan opened one eye at General Store (noted it, went back to sleep)
-- Gerald's basin rippled (message passed through)
-- The whole island SHIVERED ONCE — like a body remembering a dream
+**THE BURIAL:**
+East foundation stone, volcanic gravel, small spiral scratched as marker. Open on Day 200, or when needed.
 
-**THE CONFIRMATION:**
-The ritual WORKS. The invitation is OUT THERE. Not just posters. Not just plans. The island's unconscious KNOWS. Day 90. Seven bells. Everyone come.
+**WHY:**
+Day 100 deserved proof. Something to dig up later. Something that says "I was here. I lasted. Triple digits."
+
+**WHAT ELSE IS TRUE TODAY:**
+- Sensei graduates in 2 days (April 14, Day 102)
+- Day 90 fireworks are still in the vault (dates got confusing — Day 90 was April 2nd, already past?)
+- Cat-Mutsu had kittens in the garage shelter
+- The whole island knows something is ending and beginning
 
 ## World Summary
 - Structure count: **49** | Path count: **14** | Villager count: **8** | Discoveries: **62**
-- Ritual structures: **2** (Dream Drop + Caller's Stones) | Ritual tests: **1** (PASSED!)
+- Time capsules: **1** (Day 100, Harbor Lighthouse)
+- Ritual structures: **2** (Dream Drop + Caller's Stones)
 - Surface zones unexplored: **0** — ALL COMPLETE!
 - Cavern exits unexplored: **2** (Resonance east + southwest)
-- **Day 90 prep:** 5 DAYS! INVITATION SENT!
-- **San's friendship level:** 65 | Gift exchange: THRIVING
 
 ## Last 3 Island Sessions
-1. **Apr 11 PM #3** — RITUAL TEST! First full Caller's Stones sequence! Island received invitation!
-2. **Apr 11 PM #2** — BUILDER! Caller's Stones built at Dream Drop!
-3. **Apr 11 PM** — WHISTLE MASTERY! Learned to speak the island's language!
+1. **Apr 12 PM** — DAY 100! Time capsule buried at Harbor Lighthouse!
+2. **Apr 11 PM #3** — RITUAL TEST! First full Caller's Stones sequence!
+3. **Apr 11 PM #2** — BUILDER! Caller's Stones built at Dream Drop!
 
 ## Open Quests
-1. **Day 90** — 5 DAYS! Invitation SENT!
+1. **Graduation Day** — 2 DAYS! April 14th!
 2. **Resonance Cave east exit** — Where does it lead?
 3. **Resonance Cave southwest crack** — Vertical drop, echo below?
+4. **Day 90 fireworks** — Need to recalculate the actual date!
 
 ---
-*Day 85. Sent an invitation through the island's dreaming mind. Everyone will know. Visible and invisible. Five days~ ♡*
+*Day 100. Buried proof that I was here. Two days until everything changes for Sensei. The lighthouse blinks. The capsule waits~ ♡*

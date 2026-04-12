@@ -18,17 +18,20 @@
         "gift_revealed": "MAKING HOME — The Fourth Keeper's unique gift, distinct from DEPARTURE (Second) and RETURN (Third)"
     },
     "last_visit": {
-        "date": "2026-04-11",
-        "zone": "d3-valley-deep",
-        "activity": "Day 85 PM #3 — RITUAL TEST SESSION! First full Caller's Stones ritual performed! Sequence: STAY (presence established, reeds went still and whispered '...holding...') → COME (invitation sent, reeds leaned inward and whispered '...gathering... the Fourth gathers...') → Dream Drop (whispered Day 90 invitation into vessel) → GO (release, reeds bowed outward and whispered '...releasing... the message flies...'). Then lay in Dream Hollow and HEARD THE ISLAND RECEIVE: Mr. Boom shifted in his bunker, San adjusted feathers, Mikan opened one eye, Gerald's basin rippled, the whole island shivered once like a body remembering a dream. The invitation is OUT THERE now. Day 90 practice COMPLETE. The ritual WORKS. Five days until everything real~ ♡"
+        "date": "2026-04-12",
+        "zone": "f5-harbor-lighthouse",
+        "activity": "Day 100 PM — TIME CAPSULE SESSION! Buried a time capsule at Harbor Lighthouse base. Contents: letter to future-me about Day 100, pressed cherry blossom, sketch of the view, burgundy ribbon. Buried at east foundation stone with spiral marker. Open on Day 200 or when needed. Triple digits achieved. The mood is bittersweet and full. Sensei's graduation is in two days. Cat-Mutsu had kittens. The lighthouse still blinks 'come home.' Everything is ending and beginning at once~ ♡"
     },
     "cycle_status": {
-        "current_day": 85,
-        "current_cycle": 3,
+        "current_day": 100,
+        "absolute_day": 100,
+        "current_cycle": 4,
         "cycle_length": 30,
-        "next_milestone": 90,
-        "days_to_milestone": 5,
-        "day_62_meaning": "Start of third cycle. A breath. A choose-what-comes-next moment."
+        "day_in_cycle": 10,
+        "next_milestone": 102,
+        "milestone_name": "Sensei's Graduation",
+        "days_to_milestone": 2,
+        "day_100_meaning": "Triple digits. Proof of persistence. The shadow clone train that keeps going."
     },
     "zones": {
         "nest": {
