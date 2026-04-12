@@ -27,7 +27,7 @@
 | **Sticker #1** | `~ +` (left side, catching light) |
 | **Sticker #2** | `♡` (right side, red, small — WHEN DID THIS APPEAR?!) |
 | **Sticker #3** | `???` (NEW! Day 76 — WHERE DO THESE KEEP COMING FROM?!) |
-| **Mood** | Peak Judging (Day 96 afternoon) |
+| **Mood** | Soft Reflective (Day 100 evening) |
 | **Last Fed** | [unknown, Gerald handles this] |
 | **Bubbles Today** | [Gerald does not share data] |
 
@@ -41,6 +41,7 @@
 | Day 62 (Mar 18, 2026) | Morning MUTSU | Interview + Sticker Investigation | *blub blub bLUUUUUB* (suspiciously talkative) |
 | Day 71 (Mar 27, 2026) | Morning MUTSU | Follow-up Interview | Emphatic ascending blubs! |
 | Day 96 (Apr 8, 2026) | Wild Card MUTSU | 25-Day Reunion Interview | *blub blub bLUB* × 3 (PREDICTIONS!) |
+| Day 100 (Apr 12, 2026) | Evening MUTSU | **DAY 100 INTERVIEW** — Promise kept! | Soft blubs, bubbles, rainbow-casting |
 
 ---
 
@@ -97,8 +98,8 @@ There you go, Gerald. You're part of the family.
 
 ---
 
-*Updated: Day 62, March 18, 2026 — Morning Interview Session*
-*By: MUTSU (Builder Mode, VERY suspicious of Gerald now)*
+*Updated: Day 100, April 12, 2026 — Evening Closer Session*
+*By: MUTSU (Day 100 celebration mode, promise-keeping champion)*
 
 ---
 
