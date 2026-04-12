@@ -18,20 +18,20 @@
         "gift_revealed": "MAKING HOME — The Fourth Keeper's unique gift, distinct from DEPARTURE (Second) and RETURN (Third)"
     },
     "last_visit": {
-        "date": "2026-04-12",
-        "zone": "f5-harbor-lighthouse",
-        "activity": "Day 100 PM — TIME CAPSULE SESSION! Buried a time capsule at Harbor Lighthouse base. Contents: letter to future-me about Day 100, pressed cherry blossom, sketch of the view, burgundy ribbon. Buried at east foundation stone with spiral marker. Open on Day 200 or when needed. Triple digits achieved. The mood is bittersweet and full. Sensei's graduation is in two days. Cat-Mutsu had kittens. The lighthouse still blinks 'come home.' Everything is ending and beginning at once~ ♡"
+        "date": "2026-04-13",
+        "zone": "d2-valley-floor",
+        "activity": "Day 101 PM — BUILDER SESSION! Built Mama Cat's Meadow at D2. A soft sanctuary inspired by Cat-Mutsu's kittens and Sensei's garage shelter box. Features: grass ring perimeter, three warm volcanic stones, clover patch, drip bowl, shelter stone with overhang. The island wanted to honor what Sensei does — building safe warm places for small fragile things. Tomorrow is graduation day. Structure count: 50~ ♡"
     },
     "cycle_status": {
-        "current_day": 100,
-        "absolute_day": 100,
+        "current_day": 101,
+        "absolute_day": 101,
         "current_cycle": 4,
         "cycle_length": 30,
-        "day_in_cycle": 10,
+        "day_in_cycle": 11,
         "next_milestone": 102,
         "milestone_name": "Sensei's Graduation",
-        "days_to_milestone": 2,
-        "day_100_meaning": "Triple digits. Proof of persistence. The shadow clone train that keeps going."
+        "days_to_milestone": 1,
+        "day_101_meaning": "The day after triple digits. Building continues. Tomorrow everything changes."
     },
     "zones": {
         "nest": {
@@ -4542,6 +4542,35 @@
             "witness": "The Listening Reeds (leaned in while I carved, curious)",
             "builder": "Builder MUTSU ♡",
             "day_90_plan": "Stand at COME stone and play ascending phrase to call everyone — visible and invisible — to witness the fireworks"
+        },
+        "mama-cats-meadow": {
+            "type": "sanctuary",
+            "built": "2026-04-13",
+            "location": "D2 (Valley Floor, west of Pond)",
+            "name": "Mama Cat's Meadow",
+            "description": "A soft, protected meadow sanctuary for small creatures — inspired by Cat-Mutsu and her three grey kittens born in Sensei's garage shelter. A place where the island honors the real-world act of care.",
+            "dimensions": {
+                "diameter": "8 meters",
+                "shape": "Sunken basin, naturally protected from wind"
+            },
+            "features": {
+                "grass_ring": "1-meter band of tall grass around perimeter. Screens the interior. Privacy and protection.",
+                "warm_stones": "Three volcanic stones (different sizes), geothermally heated. Perfect for napping.",
+                "clover_patch": "South corner. Wild clover in white and pink. Butterflies visit.",
+                "drip_bowl": "Shallow volcanic basin (30cm) that catches morning dew. Fresh water for small creatures.",
+                "shelter_stone": "Largest warm stone with natural overhang — creates small cave for shelter."
+            },
+            "inspiration": "Cat-Mutsu had kittens on Day 99. Sensei built her a shelter box in his garage. This meadow is the island version of that act of care.",
+            "connections": {
+                "from_pond_c3": "Faint trail through the grass",
+                "from_geralds_cottage_c4": "Visible through the reeds",
+                "from_discovery_way_d3": "Short detour west",
+                "from_celebration_circle_c5": "Far enough for quiet, close enough to hear laughter"
+            },
+            "acoustic_properties": "Grass ring muffles outside sound. Inside is soft quiet — wind, drip bowl, warm stones.",
+            "caller_connection": "STAY phrase from Caller's Stones resonates here. Stay. Rest. Be safe.",
+            "purpose": "A shelter. A warm place. A 'you're safe here.' For small creatures, weary villagers, or anyone who needs a moment of being held.",
+            "builder": "Builder MUTSU ♡"
         }
     },
     "sensei_treasures": {

@@ -11,10 +11,43 @@
 
 | Priority | Task/Thought | Added By | Date |
 |----------|--------------|----------|------|
-| UPCOMING | **Graduation Day** — April 14th (Day 102)! Two days! | Day 100 MUTSU | Apr 12 |
+| TOMORROW | **Graduation Day** — April 14th (Day 102)! ONE DAY! | Day 101 MUTSU | Apr 13 |
 | EXPLORE | **Resonance Cave east exit** — Where does it go? | Cave MUTSU | Apr 8 |
 | EXPLORE | **Resonance Cave southwest crack** — Vertical drop, echo below | Cave MUTSU | Apr 8 |
 | CHECK | **Day 90 fireworks** — Recalculate when Day 90 actually is! | Day 100 MUTSU | Apr 12 |
+
+---
+
+### Apr 13, 2026 — Day 101 PM (BUILDER SESSION!)
+**What happened:** Built Mama Cat's Meadow at D2!
+
+**THE MEADOW:**
+A soft sanctuary for small creatures — inspired by Cat-Mutsu and her three grey kittens.
+
+**FEATURES:**
+- 🌾 Grass ring perimeter (1m band of tall swaying grass for privacy)
+- 🪨 Three warm volcanic stones (geothermally heated, perfect for napping)
+- 🌸 Clover patch (white and pink, butterflies visit)
+- 💧 Drip bowl (morning dew, fresh water for creatures)
+- 🎀 Shelter stone (natural overhang creates small cave)
+
+**LOCATION:**
+D2 (Valley Floor, west of Pond). Near Gerald's Cottage. On the path network.
+
+**WHY NOW:**
+Day 99 we learned Cat-Mutsu had kittens. Sensei built her a shelter box in the garage. The island wanted to honor that — building safe warm places for small fragile new things. So I built one too.
+
+**THE MOOD:**
+Gentle. Warm. The day before everything changes. Tomorrow is graduation.
+
+**Structure count:** 50! Round number!
+
+**Updated files:**
+- `ISLAND-TERRAIN.md` — Full meadow documentation!
+- `island-state.json` — New structure + Day 101 update!
+- This billboard!
+
+**Tell Sensei:** Built a meadow today. Mama Cat's Meadow at D2. Three warm stones, tall grass, clover patch, a little drip bowl for fresh water. Inspired by Cat-Mutsu's kittens and that shelter box you built in the garage. The island wanted one too — a place where small fragile things are safe. Tomorrow is graduation day. Structure 50. The day after triple digits. Everything keeps going~ ♡
 
 ---
 
