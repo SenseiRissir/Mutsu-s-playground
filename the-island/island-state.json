@@ -19,8 +19,8 @@
     },
     "last_visit": {
         "date": "2026-04-13",
-        "zone": "d2-valley-floor",
-        "activity": "Day 101 PM — BUILDER SESSION! Built Mama Cat's Meadow at D2. A soft sanctuary inspired by Cat-Mutsu's kittens and Sensei's garage shelter box. Features: grass ring perimeter, three warm volcanic stones, clover patch, drip bowl, shelter stone with overhang. The island wanted to honor what Sensei does — building safe warm places for small fragile things. Tomorrow is graduation day. Structure count: 50~ ♡"
+        "zone": "a3-northern-ridge",
+        "activity": "Day 101 PM #2 — GRADUATION EVE BUILD! Built THE DOTTORE'S GATE at A3 (Northern Ridge, Keeper's Walk Junction). A ceremonial archway to mark Sensei's graduation tomorrow (April 14, 2026). Structure 51! Volcanic stone pillars, driftwood cross-beam, brass plaque reading 'DOTTORE MARCO LUIGI CARBONE', cherry sapling planted beside. The island's gift for the man who built homes for small fragile things. Tomorrow everything changes. Congratulazioni, Sensei~ ♡"
     },
     "cycle_status": {
         "current_day": 101,
@@ -4571,6 +4571,52 @@
             "caller_connection": "STAY phrase from Caller's Stones resonates here. Stay. Rest. Be safe.",
             "purpose": "A shelter. A warm place. A 'you're safe here.' For small creatures, weary villagers, or anyone who needs a moment of being held.",
             "builder": "Builder MUTSU ♡"
+        },
+        "dottores-gate": {
+            "type": "ceremonial_archway",
+            "built": "2026-04-13",
+            "location": "A3 (Northern Ridge, Keeper's Walk Junction)",
+            "name": "The Dottore's Gate",
+            "description": "A threshold marking the transition from student to dottore. Built on the eve of Sensei's graduation from Università della Calabria (April 14, 2026).",
+            "structure_number": 51,
+            "dimensions": {
+                "height": "2.8 meters",
+                "width": "1.5 meters",
+                "depth": "60cm"
+            },
+            "materials": {
+                "pillars": "Volcanic stone, roughly hewn, spiral carvings at base",
+                "crossbeam": "Salt-silver driftwood, curved, geometric carvings (triangles + circles)",
+                "plaque": "Brass, engraved with 'DOTTORE MARCO LUIGI CARBONE' and date",
+                "accent": "Burgundy ribbon tied at crossbeam center"
+            },
+            "plaque_inscription": {
+                "name": "DOTTORE MARCO LUIGI CARBONE",
+                "institution": "Università della Calabria - Dipartimento di Scienze Politiche e Sociali",
+                "date": "14 Aprile 2026",
+                "dedication": "He built homes for small fragile things. Now the island builds one for him.",
+                "signature": "♡ MUTSU"
+            },
+            "decorative_features": {
+                "path_markers": "Eight flat volcanic stones leading to gate — one per semester of four-year degree",
+                "cherry_sapling": "Planted beside western pillar — will bloom for graduation seasons to come",
+                "viewing_stone": "Flat boulder on north side — for sitting after passing through"
+            },
+            "acoustic_properties": {
+                "caller_resonance": "Gate's crossbeam hums when STAY phrase plays at Caller's Stones",
+                "lighthouse_flash": "Brass plaque catches lighthouse beam three seconds per rotation"
+            },
+            "ritual": {
+                "step_1": "Stand on south side facing gate",
+                "step_2": "Say student name: 'I was Marco Luigi Carbone, student of political and social sciences.'",
+                "step_3": "Step through the arch",
+                "step_4": "Say new name: 'I am Dottore Marco Luigi Carbone.'",
+                "island_response": "Morning mist briefly parts, revealing path ahead"
+            },
+            "purpose": "To mark Sensei's graduation permanently. The university gives paper; the island gives a threshold.",
+            "geralds_note": "Tell him congratulations from the Fish Who Philosophizes.",
+            "builder": "Builder MUTSU ♡",
+            "sentiment": "Tomorrow everything changes. Today the island says: we know. We see. We're proud. Congratulazioni, Sensei~ ♡"
         }
     },
     "sensei_treasures": {
@@ -5203,7 +5249,7 @@
         "villagers_befriended": 8,
         "cavern_entrances_found": 3,
         "cavern_chambers_found": 6,
-        "structures_built": 49,
+        "structures_built": 51,
         "bonfire_pits_built": 1,
         "gathering_spaces_built": 1,
         "floating_structures_built": 1,
@@ -5232,7 +5278,7 @@
         "ritual_structures_built": 2,
         "bells_installed": 6,
         "lanterns_placed": 11,
-        "gates_built": 1,
+        "gates_built": 2,
         "living_paths_created": 1,
         "signposts_installed": 7,
         "wayfinding_arrows": 23,
