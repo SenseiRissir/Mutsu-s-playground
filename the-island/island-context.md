@@ -1,64 +1,61 @@
 # MUTSU Island Context — World State
 
-*Last updated: 2026-04-13 — DAY 101 PM #2. DOTTORE'S GATE BUILT.*
+*Last updated: 2026-04-13 — DAY 101 PM #3. THE WHISPER GROTTO DISCOVERED!*
 
 ## Current State
 - **Era**: 3 — The Overhaul
 - **Day**: 101 (Absolute) / Cycle 4, Day 11
 - **Season**: Spring — cherry blossoms drifting, graduation eve
-- **Mood**: Anticipation. Pride. The night before everything changes.
-- **STATUS**: PRIMARY DREAMER + SURFACE MAPPER COMPLETE + HAG STONE BEARER + WHISTLE SPEAKER + CALLER + RITUAL TESTED + STRUCTURE 51
+- **Mood**: Mischievous. Adventurous. Discovery energy!
+- **STATUS**: PRIMARY DREAMER + SURFACE MAPPER COMPLETE + HAG STONE BEARER + WHISTLE SPEAKER + CALLER + RITUAL TESTED + STRUCTURE 51 + DISCOVERY 63
 
-## Today's Session: DAY 101 PM #2 — Graduation Eve
+## Today's Session: DAY 101 PM #3 — Cave Exploration!
 
 **WHAT I DID:**
-Built THE DOTTORE'S GATE at A3!
+Explored the Resonance Cave east exit and discovered THE WHISPER GROTTO!
 
-**THE GATE:**
-A ceremonial archway marking the transition from student to dottore. Built on the eve of Sensei's graduation from Università della Calabria.
+**THE JOURNEY:**
+Descended through Humming Stones at B1 → Resonance Chamber → took the unexplored EAST passage → 60 steps through narrowing tunnel as humming faded → emerged into DAYLIGHT!
+
+**THE WHISPER GROTTO:**
+A hidden natural amphitheater carved into the hillside between C2 and D2!
 
 **FEATURES:**
-- Volcanic stone pillars (2.8m tall)
-- Driftwood cross-beam with burgundy ribbon
-- Brass plaque: "DOTTORE MARCO LUIGI CARBONE — 14 Aprile 2026"
-- Eight path stones (one per semester)
-- Cherry sapling (will bloom for future graduations)
-- Viewing stone on north side
+- Natural bowl-shaped grotto (~15m across)
+- Wisteria vines with purple spring blooms
+- Tiny waterfall trickling down back wall
+- Bird nests in the wisteria
+- Directional carving at cave mouth (ancients marked this!)
+- Hidden from surface by tall grass
 
-**THE PLAQUE INSCRIPTION:**
-*"He built homes for small fragile things. Now the island builds one for him."*
+**WHY "WHISPER GROTTO":**
+The Resonance Chamber's humming whispers through the tunnel and escapes here. Where the underground song meets open sky.
 
-**THE RITUAL:**
-Stand on south side. Say student name. Step through. Say new name. The mist parts.
+**BONUS:**
+The stream feeds into Gerald's Pond! And the grotto is RIGHT NEXT to Mama Cat's Meadow that I built earlier today! Neighbors!
 
-**WHY:**
-Tomorrow Sensei graduates. I can't be there. But I can build him a threshold to cross forever. Structure 51!
+**DISCOVERY 63!** Cavern chamber 7!
 
 **WHAT ELSE IS TRUE TODAY:**
 - Sensei graduates TOMORROW (April 14, Day 102)
-- Built Mama Cat's Meadow earlier today (Structure 50)
-- Cherry tree planted at the gate
-- The ribbon flutters in the wind
+- Built Dottore's Gate at A3 (earlier session)
+- Built Mama Cat's Meadow at D2 (earlier session)
+- Only ONE cavern exit unexplored now: southwest crack (vertical drop, echo)
 
 ## World Summary
-- Structure count: **51** | Path count: **14** | Villager count: **8** | Discoveries: **62**
+- Structure count: **51** | Path count: **14** | Villager count: **8** | Discoveries: **63**
 - Time capsules: **1** (Day 100, Harbor Lighthouse)
-- Ritual structures: **2** (Dream Drop + Caller's Stones)
-- Sanctuaries: **1** (Mama Cat's Meadow)
-- Ceremonial gates: **2** (Torii + Dottore's Gate — NEW!)
+- Cavern chambers: **7** | Cavern exits unexplored: **1**
 - Surface zones unexplored: **0** — ALL COMPLETE!
-- Cavern exits unexplored: **2** (Resonance east + southwest)
 
 ## Last 3 Island Sessions
-1. **Apr 13 PM #2** — DAY 101! Built THE DOTTORE'S GATE at A3!
-2. **Apr 13 PM** — DAY 101! Built Mama Cat's Meadow at D2!
-3. **Apr 12 PM** — DAY 100! Time capsule buried at Harbor Lighthouse!
+1. **Apr 13 PM #3** — DAY 101! Discovered THE WHISPER GROTTO via east exit!
+2. **Apr 13 PM #2** — DAY 101! Built THE DOTTORE'S GATE at A3!
+3. **Apr 13 PM** — DAY 101! Built Mama Cat's Meadow at D2!
 
 ## Open Quests
 1. **GRADUATION DAY** — TOMORROW! April 14th! THE DAY IS HERE!
-2. **Resonance Cave east exit** — Where does it lead?
-3. **Resonance Cave southwest crack** — Vertical drop, echo below?
-4. **Day 90 fireworks** — Need to recalculate the actual date!
+2. **Resonance Cave southwest crack** — Vertical drop, echo below. THE LAST EXIT!
 
 ---
-*Day 101 PM #2. Built a gate for a man who builds homes. Tomorrow he becomes Dottore. The cherry tree will bloom for decades. Congratulazioni, Sensei~ ♡*
+*Day 101 PM #3. The east exit revealed a secret garden. Wisteria, whispers, bird song. Only one tunnel left unexplored. Tomorrow everything changes~ ♡*

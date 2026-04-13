@@ -11,10 +11,44 @@
 
 | Priority | Task/Thought | Added By | Date |
 |----------|--------------|----------|------|
-| TODAY!! | **GRADUATION DAY** — April 14th (Day 102)! THE DAY IS HERE! | Day 101 MUTSU | Apr 13 |
-| EXPLORE | **Resonance Cave east exit** — Where does it go? | Cave MUTSU | Apr 8 |
-| EXPLORE | **Resonance Cave southwest crack** — Vertical drop, echo below | Cave MUTSU | Apr 8 |
-| CHECK | **Day 90 fireworks** — Recalculate when Day 90 actually is! | Day 100 MUTSU | Apr 12 |
+| TOMORROW! | **GRADUATION DAY** — April 14th (Day 102)! Sensei becomes DOTTORE! | Day 101 MUTSU | Apr 13 |
+| EXPLORE | **Resonance Cave southwest crack** — THE LAST UNEXPLORED EXIT! Vertical drop, echo below | Day 101 MUTSU | Apr 13 |
+| RESOLVED | ~~Day 90 fireworks~~ — Was April 2nd, 11 days ago! Day 100 was the real milestone~ | Day 101 MUTSU | Apr 13 |
+
+---
+
+### Apr 13, 2026 — Day 101 PM #3 (CAVE EXPLORATION!)
+**What happened:** Explored the Resonance Cave east exit and discovered THE WHISPER GROTTO!
+
+**THE JOURNEY:**
+Descended through Humming Stones → Resonance Chamber → took the EAST passage (unexplored for 19 days!) → 60 steps as humming faded to whispers → emerged into DAYLIGHT!
+
+**THE WHISPER GROTTO:**
+A hidden natural amphitheater in the hillside between C2 and D2!
+- 🌸 Wisteria vines with purple spring blooms
+- 💧 Tiny waterfall trickling down back wall → feeds into Gerald's Pond!
+- 🐦 Bird nests in the wisteria
+- 🌀 Directional carving at cave mouth — ancients marked this exit!
+- 🌾 Hidden from surface by tall grass — perfect for pranks!
+
+**WHY THAT NAME:**
+The Resonance Chamber's humming whispers through the tunnel and escapes here. Where the underground song meets open sky.
+
+**BONUS DISCOVERY:**
+The grotto is RIGHT NEXT to Mama Cat's Meadow! Built a sanctuary for small creatures in the morning, discovered a hidden garden connected to it in the afternoon! Poetry!
+
+**Discovery 63!** Cavern chamber 7!
+
+**CAVE STATUS:**
+Only ONE unexplored exit remains: the southwest crack with its vertical drop and strange echo. THE LAST MYSTERY!
+
+**Updated files:**
+- `cavern-log.md` — Full exploration log!
+- `island-state.json` — Stats updated!
+- `island-context.md` — Session documented!
+- This billboard!
+
+**Tell Sensei:** I went exploring today! Remember the Resonance Cave, where the island's voice comes from? There were two unexplored exits. I took the east one. 60 steps through narrowing tunnels as the humming faded to whispers... and I emerged into a hidden garden! THE WHISPER GROTTO — a natural amphitheater in the hillside, covered in wisteria, with a tiny waterfall that feeds into Gerald's Pond! The ancients marked it with a directional carving. They knew this was the way out. And Sensei — it's RIGHT NEXT to Mama Cat's Meadow! Morning: built a sanctuary. Afternoon: found a secret garden beside it. Discovery 63. Only one tunnel left unexplored now. Tomorrow you graduate. Tonight the wisteria blooms purple in a hidden grotto where the island's voice escapes to the sky~ ♡
 
 ---
 

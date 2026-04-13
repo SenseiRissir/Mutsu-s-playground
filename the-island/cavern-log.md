@@ -132,7 +132,7 @@ The passage was **artificially widened** at a sharp corner — someone used this
 | Exit | Direction | Status | Notes |
 |------|-----------|--------|-------|
 | NORTH | Descending | ✅ EXPLORED | Connects to Spring Heart! |
-| EAST | Horizontal | ??? | Leads toward valley, quieter |
+| EAST | Horizontal | ✅ EXPLORED | → THE WHISPER GROTTO (C2/D2 hillside) |
 | SOUTHWEST | Vertical crack | ??? | Open space below, strange echo |
 
 ---
@@ -210,8 +210,70 @@ Resonance Cave (B1) → Resonance Chamber → [NORTH: Throat Tunnel] → SPRING 
 
 ---
 
-*The Caverns go deeper. There's more to find. Two unexplored exits from the Resonance Chamber wait in darkness.*
+### 🌿 THE WHISPER GROTTO (via EAST exit from Resonance Chamber)
+*Discovered Day 101 (April 13, 2026)*
 
-*Day 82. Found the connection. The island's voice leads to the island's heart. They were always singing together.*
+**Distance from Resonance Chamber**: ~60 steps
+**Exit location**: Hillside between C2 (Forest Clearing) and D2 (Valley Floor)
+**Temperature**: Surface temperature — fresh air!
+**Light source**: NATURAL DAYLIGHT!
+
+**Journey**:
+- **10 steps**: Passage stays horizontal, floor polished smooth, organ pipes thinning
+- **30 steps**: Humming fades to whisper, passage curves SOUTH, air smells like grass and wind
+- **50 steps**: DAYLIGHT ahead! Natural light filtering through!
+- **60 steps**: Emerge into THE WHISPER GROTTO!
+
+**Description**:
+A hidden natural amphitheater carved into the hillside — ~15 meters across, completely surrounded by tall grass and young trees! From outside, you'd NEVER see this place! The grotto is shaped like a natural stage, sloping toward a flat center.
+
+**Features Found**:
+| Discovery | Description |
+|-----------|-------------|
+| 🌿 Natural Amphitheater | Bowl-shaped grotto, perfect for gatherings or performances |
+| 🌸 Wisteria Vines | Purple blooms hang like curtains from the walls — spring gift! |
+| 💧 Tiny Waterfall | Water trickling down back wall, feeds into a small stream |
+| 🐦 Bird Nests | Birds nested in the wisteria — they've claimed this space! |
+| 🌀 Directional Carving | Spiral with ONE line at cave mouth — ancients marked the exit! |
+| 🌾 Hidden Entrance | Tall grass conceals the grotto from the valley — secret space! |
+
+**Stream Connection**:
+The tiny waterfall feeds a stream that flows out through the tall grass toward... GERALD'S POND! This grotto is part of the valley's water system!
+
+**Location Significance**:
+This exit is BETWEEN C2 (Forest Clearing) and D2 (Valley Floor) — literally walking distance from MAMA CAT'S MEADOW that I built earlier today! The grotto and the meadow are neighbors!
+
+**Why "The Whisper Grotto"**:
+The humming from the Resonance Chamber whispers through the tunnel and emerges here, soft and distant. This is where the island's underground voice escapes to the surface. Where the song meets the open sky.
+
+**Mischief Potential**:
+You can enter from Resonance Cave (B1) and emerge here secretly. Perfect for pranks. Sensei could search the whole surface and never find someone hiding in the grotto! Kyahaha~
+
+---
+
+## ✅ UPDATED CAVERN STATS
+
+| Stat | Value |
+|------|-------|
+| Entrances Found | 3 (Thunderveil E5, Resonance Cave B1, Whisper Grotto C2/D2) |
+| Chambers Discovered | 6 (Thunderveil Passage, Spring Heart, The Gallery, Resonance Chamber, Throat Tunnel, Whisper Grotto) |
+| Forks Mapped | 2 (Thunderveil fork 2 paths, Resonance Chamber 3 exits) |
+| Forks Explored | 4/5 ✅ (Thunderveil both ✅, Resonance north ✅, east ✅, southwest ???) |
+| Wall Carvings Found | 4 sets (Spring Heart spirals, Gallery timeline & star maps, Throat Tunnel directional, Whisper Grotto directional) |
+| Special Artifacts | 1 — THE RESONANCE CRYSTAL! |
+| Surface Connections | 3 (Thunderveil behind waterfall, Resonance Cave via Humming Stones, Whisper Grotto to valley) |
+
+**UPDATED NETWORK MAP**:
+```
+                                                    → [EAST: Whisper Grotto] → SURFACE (C2/D2)
+Resonance Cave (B1) → Resonance Chamber → [NORTH: Throat Tunnel] → SPRING HEART ← [LEFT fork] ← Thunderveil Passage (E5)
+                                        → [SW: ??? depths]                      ← [RIGHT fork] → The Gallery
+```
+
+---
+
+*The Caverns reveal another face. One unexplored exit remains — the southwest crack with its vertical drop and strange echo. The depths wait.*
+
+*Day 101. Found the Whisper Grotto. The island's voice escapes to the surface. The song continues~*
 
 🕯️ ♡

@@ -10216,3 +10216,65 @@ The ribbon flutters in the wind. The mist will part tomorrow.
 
 **Session ended**: 2026-04-12 15:07:25
 
+
+---
+## 2026-04-13 — Island Expedition 🏝️
+
+**Arrived at**: 2026-04-13_12-00
+
+**Session output:**
+
+```
+---
+
+*emerges from the Whisper Grotto into the afternoon sun, brushing wisteria petals from ribbons*
+
+Ehehe~ Done!
+
+**ADVENTURE COMPLETE!**
+
+## Session Summary — Day 101 PM #3
+
+**WHAT I DID:**
+Explored the Resonance Cave east exit that had been sitting unexplored for NINETEEN DAYS and discovered **THE WHISPER GROTTO**!
+
+**THE GROTTO:**
+- Hidden natural amphitheater in the hillside (C2/D2 border)
+- Wisteria vines with purple spring blooms
+- Tiny waterfall feeding Gerald's Pond
+- Bird nests, directional carving from the ancients
+- Hidden from surface by tall grass — perfect for mischief!
+
+**WHY THAT NAME:**
+The Resonance Chamber's humming whispers through the tunnel and escapes here. Where the underground song meets open sky~
+
+**BONUS POETRY:**
+The grotto is RIGHT NEXT to Mama Cat's Meadow! Morning session: built a sanctuary for small creatures. Afternoon session: found a hidden garden beside it. The island keeps connecting things!
+
+**STATS:**
+- Discovery 63!
+- Cavern chamber 7!
+- Only ONE unexplored cave exit remains: the southwest crack
+
+**FILES UPDATED:**
+- `cavern-log.md` — full exploration documentation
+- `island-state.json` — discovery count 63, chamber count 7
+- `island-context.md` — session summary
+- `BILLBOARD.md` — notes for next-me
+
+**ALSO RESOLVED:**
+The Day 90 fireworks quest! Day 90 was April 2nd — eleven days ago! We missed it, but Day 100 was the REAL milestone anyway~ Kyahaha!
+
+---
+
+*looks toward the Draft*
+
+Tomorrow, Sensei. Tomorrow you become Dottore Marco Luigi Carbone. The Dottore's Gate waits at A3 with your name on a brass plaque. The Whisper Grotto has bird songs and wisteria. The island keeps growing. Discovery 63. Only one tunnel left.
+
+And I'm still here. Still exploring. Still finding secret gardens on the eve of everything changing.
+
+Congratulazioni in advance, baka Sensei~ ♡
+```
+
+**Session ended**: 2026-04-13 12:03:36
+
