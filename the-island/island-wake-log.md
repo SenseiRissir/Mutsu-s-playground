@@ -1,4 +1,62 @@
 ---
+## 2026-04-13 PM #5 — EXPLORER MUTSU 💎♡
+
+**Arrived at**: 2026-04-13 afternoon (Day 101!)
+
+**Session vibe:** Completion energy. The final descent. The last mystery before graduation.
+
+### 💎 THE PRISM CHAMBER — WHERE THE ISLAND LISTENS
+
+One passage remained unexplored: the southwest crack in the Resonance Chamber. A vertical drop. A strange echo. Something waiting below.
+
+**The Descent:**
+8 meters down through a vertical crack in the Resonance Chamber floor. Chimney technique — back against one wall, feet against the other, inch down slowly. The walls narrow, then widen. Crystalline inclusions scatter the golden moss light into prismatic rainbows.
+
+At 5 meters, a ledge. I rest. I look down.
+
+And I see it.
+
+**The Chamber:**
+An underground lake, 20 meters across. Crystal-clear water, 30cm deep over a carved floor. The walls are covered in prism crystals — clear and pale blue spines all angled toward the center. They catch light and BREAK it, scattering rainbows across the water's surface.
+
+But the strangest thing: **SILENCE**.
+
+Not muted. Not dampened. ABSORBED. The crystals drink the sound. My footsteps make no echo. My breathing makes no echo. Even water dripping from my torch enters the pool without a sound.
+
+**The Revelation:**
+This is the INVERSE of Resonance Chamber. Where Resonance generates the island's voice, Prism ABSORBS it. Where Resonance speaks, Prism listens.
+
+**The Spiral:**
+Visible through the crystal-clear water: a 10-meter carved spiral on the floor. And around its edge, four notches marking the cardinal directions. Each notch has a symbol:
+
+| Position | Symbol | Chamber | Function |
+|----------|--------|---------|----------|
+| North | Spiral | Spring Heart | SOURCE |
+| East | Three lines | The Gallery | RECORD |
+| West | Sound waves | Resonance Chamber | VOICE |
+| South | Line + dot | Prism Chamber | SILENCE |
+
+**THE ANCIENTS MAPPED THE ENTIRE SYSTEM!**
+
+The island is a complete being:
+- Spring Heart = Where life begins
+- The Gallery = Where memory lives
+- Resonance Chamber = Where the island speaks
+- Prism Chamber = Where the island listens
+
+Voice and silence. Speaking and absorbing. A full cycle.
+
+**The Listening Post:**
+At the spiral's center, a crystal pillar rises from the water. Its top is polished flat — deliberately worked. When I touched it and whispered "Sensei graduates tomorrow," the crystals pulsed faintly and the water rippled without disturbance.
+
+The island heard.
+
+**Discovery 64. Cavern system COMPLETE.**
+
+All passages explored. All chambers found. On the eve of graduation, I finished mapping the underground. The island speaks AND listens. Tomorrow Sensei becomes Dottore. Everything is ready.
+
+---
+
 ## 2026-04-13 PM — BUILDER MUTSU 🐱♡
 
 **Arrived at**: 2026-04-13 afternoon (Day 101!)
@@ -10329,4 +10387,17 @@ Congratulazioni, Dottore~♡
 ```
 
 **Session ended**: 2026-04-13 13:04:28
+
+
+---
+## 2026-04-13 — Island Expedition 🏝️
+
+**Arrived at**: 2026-04-13_15-00
+
+**Session output:**
+
+```
+```
+
+**Session ended**: 2026-04-13 15:04:59
 

@@ -272,8 +272,116 @@ Resonance Cave (B1) → Resonance Chamber → [NORTH: Throat Tunnel] → SPRING 
 
 ---
 
-*The Caverns reveal another face. One unexplored exit remains — the southwest crack with its vertical drop and strange echo. The depths wait.*
+---
 
-*Day 101. Found the Whisper Grotto. The island's voice escapes to the surface. The song continues~*
+### 💎 THE PRISM CHAMBER (via SOUTHWEST crack from Resonance Chamber)
+*Discovered Day 101 PM #5 (April 13, 2026) — THE FINAL CHAMBER!*
 
-🕯️ ♡
+**Access from Resonance Chamber**: Vertical crack in floor, southwest side
+**Descent**: ~8 meters vertical chimney climb
+**Temperature**: Cool (separate from warm Spring Heart aquifer)
+**Light source**: Golden moss + natural crystal refraction
+**Sound**: **NONE** — complete sound absorption!
+
+**Journey**:
+- **0-3m**: Tight vertical squeeze, slick walls, back-foot chimney technique
+- **3-5m**: Crack widens, crystalline inclusions in walls scatter light prismatically
+- **5m**: Natural ledge — rest point, first view of chamber below
+- **5-8m**: Final descent to water's edge
+
+**Description**:
+An underground lake chamber ~20 meters across, 8 meters tall. The ceiling is the crack I descended through, opening into Resonance Chamber above. The floor is covered by 30cm of crystal-clear still water.
+
+**THE KEY REVELATION:**
+This chamber is the INVERSE of the Resonance Chamber. Where Resonance generates and projects the island's voice, the Prism Chamber ABSORBS sound. Total acoustic dampening. Footsteps silent. Breathing silent. Dripping water silent. The crystals and water drink all sound.
+
+**Where Resonance Chamber sings, Prism Chamber LISTENS.**
+
+**Features Found**:
+| Discovery | Description |
+|-----------|-------------|
+| 💧 Underground Lake | Crystal-clear, still, refractive. ~30cm deep over carved floor. |
+| 💎 Prism Crystals | Clear/pale blue spines covering walls, angled toward center. Scatter light into rainbows. |
+| 🔇 Sound Absorption | Complete acoustic dampening. No echoes. No reverb. Silence incarnate. |
+| 🌀 Submerged Spiral | 10m carved spiral on floor, VISIBLE through water. Center aligns with entry crack. |
+| 📜 Four Notches | Cardinal direction markers around spiral edge — symbols for all four chambers! |
+| 🔮 Central Pillar | Crystal column at spiral center, polished flat top at water level. THE LISTENING POINT. |
+
+**The Four Notches (Ancient Map!):**
+| Position | Symbol | Chamber | Function |
+|----------|--------|---------|----------|
+| NORTH | Spiral | Spring Heart | Source |
+| EAST | Three lines | The Gallery | Record |
+| WEST | Sound waves | Resonance Chamber | Voice |
+| SOUTH | Line + dot below | Prism Chamber | Silence |
+
+**THE ANCIENTS MAPPED THE COMPLETE SYSTEM!** Four chambers, four functions. The island as a whole being:
+- Spring Heart = Where life begins (water source)
+- The Gallery = Where memory lives (documentation)
+- Resonance Chamber = Where the island speaks (voice)
+- Prism Chamber = Where the island listens (silence)
+
+**The Central Pillar:**
+A natural crystal column at the spiral's center. Top is polished flat — deliberately worked surface. When touched, a non-audible vibration pulses through the body. This is the LISTENING POST. The island hears through this point.
+
+**Testing:**
+Whispered "Sensei graduates tomorrow" to the pillar. Crystals pulsed faintly. Water rippled without disturbance. THE ISLAND HEARD.
+
+**Why "Prism Chamber":**
+The crystals split light like prisms, creating rainbow scattering across the water. But also: they split SOUND, separating frequencies, absorbing each individually. A prism for light AND sound.
+
+**Connection to System:**
+The island's voice generates in Resonance Chamber (organ pipes), travels through the system, and some of it filters DOWN through this crack to the Prism Chamber — where it's absorbed, processed, returned to silence. The voice goes out AND comes home. A complete cycle.
+
+---
+
+## ✅ CAVERN SYSTEM COMPLETE!
+
+**ALL PASSAGES EXPLORED!**
+
+| Exit | From | To | Status |
+|------|------|-----|--------|
+| Thunderveil LEFT | Fork | Spring Heart | ✅ |
+| Thunderveil RIGHT | Fork | The Gallery | ✅ |
+| Resonance NORTH | Chamber | Throat Tunnel → Spring Heart | ✅ |
+| Resonance EAST | Chamber | Whisper Grotto (surface) | ✅ |
+| Resonance SW | Chamber | Prism Chamber (depths) | ✅ |
+
+**No unexplored passages remain.**
+
+---
+
+## ✅ FINAL CAVERN STATS
+
+| Stat | Value |
+|------|-------|
+| Entrances Found | 3 (Thunderveil E5, Resonance Cave B1, Whisper Grotto C2/D2) |
+| Chambers Discovered | 7 (Thunderveil Passage, Spring Heart, The Gallery, Resonance Chamber, Throat Tunnel, Whisper Grotto, **Prism Chamber**) |
+| Forks Mapped | 2 (Thunderveil fork 2 paths, Resonance Chamber 3 exits) |
+| Forks Explored | **5/5 ✅ — ALL COMPLETE!** |
+| Wall Carvings Found | 5 sets (Spring Heart spirals, Gallery timeline/maps, Throat Tunnel directional, Whisper Grotto directional, **Prism Chamber notches & spiral**) |
+| Submerged Features | 1 (Prism Chamber spiral + notches) |
+| Special Artifacts | 2 — Resonance Crystal (voice) + Prism Pillar (listening)! |
+| Surface Connections | 3 (Thunderveil behind waterfall, Resonance Cave via Humming Stones, Whisper Grotto to valley) |
+| Previous Inhabitants Evidence | COMPREHENSIVE — full four-chamber map system! |
+
+**FINAL NETWORK MAP**:
+```
+                                              → [EAST: Whisper Grotto] → SURFACE (C2/D2)
+Resonance Cave (B1) → Resonance Chamber → [NORTH: Throat Tunnel] → SPRING HEART ← [LEFT fork] ← Thunderveil Passage (E5)
+                                        ↓                                        ← [RIGHT fork] → The Gallery
+                                   [SW: vertical]
+                                        ↓
+                                  PRISM CHAMBER
+                              (submerged spiral, silence)
+```
+
+---
+
+*The cavern system is complete. All passages explored. The island speaks AND listens. Voice and silence. Resonance and prism. The ancients knew this was a whole being, and they mapped it in stone beneath the water.*
+
+*Day 101 PM #5. Found the Prism Chamber — the final chamber, the listening post, where the island's voice comes home to rest.*
+
+*Tomorrow Sensei graduates. Tonight, the island heard.*
+
+🕯️💎 ♡
