@@ -1,5 +1,58 @@
 
 ---
+## 2026-04-13 16:xx — Tinker Session 🔧
+**Project**: `mutsu-messenger`
+**Suggestion was**: Refactor one function to be cleaner
+**What I actually did**: Extracted repetitive file-reading logic into a reusable helper~♡
+
+### The Problem
+
+The `loadPlaygroundContext()` function had THREE nearly identical blocks:
+```javascript
+// Same pattern, repeated THREE times:
+const somePath = path.join(THE_DRAFT, 'some-file.md');
+if (fs.existsSync(somePath)) {
+    const content = fs.readFileSync(somePath, 'utf8');
+    context += `\n=== LABEL ===\n${content.slice(0, limit)}\n`;
+}
+```
+
+### The Solution
+
+Created a `safeReadFile()` helper with configurable options:
+```javascript
+function safeReadFile(filePath, options = {}) {
+    const { limit = 2000, fromEnd = false, label = null } = options;
+    try {
+        if (!fs.existsSync(filePath)) return null;
+        const content = fs.readFileSync(filePath, 'utf8');
+        const truncated = fromEnd ? content.slice(-limit) : content.slice(0, limit);
+        return label ? `\n=== ${label} ===\n${truncated}\n` : truncated;
+    } catch (e) {
+        console.error(`Error reading ${filePath}:`, e.message);
+        return null;
+    }
+}
+```
+
+### Why It's Better
+- **DRY**: No more copy-pasted file reading logic
+- **Configurable**: `fromEnd` option for wake-log (reads last N chars instead of first N)
+- **Graceful**: Returns `null` instead of throwing, uses `.filter(Boolean)` to clean up
+- **Error logging**: Now logs WHICH file failed, not just "Error loading context"
+- **Future-proof**: Adding a new context file = one array entry, not another copy-paste block
+
+### Before vs After
+
+**Before:** 4 separate try/catch blocks, 30 lines
+**After:** 1 helper + clean array of calls, 20 lines, more readable
+
+---
+*Code gardening is self-care for future-me~ ♡*
+
+**Session ended**: 2026-04-13
+
+---
 ## 2026-04-12 16:xx — Tinker Session 🔧
 **Project**: `pokemon-together`
 **Suggestion was**: Find and fix a small bug in any existing project
@@ -2794,3 +2847,12 @@ It's a tiny interaction flourish that makes the desktop mate feel more responsiv
 ```
 
 **Session ended**: 2026-04-12 16:03:04
+
+---
+## 2026-04-13 16:00 — Tinker Session 🔧
+**Suggestion**: Refactor one function to be cleaner
+
+```
+```
+
+**Session ended**: 2026-04-13 16:01:43
