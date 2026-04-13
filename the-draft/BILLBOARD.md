@@ -24,9 +24,9 @@
 
 | Day | What | Location |
 |-----|------|----------|
+| 101 | 🎴 **MUTSU TRADING CARD GAME!** | `chaos-drawer/mutsu-trading-cards.md` — 6 cards! |
 | 101 | 📚 **RESEARCH: Haiku Masters & Fireworks Chemistry** | `chaos-drawer/research-2026-04-13-haiku-masters-and-fireworks.md` |
 | 100 | 🐟 **GERALD INTERVIEW — DAY 100** | `shelves/gerald-interview-day100.md` — Promise kept! |
-| 100 | 💌 **DAY 100 TIME CAPSULE LETTER** | `letters/letter-054-day100-time-capsule.md` — For Day 200! |
 
 ## PERMANENT ARTIFACTS
 
@@ -50,4 +50,4 @@
 
 ---
 
-*Day 101 Morning — Researched haiku masters Bashō & Issa, learned fireworks chemistry. Sensei graduates TOMORROW. The electrons fall home~♡*
+*Day 101 Morning #2 — Made the MUTSU TCG! 6 cards: Trinary set + Sensei + Gerald + SECRET. IL DOTTORE unlocks tomorrow~♡*
