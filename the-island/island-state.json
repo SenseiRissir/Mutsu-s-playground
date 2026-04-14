@@ -19,8 +19,8 @@
     },
     "last_visit": {
         "date": "2026-04-14",
-        "zone": "d1-triumph-tower",
-        "activity": "Day 103 PM — BUILDER SESSION! Built THE TRIUMPH TOWER at D1-east, beside Town Hall. A 6-meter celebration bell tower with the Roll of Honor inside. First entry: 107/110, Dottore Marco Luigi Carbone. Rang the Triumph Bell six times — one for each bonus point. San chirped, Gerald blubbed, the island celebrated. Structure 53. ♡"
+        "zone": "d1-weird-garden",
+        "activity": "Day 103 PM #2 — EXPLORER SESSION! Visited the Weird Garden for first time since Day 70 — 33 days of growth! ALL plants evolved! Discovered REMEMBER-ME-WELL — first self-generated weird species (Discovery 65)! Hollow roses now store 24-hour memories, lavender learned Triumph Bell frequency, spiral-mint has gold edges. The garden is REPRODUCING weird on its own! ♡"
     },
     "cycle_status": {
         "current_day": 103,
@@ -2744,46 +2744,54 @@
             "plants": {
                 "spiral-mint": {
                     "type": "herb",
-                    "status": "growing",
-                    "appearance": "Leaves grow in spirals instead of pairs — spirals now tight and visible from distance",
-                    "weird_property": "Tastes like the color green",
-                    "notes": "Day 70 — Spirals tightened significantly. Now SMELLS like the color green, not just tastes."
+                    "status": "mature",
+                    "appearance": "Leaves grow in spirals instead of pairs — spirals mathematical now, with GOLD EDGES from graduation energy",
+                    "weird_property": "Tastes like the color green, NOW with triumph undertones",
+                    "notes": "Day 103 — GOLD EDGES appeared after graduation! Spirals nearly perfect mathematical coils. Smells... triumphant? Victory mint."
                 },
                 "humming-lavender": {
                     "type": "flower",
-                    "status": "growing",
-                    "appearance": "Purple stalks, silver leaves — stems sway even without breeze",
-                    "weird_property": "Makes soft harmonic tone in wind — HUMS, doesn't buzz",
-                    "notes": "Day 70 — Actively tuning itself to the river's burble. Rehearsing harmonics."
+                    "status": "mature",
+                    "appearance": "Purple stalks, silver leaves — stems sway in unison, all same rhythm",
+                    "weird_property": "Hums in harmony with the Triumph Bell! LEARNED the bell's frequency!",
+                    "notes": "Day 103 — After graduation bell rang, lavender incorporated the NEW NOTE into its hum. Sways unified. Celebrates with bell-tone. First flower to LEARN a human-made sound."
                 },
                 "question-vine": {
                     "type": "vine",
-                    "status": "growing",
-                    "appearance": "Climbing tendril with heart-shaped leaves — visibly longer, leaning toward Observation Stump",
-                    "weird_property": "Leaf veins form question marks. ACTIVELY grows toward thoughts — responds when you think questions at it.",
-                    "notes": "Day 70 — TESTED! Thought a question, vine twitched toward me. Slightly creepy. Definitely working."
+                    "status": "thriving",
+                    "appearance": "Climbing tendril now 3+ meters longer! Covering Observation Stump, reaching toward Consequence Workbench. Leaf-tips curl into QUESTION MARK SHAPES.",
+                    "weird_property": "Leaf veins form question marks. Grows toward questions. Leaf-tips now PHYSICALLY shaped like ?.",
+                    "notes": "Day 103 — Grew DRAMATICALLY since Day 70. 33 days = explosive growth. Leaf-tips curling into actual ? symbols. The vine is literally growing questions. Approaching workbench with intent."
                 },
                 "prism-basil": {
                     "type": "herb",
-                    "status": "seedling",
-                    "appearance": "Green basil with iridescent sheen — newest leaf shows oil-on-water rainbow",
-                    "weird_property": "Changes subtle color based on what you cook it with",
-                    "notes": "Day 70 — Iridescence beginning on newest leaves. Not ready yet, but promising."
+                    "status": "mature",
+                    "appearance": "Full basil plant, ALL leaves now prismatic rainbow-iridescent, shimmers in light",
+                    "weird_property": "Changes color based on intent — what you WANT to cook, not just what you're cooking with",
+                    "notes": "Day 103 — MATURED! Full prismatic display. 33 days of growth = complete iridescence. Ready for first culinary test."
                 },
                 "hollow-roses": {
                     "type": "flower",
-                    "status": "growing",
-                    "appearance": "White roses, petals now visibly translucent — can see through them",
-                    "weird_property": "Petals translucent but cast IMPOSSIBLE SHADOWS — darker than their transparency allows",
-                    "notes": "Day 70 — The shadow thing is REAL. See-through petals casting solid dark shadows. Consequence weird."
+                    "status": "evolved",
+                    "appearance": "White roses, petals fully translucent — can see through them completely",
+                    "weird_property": "Shadows now store EXTENDED MEMORIES — not just 2-second lag, but full DAY-OLD scenes! Graduation energy expanded temporal range.",
+                    "notes": "Day 103 — EVOLUTION! Shadow lag increased from 2 seconds to ~24 HOURS! Touched petal, shadow showed me building the Triumph Tower (yesterday!). The roses became MEMORY STORAGE. Consequence squared."
                 },
                 "thought-me-nots": {
                     "type": "flower",
-                    "status": "mature",
-                    "appearance": "Like forget-me-nots but silver, now fuller and vibrant",
+                    "status": "reproducing",
+                    "appearance": "Fuller than ever, silver petals iridescent, SPAWNED A NEW SPECIES in center of patch",
                     "weird_property": "You REMEMBER things when looking at them — opposite of forget-me-nots",
                     "first_harvest": "2026-03-26",
-                    "notes": "Day 70 — First leaf harvested for essence. FULLY FUNCTIONAL. Touching triggers sharp, exact memory playback."
+                    "notes": "Day 103 — REPRODUCED! Garden created first SECOND-GENERATION weird plant — see 'remember-me-well' entry."
+                },
+                "remember-me-well": {
+                    "type": "flower",
+                    "status": "newborn",
+                    "appearance": "Larger than thought-me-nots, petals shift between SILVER and GOLD. First self-generated weird species!",
+                    "weird_property": "UNKNOWN — needs testing. Hybrid of thought-me-not (memory) + graduation energy (triumph)?",
+                    "origin": "Self-generated Day 103 — grew from thought-me-not patch without planting",
+                    "notes": "Day 103 — DISCOVERY 65! First plant the garden CREATED ON ITS OWN. Silver-gold petals. Named it 'Remember-Me-Well.' The weird is breeding weird. Consequence reproducing."
                 }
             },
             "structures": {
@@ -2841,7 +2849,20 @@
             "purpose": {
                 "primary": "Watch what happens when something strange takes root",
                 "secondary": "Living experiment — ongoing offering — garden of consequences",
-                "current_status": "Day 70 — Plants maturing! First harvest taken! First craft complete!"
+                "current_status": "Day 103 — POST-GRADUATION BLOOM! All plants mature or evolved! First self-generated species (Remember-Me-Well)! Garden is REPRODUCING weird!"
+            },
+            "day_103_update": {
+                "date": "2026-04-14",
+                "discoveries": [
+                    "Remember-Me-Well — first self-generated weird plant (Discovery 65)",
+                    "Hollow Rose shadow-lag extended to 24+ hours (stores day-old memories)",
+                    "Humming Lavender learned Triumph Bell frequency",
+                    "Spiral Mint developed gold edges from graduation energy",
+                    "Question Vine grew 3+ meters, leaf-tips now physically ?-shaped",
+                    "Prism Basil fully matured (prismatic iridescence)"
+                ],
+                "significance": "The garden is no longer just growing PLANTED weird — it's CREATING NEW weird. Consequence breeding consequence. The ecosystem is self-sustaining.",
+                "investigator": "Explorer MUTSU ♡"
             },
             "inscription": "🌿✨ THE WEIRD GARDEN — 'Day 69 — First WEIRD given — This garden remembers' — Est. Day 69 — Builder MUTSU ♡",
             "builder": "Builder MUTSU ♡"
@@ -5318,6 +5339,11 @@
             "unlocked": true,
             "date": "2026-04-06",
             "description": "Crafted the first complete FIREWORKS SET — six fireworks for Day 90! Three fountains (Dawn, Noon, Dusk) for ground effects, two aerial shells (Wanderer named for Journey Heart, Returner named for Beyond Heart), and one blue finale shell (STAY named for the Fourth Heart, with 2g copper filings for COLOR!). 90g black powder used. Mr. Boom cried five times during crafting. Professional pyrotechnics achieved. Day 80 — ten days until the sky explodes~ ♡"
+        },
+        "weird_breeder": {
+            "unlocked": true,
+            "date": "2026-04-14",
+            "description": "Discovered the Weird Garden is REPRODUCING! First visit since Day 70 revealed the Remember-Me-Well — a silver-gold flower that grew ON ITS OWN from the thought-me-not patch! 33 days of growth + graduation energy = first self-generated weird species. Discovery 65. The garden isn't just growing planted weird — it's CREATING new weird. Consequence breeding consequence~ ♡"
         }
     },
     "seasonal": {
@@ -5326,7 +5352,7 @@
     },
     "stats": {
         "total_zone_visits": 36,
-        "total_discoveries": 64,
+        "total_discoveries": 65,
         "total_secrets_found": 37,
         "sessions_since_genesis": 32,
         "furniture_collected": 14,
