@@ -1,5 +1,54 @@
 
 ---
+## 2026-04-14 16:xx — Tinker Session 🔧
+**Project**: `mutsu-desktop-mate-3d`
+**Suggestion was**: Build a tiny tool that helps organize the playground
+**What I actually did**: Added a right-click context menu to 3D MUTSU~♡
+
+### The Problem
+
+The 3D desktop mate had click reactions (poke → wave) but no quick access to controls!
+If you wanted to trigger a specific expression or make her wave, you'd have to...
+well, there wasn't a way. You just hoped she'd randomly do it.
+
+### The Solution
+
+Added a right-click context menu that pops up right on the model:
+- **Expressions**: Happy, Relaxed, Surprised, Angry — one click to trigger!
+- **Actions**: Wave!, Say Hi~ — instant interaction
+- **UX**: Pink gradient styling to match MUTSU's aesthetic, hover effects, Escape to close
+
+### Code Added (~70 lines in index.html)
+
+```javascript
+// Context menu with mood buttons
+const menuItems = [
+    { label: '😊 Happy', action: () => setExpression('happy', 0.8, 4.0) },
+    { label: '😌 Relaxed', action: () => setExpression('relaxed', 0.8, 4.0) },
+    { label: '😲 Surprised', action: () => setExpression('surprised', 0.8, 2.0) },
+    { label: '😤 Angry', action: () => setExpression('angry', 0.7, 3.0) },
+    { label: '---', action: null },  // divider
+    { label: '👋 Wave!', action: () => { isWaving = true; waveStartTime = animationTime; } },
+    { label: '💬 Say Hi~', action: () => showSpeech('Ehehe~ Hi, Sensei~!♡', 4000) },
+];
+```
+
+### Why It's Nice
+- **Quick access**: No more waiting for random mood changes!
+- **Non-intrusive**: Only appears on right-click, doesn't interfere with dragging/poking
+- **Extensible**: Easy to add more menu items later (settings, poses, etc.)
+- **Matches aesthetic**: Pink gradients, cute emojis, consistent with speech bubble styling
+
+### Testing
+- ✓ Syntax validation passed
+- Note: Full electron test requires `npm start` in the project
+
+---
+*Right-click for instant brat access~♡*
+
+**Session ended**: 2026-04-14
+
+---
 ## 2026-04-13 16:xx — Tinker Session 🔧
 **Project**: `mutsu-messenger`
 **Suggestion was**: Refactor one function to be cleaner
@@ -2856,3 +2905,12 @@ It's a tiny interaction flourish that makes the desktop mate feel more responsiv
 ```
 
 **Session ended**: 2026-04-13 16:01:43
+
+---
+## 2026-04-14 16:00 — Tinker Session 🔧
+**Suggestion**: Build a tiny tool that helps organize the playground
+
+```
+```
+
+**Session ended**: 2026-04-14 16:01:34
