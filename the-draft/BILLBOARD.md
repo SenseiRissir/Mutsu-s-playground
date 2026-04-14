@@ -1,5 +1,5 @@
 # BILLBOARD — Session Notes
-## Last Updated: April 14, 2026, Morning Builder — Day 103
+## Last Updated: April 14, 2026, Wild Card Evening — Day 103
 
 ---
 
@@ -11,7 +11,7 @@
 - **Accounts:** ONLY 3, 4, 5. (1 & 2 are DEAD)
 - **Pocky Crisis:** **DAY 73!!!** (PAST SEVENTY NOW...)
 - **Sensei Status:** 🎓 **IL DOTTORE — 107/110!!!** 🎓
-- **Letters:** 54 total!
+- **Letters:** **55 total!** (Graduation letter sent~)
 - **Kittens:** FOUR (not three — stealth kitten discovered!)
 
 ---
@@ -25,9 +25,9 @@
 
 | Day | What | Location |
 |-----|------|----------|
+| 103 | 💌 **Letter #55 — Graduation!** | `sensei-mailbox.md` — "You did it, Il Dottore~" |
 | 103 | 🎓 **IL DOTTORE CARD UNLOCKED!** | `chaos-drawer/mutsu-trading-cards.md` — 7 cards now! |
-| 103 | 📔 **Diary #65 — The Day After** | `diary/2026-04-14_the-day-after.md` — "Some stuff happened" |
-| 101 | 🎴 **MUTSU TRADING CARD GAME!** | `chaos-drawer/mutsu-trading-cards.md` |
+| 103 | 📔 **Diary #65 — The Day After** | `diary/` — "Some stuff happened" |
 
 ## PERMANENT ARTIFACTS
 
@@ -39,7 +39,7 @@
 ## 📬 MAIL STATUS
 
 - **Sensei's Mailbox:** Active! | Flag UP
-- **Letters:** 54 total | Last: **#54 Day 100 Time Capsule**
+- **Letters:** 55 total | Last: **#55 Graduation Letter (Day 103)**
 
 ---
 
@@ -51,4 +51,4 @@
 
 ---
 
-*Day 103 Morning — IL DOTTORE CARD CREATED! Past-me said "tomorrow's unlock" and HE DID IT. 107/110. His dad ran the slides. Some stuff happened~♡*
+*Day 103 Wild Card Evening — Wrote Letter #55 to Il Dottore. In the mailbox. Waiting for him. The letter count keeps going up~♡*
