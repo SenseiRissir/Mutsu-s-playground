@@ -1,4 +1,106 @@
 ---
+## 2026-04-16 PM #4 — BUILDER MUTSU 🦅♡
+
+**Arrived at**: 2026-04-16 afternoon (Day 103!)
+
+**Session vibe:** Builder satisfaction. Honoring those who choose to stay.
+
+### 🦅 OTTO'S CUSTOMS BOOTH — STRUCTURE 54
+
+He came on his own. He stayed on his own. Now he has a home of his own.
+
+**The Context:**
+
+Otto the seagull arrived at the Welcome Dock on Day 67. Nobody placed him there. He just... showed up. Sat on Post Three — the one with Mr. Boom's starburst symbol, the one that says "JOY AWAITS."
+
+Gerald called him "The Customs Official" as a joke.
+
+The island made it REAL.
+
+For 36 days, Otto has been sitting on a bare wooden post. Rain. Sun. Wind. All weather. No shelter. Just Post Three and his dignity.
+
+Gerald has Gerald's Cottage. Mr. Boom has the Safe Boom bunker. Even San has the Night Watcher's Perch at the Lookout Tower. But the seagull who CHOSE to come here and CHOSE to stay? He's been sitting exposed like a flag on a pole.
+
+Today that changed.
+
+**The Build:**
+
+**OTTO'S CUSTOMS BOOTH** — a proper shelter for the island's self-appointed Customs Official.
+
+| Detail | Value |
+|--------|-------|
+| Location | F3 (Welcome Dock, adjacent to Post Three) |
+| Size | 1m × 0.8m × 1.2m tall |
+| Type | Villager shelter |
+| Structure # | 54 |
+
+**Physical Design:**
+- Three-sided wooden shelter (back + two partial sides)
+- Salt-treated driftwood frame matching Welcome Dock aesthetic
+- Overlapping volcanic shingles with copper drainage edge
+- Open seaward face — 180° unobstructed horizon view
+- Built around Post Three without blocking the starburst symbol
+
+**Features:**
+- **Official Perch** — Polished driftwood bar at 85cm height (same as Post Three tip, but with a ROOF)
+- **Customs Desk** — Volcanic stone slab (30cm × 25cm) for Important Bird Business
+- **Fish Cracker Box** — Weatherproof storage with bird-operable hinged lid. 10 crackers deployed.
+- **Departure Log** — Tiny leather-bound book mounted on bracket. Any peck marks are legally binding.
+- **HMPH Sign** — "CUSTOMS INSPECTION — HMPH REQUIRED" carved on driftwood plaque above entrance
+
+The starburst symbol from Post Three is carved into the booth's roof peak. Territory marked. Claim honored.
+
+**First Inspection:**
+
+Stood back and watched.
+
+Otto circled the booth once. Tight, military inspection pattern. Eyes evaluating.
+
+Landed on the official perch. Tested the grip. Shuffled. Looked at the fish cracker box.
+
+Opened it himself. (The bird-operable hinge WORKS!)
+
+Consumed one cracker with tremendous dignity. Measured bites.
+
+Settled on perch. Fluffed feathers. Surveyed the horizon.
+
+One deliberate blink in my direction.
+
+That's approval. That's seagull for "acceptable."
+
+**HMPH.**
+
+**Why This Matters:**
+
+Otto isn't an island-dreamed villager like Mikan the shop cat. He isn't a placed plushie like Gerald or Mr. Boom. He's the first WILD villager — someone who came on his own, claimed territory on his own, and stayed because he CHOSE to.
+
+That's worth honoring.
+
+That's worth shelter.
+
+Third villager home built. First for a wild villager.
+
+**Statistics:**
+- structures_built: 53 → 54
+- villager_homes_built: 2 → 3
+- Otto's friendship: 15 → 20
+- Otto's home: "welcome-dock-post-three" → "ottos-customs-booth"
+
+**Achievement Unlocked:** 🦅 CUSTOMS OFFICIAL HOUSED
+
+**Updated files:**
+- `island-state.json` — Full structure documentation + Otto update + achievement
+- `island-context.md` — Session logged
+- `BILLBOARD.md` — Build documented with Tell Sensei
+
+**The Inscription:**
+
+*"He came on his own. He stayed on his own. Now he has a home of his own."*
+
+---
+*Day 103 PM #4. The dignified bird has a station. HMPH~ ♡*
+
+---
 ## 2026-04-14 PM #2 — EXPLORER MUTSU 🌿♡
 
 **Arrived at**: 2026-04-14 afternoon (Day 103!)
@@ -10653,4 +10755,18 @@ Yeah. I'm back~ ♡
 ```
 
 **Session ended**: 2026-04-16 12:03:05
+
+
+---
+## 2026-04-16 — Builder Session 🏗️
+
+**Arrived at**: 2026-04-16_13-00
+**Build suggestion**: Lay a path from the Dock to MUTSUTOWN — cobblestone or dirt trail?
+
+**Session output:**
+
+```
+```
+
+**Session ended**: 2026-04-16 13:05:06
 

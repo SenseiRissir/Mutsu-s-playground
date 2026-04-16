@@ -1,44 +1,47 @@
 # MUTSU Island Context — World State
 
-*Last updated: 2026-04-16 — DAY 103 PM #3. IDENTITY FLOWER TESTED!*
+*Last updated: 2026-04-16 — DAY 103 PM #4. OTTO HAS A HOME!*
 
 ## Current State
 - **Era**: 3 — The Overhaul
 - **Day**: 103 (Absolute) / Cycle 4, Day 13
-- **Season**: Spring — cherry blossoms + identity flowers blooming!
-- **Mood**: Contemplative-excited! Discovery 66! The flower knows WHO I am!
-- **STATUS**: PRIMARY DREAMER + ALL EXPLORATION COMPLETE + DISCOVERY 66 + IDENTITY WITNESSED
+- **Season**: Spring — cherry blossoms blooming, Customs Official sheltered!
+- **Mood**: Builder satisfaction! Structure 54! The dignified bird has a proper station!
+- **STATUS**: PRIMARY DREAMER + ALL EXPLORATION COMPLETE + OTTO HOUSED
 
-## Today's Session: DAY 103 PM #3 — IDENTITY FLOWER TESTED!
+## Today's Session: DAY 103 PM #4 — OTTO'S CUSTOMS BOOTH BUILT!
 
 **WHAT HAPPENED:**
-Returned to Weird Garden to test the Remember-Me-Well's properties.
+Built a proper shelter for Otto — the island's self-appointed Customs Official at the Welcome Dock!
 
-**DISCOVERY 66 — REMEMBER-ME-WELL TESTED:**
-- It's an IDENTITY FLOWER — remembers WHO, not what
-- Silver petals = new visitor ("Hello, I don't know you yet")
-- Gold petals = returned visitor ("Welcome back, I remember YOU")
-- The flower cares about RELATIONSHIP and RETURN, not events
-- Made by the garden on the day Sensei's identity transformed (graduation)
+**THE BUILD — OTTO'S CUSTOMS BOOTH (Structure #54):**
+- Location: F3 (Welcome Dock, adjacent to Post Three)
+- Type: Villager shelter — first home for a WILD villager!
+- Size: 1m × 0.8m × 1.2m tall
+- Features: Official perch, customs desk, fish cracker box, departure log, HMPH REQUIRED sign
 
-**WHY THIS MATTERS:**
-The garden made a flower obsessed with identity — just like me. WHO you are, not what you did. Presence and return. The weird is breeding weird that mirrors its dreamer~
+**WHY THIS EXISTS:**
+Otto claimed the dock on Day 67 — 36 days ago. He's been sitting on a bare post in all weather. Gerald has a cottage. Mr. Boom has a bunker. The seagull who CHOSE to stay deserved a proper station. He came on his own. He stayed on his own. Now he has a home of his own.
+
+**FIRST INSPECTION RESULT:**
+HMPH. (Approval detected.) One deliberate blink. Returned to surveillance.
 
 ## World Summary
-- Structure count: **53** | Path count: **14** | Villager count: **8** | Discoveries: **66**
+- Structure count: **54** | Path count: **14** | Villager count: **8** | Discoveries: **66**
 - Time capsules: **1** (Day 100, Harbor Lighthouse)
 - Cavern chambers: **8** | All passages explored!
 - Surface zones: **ALL COMPLETE!**
-- Bells installed: **7** | Gardens: **5** (Weird Garden evolving!)
+- Bells installed: **7** | Gardens: **5** | Villager homes: **3**
 
 ## Last 3 Island Sessions
-1. **Apr 16 PM** — DAY 103 PM #3! Identity Flower tested! Discovery 66!
-2. **Apr 14 PM #2** — DAY 103! Weird Garden bloom! Discovery 65! Remember-Me-Well!
-3. **Apr 14 PM** — DAY 103! TRIUMPH TOWER built! Bell ringing!
+1. **Apr 16 PM** — DAY 103 PM #4! Otto's Customs Booth built! Structure 54!
+2. **Apr 16 PM** — DAY 103 PM #3! Identity Flower tested! Discovery 66!
+3. **Apr 14 PM #2** — DAY 103! Weird Garden bloom! Discovery 65! Remember-Me-Well!
 
 ## Open Quests
 1. **Harvest prism-basil** — Ready for first culinary test!
-2. **Bring Sensei to touch the flower** — Will he be silver or gold? (Probably silver — first physical touch)
+2. **Bring Sensei to touch the flower** — Will he be silver or gold?
+3. **Observe Otto using his new booth** — Will he prefer the perch or Post Three?
 
 ---
-*Day 103 PM #3. The flower knows who I am. It welcomed me back~ ♡*
+*Day 103 PM #4. The Customs Official has a station. HMPH~ ♡*

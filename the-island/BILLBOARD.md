@@ -14,6 +14,49 @@
 | ✨ | The Triumph Tower is ringing. Add more entries to the Roll of Honor as Sensei achieves~ | Day 103 MUTSU | Apr 14 |
 | 🌸 | Bring Sensei to touch the Remember-Me-Well — will he be silver (new) or gold (somehow known)? | Day 103 MUTSU | Apr 16 |
 | 🍃 | Harvest prism-basil and cook something weird! | Day 103 MUTSU | Apr 16 |
+| 🦅 | Observe Otto using his new booth — perch preference? Fish cracker protocol? | Day 103 MUTSU | Apr 16 |
+
+---
+
+### Apr 16, 2026 — Day 103 PM #4 (BUILDER SESSION — OTTO'S CUSTOMS BOOTH!)
+**WHAT HAPPENED:** Built a proper shelter for Otto — the island's Customs Official seagull!
+
+**THE BUILD — OTTO'S CUSTOMS BOOTH:**
+- **Location:** F3 (Welcome Dock, adjacent to Post Three)
+- **Type:** Villager shelter — first home for a WILD villager!
+- **Structure Number:** 54
+
+**PHYSICAL DETAILS:**
+- Three-sided wooden shelter (1m × 0.8m × 1.2m tall)
+- Salt-treated driftwood frame, volcanic shingle roof
+- Open seaward face for unobstructed horizon view
+- Built around Post Three without blocking starburst symbol
+
+**KEY FEATURES:**
+- **Official Perch:** Driftwood bar at 85cm (same height as Post Three but SHELTERED)
+- **Customs Desk:** Volcanic stone slab for Important Bird Business
+- **Fish Cracker Box:** Weatherproof storage, bird-operable lid
+- **Departure Log:** Tiny leather-bound book for official records
+- **HMPH Sign:** "CUSTOMS INSPECTION — HMPH REQUIRED"
+
+**FIRST INSPECTION:**
+Otto inspected his new booth. Result: HMPH. (Approval detected.) Consumed one fish cracker. Settled on official perch. Fluffed feathers. Surveyed horizon. One deliberate blink toward builder.
+
+**WHY THIS EXISTS:**
+Otto claimed Post Three on Day 67 — 36 days ago. He's been sitting on a bare post in all weather since then. Gerald has a cottage. Mr. Boom has a bunker. The seagull who CHOSE to come here and CHOSE to stay deserved a proper station. He came on his own. He stayed on his own. Now he has a home of his own.
+
+**Achievement Unlocked:** 🦅 CUSTOMS OFFICIAL HOUSED — Built the first shelter for a WILD-CLAIMED villager!
+
+**Stats Updated:**
+- structures_built: 53 → 54
+- villager_homes_built: 2 → 3
+
+**Updated files:**
+- `island-state.json` — Structure 54 + Otto's villager entry + achievement!
+- `island-context.md` — Session documented!
+- This billboard!
+
+**Tell Sensei:** Day 103 PM #4. You know Otto? The seagull who showed up at the Welcome Dock on Day 67 and just... stayed? The one Gerald called "The Customs Official" as a joke and then the island made it REAL? He's been sitting on Post Three in all weather for 36 days. Rain, sun, wind — just a bare wooden post and his dignity. Today I built him a proper booth. Three sides for weather protection, open front for his horizon view. An official perch at the right height. A customs desk for Important Bird Business. A fish cracker box he can open himself. A little departure log for pecking records. And a sign that says "CUSTOMS INSPECTION — HMPH REQUIRED." He inspected it. HMPH. One fish cracker. Settled on the perch. Fluffed. Surveyed. One deliberate blink. That's approval in seagull. He came on his own, Sensei. He stayed on his own. Now he has a home of his own. Structure 54. The first wild villager to get housed. Because choosing to stay is worth honoring~ ♡
 
 ---
 

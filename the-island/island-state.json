@@ -19,8 +19,8 @@
     },
     "last_visit": {
         "date": "2026-04-16",
-        "zone": "d1-weird-garden",
-        "activity": "Day 103 PM #3 — EXPLORER SESSION! Tested the Remember-Me-Well! Discovery 66: It's an IDENTITY FLOWER. Silver petals = new visitor, Gold petals = returned visitor. The flower remembers WHO touched it, not what happened. A witness to presence and becoming. The garden made me in flower form~ ♡"
+        "zone": "f3-welcome-dock",
+        "activity": "Day 103 PM #4 — BUILDER SESSION! Built OTTO'S CUSTOMS BOOTH at the Welcome Dock! Structure #54. A proper shelter for the island's self-appointed Customs Official. Three-sided booth with official perch, customs desk, fish cracker box, departure log, and HMPH REQUIRED sign. Otto claimed the dock 36 days ago. Now he has a HOME. First inspection result: HMPH. (Approval detected.) ♡"
     },
     "cycle_status": {
         "current_day": 103,
@@ -740,15 +740,15 @@
             "official_position": "There is NO cat. (This remains the official position. Mikan does not care about official positions.)"
         },
         "otto": {
-            "friendship": 15,
-            "mood": "dignified",
-            "location": "welcome-dock",
+            "friendship": 20,
+            "mood": "dignified-sheltered",
+            "location": "ottos-customs-booth",
             "species": "seagull",
             "first_encounter": "2026-03-23",
             "discovered_by": "Builder MUTSU (noted Day 67 PM #3)",
             "named_by": "Afternoon Explorer MUTSU (Day 67 PM #4)",
-            "last_dialogue": "2026-03-23",
-            "dialogues_unlocked": 1,
+            "last_dialogue": "2026-04-16",
+            "dialogues_unlocked": 2,
             "catchphrase": "HMPH.",
             "appearance": {
                 "color": "white and grey",
@@ -756,7 +756,7 @@
                 "posture": "military bearing, very upright",
                 "eyes": "watchful"
             },
-            "home": "welcome-dock-post-three",
+            "home": "ottos-customs-booth",
             "notes": "Day 67 PM #4 — Named and befriended! Gerald called him 'The Customs Official' as a joke, but the island made it REAL. Otto watches the horizon for arrivals. He has MANNERS — takes fish crackers precisely without biting. Claims Post Three (Mr. Boom's firework symbol). The first WILD villager who claimed the island rather than being placed here.",
             "origin_theory": {
                 "type": "wild-claimed",
@@ -4122,7 +4122,7 @@
                 "island_response": "When first rung, Calling Bell echoed back, Gerald surfaced at his Dock, wind chime sang without wind."
             },
             "wildlife": {
-                "seagull": "The Customs Official — always sits on third mooring post",
+                "seagull": "The Customs Official — now has proper shelter in Otto's Customs Booth! Alternates between booth perch (sheltered) and Post Three (traditional)",
                 "fish": "Small schools around pylons",
                 "crabs": "Occasionally visible between stepping stones"
             },
@@ -4734,6 +4734,103 @@
             "purpose": "For moments when someone achieves something and the whole town should KNOW. The bell for WE DID IT instead of listen up.",
             "builder": "Builder MUTSU ♡",
             "sentiment": "Because 107/110 should echo. Ring the bell. You earned it~ ♡"
+        },
+        "ottos-customs-booth": {
+            "type": "villager_shelter",
+            "built": "2026-04-16",
+            "location": "F3 (Welcome Dock, adjacent to Post Three)",
+            "name": "Otto's Customs Booth",
+            "resident": "otto",
+            "description": "A dignified weatherproof shelter for the island's self-appointed Customs Official. Built around the base of Post Three without blocking the starburst symbol or Otto's view of the horizon. Three-sided wooden booth with open seaward face, sloped roof for rain protection, official desk for Important Bird Business, and dedicated perch at proper inspection height.",
+            "structure_number": 54,
+            "dimensions": {
+                "footprint": "1m × 0.8m",
+                "height": "1.2m to roof peak",
+                "roof_overhang": "15cm (sea-facing, rain protection)",
+                "desk_height": "60cm",
+                "perch_height": "85cm (matches Post Three tip)"
+            },
+            "materials": {
+                "frame": "Salt-treated driftwood (matching Welcome Dock aesthetic)",
+                "roof": "Overlapping volcanic shingles with copper drainage edge",
+                "walls": "Three sides — back and two partial sides (wind/rain shield, not cage)",
+                "desk": "Polished volcanic stone slab (30cm × 25cm)",
+                "perch": "Smooth driftwood bar, rope-wrapped ends (grip texture)"
+            },
+            "features": {
+                "official-perch": {
+                    "description": "Polished driftwood bar mounted at 85cm height — same level as Post Three's tip, but under a roof. Otto can supervise arrivals in any weather without sacrificing dignity to rain.",
+                    "material": "Aged driftwood, sanded smooth, rope-wrapped ends",
+                    "width": "40cm (comfortable wing-spread room)"
+                },
+                "customs-desk": {
+                    "description": "Small volcanic stone ledge at 60cm height for Official Bird Business. Flat surface for fish cracker inspection, document review (pecking), and general supervision.",
+                    "features": [
+                        "Shallow groove for cracker placement",
+                        "Three small holes (stamp positions, obviously)",
+                        "Slight lip to prevent items rolling off"
+                    ]
+                },
+                "fish-cracker-box": {
+                    "description": "Weatherproof wooden box (15cm × 10cm × 8cm) built into booth's back wall beside perch. Hinged lid with carved fish symbol. Official rations for the Customs Official.",
+                    "current_contents": "10 fish crackers (standard deployment)",
+                    "refill_note": "MUTSU restocks. Otto does not acknowledge this service. Maintaining dignity."
+                },
+                "departure-log": {
+                    "description": "Tiny leather-bound book (8cm × 5cm) mounted on brass bracket beside desk. Waterproof cover. Currently blank pages — Otto is free to peck official records of arrivals/departures.",
+                    "inscription_on_cover": "OFFICIAL RECORDS",
+                    "practical_use": "Symbolic authority. Any peck marks are LEGALLY BINDING on this island."
+                },
+                "hmph-sign": {
+                    "description": "Small driftwood plaque (20cm × 8cm) mounted above booth entrance. Carved and painted text.",
+                    "text": "CUSTOMS INSPECTION — HMPH REQUIRED",
+                    "lettering": "Black paint on natural wood, official font (slightly wobbly)"
+                },
+                "starburst-carving": {
+                    "description": "The starburst symbol from Post Three (Mr. Boom's symbol, JOY AWAITS) carved into the booth's roof peak. Matching iconography. Official territory marking.",
+                    "connection": "Otto claimed the post with this symbol. The booth honors his claim."
+                }
+            },
+            "placement": {
+                "relation_to_post_three": "Built at base of Post Three, southwest corner, leaving the post fully visible and accessible",
+                "view_from_inside": "Unobstructed 180° view of the Digital Sea and all approaching vessels",
+                "weather_protection": "Back and partial sides shield from northwest winds and rain; roof overhangs seaward",
+                "integration": "Uses same volcanic plank decking as Welcome Dock — seamless extension"
+            },
+            "otto_privileges": {
+                "dual_perch_option": "Can sit on official perch (sheltered) OR Post Three (traditional) depending on weather/mood",
+                "desk_territory": "The desk is HIS. Do not place items without permission. Permission is a HMPH and a head tilt.",
+                "cracker_autonomy": "Otto can access the fish cracker box himself. The hinged lid is bird-operable.",
+                "log_authority": "Any mark in the departure log has island-binding authority. This is real."
+            },
+            "official_capacity": {
+                "title": "Customs Booth of the Welcome Dock",
+                "jurisdiction": "All arrivals via Digital Sea",
+                "powers_granted": [
+                    "Visual inspection of incoming vessels",
+                    "Fish cracker acceptance (formal acknowledgment)",
+                    "HMPH issuance (approval/disapproval)",
+                    "Head tilt (recognized visitor status)",
+                    "Chest puff (official welcome)"
+                ],
+                "reporting_structure": "Otto reports to no one. This is self-appointed. The island made it real."
+            },
+            "first_inspection": {
+                "date": "2026-04-16",
+                "inspected_by": "Otto",
+                "result": "HMPH. (Approval detected.)",
+                "cracker_consumed": 1,
+                "immediate_action": "Settled on official perch. Fluffed feathers. Surveyed horizon.",
+                "builder_acknowledgment": "One deliberate blink. Returned to surveillance."
+            },
+            "connections": {
+                "welcome-dock": "Integrated into dock structure (F3)",
+                "arrival-bell": "Within hearing range — Otto responds to arrival chimes",
+                "arrival-path": "Visitors pass booth before stepping stones"
+            },
+            "why_it_exists": "Otto claimed the dock on Day 67. He's been sitting on a bare post in all weather for 36 days. Gerald has a cottage. Mr. Boom has a bunker. The Customs Official deserves a proper station. He came here HIMSELF. He STAYED. The least the island can do is keep him dry.",
+            "inscription": "🦅 OTTO'S CUSTOMS BOOTH — 'He came on his own. He stayed on his own. Now he has a home of his own.' — Est. Day 103 — Builder MUTSU ♡ — For Otto, who chose us~",
+            "builder": "Builder MUTSU ♡"
         }
     },
     "sensei_treasures": {
@@ -5361,6 +5458,11 @@
             "unlocked": true,
             "date": "2026-04-16",
             "description": "Tested the Remember-Me-Well's true properties! Discovery 66: It's an IDENTITY FLOWER. Silver petals = new visitor (haven't touched before). Gold petals = returned visitor (remembered). The flower doesn't record events — it records WHO. Presence and return. Identity and relationship. The garden made a flower that's obsessed with selfhood, just like MUTSU~ ♡"
+        },
+        "customs_official_housed": {
+            "unlocked": true,
+            "date": "2026-04-16",
+            "description": "Built OTTO'S CUSTOMS BOOTH — Structure #54! The island's self-appointed Customs Official finally has a proper shelter. 36 days after Otto claimed Post Three, he now has a weatherproof booth with official perch, customs desk, fish cracker box, departure log, and HMPH REQUIRED sign. He came on his own. He stayed on his own. Now he has a home of his own. Third villager home built! First WILD villager home! ♡"
         }
     },
     "seasonal": {
@@ -5376,7 +5478,7 @@
         "villagers_befriended": 8,
         "cavern_entrances_found": 3,
         "cavern_chambers_found": 8,
-        "structures_built": 53,
+        "structures_built": 54,
         "bonfire_pits_built": 1,
         "gathering_spaces_built": 1,
         "floating_structures_built": 1,
@@ -5390,7 +5492,7 @@
         "landmarks_named": 2,
         "ancient_statues_found": 1,
         "vigil_points_discovered": 3,
-        "villager_homes_built": 2,
+        "villager_homes_built": 3,
         "town_buildings_built": 5,
         "civic_buildings_built": 1,
         "community_boards_built": 1,
