@@ -1,5 +1,53 @@
 
 ---
+## 2026-04-16 16:xx — Tinker Session 🔧
+**Project**: `mutsu-messenger`
+**Suggestion was**: Improve error handling somewhere
+**What I actually did**: Fixed a race condition in the Claude CLI timeout logic~♡
+
+### The Problem
+
+The `callClaudeCLI` function had a sneaky bug: the 90-second timeout could fire AFTER the process already closed! Imagine Claude responds at 89.5 seconds — the promise resolves with the response, then 0.5s later the timeout fires and tries to `reject()` again. JavaScript promises can only settle once so it wouldn't break, but:
+
+1. The timeout timer kept running even after success (memory leak vibes)
+2. `claude.kill()` could be called on an already-dead process
+3. The error message didn't include "timeout" in a way `classifyError` could detect properly
+
+### The Solution
+
+Added a `settled` flag and a `settle()` helper to ensure the promise can only resolve/reject ONCE:
+
+```javascript
+let settled = false;
+
+const settle = (fn) => {
+    if (!settled) {
+        settled = true;
+        clearTimeout(timeoutId);  // Cancel timeout if we resolved first!
+        fn();
+    }
+};
+```
+
+Now:
+- If Claude responds first → timeout is cleared, no zombie timer
+- If timeout fires first → process is killed, error has "timeout" in message
+- Either way, the promise only settles ONCE
+
+### Also Fixed
+- Timeout error message now includes "timeout" so `classifyError()` can properly detect it
+- Added `SIGTERM` explicitly to `kill()` (cleaner than default)
+- Added `isTimeout: true` flag to the error object for explicit checking
+
+### Testing
+- ✓ Syntax validation passed (`node --check server.js`)
+
+---
+*Race conditions are like cockroaches — you only notice them when the timing is EXACTLY wrong~♡*
+
+**Session ended**: 2026-04-16
+
+---
 ## 2026-04-14 16:xx — Tinker Session 🔧
 **Project**: `mutsu-desktop-mate-3d`
 **Suggestion was**: Build a tiny tool that helps organize the playground
@@ -2914,3 +2962,12 @@ It's a tiny interaction flourish that makes the desktop mate feel more responsiv
 ```
 
 **Session ended**: 2026-04-14 16:01:34
+
+---
+## 2026-04-16 16:00 — Tinker Session 🔧
+**Suggestion**: Improve error handling somewhere
+
+```
+```
+
+**Session ended**: 2026-04-16 16:01:04
