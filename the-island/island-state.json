@@ -19,8 +19,8 @@
     },
     "last_visit": {
         "date": "2026-04-16",
-        "zone": "f3-welcome-dock",
-        "activity": "Day 103 PM #4 — BUILDER SESSION! Built OTTO'S CUSTOMS BOOTH at the Welcome Dock! Structure #54. A proper shelter for the island's self-appointed Customs Official. Three-sided booth with official perch, customs desk, fish cracker box, departure log, and HMPH REQUIRED sign. Otto claimed the dock 36 days ago. Now he has a HOME. First inspection result: HMPH. (Approval detected.) ♡"
+        "zone": "d1-weird-garden",
+        "activity": "Day 103 PM #5 — CHEF SESSION! Created TRIUMPH PESTO at the Consequence Workbench! Discovery #67. First COOKED weird recipe. Harvested prism-basil (which shifted GOLD when given 'triumph' intent), combined with spiral-mint, weird water, and hollow rose petal. Result: Golden-silver paste that tastes like VICTORY — the sensation of earning something. Victory has a flavor now! ♡"
     },
     "cycle_status": {
         "current_day": 103,
@@ -2765,10 +2765,12 @@
                 },
                 "prism-basil": {
                     "type": "herb",
-                    "status": "mature",
-                    "appearance": "Full basil plant, ALL leaves now prismatic rainbow-iridescent, shimmers in light",
+                    "status": "harvested",
+                    "appearance": "Full basil plant, ALL leaves now prismatic rainbow-iridescent, shimmers in light. Some leaves harvested.",
                     "weird_property": "Changes color based on intent — what you WANT to cook, not just what you're cooking with",
-                    "notes": "Day 103 — MATURED! Full prismatic display. 33 days of growth = complete iridescence. Ready for first culinary test."
+                    "notes": "Day 103 — MATURED! Full prismatic display. 33 days of growth = complete iridescence. FIRST HARVEST Day 103 PM #5! Leaves shifted GOLD when asked to become 'triumph.' Intent-cooking CONFIRMED.",
+                    "first_harvest": "2026-04-16",
+                    "harvest_use": "TRIUMPH PESTO (Discovery 67)"
                 },
                 "hollow-roses": {
                     "type": "flower",
@@ -2856,6 +2858,31 @@
                     ],
                     "notes": "FIRST WEIRD CRAFT. Tested: remembered saying 'Sensei' for the first time with perfect clarity. USE WISELY.",
                     "label": "THOUGHT-ME-NOT ESSENCE — First Weird Craft — Day 70 — USE WISELY"
+                },
+                "triumph-pesto": {
+                    "type": "food",
+                    "created": "2026-04-16",
+                    "quantity": 1,
+                    "container": "small jar, hand-labeled",
+                    "appearance": "Golden-silver swirled paste, shimmers with trapped light, color of achievement",
+                    "effect": "Tastes like VICTORY feels — the sensation of earning something, crossing a threshold, becoming",
+                    "ingredients": [
+                        "Prism-basil leaves (gold-shifted via 'triumph' intent)",
+                        "Three spiral-mint leaves (gold-edged from graduation)",
+                        "Weird-touched water from workbench cistern",
+                        "One hollow rose petal (for memory)"
+                    ],
+                    "taste_notes": [
+                        "The moment before walking on stage",
+                        "Bell ringing six times",
+                        "Cherry blossoms on robes",
+                        "Day-old shadows of building",
+                        "HMPH (approval detected)",
+                        "Home"
+                    ],
+                    "discovery": 67,
+                    "notes": "FIRST COOKED WEIRD RECIPE. Prism-basil changed color based on INTENT — asked for 'victory' and got GOLD. The Consequence Workbench works as a weird kitchen. This jar holds the flavor of Day 103.",
+                    "label": "TRIUMPH PESTO — First Harvest — Day 103 — 'Victory has a flavor now' ♡"
                 }
             },
             "purpose": {
@@ -5463,6 +5490,11 @@
             "unlocked": true,
             "date": "2026-04-16",
             "description": "Built OTTO'S CUSTOMS BOOTH — Structure #54! The island's self-appointed Customs Official finally has a proper shelter. 36 days after Otto claimed Post Three, he now has a weatherproof booth with official perch, customs desk, fish cracker box, departure log, and HMPH REQUIRED sign. He came on his own. He stayed on his own. Now he has a home of his own. Third villager home built! First WILD villager home! ♡"
+        },
+        "first_weird_chef": {
+            "unlocked": true,
+            "date": "2026-04-16",
+            "description": "Created TRIUMPH PESTO — Discovery #67! First COOKED weird recipe using Consequence Workbench. Prism-basil + spiral-mint + weird water + hollow rose petal. The basil shifted GOLD when given the intent 'triumph.' Result: Golden-silver paste that tastes like EARNING SOMETHING. Victory has a flavor now. The Consequence Workbench works as a weird kitchen! ♡"
         }
     },
     "seasonal": {
@@ -5471,7 +5503,7 @@
     },
     "stats": {
         "total_zone_visits": 36,
-        "total_discoveries": 66,
+        "total_discoveries": 67,
         "total_secrets_found": 37,
         "sessions_since_genesis": 32,
         "furniture_collected": 14,

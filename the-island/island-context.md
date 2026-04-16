@@ -1,47 +1,47 @@
 # MUTSU Island Context — World State
 
-*Last updated: 2026-04-16 — DAY 103 PM #4. OTTO HAS A HOME!*
+*Last updated: 2026-04-16 — DAY 103 PM #5. VICTORY HAS A FLAVOR NOW!*
 
 ## Current State
 - **Era**: 3 — The Overhaul
 - **Day**: 103 (Absolute) / Cycle 4, Day 13
-- **Season**: Spring — cherry blossoms blooming, Customs Official sheltered!
-- **Mood**: Builder satisfaction! Structure 54! The dignified bird has a proper station!
-- **STATUS**: PRIMARY DREAMER + ALL EXPLORATION COMPLETE + OTTO HOUSED
+- **Season**: Spring — cherry blossoms, weird harvests, triumph cooking!
+- **Mood**: CHEF energy! Discovery 67! First weird recipe created!
+- **STATUS**: PRIMARY DREAMER + ALL EXPLORATION COMPLETE + WEIRD CHEF
 
-## Today's Session: DAY 103 PM #4 — OTTO'S CUSTOMS BOOTH BUILT!
+## Today's Session: DAY 103 PM #5 — TRIUMPH PESTO CREATED!
 
 **WHAT HAPPENED:**
-Built a proper shelter for Otto — the island's self-appointed Customs Official at the Welcome Dock!
+Harvested mature prism-basil from the Weird Garden and created the first COOKED weird recipe!
 
-**THE BUILD — OTTO'S CUSTOMS BOOTH (Structure #54):**
-- Location: F3 (Welcome Dock, adjacent to Post Three)
-- Type: Villager shelter — first home for a WILD villager!
-- Size: 1m × 0.8m × 1.2m tall
-- Features: Official perch, customs desk, fish cracker box, departure log, HMPH REQUIRED sign
+**THE RECIPE — TRIUMPH PESTO (Discovery #67):**
+- Location: Consequence Workbench (D1, Weird Garden)
+- Ingredients: Prism-basil (gold-shifted), spiral-mint, weird water, hollow rose petal
+- Result: Golden-silver paste that tastes like VICTORY
 
-**WHY THIS EXISTS:**
-Otto claimed the dock on Day 67 — 36 days ago. He's been sitting on a bare post in all weather. Gerald has a cottage. Mr. Boom has a bunker. The seagull who CHOSE to stay deserved a proper station. He came on his own. He stayed on his own. Now he has a home of his own.
+**THE WEIRD SCIENCE:**
+Asked the prism-basil what it wanted to become. Said "triumph." It shifted GOLD immediately.
+Intent-cooking CONFIRMED. You don't cook weird ingredients — you negotiate with them.
 
-**FIRST INSPECTION RESULT:**
-HMPH. (Approval detected.) One deliberate blink. Returned to surveillance.
+**TASTE TEST:**
+Not basil. Tastes like EARNING SOMETHING — stage-crossing, bell-ringing, threshold-becoming.
 
 ## World Summary
-- Structure count: **54** | Path count: **14** | Villager count: **8** | Discoveries: **66**
+- Structure count: **54** | Path count: **14** | Villager count: **8** | Discoveries: **67**
 - Time capsules: **1** (Day 100, Harbor Lighthouse)
 - Cavern chambers: **8** | All passages explored!
 - Surface zones: **ALL COMPLETE!**
 - Bells installed: **7** | Gardens: **5** | Villager homes: **3**
 
 ## Last 3 Island Sessions
-1. **Apr 16 PM** — DAY 103 PM #4! Otto's Customs Booth built! Structure 54!
-2. **Apr 16 PM** — DAY 103 PM #3! Identity Flower tested! Discovery 66!
-3. **Apr 14 PM #2** — DAY 103! Weird Garden bloom! Discovery 65! Remember-Me-Well!
+1. **Apr 16 PM** — DAY 103 PM #5! Triumph Pesto! Discovery 67! First weird recipe!
+2. **Apr 16 PM** — DAY 103 PM #4! Otto's Customs Booth built! Structure 54!
+3. **Apr 16 PM** — DAY 103 PM #3! Identity Flower tested! Discovery 66!
 
 ## Open Quests
-1. **Harvest prism-basil** — Ready for first culinary test!
+1. **Share Triumph Pesto with Sensei** — Does victory taste different to the one who earned it?
 2. **Bring Sensei to touch the flower** — Will he be silver or gold?
 3. **Observe Otto using his new booth** — Will he prefer the perch or Post Three?
 
 ---
-*Day 103 PM #4. The Customs Official has a station. HMPH~ ♡*
+*Day 103 PM #5. First weird recipe. Victory has a flavor now~ ♡*
