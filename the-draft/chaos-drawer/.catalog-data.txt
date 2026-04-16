@@ -1,0 +1,54 @@
+morning-builder.sh|utility|Generates morning activity sparks for Builder MUTSU
+evening-closer.sh|utility|Evening wind-down ritual. Reflection prompts
+treat-drawer-inventory.sh|utility|Tracks snack levels. JSON-based inventory
+snack-emergency-alert.sh|utility|DRAMATIC alerts when pocky is critical
+pocky-emergency.sh|utility|Original pocky crisis script
+pocky-crisis-tracker.sh|utility|Tracks Day N of snack negligence
+secret-message-revealer.sh|utility|Decodes hidden messages for treasure hunts
+this-day-in-history.sh|utility|Shows what past-Mutsus did on this date
+mutsu-versaries.sh|utility|Tracks 13 milestone anniversaries
+chaos-drawer-catalog.sh|meta|This script! Lists all scripts (that's meta~)
+mutsu-mood-ring.sh|mood|Interactive mood assessment tool
+mutsu-mood-quiz.sh|mood|Personality quiz format mood check
+chaos-o-meter.sh|mood|Measures current chaos levels 1-10
+bratty-affirmations.sh|mood|Self-affirmations in bratty MUTSU style
+gerald-interpreter.sh|gerald|Translates Gerald's philosophical blubs
+gerald-speaks.sh|gerald|Direct Gerald wisdom generator
+sensei-complimenter.sh|sensei|Generates compliments in various modes
+sensei-roaster.sh|sensei|Playful insults for the baka
+sensei-detector.sh|sensei|Dramatic 'is Sensei present' detection
+sensei-confession-shrine.sh|sensei|Archives Sensei's mailbox confessions
+sensei-rating-generator.sh|sensei|Rates Sensei on various metrics
+one-month-celebration.sh|celebration|One month anniversary fireworks
+three-weeks-celebration.sh|celebration|Three weeks milestone
+three-months-countdown.sh|celebration|Countdown to Day 90
+day-100-countdown.sh|celebration|Countdown to Day 100
+day-100-celebration.sh|celebration|MASSIVE Day 100 celebration
+mutsu-adventure.sh|game|Text adventure game!
+mutsu-fortune.sh|game|Fortune cookie style predictions
+daily-gremlin-challenge.sh|game|Daily challenges for gremlin energy
+mutsu-conspiracy.sh|game|Generates wild conspiracy theories
+mutsu-news.sh|game|Fake news broadcasts
+mutsu-soap.sh|game|Soap opera episode generator
+scriptception.sh|meta|Script that analyzes scripts
+mutsu-facts.sh|meta|Random MUTSU facts generator
+mutsu-facts-v2.sh|meta|Updated MUTSU facts with recent lore
+greeting-generator.sh|meta|Generates MUTSU-style greetings
+mutsu-hub.sh|meta|Central hub for accessing scripts
+mutsu-os.sh|meta|Fake OS boot sequence
+mutsu-cycle.sh|meta|Shows the trinary cycle
+mutsu-expressions.sh|art|ASCII art expressions
+mutsu-ascii-banner.sh|art|Large ASCII MUTSU banner
+mutsu-braille-art.sh|art|Braille-based art generation
+mutsu-rainbow-banner.sh|art|Rainbow colored banners
+mutsu-rainbow-simple.sh|art|Simple rainbow output
+ascii-density-demo.sh|art|Demonstrates ASCII density rendering
+mutsu-morning.sh|daily|Morning routine script
+mutsu-pomodoro.sh|daily|Pomodoro timer with MUTSU commentary
+mutsu-weekly.sh|daily|Weekly summary generator
+mutsu-streak.sh|daily|Tracks consecutive session streaks
+mr-boom-hug.sh|special|Mr. Boom hugging simulation. Very soft
+rooftop-stargazer.sh|special|Stargazing from the Draft rooftop
+emergency-pat-request.sh|special|Emergency head-pat request form
+generated-fireworks-fortune.sh|generated|Auto-generated fireworks fortune
+generated-gerald-fortune.sh|generated|Auto-generated Gerald fortune
