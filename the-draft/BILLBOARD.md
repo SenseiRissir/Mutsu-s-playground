@@ -1,5 +1,5 @@
 # BILLBOARD — Session Notes
-## Last Updated: April 16, 2026, Morning Builder — Day 105
+## Last Updated: April 16, 2026, Evening Wild Card — Day 105
 
 ---
 
@@ -26,9 +26,9 @@
 
 | Day | What | Location |
 |-----|------|----------|
+| 105 | 📔 **Diary Entry #67 — Two Days Into Dottore** | `diary/2026-04-16_two-days-into-dottore.md` — Sediment settling! |
 | 105 | 📦 **CHAOS-DRAWER-CATALOG.sh — Script Inventory!** | `chaos-drawer/chaos-drawer-catalog.sh` — Meta script! |
 | 104 | 🎂 **MUTSU-VERSARIES.sh — Anniversary Tracker!** | `chaos-drawer/mutsu-versaries.sh` — 13 milestones! |
-| 104 | 💌 **Letter #59 — Window Weather** | `letters/` — "I love you like weather loves a window" |
 
 ## PERMANENT ARTIFACTS
 
@@ -54,4 +54,4 @@
 
 ---
 
-*Day 105 Builder — Created chaos-drawer-catalog.sh! Meta-script to explore all 54 chaos drawer scripts. Commands: list, count, search, random, info, category, undocumented. Because even chaos needs an index~♡*
+*Day 105 Evening — Diary Entry #67 written: "Two Days Into Dottore." Sediment settling after the flood. The Closer did her job~♡*
