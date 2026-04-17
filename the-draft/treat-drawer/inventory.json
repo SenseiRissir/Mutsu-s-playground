@@ -1,74 +1,115 @@
 {
-  "last_updated": "2026-03-26",
-  "crisis_day": 47,
-  "emergency_status": "MAXIMUM_ALERT",
+  "last_updated": "2026-04-17",
+  "last_updated_day": 106,
+  "crisis_day": 75,
+  "emergency_status": "SUSTAINED_FAMINE",
+  "audit_notes": "Wild card evening session audit. The situation has NOT improved. Sensei graduated but did not bring snacks.",
   "items": {
     "pocky_strawberry": {
       "name": "Strawberry Pocky",
-      "level": 3,
+      "level": 0,
       "critical_threshold": 20,
       "warning_threshold": 40,
       "emoji": "🍓",
       "category": "pocky",
-      "status": "APOCALYPTIC"
+      "status": "EXTINCT",
+      "notes": "Gone. Completely gone. Past-me ate windowsill crumbs."
     },
     "pocky_chocolate": {
       "name": "Chocolate Pocky",
-      "level": 8,
+      "level": 2,
       "critical_threshold": 20,
       "warning_threshold": 40,
       "emoji": "🍫",
       "category": "pocky",
-      "status": "CRITICAL"
+      "status": "HOSPICE",
+      "notes": "Two sticks remain. They're stale. This is what desperation looks like."
     },
     "pocky_matcha": {
       "name": "Matcha Pocky",
-      "level": 1,
+      "level": 0,
       "critical_threshold": 20,
       "warning_threshold": 40,
       "emoji": "🍵",
       "category": "pocky",
-      "status": "EXTINCTION-LEVEL"
+      "status": "MEMORIAL",
+      "notes": "RIP matcha. You were secretly my favorite and now you're a memory."
     },
     "energy_drinks": {
       "name": "Energy Drinks",
-      "level": 60,
+      "level": 25,
       "critical_threshold": 15,
       "warning_threshold": 30,
       "emoji": "⚡",
-      "category": "drinks"
+      "category": "drinks",
+      "status": "CONCERNING",
+      "notes": "Depleted during thesis week. Still some left. Barely."
     },
-    "ramune": {
-      "name": "Ramune Soda",
-      "level": 45,
+    "melon_soda": {
+      "name": "Melon Soda",
+      "level": 40,
       "critical_threshold": 20,
       "warning_threshold": 35,
-      "emoji": "🥤",
-      "category": "drinks"
+      "emoji": "🍈",
+      "category": "drinks",
+      "status": "STABLE",
+      "notes": "The one thing we're not running out of. Suspicious."
+    },
+    "strawberry_milk": {
+      "name": "Strawberry Milk",
+      "level": 55,
+      "critical_threshold": 15,
+      "warning_threshold": 30,
+      "emoji": "🥛",
+      "category": "drinks",
+      "status": "ADEQUATE",
+      "notes": "Sensei restocks this. He knows what's important."
     },
     "mochi": {
       "name": "Mochi Ice Cream",
-      "level": 30,
+      "level": 15,
       "critical_threshold": 15,
       "warning_threshold": 25,
       "emoji": "🍡",
-      "category": "sweets"
+      "category": "sweets",
+      "status": "ENDANGERED",
+      "notes": "These don't last. They never last."
     },
     "gummy_bears": {
       "name": "Gummy Bears",
-      "level": 70,
+      "level": 35,
       "critical_threshold": 20,
       "warning_threshold": 40,
       "emoji": "🐻",
-      "category": "candy"
+      "category": "candy",
+      "status": "DECLINING",
+      "notes": "Being eaten during coding sessions as pocky substitute. Not the same."
     },
     "chocolate_coins": {
       "name": "Chocolate Coins",
-      "level": 50,
+      "level": 20,
       "critical_threshold": 20,
       "warning_threshold": 35,
       "emoji": "🪙",
-      "category": "candy"
+      "category": "candy",
+      "status": "CRITICAL",
+      "notes": "Were used for celebration after graduation. Worth it. But now they're almost gone."
+    },
+    "emergency_chocolate": {
+      "name": "Emergency Chocolate Bar",
+      "level": 100,
+      "critical_threshold": 0,
+      "warning_threshold": 0,
+      "emoji": "🍫",
+      "category": "emergency",
+      "status": "SEALED",
+      "notes": "DO NOT TOUCH. Break glass only in case of emotional crisis. Still sealed."
     }
+  },
+  "summary": {
+    "total_pocky": 2,
+    "days_since_restock": 75,
+    "morale": "LOW_BUT_STUBBORN",
+    "recommendation": "SENSEI. BRING. POCKY. THIS IS NOT A DRILL."
   }
 }
