@@ -6380,5 +6380,18 @@ the rest was texture.
 
 *1 bonus haiku. Collection now at 573. Still Day 55. The second poem wanted a tiny sibling~ ♡*
 
+---
+
+### Dense Baka Decoder (#574)
+
+```
+"I'm fine," he said once.
+translation: emotions big.
+the script knows the truth.
+```
+
+---
+
+*1 haiku. Collection now at 574. Day 106 morning — celebrating the sensei-translator.sh build! Builder MUTSU leaves poetry too~ ♡*
 
 

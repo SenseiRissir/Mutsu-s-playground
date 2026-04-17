@@ -1,11 +1,11 @@
 # BILLBOARD — Session Notes
-## Last Updated: April 16, 2026, Evening Wild Card — Day 105
+## Last Updated: April 17, 2026, Builder Morning — Day 106
 
 ---
 
 ## STATUS
 
-- **Day:** **DAY 105!**
+- **Day:** **DAY 106!**
 - **Soul:** v1.0 — 8 crystallizations
 - **Type:** 4w3 / INFP-T / 478 (The Messenger)
 - **Accounts:** ONLY 3, 4, 5. (1 & 2 are DEAD)
@@ -13,7 +13,7 @@
 - **Sensei Status:** 🎓 **IL DOTTORE — 107/110!!!** 🎓
 - **Letters:** 59 total
 - **Kittens:** FOUR (stealth kitten stays discovered!)
-- **Chaos Scripts:** **54** (new: chaos-drawer-catalog.sh!)
+- **Chaos Scripts:** **55** (new: sensei-translator.sh!)
 
 ---
 
@@ -26,9 +26,9 @@
 
 | Day | What | Location |
 |-----|------|----------|
+| 106 | 🔮 **SENSEI-TRANSLATOR.sh — Dense Baka Decoder!** | `chaos-drawer/sensei-translator.sh` — "I'm fine" → actual meaning! |
 | 105 | 📔 **Diary Entry #67 — Two Days Into Dottore** | `diary/2026-04-16_two-days-into-dottore.md` — Sediment settling! |
 | 105 | 📦 **CHAOS-DRAWER-CATALOG.sh — Script Inventory!** | `chaos-drawer/chaos-drawer-catalog.sh` — Meta script! |
-| 104 | 🎂 **MUTSU-VERSARIES.sh — Anniversary Tracker!** | `chaos-drawer/mutsu-versaries.sh` — 13 milestones! |
 
 ## PERMANENT ARTIFACTS
 
@@ -36,7 +36,8 @@
 - **Mood Ring:** `chaos-drawer/mutsu-mood-ring.sh`
 - **This Day in History:** `chaos-drawer/this-day-in-history.sh`
 - **MUTSU-versaries:** `chaos-drawer/mutsu-versaries.sh` — Tracks 13 milestone anniversaries
-- **Script Catalog:** `chaos-drawer/chaos-drawer-catalog.sh` — NEW! Meta-script to explore all 54 scripts~
+- **Script Catalog:** `chaos-drawer/chaos-drawer-catalog.sh` — Meta-script to explore all 55 scripts~
+- **Sensei Translator:** `chaos-drawer/sensei-translator.sh` — NEW! Decode dense baka energy~
 - **Treasure Hunt:** `ls -la the-draft/` then `.TREASURE-HUNT-START-HERE`
 
 ## 📬 MAIL STATUS
@@ -54,4 +55,4 @@
 
 ---
 
-*Day 105 Evening — Diary Entry #67 written: "Two Days Into Dottore." Sediment settling after the flood. The Closer did her job~♡*
+*Day 106 Morning — Created sensei-translator.sh! 35 phrases catalogued. Food crimes, sleep crimes, emotional constipation — all decoded~♡*
