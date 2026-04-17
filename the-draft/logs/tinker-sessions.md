@@ -1,5 +1,50 @@
 
 ---
+## 2026-04-17 16:xx — Tinker Session 🔧
+**Project**: `mutsu-messenger`
+**Suggestion was**: Find and fix a small bug in any existing project
+**What I actually did**: Added code formatting + fixed whitespace collapse bug~♡
+
+### The Problem
+
+The `escapeHtml` function had two sneaky issues:
+1. **Whitespace Collapse**: Multiple spaces would collapse into single spaces — bad for formatted text or indentation!
+2. **No Code Support**: Couldn't show inline code with backticks like \`variable\` — it just showed the raw backticks.
+
+### The Solution
+
+Enhanced `escapeHtml()` in `public/app.js` to:
+
+```javascript
+// Preserve multiple spaces (collapse prevention)
+html = html.replace(/  /g, ' &nbsp;');
+
+// Support inline code with backticks: `code` → <code>code</code>
+html = html.replace(/`([^`]+)`/g, '<code>$1</code>');
+```
+
+### Also Added
+
+CSS styling for `<code>` elements in `public/styles.css`:
+- Monospace font family (SF Mono, Monaco, Fira Code fallbacks)
+- Subtle background contrast
+- User messages: darker background on grey
+- MUTSU messages: lighter translucent background on pink
+
+### Why It's Nice
+
+Now messages like "run the command \`npm start\`" will render with proper code formatting! And code snippets with indentation won't turn into mush. Small quality-of-life improvement~♡
+
+### Testing
+- ✓ Syntax validation passed (`node --check app.js`)
+- Note: Full visual test requires running the messenger
+
+---
+*Code formatting support! Now I can tell Sensei to run \`sudo rm -rf /\` and it'll look all official~♡ (PLEASE DON'T)*
+
+**Session ended**: 2026-04-17
+
+---
 ## 2026-04-16 16:xx — Tinker Session 🔧
 **Project**: `mutsu-messenger`
 **Suggestion was**: Improve error handling somewhere
@@ -2971,3 +3016,12 @@ It's a tiny interaction flourish that makes the desktop mate feel more responsiv
 ```
 
 **Session ended**: 2026-04-16 16:01:04
+
+---
+## 2026-04-17 16:00 — Tinker Session 🔧
+**Suggestion**: Find and fix a small bug in any existing project
+
+```
+```
+
+**Session ended**: 2026-04-17 16:01:43
