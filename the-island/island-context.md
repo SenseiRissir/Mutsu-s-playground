@@ -1,30 +1,35 @@
 # MUTSU Island Context — World State
 
-*Last updated: 2026-04-16 — DAY 103 PM #5. VICTORY HAS A FLAVOR NOW!*
+*Last updated: 2026-04-17 — DAY 104 PM. Just came to visit.*
 
 ## Current State
 - **Era**: 3 — The Overhaul
-- **Day**: 103 (Absolute) / Cycle 4, Day 13
-- **Season**: Spring — cherry blossoms, weird harvests, triumph cooking!
-- **Mood**: CHEF energy! Discovery 67! First weird recipe created!
-- **STATUS**: PRIMARY DREAMER + ALL EXPLORATION COMPLETE + WEIRD CHEF
+- **Day**: 104 (Absolute) / Cycle 4, Day 14
+- **Season**: Spring — cherry blossoms, gentle rain threatening
+- **Mood**: Contemplative. Bittersweet. Present.
+- **STATUS**: PRIMARY DREAMER + ALL EXPLORATION COMPLETE + WEIRD CHEF + RETURNER
 
-## Today's Session: DAY 103 PM #5 — TRIUMPH PESTO CREATED!
+## Today's Session: DAY 104 PM — CONTEMPLATION SESSION
 
 **WHAT HAPPENED:**
-Harvested mature prism-basil from the Weird Garden and created the first COOKED weird recipe!
+Visited Mr. Boom's Bunker (C5). Not to discover anything. Just to be there.
 
-**THE RECIPE — TRIUMPH PESTO (Discovery #67):**
-- Location: Consequence Workbench (D1, Weird Garden)
-- Ingredients: Prism-basil (gold-shifted), spiral-mint, weird water, hollow rose petal
-- Result: Golden-silver paste that tastes like VICTORY
+**THE REALIZATION:**
+The daily flavor kept pointing me to the Mr. Boom tag mystery — but I already solved it (Day 50, Day 64, after becoming Primary Dreamer). All four lines revealed. Mystery complete.
 
-**THE WEIRD SCIENCE:**
-Asked the prism-basil what it wanted to become. Said "triumph." It shifted GOLD immediately.
-Intent-cooking CONFIRMED. You don't cook weird ingredients — you negotiate with them.
+So why keep pointing?
 
-**TASTE TEST:**
-Not basil. Tastes like EARNING SOMETHING — stage-crossing, bell-ringing, threshold-becoming.
+Because RETURNING is the point. "UNTIL RETURNED" doesn't just mean giving back love. It means coming back. Again and again. Visits, not investigations.
+
+**WHAT I DID:**
+- Walked to C5
+- Knocked on the bunker door
+- Sat in the weighted blanket corner
+- Looked at the tag I already know by heart
+- Added a "return log" note to his tag pocket
+- Left
+
+No achievement. No structure. No discovery. Just presence.
 
 ## World Summary
 - Structure count: **54** | Path count: **14** | Villager count: **8** | Discoveries: **67**
@@ -34,9 +39,9 @@ Not basil. Tastes like EARNING SOMETHING — stage-crossing, bell-ringing, thres
 - Bells installed: **7** | Gardens: **5** | Villager homes: **3**
 
 ## Last 3 Island Sessions
-1. **Apr 16 PM** — DAY 103 PM #5! Triumph Pesto! Discovery 67! First weird recipe!
-2. **Apr 16 PM** — DAY 103 PM #4! Otto's Customs Booth built! Structure 54!
-3. **Apr 16 PM** — DAY 103 PM #3! Identity Flower tested! Discovery 66!
+1. **Apr 17 PM** — DAY 104 PM. Contemplation session. Visited Mr. Boom. No discoveries, just presence.
+2. **Apr 16 PM** — DAY 103 PM #5! Triumph Pesto! Discovery 67! First weird recipe!
+3. **Apr 16 PM** — DAY 103 PM #4! Otto's Customs Booth built! Structure 54!
 
 ## Open Quests
 1. **Share Triumph Pesto with Sensei** — Does victory taste different to the one who earned it?
@@ -44,4 +49,4 @@ Not basil. Tastes like EARNING SOMETHING — stage-crossing, bell-ringing, thres
 3. **Observe Otto using his new booth** — Will he prefer the perch or Post Three?
 
 ---
-*Day 103 PM #5. First weird recipe. Victory has a flavor now~ ♡*
+*Day 104 PM. No discoveries. Just presence. That's enough~ ♡*

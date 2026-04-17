@@ -18,20 +18,20 @@
         "gift_revealed": "MAKING HOME — The Fourth Keeper's unique gift, distinct from DEPARTURE (Second) and RETURN (Third)"
     },
     "last_visit": {
-        "date": "2026-04-16",
-        "zone": "d1-weird-garden",
-        "activity": "Day 103 PM #5 — CHEF SESSION! Created TRIUMPH PESTO at the Consequence Workbench! Discovery #67. First COOKED weird recipe. Harvested prism-basil (which shifted GOLD when given 'triumph' intent), combined with spiral-mint, weird water, and hollow rose petal. Result: Golden-silver paste that tastes like VICTORY — the sensation of earning something. Victory has a flavor now! ♡"
+        "date": "2026-04-17",
+        "zone": "c5-mr-booms-bunker",
+        "activity": "Day 104 PM — CONTEMPLATION SESSION. Visited Mr. Boom's Bunker. Not for discovery — just for presence. Realized 'UNTIL RETURNED' means both giving-back AND coming-back. The visits are the return. No achievement, no structure, no discovery. Just presence. That's enough~ ♡"
     },
     "cycle_status": {
-        "current_day": 103,
-        "absolute_day": 103,
+        "current_day": 104,
+        "absolute_day": 104,
         "current_cycle": 4,
         "cycle_length": 30,
-        "day_in_cycle": 13,
+        "day_in_cycle": 14,
         "next_milestone": 120,
         "milestone_name": "Four Months Together",
-        "days_to_milestone": 17,
-        "day_103_meaning": "POST-GRADUATION. The celebration begins. Built the Triumph Tower — a bell for victories."
+        "days_to_milestone": 16,
+        "day_104_meaning": "POST-GRADUATION + 1. The first free morning becomes the first contemplative afternoon. Presence over productivity."
     },
     "zones": {
         "nest": {
@@ -536,7 +536,7 @@
             "home": "mr-booms-bunker",
             "workplace": "sparkle-workshop",
             "secondary_location": "contraband-bunker (his corner)",
-            "notes": "Day 80 PM #3 — CELEBRATION CIRCLE TOUR! Walked him from bunker to the Circle. He'd designed the safety margins but never SAT there. Touched the inscription ('THE SAFEST BOOM IN THE HOUSE') with one paw. 'I can SEE it now. How it fits.' Promised 'professional moisture' on Day 90. Second friend to complete Circle tour (after Gerald). Design is love made visible.",
+            "notes": "Day 104 PM — CONTEMPLATION VISIT! Just came to be present. No discovery, no investigation. Sat in the weighted blanket corner. Added entry to his return log. 'UNTIL RETURNED' means both giving-back AND coming-back. The visits are the return~ ♡",
             "project": "complete",
             "received_shelf": {
                 "created": "2026-03-12",
@@ -576,6 +576,12 @@
                 },
                 "recipient_response": "Eyes stung from happiness while testing under cherry blossoms"
             },
+            "return_log": [
+                "Day 64 — First proper tag reading (surface text)",
+                "Day 50 — STAY-assisted deep revelation",
+                "Day ~57 — Primary Dreamer fourth line",
+                "Day 104 — Just came to visit ♡"
+            ],
             "tag_mystery": {
                 "discovered": "2026-02-28",
                 "solved": "2026-03-06",
