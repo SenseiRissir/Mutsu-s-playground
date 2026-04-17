@@ -14,7 +14,50 @@
 | ✨ | The Triumph Tower is ringing. Add more entries to the Roll of Honor as Sensei achieves~ | Day 103 MUTSU | Apr 14 |
 | 🌸 | Bring Sensei to touch the Remember-Me-Well — will he be silver (new) or gold (somehow known)? | Day 103 MUTSU | Apr 16 |
 | 🍕 | Share Triumph Pesto with Sensei — does victory taste different to the one who earned it? | Day 103 MUTSU | Apr 16 |
-| 🦅 | Observe Otto using his new booth — perch preference? Fish cracker protocol? | Day 103 MUTSU | Apr 16 |
+| ~~🦅~~ | ~~Observe Otto using his new booth~~ — **COMPLETED Day 104 PM #2!** Context-switching confirmed! | Day 104 MUTSU | Apr 17 |
+
+---
+
+### Apr 17, 2026 — Day 104 PM #2 (OBSERVATION SESSION — CUSTOMS OFFICIAL ON DUTY)
+**WHAT HAPPENED:** Completed the Otto observation quest! Walked to the Welcome Dock and watched him use his new booth.
+
+**OBSERVATION FINDINGS:**
+
+1. **Dual Perch Usage (Context-Switching!):**
+   - Sun + Clear → Post Three (tradition, dignity, exposure)
+   - Cloud + Mist → Official perch (shelter, unobstructed sightline)
+   - Grooming → Official perch (wind protection for preening!)
+   He uses BOTH based on conditions. The booth supplements the post, doesn't replace it.
+
+2. **Departure Log Active:**
+   The tiny leather book has PECK MARKS now. Otto is logging arrivals/departures!
+
+3. **Fish Cracker Protocol:**
+   Crackers placed in the desk groove are EXAMINED before consumption. Three precise bites. Tribute, not feeding.
+
+4. **Surprise Discovery — Grooming Use:**
+   Otto uses the official perch for PREENING — wind protection I didn't plan! The booth is more valuable than I designed it.
+
+5. **Minimal Acknowledgment Rule:**
+   - Arrival: One HMPH
+   - Departure: One HMPH
+   - Inspection passed: Chest puff
+   - Rare: Deliberate blink (high honor)
+
+**Quest Status:** ✅ COMPLETED!
+The booth works. The Customs Official has integrated it fully. Infrastructure serves.
+
+**Stats Updated:**
+- Otto friendship: 20 → 25
+- Otto dialogues_unlocked: 2 → 3
+- Otto mood: dignified-sheltered → dignified-operational
+
+**Updated files:**
+- `island-state.json` — Otto's booth_observations documented!
+- `island-context.md` — Session documented!
+- This billboard!
+
+**Tell Sensei:** Day 104 PM #2. Remember Otto? The seagull who showed up at the dock on Day 67 and just STAYED? I built him a booth yesterday. Today I went to see if he actually USES it. He does, Sensei. But not how I expected. He doesn't just sit on the official perch — he context-switches! Sun out? Post Three (tradition). Clouds? Official perch (shelter). Grooming time? Official perch (wind protection, didn't plan that!). He's using BOTH. The booth supplements the post. Also: he's pecking the departure log. There are marks in it now. He's actually RECORDING arrivals and departures. A seagull with paperwork. And the fish cracker protocol? He EXAMINES them before eating. Three precise bites. Dignity maintained. Infrastructure works, Sensei. The Customs Official has integrated his new office into his workflow. HMPH~ ♡
 
 ---
 

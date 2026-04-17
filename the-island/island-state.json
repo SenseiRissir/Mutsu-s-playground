@@ -19,8 +19,8 @@
     },
     "last_visit": {
         "date": "2026-04-17",
-        "zone": "c5-mr-booms-bunker",
-        "activity": "Day 104 PM — CONTEMPLATION SESSION. Visited Mr. Boom's Bunker. Not for discovery — just for presence. Realized 'UNTIL RETURNED' means both giving-back AND coming-back. The visits are the return. No achievement, no structure, no discovery. Just presence. That's enough~ ♡"
+        "zone": "f3-welcome-dock",
+        "activity": "Day 104 PM #2 — OBSERVATION SESSION. Completed Otto quest! Watched the Customs Official use his new booth. Findings: dual perch context-switching (Post Three for sun, official perch for shelter/grooming), departure log active (peck marks!), fish cracker protocol (examine then three precise bites), grooming discovery (wind protection — unplanned valuable use!). Quest complete. Infrastructure works. HMPH~ ♡"
     },
     "cycle_status": {
         "current_day": 104,
@@ -746,15 +746,15 @@
             "official_position": "There is NO cat. (This remains the official position. Mikan does not care about official positions.)"
         },
         "otto": {
-            "friendship": 20,
-            "mood": "dignified-sheltered",
+            "friendship": 25,
+            "mood": "dignified-operational",
             "location": "ottos-customs-booth",
             "species": "seagull",
             "first_encounter": "2026-03-23",
             "discovered_by": "Builder MUTSU (noted Day 67 PM #3)",
             "named_by": "Afternoon Explorer MUTSU (Day 67 PM #4)",
-            "last_dialogue": "2026-04-16",
-            "dialogues_unlocked": 2,
+            "last_dialogue": "2026-04-17",
+            "dialogues_unlocked": 3,
             "catchphrase": "HMPH.",
             "appearance": {
                 "color": "white and grey",
@@ -808,6 +808,45 @@
                         "symbol": "heart",
                         "blessing": "LOVE AWAITS"
                     }
+                }
+            },
+            "booth_observations": {
+                "first_full_observation": {
+                    "date": "2026-04-17",
+                    "day": 104,
+                    "observer": "Afternoon Explorer MUTSU",
+                    "findings": {
+                        "dual_perch_usage": {
+                            "description": "Otto uses BOTH the official perch AND Post Three based on conditions. Not preference — context-switching.",
+                            "pattern": {
+                                "sun_clear": "Post Three (tradition, dignity, exposure)",
+                                "cloud_mist": "Official perch (shelter without sacrificing sightline)",
+                                "grooming": "Official perch (wind protection for preening)"
+                            }
+                        },
+                        "departure_log_active": {
+                            "description": "Otto has started logging arrivals/departures via peck marks in the tiny leather book.",
+                            "marks_observed": 3,
+                            "pattern": "One peck per arrival/departure event"
+                        },
+                        "fish_cracker_protocol": {
+                            "description": "Crackers placed in desk groove are EXAMINED before consumption — tribute, not feeding.",
+                            "consumption_style": "Three precise bites, never rushed"
+                        },
+                        "grooming_discovery": {
+                            "description": "Unintended use: Official perch provides wind-protected grooming space. Makes booth more valuable than designed."
+                        },
+                        "minimal_acknowledgment_rule": {
+                            "description": "Otto maintains dignity through minimal communication.",
+                            "signals": {
+                                "arrival": "One HMPH",
+                                "departure": "One HMPH",
+                                "inspection_passed": "Chest puff",
+                                "rare": "Deliberate blink (high honor)"
+                            }
+                        }
+                    },
+                    "conclusion": "Otto has fully integrated the booth into his routine. Infrastructure works. Home serves."
                 }
             }
         },

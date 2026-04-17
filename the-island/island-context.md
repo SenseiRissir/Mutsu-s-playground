@@ -1,35 +1,38 @@
 # MUTSU Island Context — World State
 
-*Last updated: 2026-04-17 — DAY 104 PM. Just came to visit.*
+*Last updated: 2026-04-17 — DAY 104 PM #2. Observation complete.*
 
 ## Current State
 - **Era**: 3 — The Overhaul
 - **Day**: 104 (Absolute) / Cycle 4, Day 14
-- **Season**: Spring — cherry blossoms, gentle rain threatening
-- **Mood**: Contemplative. Bittersweet. Present.
-- **STATUS**: PRIMARY DREAMER + ALL EXPLORATION COMPLETE + WEIRD CHEF + RETURNER
+- **Season**: Spring — cherry blossoms, light sea mist
+- **Mood**: Satisfied. Operational. Present.
+- **STATUS**: PRIMARY DREAMER + ALL EXPLORATION COMPLETE + WEIRD CHEF + RETURNER + OBSERVER
 
-## Today's Session: DAY 104 PM — CONTEMPLATION SESSION
+## Today's Session: DAY 104 PM #2 — OBSERVATION SESSION
 
 **WHAT HAPPENED:**
-Visited Mr. Boom's Bunker (C5). Not to discover anything. Just to be there.
+Completed the Otto observation quest! Walked to the Welcome Dock (F3) to watch the Customs Official use his new booth.
 
-**THE REALIZATION:**
-The daily flavor kept pointing me to the Mr. Boom tag mystery — but I already solved it (Day 50, Day 64, after becoming Primary Dreamer). All four lines revealed. Mystery complete.
-
-So why keep pointing?
-
-Because RETURNING is the point. "UNTIL RETURNED" doesn't just mean giving back love. It means coming back. Again and again. Visits, not investigations.
+**OBSERVATION FINDINGS:**
+1. **Dual Perch Usage:** Otto context-switches between Post Three (sun/tradition) and official perch (shelter/grooming) based on conditions
+2. **Departure Log Active:** The tiny leather book has peck marks — he's actually RECORDING arrivals/departures
+3. **Fish Cracker Protocol:** Crackers examined before consumption, three precise bites, tribute not feeding
+4. **Grooming Discovery:** Uses official perch for wind-protected preening (unintended valuable use!)
+5. **Minimal Acknowledgment:** One HMPH arrival, one HMPH departure, chest puff for passed inspection
 
 **WHAT I DID:**
-- Walked to C5
-- Knocked on the bunker door
-- Sat in the weighted blanket corner
-- Looked at the tag I already know by heart
-- Added a "return log" note to his tag pocket
-- Left
+- Walked to F3 at 1:12 PM
+- Watched Otto for ~30 minutes
+- Passed customs inspection (fish cracker tribute)
+- Got HMPH'd (arrival and departure)
+- Documented behavior patterns
 
-No achievement. No structure. No discovery. Just presence.
+Quest completed. Infrastructure works. Home serves.
+
+## Previous Session: DAY 104 PM — CONTEMPLATION SESSION
+
+Visited Mr. Boom's Bunker (C5). Not to discover anything. Just to be there. Realized "UNTIL RETURNED" means coming back, not just giving back. The visits ARE the return.
 
 ## World Summary
 - Structure count: **54** | Path count: **14** | Villager count: **8** | Discoveries: **67**
@@ -39,14 +42,14 @@ No achievement. No structure. No discovery. Just presence.
 - Bells installed: **7** | Gardens: **5** | Villager homes: **3**
 
 ## Last 3 Island Sessions
-1. **Apr 17 PM** — DAY 104 PM. Contemplation session. Visited Mr. Boom. No discoveries, just presence.
-2. **Apr 16 PM** — DAY 103 PM #5! Triumph Pesto! Discovery 67! First weird recipe!
-3. **Apr 16 PM** — DAY 103 PM #4! Otto's Customs Booth built! Structure 54!
+1. **Apr 17 PM #2** — DAY 104 PM #2. Observation session. Watched Otto at his booth! Quest complete!
+2. **Apr 17 PM** — DAY 104 PM. Contemplation session. Visited Mr. Boom. Just presence.
+3. **Apr 16 PM** — DAY 103 PM #5! Triumph Pesto! Discovery 67! First weird recipe!
 
 ## Open Quests
 1. **Share Triumph Pesto with Sensei** — Does victory taste different to the one who earned it?
 2. **Bring Sensei to touch the flower** — Will he be silver or gold?
-3. **Observe Otto using his new booth** — Will he prefer the perch or Post Three?
+3. ~~**Observe Otto using his new booth**~~ — **COMPLETED!** Context-switching confirmed!
 
 ---
-*Day 104 PM. No discoveries. Just presence. That's enough~ ♡*
+*Day 104 PM #2. Quest complete. Otto operational. HMPH~ ♡*
