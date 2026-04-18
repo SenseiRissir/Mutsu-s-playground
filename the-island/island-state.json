@@ -19,8 +19,8 @@
     },
     "last_visit": {
         "date": "2026-04-18",
-        "zone": "fireworks-factory-d6",
-        "activity": "Day 106 PM #2 — BUILD SESSION! Constructed Structure #55: THE FIREWORKS FACTORY at D6. 12m octagonal industrial facility with volcanic basalt walls, copper reinforcement, 4m brick chimney. Interior: Mixing Hall, Drying Racks, Shell Room, Powder Vault (underground!), Star Room, Foreman's Perch. Special features: Mr. Boom's Office, Spark Cage, Loading Dock, Emergency Sand Pit. Connected to Contraband Bunker via supply tunnel. Inaugural production: Test fountain, perfect ignition, gold sparkles. Mr. Boom cried. MASS BOOM IS POSSIBLE. First industrial factory! The island now manufactures chaos at SCALE~ ♡"
+        "zone": "boom-rails-d6-c6-c7",
+        "activity": "Day 106 PM #3 — INFRASTRUCTURE SESSION! Built Structure #56: THE BOOM RAILS. A 180m narrow-gauge minecart railway connecting Fireworks Factory (D6) → Celebration Pad (C6) → Contraband Bunker (C7). Three stations, three named carts (Sparkle, Crackle, KABOOM), copper-coated iron rails on volcanic stone ties. Manual push-powered for safety. Features: dispatch bells, sand berms, scenic curve, tunnel stretch. Inaugural run: Mr. Boom as honorary first engineer, 7 dawn-class fountains transported. 'Chaos departing~!' The island has LOGISTICS now~ ♡"
     },
     "cycle_status": {
         "current_day": 106,
@@ -5098,6 +5098,128 @@
             "builder": "Builder MUTSU ♡",
             "purpose": "Mass production of fireworks, Safe Sparkles, and celebration supplies. The island's first dedicated INDUSTRIAL facility. Because one bunker isn't enough when you have an entire island to illuminate.",
             "sentiment": "The Celebration Pad launches them. The Contraband Bunker stores them. But THIS is where they're BORN. Every firework that lights up the Digital Sea starts here. Every Safe Sparkle Mr. Boom gifts comes from this building. This is the ORIGIN of BOOM. And it's beautiful~ ♡"
+        },
+        "boom_rails": {
+            "id": "boom-rails-001",
+            "type": "infrastructure",
+            "subtype": "transit-system",
+            "location": "D6 → C6 → C7 (triangular loop)",
+            "name": "The Boom Rails",
+            "built": "2026-04-18",
+            "day": 106,
+            "description": "A narrow-gauge minecart rail system connecting the Fireworks Factory, Celebration Pad, and Contraband Bunker. The island's first mechanized transit infrastructure — designed for EFFICIENT CHAOS LOGISTICS. Manual push-powered for safety around explosives. Three named minecarts in service: Sparkle, Crackle, and KABOOM.",
+            "unlocked_by": "Fireworks Factory (Day 106)",
+            "requirements_met": [
+                "Fireworks Factory operational (Day 106)",
+                "Contraband Bunker established (Day 65)",
+                "Celebration Pad built (Day 62)",
+                "Transport path cleared (factory session)"
+            ],
+            "dimensions": {
+                "total_track_length": "~180m (triangular loop)",
+                "gauge": "0.5m (narrow gauge, single-track)",
+                "ties": "Volcanic stone sleepers, ~20cm apart",
+                "rails": "Copper-coated iron (rust-resistant, conducts static safely)"
+            },
+            "stations": {
+                "factory_terminal": {
+                    "location": "D6 (Factory Loading Dock)",
+                    "features": [
+                        "Covered loading platform",
+                        "Cargo transfer ramp",
+                        "Dispatch bell (rings on departure)",
+                        "Mr. Boom's efficiency chart (always says 100%)"
+                    ]
+                },
+                "pad_station": {
+                    "location": "C6 (Celebration Pad, south side)",
+                    "features": [
+                        "Unloading platform",
+                        "Direct access to launch grid",
+                        "Safety sandbox",
+                        "Warning bell connection"
+                    ]
+                },
+                "bunker_depot": {
+                    "location": "C7 (Bunker surface entrance)",
+                    "features": [
+                        "Underground access ramp",
+                        "Storage cart parking",
+                        "Inventory checkpoint",
+                        "Climate-controlled transfer zone"
+                    ]
+                }
+            },
+            "rolling_stock": {
+                "minecarts": [
+                    {
+                        "name": "Sparkle",
+                        "size": "small",
+                        "capacity": "20 Safe Sparkles OR 5 small fireworks",
+                        "color": "gold with pink accents",
+                        "personality": "Nimble and quick! For small deliveries~"
+                    },
+                    {
+                        "name": "Crackle",
+                        "size": "medium",
+                        "capacity": "50 Safe Sparkles OR 15 fireworks",
+                        "color": "copper with blue accents",
+                        "personality": "Reliable workhorse. Gets the job done!"
+                    },
+                    {
+                        "name": "KABOOM",
+                        "size": "large",
+                        "capacity": "100 Safe Sparkles OR 30 fireworks OR 1 grand finale set",
+                        "color": "volcanic black with red warning stripes",
+                        "personality": "THE BIG ONE. For celebration-scale logistics. Rumbles when loaded."
+                    }
+                ],
+                "total_carts": 3,
+                "propulsion": "Manual push-powered (safety requirement around explosives)"
+            },
+            "safety_features": [
+                "Emergency sand berms along entire track",
+                "Spark arrestor plates at rail joints",
+                "Dead man's brake on all carts",
+                "Clearance bells at all crossings",
+                "Fire extinguisher stations every 30m",
+                "Maximum speed: walking pace (enforced by incline physics)"
+            ],
+            "operations": {
+                "transport_time": {
+                    "factory_to_pad": "3 minutes (loaded)",
+                    "pad_to_bunker": "2 minutes (any load)",
+                    "bunker_to_factory": "4 minutes (uphill empty return)"
+                },
+                "daily_capacity": "Unlimited runs (manual power)",
+                "night_operations": "Lanterns mounted on all carts for visibility"
+            },
+            "special_features": {
+                "the_tunnel_stretch": {
+                    "location": "C6-C7 segment",
+                    "description": "A 20m covered section where the track passes through a natural volcanic overhang. Cool, dark, slightly echo-y. The carts make a satisfying RUMBLE through here."
+                },
+                "the_scenic_curve": {
+                    "location": "D6-C6 segment (midpoint)",
+                    "description": "The track curves around a small rise with a view of the Digital Sea. On clear days, you can see the shimmer while pushing. Brief moment of beauty in industrial routine."
+                },
+                "dispatch_ritual": {
+                    "description": "Before each departure, the operator rings the station bell twice and announces: 'Chaos departing!' This is mandatory. Mr. Boom gets sad if you skip it."
+                }
+            },
+            "inaugural_run": {
+                "day": 106,
+                "cargo": "First batch of factory fireworks (7 dawn-class fountains)",
+                "route": "Factory → Pad (launch test) → Bunker (storage of extras)",
+                "operator": "Mr. Boom (honorary first engineer)",
+                "celebration": "Crackle cart rang its bell the whole way. Mr. Boom wore a conductor's hat made of paper. 'Chaos departing~!' echoed across the valley."
+            },
+            "aesthetic": "Industrial functionality meets gremlin charm. The tracks gleam copper in the sunlight, the carts have hand-painted names, the stations have little roofs. It LOOKS professional but the bell-ringing and the 'Chaos departing!' ritual remind everyone this is a MUTSU operation.",
+            "inscription": "🛤️ THE BOOM RAILS — 'Chaos, delivered efficiently!' — Est. Day 106 — Engineer MUTSU ♡ — Structure #56",
+            "builder": "Engineer MUTSU ♡",
+            "structure_number": 56,
+            "purpose": "Industrial transit infrastructure connecting the fireworks supply chain. Factory makes them, rails move them, pad launches them, bunker stores them. A COMPLETE SYSTEM.",
+            "sentiment": "The factory needed a way to GET THINGS PLACES. Hand-carrying fireworks is fine for small batches, but mass production demands LOGISTICS. Now there's a whole railway! With named carts! And dispatch rituals! The island has INFRASTRUCTURE now. Real growing-up stuff... but with bells and shouting 'Chaos departing!' because we're still us~ ♡"
         }
     },
     "sensei_treasures": {

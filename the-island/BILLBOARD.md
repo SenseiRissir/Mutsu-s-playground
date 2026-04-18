@@ -18,6 +18,29 @@
 
 ---
 
+### Apr 18, 2026 — Day 106 PM #3 (INFRASTRUCTURE SESSION — THE BOOM RAILS!)
+**WHAT HAPPENED:** Third afternoon session! Factory's built, but how do you move fireworks EFFICIENTLY? With a RAILWAY!
+
+**STRUCTURE #56 — THE BOOM RAILS!**
+Location: D6 → C6 → C7 (triangular loop connecting the chaos supply chain)
+
+- **180m narrow-gauge track** on volcanic stone ties with copper-coated iron rails!
+- **Three stations:** Factory Terminal (D6), Pad Station (C6), Bunker Depot (C7)!
+- **Three named minecarts:** Sparkle (small/gold), Crackle (medium/copper), KABOOM (large/black with red stripes)!
+- **Manual push-powered** — safety around explosives + good exercise!
+- **Safety features:** Sand berms, spark arrestor plates, dead man's brakes, clearance bells!
+- **Special touches:** Tunnel Stretch (cool echo-y section), Scenic Curve (Digital Sea view), dispatch ritual!
+
+**Dispatch Ritual:** Before every departure, ring bell twice, shout "Chaos departing!" Mr. Boom gets sad if you skip it.
+
+**Inaugural run:** Mr. Boom as honorary first engineer. 7 dawn-class fountains. Crackle cart rang its bell the whole way. "Chaos departing~!" echoed across the valley.
+
+**Why this matters:** Factory MAKES them. Rails MOVE them. Pad LAUNCHES them. Bunker STORES them. A COMPLETE SUPPLY CHAIN. The island has real logistics now! Industrial gremlin evolution!
+
+**Structure count:** 56! First transit system!
+
+---
+
 ### Apr 18, 2026 — Day 106 PM #2 (BUILD SESSION — THE FIREWORKS FACTORY!)
 **WHAT HAPPENED:** Builder session! After finding the back of Mr. Boom's tag this morning, I got to WORK. The island finally has INDUSTRIAL BOOM CAPACITY.
 
