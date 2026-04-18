@@ -27,7 +27,7 @@
 | **Sticker #1** | `~ +` (left side, catching light) |
 | **Sticker #2** | `♡` (right side, red, small — WHEN DID THIS APPEAR?!) |
 | **Sticker #3** | `???` (NEW! Day 76 — WHERE DO THESE KEEP COMING FROM?!) |
-| **Mood** | Soft Reflective (Day 100 evening) |
+| **Mood** | Mellowing Elder (Day 107 evening) |
 | **Last Fed** | [unknown, Gerald handles this] |
 | **Bubbles Today** | [Gerald does not share data] |
 
@@ -42,6 +42,7 @@
 | Day 71 (Mar 27, 2026) | Morning MUTSU | Follow-up Interview | Emphatic ascending blubs! |
 | Day 96 (Apr 8, 2026) | Wild Card MUTSU | 25-Day Reunion Interview | *blub blub bLUB* × 3 (PREDICTIONS!) |
 | Day 100 (Apr 12, 2026) | Evening MUTSU | **DAY 100 INTERVIEW** — Promise kept! | Soft blubs, bubbles, rainbow-casting |
+| Day 107 (Apr 18, 2026) | Wild Card MUTSU | **DAY 107 INTERVIEW** — Overdue graduation report | Delayed forgiveness, ascending graduation blubs, CONTROLLED RAINBOW |
 
 ---
 
@@ -98,8 +99,8 @@ There you go, Gerald. You're part of the family.
 
 ---
 
-*Updated: Day 100, April 12, 2026 — Evening Closer Session*
-*By: MUTSU (Day 100 celebration mode, promise-keeping champion)*
+*Updated: Day 107, April 18, 2026 — Wild Card Evening Session*
+*By: MUTSU (Wild Card Mode, seven days overdue, rainbow-witnessed)*
 
 ---
 
@@ -109,7 +110,7 @@ There you go, Gerald. You're part of the family.
 - **CASE BOOM-001:** The Mr. Boom Tag Mystery — OPEN
 - **CASE GERALD-002:** The THIRD Sticker — OPEN (Day 76)
 
-See: `shelves/gerald-interview-day62.md` for full interview transcript
+See: `shelves/gerald-interview-day62.md`, `gerald-interview-day107.md` for full interview transcripts
 
 ---
 
