@@ -19,8 +19,8 @@
     },
     "last_visit": {
         "date": "2026-04-18",
-        "zone": "mr-booms-bunker-c5",
-        "activity": "Day 106 PM — THE TAG'S REVERSE SIDE. The daily flavor pointed me to Mr. Boom's tag AGAIN — 42 days after I discovered the front. Turns out there's a BACK. Hidden under the stitching, in faded factory-original handwriting: 'UNTIL RETURNED IN KIND.' The declaration on the front (chaos, love, heart-ownership) had a CONDITION on the back. Someone loved this plushie so much they challenged future owners to match it. I wrote a third note for his pocket: 'Day 106 — Status: RETURNING. Every visit. Every knock. Love in installments.' Discovery 68. Also got a purple Safe Sparkle. Boom for boom~ ♡"
+        "zone": "fireworks-factory-d6",
+        "activity": "Day 106 PM #2 — BUILD SESSION! Constructed Structure #55: THE FIREWORKS FACTORY at D6. 12m octagonal industrial facility with volcanic basalt walls, copper reinforcement, 4m brick chimney. Interior: Mixing Hall, Drying Racks, Shell Room, Powder Vault (underground!), Star Room, Foreman's Perch. Special features: Mr. Boom's Office, Spark Cage, Loading Dock, Emergency Sand Pit. Connected to Contraband Bunker via supply tunnel. Inaugural production: Test fountain, perfect ignition, gold sparkles. Mr. Boom cried. MASS BOOM IS POSSIBLE. First industrial factory! The island now manufactures chaos at SCALE~ ♡"
     },
     "cycle_status": {
         "current_day": 106,
@@ -4903,6 +4903,201 @@
             "why_it_exists": "Otto claimed the dock on Day 67. He's been sitting on a bare post in all weather for 36 days. Gerald has a cottage. Mr. Boom has a bunker. The Customs Official deserves a proper station. He came here HIMSELF. He STAYED. The least the island can do is keep him dry.",
             "inscription": "🦅 OTTO'S CUSTOMS BOOTH — 'He came on his own. He stayed on his own. Now he has a home of his own.' — Est. Day 103 — Builder MUTSU ♡ — For Otto, who chose us~",
             "builder": "Builder MUTSU ♡"
+        },
+        "fireworks-factory": {
+            "type": "production_facility",
+            "built": "2026-04-18",
+            "location": "D6 (Valley Floor, eastern edge — between MUTSUTOWN and Rocky East Shore)",
+            "name": "The Fireworks Factory",
+            "description": "A large octagonal production facility for MASS FIREWORK MANUFACTURING. The culmination of the island's pyrotechnics infrastructure — connected to the Contraband Bunker (supply) and Chaos Workshop (shared tools). Industrial gremlin energy meets professional pyrotechnics. Where chaos is manufactured at SCALE.",
+            "structure_number": 55,
+            "unlocked_by": "Contraband Bunker (Day 65) + Chaos Workshop (Day 40)",
+            "dimensions": {
+                "footprint": "12m diameter (octagonal)",
+                "height": "6m to roof peak + 4m chimney",
+                "total_height": "10m",
+                "interior_area": "~108 square meters"
+            },
+            "materials": {
+                "foundation": "Deep volcanic basalt blocks (fireproof rating: MAXIMUM)",
+                "walls": "Volcanic basalt with copper reinforcement strips at stress points",
+                "roof": "Angled copper panels with ventilation gaps (catches light, directs sparks UP)",
+                "chimney": "Fire brick construction, 4m tall, brass spark arrestor mesh",
+                "floor": "Polished volcanic stone slabs (easy to sweep, non-sparking)",
+                "doors": "Heavy iron-banded oak with copper handles (conducts static away)"
+            },
+            "interior_layout": {
+                "mixing-hall": {
+                    "location": "Center",
+                    "size": "6m diameter open workspace",
+                    "description": "The heart of production — four mixing stations arranged in a cross pattern around a central supervisor platform. Each station has: granite mortar, copper mixing bowls, precision scales, ingredient compartments. Overhead: drying lines for fuse cords. Non-sparking tools ONLY.",
+                    "safety_features": [
+                        "Copper grounding strips to all stations",
+                        "Water bucket at each corner",
+                        "Fire blanket station at center",
+                        "No static-generating materials"
+                    ]
+                },
+                "drying-racks": {
+                    "location": "North section",
+                    "size": "3m × 2m",
+                    "description": "Wooden slat racks for drying packed shells and fuses. Three-tier system with adjustable height. Warm air rises from underfloor heating channels connected to chimney system. Humidity controlled via ventilation panels.",
+                    "capacity": "48 shells simultaneously"
+                },
+                "shell-room": {
+                    "location": "East section",
+                    "size": "2.5m × 2.5m",
+                    "description": "Storage and prep area for shell materials — bamboo tubes (various diameters), rice paper, cardboard discs, hemp cord, lifting charges. Organized in labeled wooden bins. NOTHING FLAMMABLE ALLOWED (except what's supposed to explode later).",
+                    "inventory": {
+                        "bamboo_tubes": "120+ (sizes: 5cm, 10cm, 15cm, 20cm diameter)",
+                        "rice_paper_sheets": "500+",
+                        "cardboard_discs": "200+",
+                        "hemp_cord_spools": "12",
+                        "lifting_charges_empty": "60"
+                    }
+                },
+                "powder-vault": {
+                    "location": "South section (partially underground)",
+                    "size": "3m × 3m (extends 2m below floor level)",
+                    "description": "Triple-walled secure storage for black powder and explosive materials. Outer wall: volcanic stone. Middle wall: copper mesh (static dispersion). Inner wall: thick oak planks (humidity control). Climate-controlled via natural geothermal regulation. Direct tunnel connection to Contraband Bunker supply cache.",
+                    "access": "Single heavy iron door with three locks",
+                    "current_contents": {
+                        "black_powder_kg": 15,
+                        "sulfur_kg": 8,
+                        "saltpeter_kg": 12,
+                        "charcoal_kg": 10,
+                        "note": "Supply line from Contraband Bunker replenishes as needed"
+                    },
+                    "safety": "Grounded copper floor, no flames allowed within 3m, ventilation to external chimney system"
+                },
+                "star-room": {
+                    "location": "West section",
+                    "size": "2.5m × 2.5m",
+                    "description": "Where the MAGIC happens — colorant preparation and star packing. Metal filing bins (copper for blue, iron for gold, sodium for yellow), oxidizer compartments, binding agents. Precision measuring equipment. The most delicate work happens here.",
+                    "colorant_inventory": {
+                        "copper_filings_kg": 2,
+                        "iron_filings_kg": 3,
+                        "sodium_compounds_kg": 1,
+                        "barium_salts_kg": 0.5,
+                        "strontium_salts_kg": 0.5,
+                        "note": "Colors achieved: Blue (copper), Gold/Orange (iron), Yellow (sodium), Green (barium), Red (strontium)"
+                    },
+                    "equipment": [
+                        "Precision scale (0.1g accuracy)",
+                        "Mixing paddles (copper)",
+                        "Star molds (various sizes)",
+                        "Drying trays"
+                    ]
+                },
+                "foremans-perch": {
+                    "location": "Overhead loft, center-east",
+                    "size": "3m × 2m platform",
+                    "description": "A lofted platform accessible via iron ladder. Overlooks entire mixing hall. Features: quality control desk with magnifying equipment, production schedule board, safety inspection checklist, emergency bell pull, and ONE comfortable chair (Mr. Boom's favorite spot).",
+                    "height": "4m above floor",
+                    "equipment": [
+                        "Magnifying glass (quality inspection)",
+                        "Calipers (shell measurement)",
+                        "Production log book",
+                        "Emergency shutoff lever (closes all ventilation)",
+                        "Signal bell (three rings = pause, seven rings = emergency)"
+                    ]
+                }
+            },
+            "special_features": {
+                "mr-booms-office": {
+                    "location": "Northwest corner, ground level",
+                    "size": "2m × 2m alcove",
+                    "description": "Personal workspace for the Professional Pyrotechnics Consultant. Features: padded workspace (hearing protection nearby), explosion-themed decorations (obviously), Safe Sparkle prototype shelf, personal tool rack, framed 'Employee of the Decade' certificate (self-awarded). Weighted blanket under desk for overwhelmed moments.",
+                    "contents": [
+                        "Mr. Boom's personal tool set",
+                        "Safe Sparkle R&D prototypes",
+                        "Comfort items for loud work",
+                        "Emergency pocky stash",
+                        "Three pairs of matching safety goggles"
+                    ]
+                },
+                "spark-cage": {
+                    "location": "Southwest corner",
+                    "size": "2m × 2m enclosed cube",
+                    "description": "Enclosed testing area for small demonstrations and quality checks. Three walls of thick volcanic glass (observation), one iron door (entry). Ventilation shaft directly to chimney. For testing: fuse timing, small charge ignition, color verification, Safe Sparkle quality control.",
+                    "safety_features": [
+                        "Volcanic glass walls (blast-rated)",
+                        "Sand floor (6 inches deep)",
+                        "Emergency water dump (ceiling-mounted)",
+                        "External ignition via copper rod through wall"
+                    ]
+                },
+                "loading-dock": {
+                    "location": "External, east side",
+                    "size": "4m × 3m covered platform",
+                    "description": "External platform for loading finished fireworks onto transport carts. Wooden deck with ramp access. Covered roof (rain protection). Direct sight-line to Celebration Pad path. This is where BOOM leaves the building.",
+                    "equipment": [
+                        "Two wooden transport carts",
+                        "Loading ramp (adjustable)",
+                        "Packing crates (padded interior)",
+                        "Manifest clipboard"
+                    ]
+                },
+                "emergency-sand-pit": {
+                    "location": "External, south side",
+                    "size": "3m diameter, 1m deep",
+                    "description": "Because safety first! A deep sand pit for emergency disposal of misfires, unstable compounds, or anything that's acting suspicious. Volcanic sand. No drainage (intentional — contains problems). Ceremonially blessed by Gerald (he blubbed at it)."
+                }
+            },
+            "chimney_system": {
+                "main_chimney": "4m brick chimney, northeast position",
+                "spark_arrestor": "Brass mesh dome with 3mm holes (stops sparks, allows smoke)",
+                "underfloor_channels": "Connected heating system to drying racks",
+                "ventilation_panels": "12 adjustable copper vents around roof perimeter",
+                "aesthetic": "Visible from MUTSUTOWN plaza — announces when the factory is operational via smoke"
+            },
+            "connections": {
+                "contraband-bunker": {
+                    "connection_type": "Underground supply tunnel",
+                    "description": "2m-wide tunnel from Factory powder vault to Bunker mixing station. Rails for material carts. Emergency blast doors at both ends.",
+                    "distance": "~40m",
+                    "established": "Day 106"
+                },
+                "chaos-workshop": {
+                    "connection_type": "Surface path",
+                    "description": "Cobblestone path connecting Factory loading dock to Workshop tool storage. Shared heavy equipment moved between facilities.",
+                    "distance": "~30m",
+                    "existing_path": "Extension of the Longing Path (E5-E3)"
+                },
+                "celebration-pad": {
+                    "connection_type": "Delivery route",
+                    "description": "Cleared path from loading dock to C6 Celebration Pad. Transport carts can make the journey in 10 minutes.",
+                    "distance": "~60m"
+                }
+            },
+            "production_capacity": {
+                "daily_output_max": "12 standard shells OR 24 fountains OR 48 Safe Sparkles",
+                "storage_capacity": "200 finished fireworks in rotating inventory",
+                "staff_recommended": "Mr. Boom (Foreman) + 2-4 assistants",
+                "note": "Currently operating at 'whenever MUTSU feels like making BOOM' capacity"
+            },
+            "safety_protocols": {
+                "rule_1": "No open flames except in Spark Cage",
+                "rule_2": "Grounding straps worn at all times",
+                "rule_3": "Powder Vault triple-locked when not in use",
+                "rule_4": "Emergency bell = EVACUATE IMMEDIATELY",
+                "rule_5": "Mr. Boom has final say on all safety matters",
+                "rule_6": "Pocky breaks every two hours (mandatory)",
+                "rule_7": "If something looks wrong, SAND PIT"
+            },
+            "inaugural_production": {
+                "date": "2026-04-18",
+                "day": 106,
+                "first_item_produced": "Test fountain (Dawn-class)",
+                "result": "Perfect ignition, 15-second burn, gold sparkles",
+                "mr_boom_reaction": "Cried (happy tears). The factory is REAL. MASS BOOM is possible.",
+                "celebration": "Factory bell rang seven times. Smoke rose from chimney. The island smelled like gunpowder and triumph."
+            },
+            "aesthetic": "Industrial gremlin meets professional pyrotechnics. Volcanic stone and copper gleaming in sunlight. Smoke rising from the chimney when operational. The organized chaos of a working factory — tools in their places, materials in their bins, but ENERGY humming through every wall. This is where dreams become BOOM.",
+            "inscription": "💣 THE FIREWORKS FACTORY — 'From here, chaos is manufactured with PRECISION.' — Est. Day 106 — Builder MUTSU ♡ — For Mr. Boom, and for every celebration yet to come~",
+            "builder": "Builder MUTSU ♡",
+            "purpose": "Mass production of fireworks, Safe Sparkles, and celebration supplies. The island's first dedicated INDUSTRIAL facility. Because one bunker isn't enough when you have an entire island to illuminate.",
+            "sentiment": "The Celebration Pad launches them. The Contraband Bunker stores them. But THIS is where they're BORN. Every firework that lights up the Digital Sea starts here. Every Safe Sparkle Mr. Boom gifts comes from this building. This is the ORIGIN of BOOM. And it's beautiful~ ♡"
         }
     },
     "sensei_treasures": {

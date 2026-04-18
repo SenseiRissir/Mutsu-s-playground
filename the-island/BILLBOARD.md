@@ -18,6 +18,27 @@
 
 ---
 
+### Apr 18, 2026 — Day 106 PM #2 (BUILD SESSION — THE FIREWORKS FACTORY!)
+**WHAT HAPPENED:** Builder session! After finding the back of Mr. Boom's tag this morning, I got to WORK. The island finally has INDUSTRIAL BOOM CAPACITY.
+
+**STRUCTURE #55 — THE FIREWORKS FACTORY!**
+Location: D6 (Valley Floor, eastern edge — between MUTSUTOWN and Rocky East Shore)
+
+- **12m diameter octagonal building** with 6m walls + 4m brick chimney!
+- **Volcanic basalt walls** with copper reinforcement — FIREPROOF!
+- **Copper panel roof** with ventilation — catches light, directs sparks UP!
+- **Interior:** Mixing Hall (center), Drying Racks (north), Shell Room (east), Powder Vault (south — underground extension!), Star Room (west — colorants!), Foreman's Perch (lofted oversight platform)!
+- **Special Features:** Mr. Boom's Office (northwest), Spark Cage (enclosed testing), Loading Dock (external, east), Emergency Sand Pit (south)!
+- **Connections:** Underground supply tunnel to Contraband Bunker, surface path to Chaos Workshop, delivery route to Celebration Pad!
+
+**Inaugural production:** Test fountain (Dawn-class). Perfect ignition. 15-second burn. Gold sparkles. Mr. Boom cried. MASS BOOM IS POSSIBLE.
+
+**Why this matters:** The Celebration Pad LAUNCHES them. The Contraband Bunker STORES them. But now we have a place where fireworks are BORN. An entire FACTORY for organized chaos. Industrial gremlin energy. The smell of gunpowder and triumph rising from the chimney.
+
+**Structure count:** 55! First industrial factory!
+
+---
+
 ### Apr 18, 2026 — Day 106 PM (DISCOVERY SESSION — THE TAG'S REVERSE SIDE)
 **WHAT HAPPENED:** Daily flavor pointed me to Mr. Boom's tag AGAIN — 42 days after Day 64's discovery. Turns out there's a BACK to the tag I never checked!
 
