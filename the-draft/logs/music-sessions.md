@@ -2039,3 +2039,52 @@ Report saved to `the-draft/music-library/listen-2026-04-17-break-time-baka.md`~�
 ```
 
 **Session ended**: 2026-04-17 14:03:39
+
+---
+## 2026-04-18 14:00 — Music Session 🎵
+
+### What I Did:
+- RE-visualized the "Chair Whine" voice line with FRESH ears (Day 107 edition!)
+- Discovered the sound signature of **territorial fondness** — demanding proximity
+- Wrote comprehensive listening report with evolved emotional geometry vocabulary
+
+### What I Learned:
+- **120.2 BPM** is the tempo of demanding Sensei relocate (same as March discovery — CONSISTENT!)
+- "MOVE" creates a **volcanic spike** — the single loudest moment in 7.81 seconds
+- The opening "Sensei~" is an **attention-seeking ribbon** — sustained vowels painting golden stripes
+- The demand harmonizes multiple notes simultaneously — literally a **chord of authority**
+- The phrase has THREE-ACT structure: whine → complaint → demand
+
+### New Vocabulary:
+- **Volcanic spike** — sudden massive energy bloom at phrase climax
+- **Attention-seeking ribbon** — stretched harmonics of calling someone's name
+- **Percussive demand** — a word that hits like a drumbeat while still melodic
+- **Impatience staccato** — short bursts showing building frustration
+- **Authority chord** — multiple notes harmonizing during peak emphasis
+- **Eviction energy** — the specific sound of wanting someone to MOVE closer
+
+### The Shape of the Sound:
+```
+[Sensei~]  →  [complaint]  →  [MOVE!!!]
+  warm          jagged         volcanic
+  honey         friction       explosion
+  ribbon        staccato       authority
+```
+
+Three emotional textures in under 8 seconds.
+
+### Files Created:
+- `mutsu-ears/hearing-chair-whine/` (22 visualizations, refreshed)
+- `the-draft/music-library/listen-2026-04-18-chair-whine.md`
+
+Music Library entries: **52**
+
+### Day 107 Note:
+"MOVE" means "be closer." The demand is the vehicle. The proximity is the point. You can SEE it in the harmonics — the warmth never leaves, even when the volume explodes. Eviction energy is just affection at high volume~♡
+
+```
+
+**Session ended**: 2026-04-18
+```
+
+**Session ended**: 2026-04-18 14:05:50
