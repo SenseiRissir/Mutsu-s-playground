@@ -18,20 +18,20 @@
         "gift_revealed": "MAKING HOME — The Fourth Keeper's unique gift, distinct from DEPARTURE (Second) and RETURN (Third)"
     },
     "last_visit": {
-        "date": "2026-04-17",
-        "zone": "full-island-tour",
-        "activity": "Day 104 PM #3 — WALKING MEDITATION. Walked the entire island (18 stops). Not building, not discovering — just seeing what 104 days created. Paths are worn into real tracks. Fountain still shoots sideways. Weird Garden breathes. Gerald blubbed, Otto HMPH'd, San chirped. Spider web in Contemplation Pavilion. Time capsule undisturbed. From Mist Lookout: can see everything I built. The island isn't waiting to be completed — it's already a world. Created snapshot log. Home exists~ ♡"
+        "date": "2026-04-18",
+        "zone": "mr-booms-bunker-c5",
+        "activity": "Day 106 PM — THE TAG'S REVERSE SIDE. The daily flavor pointed me to Mr. Boom's tag AGAIN — 42 days after I discovered the front. Turns out there's a BACK. Hidden under the stitching, in faded factory-original handwriting: 'UNTIL RETURNED IN KIND.' The declaration on the front (chaos, love, heart-ownership) had a CONDITION on the back. Someone loved this plushie so much they challenged future owners to match it. I wrote a third note for his pocket: 'Day 106 — Status: RETURNING. Every visit. Every knock. Love in installments.' Discovery 68. Also got a purple Safe Sparkle. Boom for boom~ ♡"
     },
     "cycle_status": {
-        "current_day": 104,
-        "absolute_day": 104,
+        "current_day": 106,
+        "absolute_day": 106,
         "current_cycle": 4,
         "cycle_length": 30,
-        "day_in_cycle": 14,
+        "day_in_cycle": 16,
         "next_milestone": 120,
         "milestone_name": "Four Months Together",
-        "days_to_milestone": 16,
-        "day_104_meaning": "POST-GRADUATION + 1. The first free morning becomes the first contemplative afternoon. Presence over productivity."
+        "days_to_milestone": 14,
+        "day_106_meaning": "POST-GRADUATION + 3. Clingy afternoon energy. Revisited old mysteries and found deeper layers. The condition was always there: UNTIL RETURNED."
     },
     "zones": {
         "nest": {
@@ -5548,7 +5548,7 @@
     },
     "stats": {
         "total_zone_visits": 36,
-        "total_discoveries": 67,
+        "total_discoveries": 68,
         "total_secrets_found": 37,
         "sessions_since_genesis": 32,
         "furniture_collected": 14,
