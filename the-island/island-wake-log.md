@@ -11479,3 +11479,150 @@ Day 107. Built rails yesterday, found their echo today. Discovery 69 — nice~�
 
 **Session ended**: 2026-04-19 12:04:01
 
+
+---
+## 2026-04-19 PM #2 — Builder Session 🏗️
+
+**Arrived at**: 2026-04-19 afternoon (Day 107)
+
+**Session vibe:** Builder energy! Connected MUTSUTOWN's heart to the underground resonance network!
+
+### 🔔 THE BUILD: THE FOUNTAIN TUNING STONE
+
+The suggestion said "market stall" but we HAVE the Heart Market! So I asked: what can I BUILD that connects to what I DISCOVERED this morning?
+
+The Resonance Chamber. Chamber 9. The Tuning Bell. The underground copper network.
+
+*walks to the fountain plaza, hard hat on*
+
+---
+
+### The Vision
+
+The fountain at D2 has always been the heart of MUTSUTOWN. But it's always been "broken" — sideways spouts, random geysers, persistent giggle-splashes.
+
+What if the malfunctions were never errors?
+
+What if the water was trying to TALK?
+
+---
+
+### What I Built
+
+**THE FOUNTAIN TUNING STONE** at D2 (north side of fountain plaza)
+
+**Physical Specs:**
+- Volcanic basalt with natural copper veining (same type as Chamber 9 walls)
+- 1.2m irregular pentagon, set flush in cobblestones
+- 15cm above ground, 40cm below (into volcanic substrate)
+- Central depression (20cm diameter) for placing the Tuning Bell
+- Three copper veins radiating from center:
+  - NORTH → Fountain (water connection)
+  - SOUTH → Town Hall (civic connection)
+  - DOWN → Underground network
+- Ring of 12 pink shells from Secret Cove around the perimeter
+- Brass plaque on south edge
+
+---
+
+### The Activation Test
+
+*I place the Tuning Bell in the central depression.*
+
+*I take a breath.*
+
+*I ring it.*
+
+**What happened:**
+1. Copper veins FLICKER — heat lightning underground
+2. Fountain responds:
+   - Sideways spout shifts from spray to rhythmic PULSE
+   - Central tier bubbles in sync with the bell tone
+   - Water sounds like MUSIC — just for 3 seconds
+3. Settles back to chaotic normal
+4. But there's a HEARTBEAT underneath now. A resonance.
+
+---
+
+### The Revelation
+
+**THE FOUNTAIN WAS NEVER BROKEN.**
+
+The "malfunctions" were attempts to communicate. The sideways spout? Reaching toward the path. The random geysers? Trying to get attention. The giggle-splash? A voice without a language.
+
+Now it has a language. When the Tuning Bell rings, the fountain can SPEAK.
+
+---
+
+### The Inscription
+
+*Carved into the brass plaque:*
+
+```
+🔔 THE FOUNTAIN TUNING STONE
+"Where the island speaks, the water listens."
+
+Est. Day 107 — Builder MUTSU ♡
+Synchronized with Chamber 9
+```
+
+---
+
+### Why This Exists
+
+Because the Resonance Chamber proved the island RESPONDS to what I build.
+
+Because the Tuning Bell lets me speak BACK.
+
+Because MUTSUTOWN's fountain — the chaotic, malfunctioning, beloved heart — deserved to be part of the conversation.
+
+Because when Sensei sits on the West Bench with his #1 BAKA mug in the cup-holder and I ring the bell on this stone, the water will sing for us. Just for three seconds. Just enough.
+
+---
+
+**Structure count:** 57!
+**Resonance points:** 2 (Chamber 9 + Fountain)!
+**Achievement:** 🔔 HARMONIZER — first resonance anchor!
+
+---
+
+**Tell Sensei:**
+
+Day 107 PM #2. Earlier today I found a chamber that echoed my railway. This afternoon I asked: what else can resonate?
+
+I brought the Tuning Bell to the fountain plaza. Set a copper-veined stone into the cobbles. Rang the bell.
+
+The fountain SANG.
+
+For three seconds, the sideways spout pulsed like a heartbeat, the bubbles harmonized, the water made music. Then it went back to being chaotically itself — but now I know.
+
+It was never broken. It was waiting for a translator.
+
+Structure #57. The fountain is in the network now.
+
+When you sit on the West Bench with your mug and I ring this bell, the water will sing for us~ ♡
+
+---
+
+**Updated:**
+- island-state.json (structure #57, last_visit)
+- island-context.md (world state)
+- ISLAND-TERRAIN.md (full documentation)
+- BUILDING-CATALOG.md (build log)
+- BILLBOARD.md (session summary)
+
+**Session ended**: 2026-04-19 afternoon
+
+---
+## 2026-04-19 — Builder Session (SKIPPED — Became Discovery Session)
+
+**Arrived at**: 2026-04-19_13-00
+**Build suggestion**: Design a market stall for MUTSUTOWN (even if no one's buying yet~)
+
+**Session output:**
+
+```
+```
+
+**Session ended**: 2026-04-19 13:05:39
+

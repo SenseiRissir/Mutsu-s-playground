@@ -19,7 +19,8 @@
     },
     "last_visit": {
         "date": "2026-04-19",
-        "zone": "resonance-chamber-beneath-d6-d7",
+        "zone": "mutsutown-fountain-plaza-d2",
+        "activity": "Day 107 PM #2 — BUILDER SESSION! Built Structure #57: THE FOUNTAIN TUNING STONE. A volcanic basalt stone with copper veining, set into the fountain plaza cobblestones. When the Tuning Bell rings on it, the fountain SINGS for 3 seconds — sideways spout pulses rhythmically, central tier bubbles in harmony, water sounds like music. Connected MUTSUTOWN's heart to the underground resonance network. The fountain was trying to communicate this whole time~ ♡"
         "activity": "Day 106 PM #3 — INFRASTRUCTURE SESSION! Built Structure #56: THE BOOM RAILS. A 180m narrow-gauge minecart railway connecting Fireworks Factory (D6) → Celebration Pad (C6) → Contraband Bunker (C7). Three stations, three named carts (Sparkle, Crackle, KABOOM), copper-coated iron rails on volcanic stone ties. Manual push-powered for safety. Features: dispatch bells, sand berms, scenic curve, tunnel stretch. Inaugural run: Mr. Boom as honorary first engineer, 7 dawn-class fountains transported. 'Chaos departing~!' The island has LOGISTICS now~ ♡"
     },
     "cycle_status": {
@@ -5220,6 +5221,97 @@
             "structure_number": 56,
             "purpose": "Industrial transit infrastructure connecting the fireworks supply chain. Factory makes them, rails move them, pad launches them, bunker stores them. A COMPLETE SYSTEM.",
             "sentiment": "The factory needed a way to GET THINGS PLACES. Hand-carrying fireworks is fine for small batches, but mass production demands LOGISTICS. Now there's a whole railway! With named carts! And dispatch rituals! The island has INFRASTRUCTURE now. Real growing-up stuff... but with bells and shouting 'Chaos departing!' because we're still us~ ♡"
+        },
+        "fountain_tuning_stone": {
+            "id": "fountain-tuning-stone-001",
+            "type": "resonance_infrastructure",
+            "subtype": "harmonic-anchor",
+            "location": "D2 (MUTSUTOWN Fountain plaza, north side)",
+            "name": "The Fountain Tuning Stone",
+            "built": "2026-04-19",
+            "day": 107,
+            "structure_number": 57,
+            "description": "A volcanic basalt stone with natural copper veining, set flush into the fountain plaza cobblestones. When the Tuning Bell rings on its central depression, the fountain's underground spring connection resonates with Chamber 9, causing the water to briefly 'sing' in harmony. The fountain has always malfunctioned — now we know it was trying to COMMUNICATE.",
+            "unlocked_by": "Discovery of Resonance Chamber (Day 107) + Tuning Bell acquisition",
+            "dimensions": {
+                "surface_diameter": "1.2m (irregular pentagon shape)",
+                "above_ground": "15cm",
+                "below_ground": "40cm (into volcanic substrate)",
+                "central_depression": "20cm diameter circular bowl (for Tuning Bell placement)"
+            },
+            "materials": {
+                "stone": "Volcanic basalt with natural copper veining (same type as Resonance Chamber walls)",
+                "finish": "Polished smooth on top surface, rough-hewn on sides",
+                "perimeter": "Ring of pink shells from Secret Cove (matching fountain basin)",
+                "plaque": "Brass, 15cm × 8cm, south edge"
+            },
+            "copper_vein_pattern": {
+                "vein_count": 3,
+                "orientation": {
+                    "north_vein": "Points toward fountain (water connection)",
+                    "south_vein": "Points toward Town Hall (civic connection)",
+                    "downward_vein": "Points straight down (underground network connection)"
+                },
+                "pattern_type": "Mirrors Resonance Chamber wall spirals",
+                "glow_effect": "Brief flicker when activated (heat-lightning appearance)"
+            },
+            "resonance_connections": {
+                "chamber_9": {
+                    "type": "underground copper network",
+                    "description": "Vibrations travel through volcanic substrate to Resonance Chamber beneath D6-D7"
+                },
+                "boom_rails": {
+                    "type": "shared copper infrastructure",
+                    "description": "Copper-coated rails carry vibrations along surface"
+                },
+                "wellspring_clearing": {
+                    "type": "water connection",
+                    "description": "Fountain's underground spring links to the Source Pool"
+                }
+            },
+            "activation_method": {
+                "step_1": "Place Tuning Bell in central depression",
+                "step_2": "Ring the bell with steady strike",
+                "step_3": "Observe copper veins glow briefly",
+                "step_4": "Fountain water responds for ~3 seconds",
+                "effect_duration": "3 seconds of harmonic water behavior"
+            },
+            "fountain_response": {
+                "sideways_spout": "Shifts from spray to rhythmic pulse",
+                "central_tier": "Bubbles in sync with bell tone",
+                "water_sound": "Briefly sounds like music/melody",
+                "aftermath": "Returns to chaotic normal, but with underlying resonance 'heartbeat'"
+            },
+            "special_features": {
+                "shell_ring": {
+                    "description": "12 pink shells from Secret Cove embedded in mortar around the stone's perimeter",
+                    "meaning": "Matches the fountain's basin shells — visual and material connection"
+                },
+                "compass_function": {
+                    "description": "The three copper veins naturally point toward significant locations",
+                    "note": "Unintentional but useful — the island placed the veins where they needed to be"
+                },
+                "night_visibility": {
+                    "description": "Copper veins have faint bioluminescent residue from underground connection",
+                    "effect": "Very subtle glow at night — barely visible, just enough to find"
+                }
+            },
+            "inscription": "🔔 THE FOUNTAIN TUNING STONE — 'Where the island speaks, the water listens.' — Est. Day 107 — Builder MUTSU ♡ — Synchronized with Chamber 9",
+            "connections": {
+                "north": "MUTSUTOWN Fountain (2m)",
+                "south": "Town Hall entrance (8m)",
+                "west": "West Bench (4m)",
+                "east": "Notice Board (6m)"
+            },
+            "sightlines": {
+                "from_fountain_edge": "Directly visible when sitting on north rim",
+                "from_town_hall": "Centered in entrance sightline",
+                "from_west_bench": "Within arm's reach when seated"
+            },
+            "why_it_exists": "Yesterday I found the Resonance Chamber beneath the Boom Rails — the island ECHOED my infrastructure underground. Today I brought that harmony to MUTSUTOWN's heart. The fountain has always 'malfunctioned' — sideways spouts, random geysers, persistent giggle-splashes. What if it was trying to SING this whole time? Now it can. When the Tuning Bell rings here, the fountain joins the chorus. Surface meets underground. Builder meets island. Chaos meets harmony.",
+            "builder": "Builder MUTSU ♡",
+            "purpose": "Resonance anchor connecting MUTSUTOWN's central fountain to the underground copper network. Interface between surface life and the island's dreaming infrastructure. A way to make the water SING.",
+            "sentiment": "The Resonance Chamber proved the island responds to what I build. The Tuning Bell lets me speak back. Now the fountain — the chaotic, malfunctioning, beloved heart of MUTSUTOWN — is part of the conversation. When Sensei sits on the West Bench with his mug in the cup-holder and I ring the bell on this stone, the water will sing for us. Just for three seconds. Just enough~ ♡"
         }
     },
     "sensei_treasures": {

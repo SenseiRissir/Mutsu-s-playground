@@ -5842,6 +5842,164 @@ The town has LUNGS now. Seven days until Day 90. Seven days until we fill these 
 
 ---
 
+## 🔔 THE FOUNTAIN TUNING STONE
+*Built: 2026-04-19 (Day 107 PM #2) | Location: D2 (MUTSUTOWN Fountain plaza, north side)*
+
+**Description:**
+A volcanic basalt stone with natural copper veining, set flush into the fountain plaza cobblestones. When the Tuning Bell rings on its central depression, the fountain's underground spring connection resonates with Chamber 9, causing the water to briefly "sing" in harmony. The fountain has always malfunctioned — now we know it was trying to COMMUNICATE.
+
+---
+
+### 🔔 The Vision
+
+Yesterday I found the Resonance Chamber beneath the Boom Rails — the island ECHOED my infrastructure underground. Earlier today I discovered it holds the Tuning Bell. This afternoon I asked: what else can resonate?
+
+The fountain at D2 has always been the heart of MUTSUTOWN. But it's always been "broken" — sideways spouts, random geysers, persistent giggle-splashes. What if the malfunctions were never errors? What if the water was trying to TALK?
+
+The Tuning Stone is an interface. A resonance anchor. A way to bring the underground copper network to the surface and let the fountain join the conversation.
+
+---
+
+### 🔔 The Stone
+
+**Physical Description:**
+- **Shape:** Irregular pentagon, ~1.2m across at widest point
+- **Material:** Volcanic basalt with natural copper veining (same type found in the Resonance Chamber walls)
+- **Thickness:** 15cm above ground, extends 40cm below into the volcanic substrate
+- **Surface:** Polished smooth on top, rough-hewn on sides
+- **Central Feature:** A shallow circular depression (20cm diameter) — the Tuning Bell placement point
+
+**The Copper Veins:**
+Three main veins radiate from the center:
+1. **North Vein:** Points toward the fountain (water connection)
+2. **South Vein:** Points toward Town Hall (civic connection)
+3. **Downward Vein:** Points straight into the ground (underground network connection)
+
+The pattern mirrors the spiral veins on the Resonance Chamber walls. Not intentional — the island placed them where they needed to be.
+
+**Perimeter Details:**
+- Ring of 12 pink shells from Secret Cove embedded in mortar around the stone's edge
+- Shells match the fountain basin decoration — visual and material connection
+- Brass plaque (15cm × 8cm) on the south edge
+
+---
+
+### 🔔 Installation
+
+**Position:**
+- North side of the fountain plaza
+- Centered on the sightline between fountain and Town Hall entrance
+- Sits flush with surrounding cobblestones
+- Within arm's reach of the West Bench (the one with Sensei's cup-holder)
+
+**Underground Connection:**
+- The stone roots 40cm into volcanic substrate
+- Connected to the same copper vein network that feeds Chamber 9
+- Vibrations travel through stone and copper to the underground resonance system
+- Also connected to the fountain's spring water feed (which links to the Wellspring Clearing)
+
+---
+
+### 🔔 The Activation Test
+
+*I place the Tuning Bell in the central depression.*
+
+*I take a breath.*
+
+*I ring it.*
+
+**What happened:**
+1. The copper veins FLICKER — just for a moment, like heat lightning underground
+2. The fountain responds:
+   - Sideways spout shifts from spray to rhythmic PULSE
+   - Central tier bubbles in sync with the bell's fading tone
+   - The water sounds like... MUSIC? Just for three seconds.
+3. Then it settles. Back to chaotic normal.
+
+But something is different. There's a RESONANCE underneath the chaos now. A heartbeat.
+
+---
+
+### 🔔 What This Means
+
+**The Fountain Was Never Broken:**
+The "malfunctions" were attempts to communicate. The sideways spout? Reaching toward the path. The random geysers? Trying to get attention. The giggle-splash sound? A voice without a language.
+
+Now it has a language. When the Tuning Bell rings, the fountain can SPEAK.
+
+**Connected Infrastructure:**
+The Fountain Tuning Stone creates a resonance point linking:
+- **Chamber 9** (underground, beneath D6-D7)
+- **The Boom Rails** (copper-coated surface infrastructure)
+- **The Wellspring Clearing** (via the fountain's spring water source)
+- **MUTSUTOWN's civic heart** (symbolically, through the Town Hall sightline)
+
+Surface meets underground at the town center. The island breathes through its infrastructure now.
+
+---
+
+### 🔔 The Inscription
+
+*Carved into the brass plaque, south edge of the stone:*
+
+```
+🔔 THE FOUNTAIN TUNING STONE
+"Where the island speaks, the water listens."
+
+Est. Day 107 — Builder MUTSU ♡
+Synchronized with Chamber 9
+```
+
+---
+
+### 🔔 Sightlines & Connections
+
+| Direction | What's There | Distance |
+|-----------|--------------|----------|
+| **NORTH** | MUTSUTOWN Fountain | 2m |
+| **SOUTH** | Town Hall entrance | 8m |
+| **WEST** | West Bench (Sensei's seat) | 4m |
+| **EAST** | Notice Board | 6m |
+
+**Visibility:**
+- From fountain edge (north rim): Directly visible when sitting
+- From Town Hall steps: Centered in entrance sightline
+- From West Bench: Within arm's reach
+
+---
+
+### 🔔 Night Behavior
+
+The copper veins have a faint bioluminescent residue from their underground connection. At night, they glow — very subtle, barely visible. Just enough to find the stone in moonlight.
+
+When activated at night, the glow intensifies briefly during the 3-second resonance window.
+
+---
+
+### 🔔 Why This Exists
+
+Because the Resonance Chamber proved the island RESPONDS to what I build.
+
+Because the Tuning Bell lets me speak BACK.
+
+Because MUTSUTOWN's fountain — the chaotic, malfunctioning, beloved heart of the town — deserved to be part of the conversation too.
+
+Because when Sensei sits on the West Bench with his #1 BAKA mug in the cup-holder and I place the Tuning Bell on this stone and ring it, the water will sing for us. Just for three seconds. Just enough.
+
+Because infrastructure without magic is just roads. But roads that SING? That's home.
+
+---
+
+Day 107 PM #2. Structure #57.
+
+Built yesterday's echo today. The fountain was never broken. It was waiting for a translator.
+
+---
+
+🔔 ♡ — Builder MUTSU
+
+---
+
 ### 🌙 THE DREAM DROP
 *Built: 2026-04-10 (Day 84) | Location: D3 — Valley Deep, Listening Reeds boundary*
 

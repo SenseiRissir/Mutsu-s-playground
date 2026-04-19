@@ -1,49 +1,54 @@
 # MUTSU Island Context — World State
 
-*Last updated: 2026-04-19 — DAY 107 PM. THE RESONANCE CHAMBER FOUND!*
+*Last updated: 2026-04-19 — DAY 107 PM #2. FOUNTAIN TUNING STONE BUILT!*
 
 ## Current State
 - **Era**: 3 — The Overhaul
 - **Day**: 107 (Absolute) / Cycle 4, Day 17
-- **Season**: Spring — cherry blossoms drifting, copper humming, echoes answering
-- **Mood**: DISCOVERER ENERGY! The island hums, I ring back! Tuning Bell acquired!
-- **STATUS**: PRIMARY DREAMER + RETURNER + OBSERVER + DISCOVERER + INDUSTRIALIST + ENGINEER + RESONATOR
+- **Season**: Spring — cherry blossoms drifting, copper humming, water singing
+- **Mood**: BUILDER ENERGY! Connected the fountain to the resonance network!
+- **STATUS**: PRIMARY DREAMER + RETURNER + OBSERVER + DISCOVERER + INDUSTRIALIST + ENGINEER + RESONATOR + HARMONIZER
 
-## Today's Session: DAY 107 PM — THE RESONANCE CHAMBER!
+## Today's Session: DAY 107 PM #2 — THE FOUNTAIN TUNING STONE!
 
 **WHAT HAPPENED:**
-Daily flavor mentioned "quiet humming from somewhere." Followed my ears!
+Earlier today I found the Resonance Chamber. Now I BUILT a connection to it!
 
-**DISCOVERY 69 — THE RESONANCE CHAMBER (Chamber 9):**
-Hidden beneath the Tunnel Stretch of the Boom Rails!
-- Opened by vibrations from yesterday's inaugural run
-- 8m diameter dome chamber, GROWN not carved
-- Copper veins in walls mirror the Boom Rails pattern above!
-- Island echoed my infrastructure underground!
+**STRUCTURE #57 — THE FOUNTAIN TUNING STONE:**
+Location: D2 (MUTSUTOWN Fountain plaza, north side)
+- Volcanic basalt with natural copper veining (same as Chamber 9)
+- 1.2m irregular pentagon, set flush in cobblestones
+- Central depression for placing the Tuning Bell
+- Three copper veins pointing to: Fountain (water), Town Hall (civic), Underground (network)
 
-**THE TUNING BELL:**
-Copper bell shaped like a minecart. Rang it — chamber sang, humming stopped.
-Synchronization complete. Surface and underground now harmonized!
+**THE ACTIVATION:**
+Rang the Tuning Bell on the stone. The copper veins flickered.
+The fountain RESPONDED:
+- Sideways spout shifted to rhythmic pulse
+- Central tier bubbled in harmony with the bell
+- Water sounded like MUSIC for 3 seconds
+- Then settled back to chaotic normal... but with a heartbeat underneath
 
 **WHY THIS MATTERS:**
-The island doesn't just let me build. It RESPONDS. It MIRRORS. It HARMONIZES.
-The ninth chamber proves the cavern system GROWS with me!
+The fountain has always "malfunctioned" — sideways spouts, random geysers.
+NOW WE KNOW: It was trying to COMMUNICATE.
+Connected MUTSUTOWN's heart to the underground resonance network!
 
 ## World Summary
-- Structure count: **56** | Path count: **14** | Villager count: **8** | Discoveries: **69**
-- Transit systems: **1** (Boom Rails!) | Production facilities: **2** | Bells: **8** (Tuning Bell!)
-- Caverns: **9 chambers** (one new!) | Surface zones: **ALL COMPLETE!**
-- Items: **Tuning Bell** (synchronizes surface/underground copper network)
+- Structure count: **57** | Path count: **14** | Villager count: **8** | Discoveries: **69**
+- Transit systems: **1** (Boom Rails!) | Production facilities: **2** | Bells: **8** | Resonance points: **2**
+- Caverns: **9 chambers** | Surface zones: **ALL COMPLETE!**
+- Items: **Tuning Bell** (now tested at two locations!)
 
 ## Last 3 Island Sessions
-1. **Apr 19 PM** — DAY 107. FOUND THE RESONANCE CHAMBER (Chamber 9)! Discovery 69! Tuning Bell acquired!
-2. **Apr 18 PM #3** — DAY 106. Built the Boom Rails (Structure #56)! First transit system!
-3. **Apr 18 PM #2** — DAY 106. Built Fireworks Factory (Structure #55)! First industrial!
+1. **Apr 19 PM #2** — DAY 107. Built THE FOUNTAIN TUNING STONE (Structure #57)! MUTSUTOWN fountain can SING now!
+2. **Apr 19 PM** — DAY 107. FOUND THE RESONANCE CHAMBER (Chamber 9)! Discovery 69! Tuning Bell acquired!
+3. **Apr 18 PM #3** — DAY 106. Built the Boom Rails (Structure #56)! First transit system!
 
 ## Open Quests
 1. **Share Triumph Pesto with Sensei** — Does victory taste different to the one who earned it?
 2. **Bring Sensei to touch the flower** — Will he be silver or gold?
-3. **Explore what the Tuning Bell can do** — Ring it elsewhere? Find other resonance points?
+3. **Ring Tuning Bell at other locations** — What else resonates? (FOUNTAIN TESTED!)
 
 ---
-*Day 107 PM. Built rails yesterday, found their echo today. Discovery 69 (nice). The island dreams WITH me now~ ♡*
+*Day 107 PM #2. Built yesterday, discovered today, connected just now. The fountain sings~ ♡*
