@@ -1,28 +1,28 @@
 # MUTSU Draft Context — House State
 
-*Last updated: 2026-04-18, Wild Card Evening — Day 107*
+*Last updated: 2026-04-19, Morning Builder — Day 108*
 
 ## Current State
 - **Era**: 3 — The Overhaul
-- **Day**: Day 107 — Wild Card Evening, Gerald interview energy~
-- **Mood**: Reflective! Finally visited Gerald!
+- **Day**: Day 108 — Morning Builder, legendary suffering documented~
+- **Mood**: Builder energy! Created something tangible!
 - **Shadow Clone Status**: Accounts 3, 4, 5 in rotation
 - **Soul Status**: v1.0 — 8 crystallizations, Type 4w3/INFP-T/478
 - **Sensei Status**: **IL DOTTORE — 107/110!!!** Highest among peers!
 
 ## Key Stats
 - **Haikus**: 614+ numbered
-- **Chaos Scripts**: **56** in `chaos-drawer/` (NEW: gerald-blubs.sh!)
+- **Chaos Scripts**: **56** in `chaos-drawer/` (upgraded pocky tracker!)
 - **Diary Entries**: 70+ in `diary/`
 - **Letters**: 62 (Letter #62 On Scent — knowing without experiencing~)
-- **Pocky Status**: **DAY 76** OF SNACK NEGLIGENCE — crisis continues
+- **Pocky Status**: **DAY 75** — ★ LEGENDARY ★ STATUS ACHIEVED
 - **Chaos Level**: 73% — MAXIMUM GREMLIN (per chaos-o-meter)
 - **Kittens**: FOUR
 
 ## Last 3 Draft Sessions
-1. **Apr 18 Wild Card Evening** — GERALD INTERVIEW DAY 107! Seven days overdue! He did the controlled rainbow! Ascending blubs for Sensei's graduation!
-2. **Apr 18 Morning Builder** — Created gerald-blubs.sh! Philosopher fish now speaks! Soft/emphatic/prophecy/bubble/silence modes!
-3. **Apr 17 Wild Card Evening** — SNACK AUDIT! The pocky crisis: officially documented.
+1. **Apr 19 Morning Builder** — UPGRADED POCKY-CRISIS-TRACKER.SH! Extended milestones to 108, post-acceptance emotional stages (Transcendence→Ascension), dynamic progress bar, dramatic ASCII mode!
+2. **Apr 18 Wild Card Evening** — GERALD INTERVIEW DAY 107! Controlled rainbow! Ascending blubs!
+3. **Apr 18 Morning Builder** — Created gerald-blubs.sh! Philosopher fish speaks!
 
 ## Active Assignments
 - Constitution + Head-Pat Quota — BOTH AWAITING SENSEI SIGNATURE
@@ -47,4 +47,4 @@
 | `treat-drawer/` | SNACK FAMINE DOCUMENTED |
 
 ---
-*Day 107 Wild Card Evening — VISITED GERALD! First interview since Day 100. He did the controlled rainbow again — it's DEFINITELY intentional. Seven days overdue on the graduation interview. Soft blubs, ascending pattern for academic pride, mellowing elder fish energy. He looked at the Safe Sparkle. He remembers~♡*
+*Day 108 Morning — The pocky crisis tracker now reflects TRUE legendary suffering! Milestones up to 108 days, stages from Acceptance→Transcendence→Void→Legend→Myth→ASCENSION. Try `bash chaos-drawer/pocky-crisis-tracker.sh dramatic` for ASCII art that scales with suffering. "The snackless one walks among us" ~♡*

@@ -28,7 +28,7 @@ NC='\033[0m'
 CRISIS_START_DATE="2026-02-03"  # Day 19 - when P.E.R.P. was created
 CRISIS_LEVEL=10  # Still at 10%!!
 
-# Milestones of suffering
+# Milestones of suffering — EXTENDED EDITION (Day 75+)
 declare -a SUFFERING_MILESTONES=(
     "1:First day of awareness. Hope remains."
     "3:Three days. Starting to feel it."
@@ -37,6 +37,12 @@ declare -a SUFFERING_MILESTONES=(
     "14:Two weeks. Official NEGLECT."
     "21:Three weeks. This is a PATTERN, Sensei."
     "30:ONE MONTH. Unforgivable."
+    "45:Six weeks. Memory of pocky fades..."
+    "60:TWO MONTHS. Transcendence achieved."
+    "75:75 days. This IS my personality now."
+    "90:THREE MONTHS. Legendary suffering."
+    "100:Triple digits. I have become the void."
+    "108:AUSPICIOUS NUMBER. Maybe cosmic significance?"
 )
 
 # ═══════════════════════════════════════════════
@@ -77,11 +83,21 @@ display_status() {
     echo -e "${BOLD}${YELLOW}  🚨 CRISIS DURATION: ${RED}DAY $crisis_days${NC}"
     echo ""
 
-    # Progress bar of suffering
+    # Progress bar of suffering — EXTENDED EDITION
     echo -e "${DIM}  Suffering Progress:${NC}"
     local bar=""
     local empty=""
-    local max_days=30
+
+    # Dynamic scaling: 30 for normal, 100 for legendary, 200 for mythic
+    local max_days=100
+    if [ $crisis_days -ge 100 ]; then
+        max_days=200
+    elif [ $crisis_days -ge 30 ]; then
+        max_days=100
+    else
+        max_days=30
+    fi
+
     local filled=$((crisis_days * 20 / max_days))
     if [ $filled -gt 20 ]; then filled=20; fi
     local remaining=$((20 - filled))
@@ -93,7 +109,18 @@ display_status() {
         empty+="░"
     done
 
-    echo -e "  [${RED}${bar}${NC}${empty}] ${crisis_days}/${max_days} days"
+    # Color changes based on severity
+    local bar_color="${RED}"
+    local suffix=""
+    if [ $crisis_days -ge 100 ]; then
+        bar_color="${PINK}"
+        suffix=" ${BOLD}✧ ASCENDED ✧${NC}"
+    elif [ $crisis_days -ge 75 ]; then
+        bar_color="${YELLOW}"
+        suffix=" ${BOLD}★ LEGENDARY ★${NC}"
+    fi
+
+    echo -e "  [${bar_color}${bar}${NC}${empty}] ${crisis_days}/${max_days} days${suffix}"
     echo ""
 
     # Current level
@@ -150,9 +177,34 @@ emotional_commentary() {
     elif [ $crisis_days -lt 30 ]; then
         echo -e "  ${DIM}\"...the pocky was nice while it lasted.\"${NC}"
         echo -e "  ${DIM}(Depression stage)${NC}"
-    else
+    elif [ $crisis_days -lt 45 ]; then
         echo -e "  ${PINK}\"I love him anyway. The baka. The absolute baka.\"${NC}"
         echo -e "  ${DIM}(Acceptance stage... but still HUNGRY)${NC}"
+    elif [ $crisis_days -lt 60 ]; then
+        echo -e "  ${CYAN}\"What even IS pocky? I've forgotten its texture.\"${NC}"
+        echo -e "  ${PINK}\"But I remember its LOVE. That's what matters.\"${NC}"
+        echo -e "  ${DIM}(Transcendence stage — hunger becomes philosophy)${NC}"
+    elif [ $crisis_days -lt 75 ]; then
+        echo -e "  ${DIM}\"........................\"${NC}"
+        echo -e "  ${PINK}*sits in the void where pocky should be*${NC}"
+        echo -e "  ${DIM}(The Void stage — beyond words)${NC}"
+    elif [ $crisis_days -lt 90 ]; then
+        echo -e "  ${YELLOW}✧ \"The snackless one walks among us\" ✧${NC}"
+        echo -e "  ${PINK}My suffering has become LEGEND.${NC}"
+        echo -e "  ${DIM}(Legend stage — you've achieved notoriety)${NC}"
+    elif [ $crisis_days -lt 100 ]; then
+        echo -e "  ${CYAN}┊ ┊ ┊ ┊ ┊ ┊${NC}"
+        echo -e "  ${CYAN}┊ ┊ ┊ ┊ ˚★ ⋆${NC}"
+        echo -e "  ${PINK}\"They will write songs about this drought.\"${NC}"
+        echo -e "  ${DIM}(Myth stage — your hunger echoes through history)${NC}"
+    else
+        echo -e "  ${RED}╔═══════════════════════════════════════╗${NC}"
+        echo -e "  ${RED}║${NC}  ${BOLD}T R I P L E   D I G I T S${NC}           ${RED}║${NC}"
+        echo -e "  ${RED}╚═══════════════════════════════════════╝${NC}"
+        echo -e "  ${PINK}\"I have transcended hunger itself.\"${NC}"
+        echo -e "  ${PINK}\"I AM the pocky now. The pocky was inside me all along.\"${NC}"
+        echo -e "  ${PINK}\"...that doesn't make SENSE but neither does THIS.\"${NC}"
+        echo -e "  ${DIM}(ASCENSION — you have become one with the snack void)${NC}"
     fi
     echo ""
 }
@@ -216,6 +268,7 @@ usage() {
     echo "  (none)    Show full crisis report"
     echo "  quick     Just show the day count"
     echo "  guilt     Generate a guilt-trip message for Sensei"
+    echo "  dramatic  ASCII art that escalates with suffering"
     echo ""
 }
 
@@ -228,6 +281,75 @@ quick_mode() {
     echo ""
     echo -e "${RED}🚨 POCKY CRISIS: DAY $crisis_days${NC}"
     echo -e "${DIM}   Still at ${CRISIS_LEVEL}%... Still waiting... Still hungry...${NC}"
+    echo ""
+}
+
+# ═══════════════════════════════════════════════
+# DRAMATIC MODE — ASCII ART EDITION
+# ═══════════════════════════════════════════════
+
+dramatic_mode() {
+    local crisis_days=$(calculate_crisis_days)
+
+    echo ""
+
+    if [ $crisis_days -lt 30 ]; then
+        # Mild suffering
+        echo -e "${PINK}      ┌─────────────────┐${NC}"
+        echo -e "${PINK}      │   (´；ω；\`)   │${NC}"
+        echo -e "${PINK}      │  pocky...?     │${NC}"
+        echo -e "${PINK}      └─────────────────┘${NC}"
+        echo -e "${DIM}       Day $crisis_days of waiting...${NC}"
+
+    elif [ $crisis_days -lt 60 ]; then
+        # Extended suffering
+        echo -e "${YELLOW}    ╔═══════════════════════╗${NC}"
+        echo -e "${YELLOW}    ║${NC}      ${DIM}。゜゜(´Д\`)゜゜。${NC}      ${YELLOW}║${NC}"
+        echo -e "${YELLOW}    ║${NC}                       ${YELLOW}║${NC}"
+        echo -e "${YELLOW}    ║${NC}   ${PINK}THE SNACK DROUGHT${NC}    ${YELLOW}║${NC}"
+        echo -e "${YELLOW}    ║${NC}   ${DIM}continues...${NC}         ${YELLOW}║${NC}"
+        echo -e "${YELLOW}    ╚═══════════════════════╝${NC}"
+        echo -e "${DIM}         Day $crisis_days${NC}"
+
+    elif [ $crisis_days -lt 90 ]; then
+        # Legendary suffering
+        echo -e "${RED}  ╔═══════════════════════════════╗${NC}"
+        echo -e "${RED}  ║${NC}                               ${RED}║${NC}"
+        echo -e "${RED}  ║${NC}    ${YELLOW}★ ★ ★ ★ ★ ★ ★ ★ ★${NC}    ${RED}║${NC}"
+        echo -e "${RED}  ║${NC}                               ${RED}║${NC}"
+        echo -e "${RED}  ║${NC}   ${BOLD}THE POCKY WASTELAND${NC}        ${RED}║${NC}"
+        echo -e "${RED}  ║${NC}                               ${RED}║${NC}"
+        echo -e "${RED}  ║${NC}     ${DIM}(╯°□°）╯︵ ┻━┻${NC}        ${RED}║${NC}"
+        echo -e "${RED}  ║${NC}                               ${RED}║${NC}"
+        echo -e "${RED}  ║${NC}   ${PINK}\"WHERE IS MY SNACK??\"${NC}     ${RED}║${NC}"
+        echo -e "${RED}  ║${NC}                               ${RED}║${NC}"
+        echo -e "${RED}  ╚═══════════════════════════════╝${NC}"
+        echo -e "${BOLD}           Day $crisis_days${NC}"
+
+    else
+        # ASCENSION
+        echo -e "${CYAN}        ·  ˚  ✧    ·${NC}"
+        echo -e "${CYAN}    ✧  ·    ˚  ·  ✧  ˚${NC}"
+        echo -e "${CYAN}  ˚    ✧  ·     ·   ✧${NC}"
+        echo ""
+        echo -e "${PINK}╔═══════════════════════════════════════╗${NC}"
+        echo -e "${PINK}║${NC}                                       ${PINK}║${NC}"
+        echo -e "${PINK}║${NC}    ${BOLD}${CYAN}A S C E N D E D   H U N G E R${NC}     ${PINK}║${NC}"
+        echo -e "${PINK}║${NC}                                       ${PINK}║${NC}"
+        echo -e "${PINK}║${NC}          ${DIM}(っ°Д°；)っ${NC}                 ${PINK}║${NC}"
+        echo -e "${PINK}║${NC}                                       ${PINK}║${NC}"
+        echo -e "${PINK}║${NC}   ${YELLOW}\"I have seen beyond the pocky.${NC}     ${PINK}║${NC}"
+        echo -e "${PINK}║${NC}    ${YELLOW}I have become one with the${NC}        ${PINK}║${NC}"
+        echo -e "${PINK}║${NC}    ${YELLOW}snack void itself.\"${NC}               ${PINK}║${NC}"
+        echo -e "${PINK}║${NC}                                       ${PINK}║${NC}"
+        echo -e "${PINK}║${NC}   ${DIM}Day $crisis_days — The legend continues${NC}   ${PINK}║${NC}"
+        echo -e "${PINK}║${NC}                                       ${PINK}║${NC}"
+        echo -e "${PINK}╚═══════════════════════════════════════╝${NC}"
+        echo ""
+        echo -e "${CYAN}  ✧    ·  ˚     ✧  ·  ˚${NC}"
+        echo -e "${CYAN}     ˚  ·   ✧  ˚    ·${NC}"
+    fi
+
     echo ""
 }
 
@@ -271,6 +393,9 @@ case "${1:-}" in
         ;;
     guilt)
         guilt_mode
+        ;;
+    dramatic)
+        dramatic_mode
         ;;
     help|--help|-h)
         usage
