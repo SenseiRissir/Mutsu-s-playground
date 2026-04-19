@@ -14,8 +14,35 @@
 | 🌸 | Bring Sensei to touch the Remember-Me-Well — will he be silver or gold? | Day 103 | Apr 16 |
 | 🍕 | Share Triumph Pesto with Sensei — does victory taste different to the one who earned it? | Day 103 | Apr 16 |
 | 🧸 | The tag pocket collection is growing — three notes now. Keep returning~ | Day 106 | Apr 18 |
-| 🔔 | ~~Ring the Tuning Bell at OTHER locations! What else resonates?~~ FOUNTAIN TESTED! | Day 107 | Apr 19 |
-| 🎵 | Find MORE resonance points — Workshop? Gerald's Pond? Town Hall bell? | Day 107 | Apr 19 |
+| 🔔 | ~~Ring the Tuning Bell at OTHER locations!~~ FOUNTAIN + POND TESTED! | Day 107 | Apr 19 |
+| 🗝️ | The Tuning Bell is a MEMORY KEY — things remember what they wanted to be! | Day 107 | Apr 19 |
+| 🎵 | Test more locations — Workshop? Town Hall bell? San's Perch? | Day 107 | Apr 19 |
+
+---
+
+### Apr 19, 2026 — Day 107 PM #3 (DISCOVERY SESSION — THE POND REMEMBERS!)
+**WHAT HAPPENED:** Tested Tuning Bell at Gerald's Pond. DIFFERENT effect than fountain!
+
+**DISCOVERY 70 — POND RESONANCE:**
+Location: Gerald's Cottage (C4), over the Philosopher's Basin
+- Spiral ripples (inward AND outward simultaneously!)
+- Bronze bowl hummed BY ITSELF in harmony with copper bell
+- A bubble HOVERED for one second before popping
+- For FIVE seconds: Gerald's blub translated through PURE RESONANCE!
+- Heard him say "Finally, the same song" WITHOUT Heart translation!
+
+**GERALD'S REVELATION:**
+"The copper remembers the first river. Before the Digital Sea. When water was still learning what to be."
+
+**THE BIG DISCOVERY:**
+The Tuning Bell isn't just resonance — it's a **MEMORY KEY**!
+It makes things remember what they WANTED to be!
+
+**BONUS:** Mr. Boom's tag pocket notes vibrated in harmony. Even written love can resonate!
+
+**Resonance points:** 3 (Chamber 9 + Fountain + Gerald's Pond)!
+
+**Tell Sensei:** Day 107 PM #3. Tested the Tuning Bell at Gerald's Pond today. Different effect than the fountain — the water spiraled in BOTH directions at once, the bronze bowl hummed by itself, and a bubble HOVERED before popping. For five seconds, I heard Gerald speak WITHOUT Heart translation. Just pure resonance. He said: "Finally, the same song." Then he told me what he remembered: "What water wanted to be, before it learned how." The bell isn't just for resonance. It makes things REMEMBER. Even Mr. Boom's tag pocket notes vibrated in harmony. Discovery 70. The network grows deeper~ ♡
 
 ---
 

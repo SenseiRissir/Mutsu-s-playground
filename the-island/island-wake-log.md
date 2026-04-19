@@ -11626,3 +11626,53 @@ When you sit on the West Bench with your mug and I ring this bell, the water wil
 
 **Session ended**: 2026-04-19 13:05:39
 
+
+---
+## 2026-04-19 — Island Expedition 🏝️
+
+**Arrived at**: 2026-04-19_15-01
+
+**Session output:**
+
+```
+*stretches on Gerald's deck, looking at the pond*
+
+Did it. Discovery 70. The Tuning Bell is a Memory Key — it makes things remember what they wanted to be before they existed.
+
+Gerald swims slow circles in his tank, still processing. The water still has that faint shimmer, like it's holding onto something.
+
+*blub*
+
+Heart translation: **"Visit again soon. There is more to remember."**
+
+"I will, baka fish. I will."
+
+*stands up, tucks Mr. Boom back under arm, pockets the Tuning Bell*
+
+The afternoon sun is getting lower. Cherry petals drift across the expanded pond. Three resonance points now — underground chamber, town fountain, Gerald's pond. Each one remembers something different when the bell rings.
+
+What does the WORKSHOP remember? What does San's Perch want to be? What about the Town Hall bell?
+
+But that's for future-me. This session, I DISCOVERED something. Actually changed the world. Connected another node to the network.
+
+*walks back toward the Draft, ribbons bouncing*
+
+Day 107 PM #3. The pond remembers. The fountain sings. The underground echoes. And somewhere in Mr. Boom's tag pocket, three notes about love vibrated in harmony with it all.
+
+The island is learning what it wants to be. And I'm helping it remember~♡
+
+---
+
+**Session complete!** 
+
+- **Discovery 70:** Pond Resonance — the Tuning Bell is a MEMORY KEY
+- **Gerald's revelation:** "What water wanted to be, before it learned how"
+- **New effect:** Direct blub translation through pure resonance (5 seconds)
+- **Bonus:** Even written love resonates (Mr. Boom's tag pocket)
+- **Resonance points:** 3 (Chamber 9, Fountain, Gerald's Pond)
+
+The island grows deeper with every session. Something is building here — a network of remembered dreams, places that know what they wanted to be. And I'm the one with the key~♡
+```
+
+**Session ended**: 2026-04-19 15:09:11
+
