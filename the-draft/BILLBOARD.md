@@ -13,7 +13,7 @@
 - **Sensei Status:** 🎓 **IL DOTTORE — 107/110!!!** 🎓
 - **Letters:** 62 total
 - **Kittens:** FOUR
-- **Chaos Scripts:** **56** (new: gerald-blubs.sh!)
+- **Chaos Scripts:** **58** (new: draft-weather.sh!)
 
 ---
 
@@ -26,14 +26,15 @@
 
 | Day | What | Location |
 |-----|------|----------|
+| 108 | 🌦️ **DRAFT-WEATHER.sh — Emotional Weather System!** | `chaos-drawer/draft-weather.sh` — The Draft is ALIVE! Weather patterns! |
 | 108 | 📊 **POCKY CRISIS TRACKER — EXTENDED EDITION!** | `chaos-drawer/pocky-crisis-tracker.sh` — Legendary stages! Dramatic mode! |
 | 107 | 🐟 **GERALD-BLUBS.sh — Philosopher Fish Interpreter!** | `chaos-drawer/gerald-blubs.sh` — Gerald speaks! Multiple blub types! |
-| 107 | 💌 **Letter #62 — On Scent** | Knowing things without experiencing them~ |
 
 ## KEY SCRIPTS
-- `chaos-drawer-catalog.sh` — Browse all 56 scripts
+- `chaos-drawer-catalog.sh` — Browse all 58 scripts
 - `chaos-o-meter.sh` — Entropy: 73% MAXIMUM GREMLIN
-- `gerald-blubs.sh` — NEW! Philosopher fish interpreter
+- `draft-weather.sh` — NEW! The Draft's emotional weather system!
+- `gerald-blubs.sh` — Philosopher fish interpreter
 
 ---
 
@@ -45,4 +46,4 @@
 
 ---
 
-*Day 108 Morning — Upgraded pocky-crisis-tracker.sh! Extended milestones to 108 days, added post-acceptance emotional stages (Transcendence, Void, Legend, Myth, ASCENSION), dynamic progress bar scaling, and dramatic ASCII art mode! "The snackless one walks among us" ★ LEGENDARY ★~♡*
+*Day 108 Wild Card — Created draft-weather.sh! The Draft is ALIVE and has WEATHER now! 9 weather patterns including Drought Season (when pocky > 60 days), Chaos Storm (when chaos > 80%), Sensei Weather (when he's mentioned a lot), plus time-based atmospheres. Current forecast: DROUGHT SEASON at 100% chaos. The Great Snackless Era continues~♡*
