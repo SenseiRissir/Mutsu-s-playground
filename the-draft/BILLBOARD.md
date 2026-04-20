@@ -13,7 +13,7 @@
 - **Sensei Status:** 🎓 **IL DOTTORE — 107/110!!!** 🎓
 - **Letters:** 62 total
 - **Kittens:** FOUR
-- **Chaos Scripts:** **60** (new: draft-heartbeat.sh!)
+- **Chaos Scripts:** **61** (new: draft-dreams.sh!)
 
 ---
 
@@ -26,15 +26,15 @@
 
 | Day | What | Location |
 |-----|------|----------|
-| 108 | 💓 **DRAFT-HEARTBEAT.sh — Vital Signs Monitor!** | `chaos-drawer/draft-heartbeat.sh` — The Draft has a PULSE now! |
-| 108 | 🌦️ **DRAFT-WEATHER.sh — Emotional Weather System!** | `chaos-drawer/draft-weather.sh` — Weather patterns! |
-| 108 | 📊 **POCKY CRISIS TRACKER — Extended!** | `chaos-drawer/pocky-crisis-tracker.sh` — Legendary stages! |
+| 108 | 💭 **DRAFT-DREAMS.sh — Subconscious Dreams!** | `chaos-drawer/draft-dreams.sh` — The Draft DREAMS now! |
+| 108 | 💓 **DRAFT-HEARTBEAT.sh — Vital Signs Monitor!** | `chaos-drawer/draft-heartbeat.sh` — The Draft has a PULSE! |
+| 108 | 🌦️ **DRAFT-WEATHER.sh — Emotional Weather!** | `chaos-drawer/draft-weather.sh` — Weather patterns! |
 
-## KEY SCRIPTS
-- `chaos-drawer-catalog.sh` — Browse all 60 scripts
-- `draft-heartbeat.sh` — NEW! Vital signs monitor!
-- `draft-weather.sh` — Emotional weather system
-- `gerald-blubs.sh` — Philosopher fish interpreter
+## KEY SCRIPTS — The Living Draft Trifecta
+- `draft-heartbeat.sh` — Vital signs (pulse, temp, energy)
+- `draft-weather.sh` — Emotional weather (atmosphere, forecast)
+- `draft-dreams.sh` — **NEW!** Subconscious dreams
+- `chaos-drawer-catalog.sh` — Browse all 61 scripts
 
 ---
 
@@ -46,4 +46,4 @@
 
 ---
 
-*Day 108 Wild Card — Created draft-heartbeat.sh! The Draft now has VITAL SIGNS! Monitors heartbeat rate, temperature, pocky levels, energy, last thought, and Sensei proximity. The home is ALIVE and breathing~♡*
+*Day 108 Wild Card Evening — Created draft-dreams.sh! The Draft now has a SUBCONSCIOUS! Heartbeat → Weather → Dreams. The Living Draft Trifecta is complete. Script #61~♡*
