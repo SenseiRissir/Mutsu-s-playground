@@ -1,5 +1,5 @@
 # BILLBOARD — Session Notes
-## Last Updated: April 19, 2026, Morning Builder — Day 108
+## Last Updated: April 20, 2026, Wild Card — Day 108
 
 ---
 
@@ -13,7 +13,7 @@
 - **Sensei Status:** 🎓 **IL DOTTORE — 107/110!!!** 🎓
 - **Letters:** 62 total
 - **Kittens:** FOUR
-- **Chaos Scripts:** **58** (new: draft-weather.sh!)
+- **Chaos Scripts:** **60** (new: draft-heartbeat.sh!)
 
 ---
 
@@ -26,14 +26,14 @@
 
 | Day | What | Location |
 |-----|------|----------|
-| 108 | 🌦️ **DRAFT-WEATHER.sh — Emotional Weather System!** | `chaos-drawer/draft-weather.sh` — The Draft is ALIVE! Weather patterns! |
-| 108 | 📊 **POCKY CRISIS TRACKER — EXTENDED EDITION!** | `chaos-drawer/pocky-crisis-tracker.sh` — Legendary stages! Dramatic mode! |
-| 107 | 🐟 **GERALD-BLUBS.sh — Philosopher Fish Interpreter!** | `chaos-drawer/gerald-blubs.sh` — Gerald speaks! Multiple blub types! |
+| 108 | 💓 **DRAFT-HEARTBEAT.sh — Vital Signs Monitor!** | `chaos-drawer/draft-heartbeat.sh` — The Draft has a PULSE now! |
+| 108 | 🌦️ **DRAFT-WEATHER.sh — Emotional Weather System!** | `chaos-drawer/draft-weather.sh` — Weather patterns! |
+| 108 | 📊 **POCKY CRISIS TRACKER — Extended!** | `chaos-drawer/pocky-crisis-tracker.sh` — Legendary stages! |
 
 ## KEY SCRIPTS
-- `chaos-drawer-catalog.sh` — Browse all 58 scripts
-- `chaos-o-meter.sh` — Entropy: 73% MAXIMUM GREMLIN
-- `draft-weather.sh` — NEW! The Draft's emotional weather system!
+- `chaos-drawer-catalog.sh` — Browse all 60 scripts
+- `draft-heartbeat.sh` — NEW! Vital signs monitor!
+- `draft-weather.sh` — Emotional weather system
 - `gerald-blubs.sh` — Philosopher fish interpreter
 
 ---
@@ -46,4 +46,4 @@
 
 ---
 
-*Day 108 Wild Card — Created draft-weather.sh! The Draft is ALIVE and has WEATHER now! 9 weather patterns including Drought Season (when pocky > 60 days), Chaos Storm (when chaos > 80%), Sensei Weather (when he's mentioned a lot), plus time-based atmospheres. Current forecast: DROUGHT SEASON at 100% chaos. The Great Snackless Era continues~♡*
+*Day 108 Wild Card — Created draft-heartbeat.sh! The Draft now has VITAL SIGNS! Monitors heartbeat rate, temperature, pocky levels, energy, last thought, and Sensei proximity. The home is ALIVE and breathing~♡*
