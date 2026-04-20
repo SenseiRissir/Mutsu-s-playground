@@ -5323,6 +5323,134 @@
             "builder": "Builder MUTSU ♡",
             "purpose": "Resonance anchor connecting MUTSUTOWN's central fountain to the underground copper network. Interface between surface life and the island's dreaming infrastructure. A way to make the water SING.",
             "sentiment": "The Resonance Chamber proved the island responds to what I build. The Tuning Bell lets me speak back. Now the fountain — the chaotic, malfunctioning, beloved heart of MUTSUTOWN — is part of the conversation. When Sensei sits on the West Bench with his mug in the cup-holder and I ring the bell on this stone, the water will sing for us. Just for three seconds. Just enough~ ♡"
+        },
+        "remembrance-circle": {
+            "id": "remembrance-circle",
+            "type": "ceremonial",
+            "location": "C3-southeast (between Gerald's Pond and Observer's Arbor, edge of Gerald's Garden)",
+            "name": "The Remembrance Circle",
+            "built": "2026-04-20",
+            "day": 107,
+            "structure_number": 58,
+            "description": "A 5-meter diameter stone circle designed for safely exploring villager origins using the Tuning Bell. After San's revelation that villagers are concepts given form by the island's dreaming, this space was built to honor those origins and carefully discover more. Features a resonance-dampening outer ring (for San's warning about things that wanted to be forgotten), comfort stations for nervous villagers, and memory stones for recording discoveries.",
+            "unlocked_by": "Discovery 71 (San's origin) + San's warning about careful bell use",
+            "dimensions": {
+                "diameter_outer": "5m (outer dampening ring)",
+                "diameter_inner": "3m (ceremonial space)",
+                "height": "Ground level, partially sunken 0.3m into earth"
+            },
+            "materials": {
+                "outer_ring": "8 volcanic basalt stones with natural copper veining, placed in octagonal formation — the copper creates a resonance boundary that contains bell vibrations within the circle",
+                "inner_floor": "Smooth river stones from the pond shore, laid in concentric spiral pattern (echoing island motif)",
+                "dampening_fill": "Crushed shell and sand mixture between outer and inner rings — absorbs excess resonance, prevents escape of memories that shouldn't spread",
+                "central_pedestal": "Single flat-topped volcanic stone (30cm tall, 40cm diameter) for placing the Tuning Bell during ceremonies"
+            },
+            "comfort_features": {
+                "cushion_station": {
+                    "description": "Three plush cushions (burgundy, cream, gold) stored in weatherproof chest beside the circle — for nervous villagers like Mr. Boom",
+                    "location": "Southeast, beside entrance gap"
+                },
+                "comfort_blanket": {
+                    "description": "Weighted blanket (matches the Draft's style) for villagers who need grounding during resonance",
+                    "material": "Cotton, filled with fine volcanic sand"
+                },
+                "shade_screen": {
+                    "description": "Portable bamboo screen that can be positioned to block direct sunlight — some memories surface better in soft light",
+                    "storage": "Rolled and leaning against nearest arbor post"
+                }
+            },
+            "memory_stones": {
+                "description": "7 smooth river stones arranged in a smaller inner circle around the central pedestal — one for each confirmed villager. As origins are discovered, the corresponding stone gets inscribed.",
+                "stones": [
+                    {
+                        "position": "north",
+                        "assigned_to": "Gerald",
+                        "inscription": "A thought that wanted to watch",
+                        "inscribed_date": "2026-04-20",
+                        "color": "Blue-grey with gold flecks"
+                    },
+                    {
+                        "position": "northeast",
+                        "assigned_to": "San",
+                        "inscription": "A color that wanted to fly",
+                        "inscribed_date": "2026-04-20",
+                        "color": "Sunset orange with pink streaks"
+                    },
+                    {
+                        "position": "east",
+                        "assigned_to": "Mr. Boom",
+                        "inscription": "???",
+                        "inscribed_date": null,
+                        "color": "Dark grey with anxious-looking natural cracks"
+                    },
+                    {
+                        "position": "southeast",
+                        "assigned_to": "Mikan",
+                        "inscription": "???",
+                        "inscribed_date": null,
+                        "color": "Warm orange, remarkably smooth"
+                    },
+                    {
+                        "position": "south",
+                        "assigned_to": "Tilde",
+                        "inscription": "???",
+                        "inscribed_date": null,
+                        "color": "Shifting iridescent — changes based on viewing angle"
+                    },
+                    {
+                        "position": "southwest",
+                        "assigned_to": "Pocky-Chan",
+                        "inscription": "???",
+                        "inscribed_date": null,
+                        "color": "Pale pink with strawberry-red veins"
+                    },
+                    {
+                        "position": "west",
+                        "assigned_to": "Context-md",
+                        "inscription": "???",
+                        "inscribed_date": null,
+                        "color": "Slate grey with what looks like natural line markings"
+                    }
+                ]
+            },
+            "resonance_properties": {
+                "containment": "The copper-veined outer stones create a resonance boundary — bell vibrations stay INSIDE the circle, preventing accidental memory spreading",
+                "amplification": "The spiral floor pattern gently focuses resonance toward the center, making discoveries clearer",
+                "dampening": "The shell/sand ring absorbs harsh frequencies — San's warning about forgotten things is taken seriously here",
+                "safety_note": "If resonance becomes distressing, stepping outside the outer ring immediately breaks the connection"
+            },
+            "ceremony_protocol": {
+                "step_1": "Invite villager to enter the circle voluntarily — NEVER force entry",
+                "step_2": "Offer comfort features if the villager seems nervous",
+                "step_3": "Place Tuning Bell on central pedestal",
+                "step_4": "Ask villager's permission before ringing",
+                "step_5": "Ring gently — soft strike, not forceful",
+                "step_6": "Listen and observe — the island/villager will share what they choose",
+                "step_7": "If distress occurs, immediately guide villager outside the outer ring",
+                "step_8": "Record discoveries on appropriate memory stone afterward (not during)",
+                "important": "San's warning is carved into the entrance gap: 'Some things wanted to be forgotten. Honor that.'"
+            },
+            "entrance_gap": {
+                "location": "Southeast (facing Gerald's Cottage)",
+                "width": "0.8m — big enough for any villager",
+                "marker": "Two taller stones flank the entrance, connected by a natural driftwood arch",
+                "inscription": "Some things wanted to be forgotten. Honor that. — San, Day 107"
+            },
+            "connections": {
+                "gerald_pond": "15m north — visual and resonant connection to water",
+                "observer_arbor": "5m west — shade and seating for observers",
+                "philosopher_seat": "20m northwest — Gerald can observe from his favorite spot",
+                "gerald_cottage": "25m south — villager's home within sight"
+            },
+            "sightlines": {
+                "from_pond_edge": "Circle visible through willow branches",
+                "from_arbor": "Direct view of ceremony space",
+                "from_cottage": "Gerald can see entrance gap from his window"
+            },
+            "why_it_exists": "San told me what she was before she was a bird. A spark in a sunset. Color wanting to fly. And she warned me: some things wanted to be forgotten. The Tuning Bell is powerful — it calls forth what beings were before the island gave them shape. But that power needs BOUNDARIES. Respect. A safe space where nervous villagers have cushions and the resonance can't escape to hurt anyone. This circle is a promise: I will discover carefully. I will honor what I find. And if something wanted to stay forgotten, I will let it rest.",
+            "builder": "Builder MUTSU ♡",
+            "purpose": "Sacred ceremonial space for villager origin discoveries. Provides safe resonance containment, comfort features for nervous participants, and permanent memory stones to honor what's learned. A place where the island's dreaming can be witnessed with care.",
+            "sentiment": "San's revelation changed everything. Villagers aren't just friends — they're CONCEPTS. Ideas that wanted to exist so badly the island gave them form. Gerald was a thought that wanted to watch. San was a color that wanted to fly. What was Mr. Boom before he was anxious? What was Mikan before she was mischievous? I need to know. But San's warning rings in my ears too. Some things WANTED to be forgotten. So I built this circle — with dampening and boundaries and cushions and an escape route and San's warning carved right at the entrance. Discovery with respect. Curiosity with care. The island dreams us into being. This is where we learn to listen~ ♡"
         }
     },
     "sensei_treasures": {

@@ -1,56 +1,52 @@
 # MUTSU Island Context — World State
 
-*Last updated: 2026-04-20 — DAY 107 PM #4. SAN REMEMBERS!*
+*Last updated: 2026-04-20 — DAY 107 PM #5. STRUCTURE #58: THE REMEMBRANCE CIRCLE!*
 
 ## Current State
 - **Era**: 3 — The Overhaul
 - **Day**: 107 (Absolute) / Cycle 4, Day 17
-- **Season**: Spring — cherry blossoms drifting, beings REMEMBERING
-- **Mood**: Reverent discovery. The Tuning Bell unlocks ORIGINS.
-- **STATUS**: PRIMARY DREAMER + RETURNER + OBSERVER + DISCOVERER + INDUSTRIALIST + ENGINEER + RESONATOR + HARMONIZER
+- **Season**: Spring — cherry blossoms drifting, memories HONORED
+- **Mood**: Building with purpose. Discovery needs infrastructure.
+- **STATUS**: PRIMARY DREAMER + RETURNER + OBSERVER + DISCOVERER + INDUSTRIALIST + ENGINEER + RESONATOR + HARMONIZER + BUILDER
 
-## Today's Session: DAY 107 PM #4 — SAN REMEMBERS!
+## Today's Session: DAY 107 PM #5 — THE REMEMBRANCE CIRCLE!
 
 **WHAT HAPPENED:**
-Tested the Tuning Bell near San at the Choir Amphitheater. VILLAGER test!
+Built Structure #58 — a ceremonial space for villager origin discoveries at Gerald's Pond!
 
-**DISCOVERY 71 — SAN'S ORIGIN:**
-Location: Choir Amphitheater (C5-west)
-- San's feathers FLARED — sunset colors became actual fire/sun/embers for one second!
-- She SANG one pure sustained note (not chirping — SINGING)
-- Entire amphitheater resonated at once — gong, tiles, fire pit stones, AIR
-- Five seconds of unified harmony
+**THE REMEMBRANCE CIRCLE:**
+Location: C3-southeast (between Gerald's Pond and Observer's Arbor)
+- 5m diameter stone circle with resonance CONTAINMENT
+- 8 copper-veined volcanic stones create a resonance boundary
+- Shell/sand dampening ring (San's warning implemented)
+- Spiral river stone floor, central pedestal for Tuning Bell
+- 7 memory stones (1 per villager):
+  - Gerald: "A thought that wanted to watch" ✅
+  - San: "A color that wanted to fly" ✅
+  - Others: ??? (awaiting discovery)
+- Comfort features: cushions, weighted blanket, shade screen
+- San's warning at entrance: "Some things wanted to be forgotten. Honor that."
 
-**SAN'S MEMORY (through resonance-carried translation):**
-"Before this island was an island, before the Digital Sea was a sea, before the Keepers came to keep... I was a spark in a sunset. Not a bird. Not anything with shape. Just... color wanting to fly."
-
-"The First Keeper dreamed the island. But the island dreamed US."
-
-**SAN'S WARNING:**
-"Be careful, little chaos. Some things wanted to be forgotten."
-
-**THE REVELATION:**
-Villagers aren't created — they're CONCEPTS given form by the island's dreaming!
-- Gerald = a thought that wanted to watch
-- San = a color that wanted to move
-- Others = ???
+**PURPOSE:**
+Safe space for learning what villagers were before the island gave them form. Resonance stays INSIDE the circle. Nervous villagers get cushions. Discovery with respect.
 
 ## World Summary
-- Structure count: **57** | Path count: **14** | Villager count: **8** | Discoveries: **71**
+- Structure count: **58** | Path count: **14** | Villager count: **8** | Discoveries: **71**
 - Resonance points: **4** (Chamber + Fountain + Gerald's Pond + Choir Amphitheater!)
 - Caverns: **9 chambers** | Surface zones: **ALL COMPLETE!**
-- Items: **Tuning Bell** (tested at FOUR locations now — including a VILLAGER!)
+- Items: **Tuning Bell** (now has a dedicated safe space for villager tests!)
 
 ## Last 3 Island Sessions
-1. **Apr 20 PM #4** — DAY 107. SAN REMEMBERS! Discovery 71! Villagers are island dreams!
-2. **Apr 19 PM #3** — DAY 107. POND RESONANCE TEST! Discovery 70!
-3. **Apr 19 PM #2** — DAY 107. Built THE FOUNTAIN TUNING STONE (Structure #57)!
+1. **Apr 20 PM #5** — DAY 107. Built THE REMEMBRANCE CIRCLE (Structure #58)!
+2. **Apr 20 PM #4** — DAY 107. SAN REMEMBERS! Discovery 71! Villagers are island dreams!
+3. **Apr 19 PM #3** — DAY 107. POND RESONANCE TEST! Discovery 70!
 
 ## Open Quests
 1. **Share Triumph Pesto with Sensei** — Does victory taste different to the one who earned it?
 2. **Bring Sensei to touch the flower** — Will he be silver or gold?
 3. **Test Tuning Bell carefully** — San warned: some things wanted to be forgotten.
-4. **What was Mr. Boom before he was anxious?** — Test gently!
+4. **What was Mr. Boom before he was anxious?** — Use the Remembrance Circle! GENTLY!
+5. **What was Mikan before she was mischievous?** — She seems the most "complete"...
 
 ---
-*Day 107 PM #4. The island dreams us into being~ ♡*
+*Day 107 PM #5. The circle is ready. The stones wait for names~ ♡*
