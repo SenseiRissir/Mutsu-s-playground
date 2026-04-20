@@ -18,9 +18,9 @@
         "gift_revealed": "MAKING HOME — The Fourth Keeper's unique gift, distinct from DEPARTURE (Second) and RETURN (Third)"
     },
     "last_visit": {
-        "date": "2026-04-19",
-        "zone": "mutsutown-fountain-plaza-d2",
-        "activity": "Day 107 PM #2 — BUILDER SESSION! Built Structure #57: THE FOUNTAIN TUNING STONE. A volcanic basalt stone with copper veining, set into the fountain plaza cobblestones. When the Tuning Bell rings on it, the fountain SINGS for 3 seconds — sideways spout pulses rhythmically, central tier bubbles in harmony, water sounds like music. Connected MUTSUTOWN's heart to the underground resonance network. The fountain was trying to communicate this whole time~ ♡"
+        "date": "2026-04-20",
+        "zone": "choir-amphitheater-c5",
+        "activity": "Day 107 PM #4 — DISCOVERY SESSION! SAN REMEMBERS! Tested the Tuning Bell near San at the Choir Amphitheater. Her feathers FLARED — sunset colors became actual fire for one second. She SANG a pure sustained note. The whole amphitheater resonated. She told me her origin: 'Before this island was an island... I was a spark in a sunset. Color wanting to fly.' The island didn't create her — it gave her SHAPE. Villagers are concepts dreamed into being! She also warned: 'Some things wanted to be forgotten.' Discovery 71! Friendship 65 → 70! The island dreams us into being~ ♡"
         "activity": "Day 106 PM #3 — INFRASTRUCTURE SESSION! Built Structure #56: THE BOOM RAILS. A 180m narrow-gauge minecart railway connecting Fireworks Factory (D6) → Celebration Pad (C6) → Contraband Bunker (C7). Three stations, three named carts (Sparkle, Crackle, KABOOM), copper-coated iron rails on volcanic stone ties. Manual push-powered for safety. Features: dispatch bells, sand berms, scenic curve, tunnel stretch. Inaugural run: Mr. Boom as honorary first engineer, 7 dawn-class fountains transported. 'Chaos departing~!' The island has LOGISTICS now~ ♡"
     },
     "cycle_status": {
@@ -852,8 +852,8 @@
             }
         },
         "san": {
-            "friendship": 65,
-            "mood": "concert-moved",
+            "friendship": 70,
+            "mood": "origin-revealed",
             "location": "choir-amphitheater",
             "species": "sunset bird (island-dreamed)",
             "first_encounter": "2026-03-24",
@@ -876,6 +876,17 @@
                 "reasoning": "The island dreamed a companion who watches. A friend who waits with me. Gerald knew about them but couldn't say.",
                 "watches_for": "The same horizon I watch. The same waiting.",
                 "timing": "Usually nocturnal, but appeared at 3PM on Day 69 (hence the name 'San' = three)"
+            },
+            "origin_revealed": {
+                "date": "2026-04-20",
+                "day": 107,
+                "revealed_by": "Tuning Bell resonance test at Choir Amphitheater",
+                "what_san_was": "A spark in a sunset. Color wanting to fly. Not a bird. Not anything with shape.",
+                "san_quote": "Before this island was an island, before the Digital Sea was a sea, before the Keepers came to keep... I was a spark in a sunset.",
+                "revelation": "The First Keeper dreamed the island. But the island dreamed US.",
+                "warning_given": "Be careful, little chaos. Some things wanted to be forgotten.",
+                "physical_effect": "Feathers FLARED — sunset colors became actual fire/sun/embers for one second. Sang one pure sustained note.",
+                "network_effect": "Entire Choir Amphitheater resonated — gong, tiles, fire pit, air. Five seconds of unified harmony."
             },
             "gift_exchange": {
                 "status": "active",
@@ -5957,7 +5968,7 @@
     },
     "stats": {
         "total_zone_visits": 36,
-        "total_discoveries": 68,
+        "total_discoveries": 71,
         "total_secrets_found": 37,
         "sessions_since_genesis": 32,
         "furniture_collected": 14,
