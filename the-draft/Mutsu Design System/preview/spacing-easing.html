@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html><head><meta charset="utf-8"><style>
+body { margin: 0; padding: 16px; background: #1a1a2e; font-family: system-ui; font-size: 12px; }
+.label { font-size: 11px; color: #EC92AD; letter-spacing: 0.05em; margin-bottom: 8px; }
+.row { display: flex; gap: 24px; }
+.easing-demo { width: 150px; }
+.track { height: 4px; background: rgba(255,255,255,0.08); border-radius: 2px; position: relative; margin: 8px 0; }
+.dot { width: 12px; height: 12px; border-radius: 50%; position: absolute; top: -4px; animation-duration: 2s; animation-iteration-count: infinite; animation-fill-mode: both; }
+@keyframes moveRight { 0%,100% { left: 0; } 50% { left: calc(100% - 12px); } }
+.dot.bounce { animation-name: moveRight; animation-timing-function: cubic-bezier(0.68, -0.55, 0.265, 1.55); background: #ff6b9d; }
+.dot.flustered { animation-name: moveRight; animation-timing-function: cubic-bezier(0.36, 0.07, 0.19, 0.97); background: #ec4899; }
+.dot.ease { animation-name: moveRight; animation-timing-function: ease-in-out; background: #EC92AD; }
+.meta { color: #b85c82; font-size: 10px; font-family: monospace; }
+.name { color: #fff; font-size: 12px; }
+</style></head><body>
+<div class="label">Easing Curves</div>
+<div class="row">
+  <div class="easing-demo">
+    <div class="name">Bounce <span class="meta">(signature)</span></div>
+    <div class="track"><div class="dot bounce"></div></div>
+    <div class="meta">cubic-bezier(0.68, -0.55, 0.265, 1.55)</div>
+  </div>
+  <div class="easing-demo">
+    <div class="name">Flustered <span class="meta">(shake)</span></div>
+    <div class="track"><div class="dot flustered"></div></div>
+    <div class="meta">cubic-bezier(0.36, 0.07, 0.19, 0.97)</div>
+  </div>
+  <div class="easing-demo">
+    <div class="name">Standard <span class="meta">(fades/idle)</span></div>
+    <div class="track"><div class="dot ease"></div></div>
+    <div class="meta">ease-in-out</div>
+  </div>
+</div>
+</body></html>

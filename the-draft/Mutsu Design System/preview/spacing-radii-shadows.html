@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html><head><meta charset="utf-8"><style>
+body { margin: 0; padding: 16px; background: #1a1a2e; font-family: system-ui; }
+.label { font-size: 11px; color: #EC92AD; margin-bottom: 8px; letter-spacing: 0.05em; }
+.row { display: flex; gap: 24px; }
+.col { display: flex; flex-direction: column; gap: 4px; }
+.radii { display: flex; gap: 12px; align-items: center; }
+.shape { width: 44px; height: 44px; background: linear-gradient(135deg, #fff5f8, #ffe4ec); display: flex; align-items: center; justify-content: center; font-size: 10px; color: #4a3545; font-weight: 600; }
+.shadow-box { width: 70px; height: 44px; background: #2d1f2a; border-radius: 12px; display: flex; align-items: center; justify-content: center; font-size: 10px; color: #EC92AD; }
+</style></head><body>
+<div class="row">
+  <div class="col">
+    <div class="label">Border Radii</div>
+    <div class="radii">
+      <div class="shape" style="border-radius: 8px;">8</div>
+      <div class="shape" style="border-radius: 10px;">10</div>
+      <div class="shape" style="border-radius: 12px;">12</div>
+      <div class="shape" style="border-radius: 20px;">20</div>
+      <div class="shape" style="border-radius: 9999px; width: 44px;">full</div>
+    </div>
+  </div>
+  <div class="col">
+    <div class="label">Shadows</div>
+    <div style="display:flex; gap: 12px; padding: 4px 0;">
+      <div class="shadow-box" style="box-shadow: 0 4px 15px rgba(255,107,157,0.3), inset 0 1px 0 rgba(255,255,255,0.1);">bubble</div>
+      <div class="shadow-box" style="filter: drop-shadow(0 8px 20px rgba(0,0,0,0.3));">sprite</div>
+      <div class="shadow-box" style="filter: drop-shadow(0 8px 30px rgba(255,107,157,0.8));">urgent</div>
+      <div class="shadow-box" style="box-shadow: 0 2px 8px rgba(0,0,0,0.2);">mood</div>
+    </div>
+  </div>
+</div>
+</body></html>

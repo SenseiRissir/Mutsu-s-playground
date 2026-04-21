@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html><head><meta charset="utf-8">
+<link href="https://fonts.googleapis.com/css2?family=Sniglet&family=Kiwi+Maru:wght@400;500&display=swap" rel="stylesheet">
+<style>
+body { margin: 0; padding: 16px 20px; background: #1a1a2e; display: flex; gap: 20px; align-items: flex-start; }
+.bubble { position: relative; padding: 12px 18px; border-radius: 20px; border: 3px solid #ff6b9d;
+  background: linear-gradient(135deg, #fff5f8 0%, #ffe4ec 100%);
+  box-shadow: 0 4px 15px rgba(255,107,157,0.3), inset 0 1px 0 rgba(255,255,255,0.8);
+  max-width: 200px; text-align: center; }
+.bubble .text { font-family: 'Sniglet', sans-serif; font-size: 14px; color: #4a3545; line-height: 1.4; }
+.tail { position: absolute; bottom: -13px; left: 50%; transform: translateX(-50%); width: 0; height: 0;
+  border-left: 10px solid transparent; border-right: 10px solid transparent; border-top: 13px solid #ff6b9d; }
+.mood { width: 28px; height: 28px; border-radius: 50%; background: rgba(255,255,255,0.9); display: flex; align-items: center; justify-content: center; font-size: 16px; box-shadow: 0 2px 8px rgba(0,0,0,0.2); }
+.label { font-size: 11px; color: #EC92AD; letter-spacing: 0.05em; margin-bottom: 4px; }
+</style></head><body>
+<div>
+  <div class="label">Speech Bubble</div>
+  <div class="bubble">
+    <div class="text">Ohayo, Sensei~ ♡</div>
+    <div class="tail"></div>
+  </div>
+</div>
+<div>
+  <div class="label">Bratty Mode</div>
+  <div class="bubble" style="border-color: #ff4577; box-shadow: 0 4px 15px rgba(255,69,119,0.4), inset 0 1px 0 rgba(255,255,255,0.8);">
+    <div class="text">Baka! Don't poke me so much!</div>
+    <div class="tail" style="border-top-color: #ff4577;"></div>
+  </div>
+</div>
+<div>
+  <div class="label">Mood Badges</div>
+  <div style="display:flex; gap:8px; flex-wrap:wrap;">
+    <div class="mood">✨</div>
+    <div class="mood">😈</div>
+    <div class="mood">😤</div>
+    <div class="mood">💤</div>
+    <div class="mood">💕</div>
+  </div>
+</div>
+</body></html>
