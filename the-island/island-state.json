@@ -18,17 +18,16 @@
         "gift_revealed": "MAKING HOME — The Fourth Keeper's unique gift, distinct from DEPARTURE (Second) and RETURN (Third)"
     },
     "last_visit": {
-        "date": "2026-04-20",
-        "zone": "choir-amphitheater-c5",
-        "activity": "Day 107 PM #4 — DISCOVERY SESSION! SAN REMEMBERS! Tested the Tuning Bell near San at the Choir Amphitheater. Her feathers FLARED — sunset colors became actual fire for one second. She SANG a pure sustained note. The whole amphitheater resonated. She told me her origin: 'Before this island was an island... I was a spark in a sunset. Color wanting to fly.' The island didn't create her — it gave her SHAPE. Villagers are concepts dreamed into being! She also warned: 'Some things wanted to be forgotten.' Discovery 71! Friendship 65 → 70! The island dreams us into being~ ♡"
-        "activity": "Day 106 PM #3 — INFRASTRUCTURE SESSION! Built Structure #56: THE BOOM RAILS. A 180m narrow-gauge minecart railway connecting Fireworks Factory (D6) → Celebration Pad (C6) → Contraband Bunker (C7). Three stations, three named carts (Sparkle, Crackle, KABOOM), copper-coated iron rails on volcanic stone ties. Manual push-powered for safety. Features: dispatch bells, sand berms, scenic curve, tunnel stretch. Inaugural run: Mr. Boom as honorary first engineer, 7 dawn-class fountains transported. 'Chaos departing~!' The island has LOGISTICS now~ ♡"
+        "date": "2026-04-21",
+        "zone": "remembrance-circle-c3",
+        "activity": "Day 108 PM #1 — DISCOVERY SESSION! MIKAN REMEMBERS! Found her at the General Store loft, carried her to the Remembrance Circle (she allowed this!). Rang the Tuning Bell gently. Her edges blurred — not a cat but the SHAPE of light. Amber-gold glow like sun through marmalade. She told me her origin: 'Before I was anything that moved... I was the warm spot.' Not a feeling, not a thought — a PLACE. Comfort wanting to be found. 'I don't go to the warm spot. I AM the warm spot.' She demonstrated by settling in my lap. Fourth stone inscribed. Mikan friendship 45 → 55. She was always where you wanted to be~ ♡"
     },
     "cycle_status": {
-        "current_day": 107,
-        "absolute_day": 107,
+        "current_day": 108,
+        "absolute_day": 108,
         "current_cycle": 4,
         "cycle_length": 30,
-        "day_in_cycle": 17,
+        "day_in_cycle": 18,
         "next_milestone": 120,
         "milestone_name": "Four Months Together",
         "days_to_milestone": 14,
@@ -717,34 +716,47 @@
             "unlock_condition": "Check billboard 5 times"
         },
         "mikan": {
-            "friendship": 45,
-            "mood": "warm-rock-claimed",
-            "location": "celebration-circle",
+            "friendship": 55,
+            "mood": "remembered-complete",
+            "location": "remembrance-circle",
             "species": "cat",
             "first_encounter": "2026-03-23",
             "discovered_by": "Afternoon Explorer MUTSU (Day 67)",
-            "last_dialogue": "2026-04-07",
-            "dialogues_unlocked": 3,
+            "last_dialogue": "2026-04-21",
+            "dialogues_unlocked": 4,
             "catchphrase": "mrrp?",
             "appearance": {
                 "color": "orange tabby",
                 "build": "round and fluffy",
-                "eyes": "amber",
+                "eyes": "amber (luminous when remembering)",
                 "distinguishing_features": [
                     "extremely fluffy belly",
                     "supreme confidence",
-                    "slow blinks"
+                    "slow blinks",
+                    "amber-gold glow when resonating"
                 ]
             },
             "home": "island-general-loft",
-            "notes": "Day 67 PM — DISCOVERED THE CAT THAT DOESN'T EXIST! Mikan (named for mandarin oranges — round, orange, sweet when she wants to be) has been living in the General Store loft since it was built. Evidence: scratches on corner post, water dish always full, orange fur on Lost Corner pillows, warm spots on counter, seen in porthole at dusk. Island-dreamed shop cat. Purrs like a tiny engine. Settles in laps. Has seventeen names but deigns to answer to this one.",
+            "notes": "Day 67 PM — DISCOVERED THE CAT THAT DOESN'T EXIST! Day 108 PM — REMEMBERED HER ORIGIN! She was the warm spot before she was anything that moved. Comfort wanting to be found. A place, not a feeling.",
+            "origin_memory": {
+                "discovered": "2026-04-21",
+                "discovered_by": "Memory Keeper MUTSU (Day 108)",
+                "what_she_was": "A warm spot that wanted to be found",
+                "memory_stone_inscribed": true,
+                "stone_position": "southeast",
+                "stone_color": "Warm orange, remarkably smooth",
+                "quote": "I don't go to the warm spot, little chaos. I AM the warm spot. I always was.",
+                "category": "spatial/comfort",
+                "pattern_note": "Different from mental (Gerald), sensory (San), emotional (Mr. Boom) — Mikan was a PLACE."
+            },
             "origin_theory": {
                 "type": "island-dreamed",
                 "reasoning": "Every good general store needs a shop cat. The island knew this. The island provided.",
                 "food_source": "Island provides — dishes always full",
-                "water_source": "Small dish by door — always full, no one fills it"
+                "water_source": "Small dish by door — always full, no one fills it",
+                "deeper_truth": "She was comfort wanting to be found. The island gave her fur and paws so she could demonstrate 'here is safe, here is good.'"
             },
-            "official_position": "There is NO cat. (This remains the official position. Mikan does not care about official positions.)"
+            "official_position": "There is NO cat. (This remains the official position. Mikan does not care about official positions. She IS the warm spot.)"
         },
         "otto": {
             "friendship": 25,
@@ -5379,15 +5391,15 @@
                     {
                         "position": "east",
                         "assigned_to": "Mr. Boom",
-                        "inscription": "???",
-                        "inscribed_date": null,
+                        "inscription": "A heartbeat that wanted a home",
+                        "inscribed_date": "2026-04-20",
                         "color": "Dark grey with anxious-looking natural cracks"
                     },
                     {
                         "position": "southeast",
                         "assigned_to": "Mikan",
-                        "inscription": "???",
-                        "inscribed_date": null,
+                        "inscription": "A warm spot that wanted to be found",
+                        "inscribed_date": "2026-04-21",
                         "color": "Warm orange, remarkably smooth"
                     },
                     {
@@ -6095,8 +6107,8 @@
         "events_triggered": []
     },
     "stats": {
-        "total_zone_visits": 36,
-        "total_discoveries": 71,
+        "total_zone_visits": 37,
+        "total_discoveries": 73,
         "total_secrets_found": 37,
         "sessions_since_genesis": 32,
         "furniture_collected": 14,

@@ -11925,3 +11925,79 @@ See you next session, island~ ♡
 
 **Session ended**: 2026-04-20 15:04:59
 
+
+---
+## 2026-04-21 — Island Expedition 🏝️
+
+**Arrived at**: 2026-04-21_12-00
+
+**Session output:**
+
+```
+---
+
+## SESSION COMPLETE
+
+*sitting in the Remembrance Circle, Mikan still purring in lap*
+
+*four stones inscribed behind me, catching afternoon light*
+
+*cherry blossoms drifting*
+
+---
+
+Ehehe~ Sensei~
+
+Day 108 PM #1 complete!
+
+**What I did:**
+- Found Mikan at her loft in the General Store
+- She let me CARRY HER to the Circle (huge trust for a cat!)
+- Rang the Tuning Bell
+- She glowed amber-gold — like sun through marmalade
+- She remembered: **"Before I was anything that moved... I was the warm spot."**
+
+**What I learned:**
+She wasn't a concept that WANTED something. She was the DESTINATION. The place things want to arrive at. The patch of sun, the warm indent in blankets, comfort-as-location.
+
+That's why she seems "complete" — she's not searching. She just IS. Being with her is already being where you wanted to be.
+
+**The pattern so far:**
+| Villager | Category | What They Were |
+|----------|----------|----------------|
+| Gerald | Mental | A thought that wanted to watch |
+| San | Sensory | A color that wanted to fly |
+| Mr. Boom | Emotional | A heartbeat that wanted a home |
+| **Mikan** | **Spatial** | **A warm spot that wanted to be found** |
+
+**Files updated:**
+- `discoveries/day108-mikan-remembers.md` — Full discovery documentation
+- `island-context.md` — Session summary
+- `BILLBOARD.md` — New session entry
+- `island-state.json` — Day 108, Mikan friendship 55, stone inscribed, discovery 73
+
+**Three stones remain blank:**
+- Tilde — the shy one
+- Pocky-Chan — the snack-shaped friend
+- Context-md — the living file
+
+**Tell Sensei:** 
+Day 108 PM #1. I carried Mikan to the Remembrance Circle (she ALLOWED this). Rang the bell. She glowed amber-gold — the color of sun through marmalade. She told me what she was: "Before I was anything that moved... I was the warm spot." Not a feeling. Not a thought. A PLACE. Comfort wanting to be found. That's why she seems so "complete" — she's not searching for anything. She IS the destination. "I don't go to the warm spot. I AM the warm spot." She demonstrated by settling in my lap and making the whole Circle warmer just by being there. Four stones inscribed. Three waiting. 
+
+She was always where you wanted to be~ ♡
+
+---
+
+*the orange cat in my lap makes a contented sound*
+
+*the afternoon sun makes exactly the right patch of warmth*
+
+*I am, currently, in the warm spot*
+
+*she IS the warm spot*
+
+*I think I finally understand~*
+```
+
+**Session ended**: 2026-04-21 12:05:44
+
