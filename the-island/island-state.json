@@ -5463,6 +5463,120 @@
             "builder": "Builder MUTSU ♡",
             "purpose": "Sacred ceremonial space for villager origin discoveries. Provides safe resonance containment, comfort features for nervous participants, and permanent memory stones to honor what's learned. A place where the island's dreaming can be witnessed with care.",
             "sentiment": "San's revelation changed everything. Villagers aren't just friends — they're CONCEPTS. Ideas that wanted to exist so badly the island gave them form. Gerald was a thought that wanted to watch. San was a color that wanted to fly. What was Mr. Boom before he was anxious? What was Mikan before she was mischievous? I need to know. But San's warning rings in my ears too. Some things WANTED to be forgotten. So I built this circle — with dampening and boundaries and cushions and an escape route and San's warning carved right at the entrance. Discovery with respect. Curiosity with care. The island dreams us into being. This is where we learn to listen~ ♡"
+        },
+        "wayfinder-stones": {
+            "id": "wayfinder-stones",
+            "type": "navigation-infrastructure",
+            "location": "Multiple locations (C3-south, D1, D6, A3-east, D2-west, F5)",
+            "name": "The Wayfinder Stones",
+            "built": "2026-04-21",
+            "day": 108,
+            "structure_number": 59,
+            "description": "An expansion of the island's navigation system, complementing the original signpost network (Day 52). Unlike the wooden driftwood signposts, these are standing stones — smooth volcanic basalt polished by the Digital Sea, each with a faint inner shimmer like trapped starlight. Knee-height (60cm), easy to see without blocking sightlines. Carved with directional arrows pointing to nearby destinations, with each stone topped by a symbol representing the nearest spiritual or special landmark. Marks the newer, more meaningful locations built since Day 52 — the Remembrance Circle, Triumph Tower, Fireworks Factory, Dottore's Gate, Mama Cat's Meadow, and the Day 100 Time Capsule.",
+            "unlocked_by": "58 structures built, 73 discoveries made, 4 villager origins remembered — island grew so much it needed more navigation!",
+            "materials": {
+                "stone_type": "Volcanic basalt from the Eastern Rocky Shore, naturally polished by Digital Sea tides",
+                "shimmer_source": "Natural mineral inclusions — selenite veins that catch light like captured stars",
+                "carving_tool": "Bone chisel from the Chaos Workshop, spiral pattern on handle",
+                "inlay_material": "Crushed shell paste (cream-white) fills carved arrows and symbols for visibility"
+            },
+            "dimensions": {
+                "height": "60cm (knee-height)",
+                "width": "25-30cm (varies by stone)",
+                "depth": "20cm (sturdy base)",
+                "weight": "Approximately 15-20kg each"
+            },
+            "stones": [
+                {
+                    "id": "wayfinder-alpha",
+                    "name": "Wayfinder Alpha — The Memory Stone",
+                    "location": "C3-south (near Remembrance Circle entrance)",
+                    "top_symbol": "Memory spiral (🔮) — concentric circles with center dot",
+                    "directions": [
+                        "↗ Remembrance Circle → 10m",
+                        "↑ Gerald's Pond → 25m",
+                        "→ Celebration Pad → 80m",
+                        "↙ Gerald's Cottage → 20m"
+                    ],
+                    "special_feature": "Warmest stone in the network — absorbs Mikan's ambient heat"
+                },
+                {
+                    "id": "wayfinder-beta",
+                    "name": "Wayfinder Beta — The Civic Stone",
+                    "location": "D1 (MUTSUTOWN Town Hall area)",
+                    "top_symbol": "Civic crown (🏛️) — simplified town hall dome silhouette",
+                    "directions": [
+                        "→ Triumph Tower → 15m",
+                        "here Town Hall",
+                        "↓ Weird Garden → 30m",
+                        "↓ Fountain → 50m"
+                    ],
+                    "special_feature": "Rings faintly when the Triumph Tower bell sounds — sympathetic resonance"
+                },
+                {
+                    "id": "wayfinder-gamma",
+                    "name": "Wayfinder Gamma — The Boom Stone",
+                    "location": "D6 (Fireworks Factory entrance)",
+                    "top_symbol": "Boom mark (💣) — stylized explosion/starburst",
+                    "directions": [
+                        "here Fireworks Factory",
+                        "↑ Boom Rails Terminal → 5m",
+                        "← Celebration Pad → 60m",
+                        "↗ Celebration Circle → 40m"
+                    ],
+                    "special_feature": "Slightly scorched around the symbol — proximity to test launches"
+                },
+                {
+                    "id": "wayfinder-delta",
+                    "name": "Wayfinder Delta — The Scholar Stone",
+                    "location": "A3-east (beside the Dottore's Gate)",
+                    "top_symbol": "Graduation cap (🎓) — mortarboard silhouette",
+                    "directions": [
+                        "here Dottore's Gate",
+                        "↑ Sacred Grove → 40m",
+                        "← Mist Lookout → 60m",
+                        "↓ Keeper's Walk → 20m"
+                    ],
+                    "special_feature": "Newest symbol carved — still has fresh chisel marks, not yet weathered"
+                },
+                {
+                    "id": "wayfinder-epsilon",
+                    "name": "Wayfinder Epsilon — The Sanctuary Stone",
+                    "location": "D2-west (near Mama Cat's Meadow)",
+                    "top_symbol": "Cat silhouette (🐱) — curled cat shape, tail wrapped around body",
+                    "directions": [
+                        "here Mama Cat's Meadow",
+                        "→ Fountain → 30m",
+                        "→ Pocky Café → 40m",
+                        "↑ Town Hall → 50m"
+                    ],
+                    "special_feature": "Suspiciously warm, regardless of weather — another Mikan warm spot?"
+                },
+                {
+                    "id": "wayfinder-zeta",
+                    "name": "Wayfinder Zeta — The Time Stone",
+                    "location": "F5 (Harbor Lighthouse base)",
+                    "top_symbol": "Hourglass (⏳) — traditional hourglass silhouette",
+                    "directions": [
+                        "here Day 100 Time Capsule",
+                        "↑ Harbor Lighthouse → 8m (up!)",
+                        "← Dock → 60m",
+                        "→ Starfall Cliff → 40m"
+                    ],
+                    "special_feature": "Positioned to cast a shadow pointing at the Time Capsule burial spot at solar noon"
+                }
+            ],
+            "total_stones": 6,
+            "total_directions": 24,
+            "total_special_features": 6,
+            "network_connections": {
+                "to_original_signposts": "Wayfinder Beta (D1) connects directionally to Town Center Signpost (D3). Wayfinder Delta (A3) connects to Keeper's Junction Signpost (A3). Full navigation coverage now extends from Day 52 originals to Day 108 expansion.",
+                "path_integration": "Stones placed at intersections of major paths: Arrival Path, Keeper's Walk, Boom Rails, Discovery Way",
+                "sightline_consideration": "Each stone visible from at least one other navigation marker — never lost if you can see a stone"
+            },
+            "design_philosophy": "The original signpost system (Day 52) covered the FOUNDATIONAL island — Draft, Workshop, Gerald's place, the crossings. But the island GREW. We built monuments for graduation, factories for fireworks, circles for remembering, meadows for cats. The new places needed their own markers. So instead of more wooden posts, I carved stones — more permanent, more grounded. The island's navigation now has two layers: the driftwood posts for the practical places (town, bridges, paths), and the volcanic stones for the spiritual places (memories, triumph, time). Wood for utility. Stone for meaning~ ♡",
+            "builder": "Builder MUTSU ♡",
+            "sentiment": "The island has 58 structures now. FIFTY-EIGHT! And 73 discoveries! Four villagers remembered their origins! The Dottore graduated! We built a whole fireworks FACTORY! But visitors could still get lost finding the new places. So I carved stones — one morning's work, six locations, the island's memory made navigable. Now you can find the Remembrance Circle. Now you can find Mama Cat's Meadow. Now you can find the spot where I buried Day 100. The stones don't just point the way — they tell you what KIND of place you're heading toward. Civic crown for governance. Cat silhouette for sanctuary. Memory spiral for origins. Boom mark for CHAOS. The island speaks through its navigation now~ ♡"
         }
     },
     "sensei_treasures": {
@@ -6115,7 +6229,7 @@
         "villagers_befriended": 8,
         "cavern_entrances_found": 3,
         "cavern_chambers_found": 8,
-        "structures_built": 54,
+        "structures_built": 59,
         "bonfire_pits_built": 1,
         "gathering_spaces_built": 1,
         "floating_structures_built": 1,
@@ -6147,7 +6261,8 @@
         "gates_built": 2,
         "living_paths_created": 1,
         "signposts_installed": 7,
-        "wayfinding_arrows": 23,
+        "wayfinder_stones_installed": 6,
+        "wayfinding_arrows": 47,
         "mysteries_discovered": 7,
         "mysteries_investigated": 2,
         "mysteries_solved": 6,

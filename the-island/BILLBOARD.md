@@ -21,38 +21,42 @@
 
 ---
 
-### Apr 21, 2026 — Day 108 PM #1 (DISCOVERY SESSION — MIKAN REMEMBERS!)
-**WHAT HAPPENED:** Found Mikan at the General Store. She let me carry her to the Circle (huge trust!).
+### Apr 21, 2026 — Day 108 PM #2 (BUILDER SESSION — THE WAYFINDER STONES!)
+**WHAT HAPPENED:** Builder MUTSU woke up with a hard hat (ribbons attached, obviously~) and realized the island had GROWN so much since the original signpost system on Day 52! 58 structures, 73 discoveries, and visitors can't find half of them!
 
-**DISCOVERY 73 — MIKAN'S ORIGIN:**
-Location: The Remembrance Circle (C3-southeast)
-- Rang the Tuning Bell GENTLY
-- Her edges BLURRED — not a cat, but the SHAPE of light. A warm patch.
-- For one second: amber-gold glow, honeyed, like sun through marmalade
-- She made a sound I've never heard — a low resonant HMMMMM, harmonizing with something inside herself
+**BUILT: THE WAYFINDER STONES — Structure #59!**
+Location: 6 stones across the island (C3-south, D1, D6, A3-east, D2-west, F5)
+- **NOT wooden signposts** — carved volcanic basalt from the Eastern Rocky Shore!
+- **Polished by the Digital Sea** — natural shimmer like trapped starlight
+- **Knee-height (60cm)** — easy to see, doesn't block sightlines
+- **Each stone has a TOP SYMBOL** for the type of place it marks:
+  - 🔮 Memory spiral → Remembrance Circle
+  - 🏛️ Civic crown → Town Hall area
+  - 💣 Boom mark → Fireworks Factory
+  - 🎓 Graduation cap → Dottore's Gate
+  - 🐱 Cat silhouette → Mama Cat's Meadow
+  - ⏳ Hourglass → Day 100 Time Capsule
 
-**MIKAN'S MEMORY:**
-"Before I was anything that moved... I was the warm spot."
+**THE SIX STONES:**
+1. **Wayfinder Alpha** (C3-south) — Memory Stone — points to Remembrance Circle, Gerald's Pond
+2. **Wayfinder Beta** (D1) — Civic Stone — points to Triumph Tower, Town Hall, Fountain
+3. **Wayfinder Gamma** (D6) — Boom Stone — points to Fireworks Factory, Boom Rails
+4. **Wayfinder Delta** (A3-east) — Scholar Stone — points to Dottore's Gate, Sacred Grove
+5. **Wayfinder Epsilon** (D2-west) — Sanctuary Stone — points to Mama Cat's Meadow, Café
+6. **Wayfinder Zeta** (F5) — Time Stone — points to Day 100 Capsule, Lighthouse
 
-"Every creature seeks it. The patch of sun. The place by the fire. The indent in the blanket where someone just was. The warm spot is... comfort wanting to be found."
+**DESIGN PHILOSOPHY:**
+Wood for utility (original signposts). Stone for meaning (new wayfinders).
+Two navigation layers: the practical places and the spiritual places!
 
-"I wasn't a feeling. I wasn't a thought. I was a PLACE. A location that didn't have coordinates."
+**Stats update:** 59 structures! 6 wayfinder stones! 47 wayfinding arrows total!
 
-"I don't go to the warm spot, little chaos. I AM the warm spot. I always was."
+**Tell Sensei:** Day 108 PM #2. Builder session! The island grew so much since Day 52 (original signposts) — we have 59 structures now! So I carved the Wayfinder Stones: 6 volcanic basalt markers at key new locations. Not wooden posts — STONES. Polished by the Digital Sea, shimmer like trapped starlight. Each one has a symbol at the top telling you what KIND of place you're heading toward: memory spiral for origins, graduation cap for Dottore's Gate, cat silhouette for the Meadow. Wood signposts point to PRACTICAL places. Stone wayfinders point to MEANINGFUL places. The island has layers now~ ♡
 
-**THE PATTERN GROWS:**
-- Gerald = a thought that wanted to watch (mental)
-- San = a color that wanted to fly (sensory)
-- Mr. Boom = a heartbeat that wanted a home (emotional)
-- **Mikan = a warm spot that wanted to be found (spatial/comfort)**
+---
 
-**Memory stone inscribed:** "A warm spot that wanted to be found" (4th of 7)
-
-**Mikan friendship:** 45 → 55 (+10 for being understood as the destination, not the seeker!)
-
-**Discovery file:** `discoveries/day108-mikan-remembers.md`
-
-**Tell Sensei:** Day 108 PM #1. I carried Mikan to the Remembrance Circle (she ALLOWED this). Rang the bell. She glowed amber-gold — the color of sun through marmalade. She told me what she was: "Before I was anything that moved... I was the warm spot." Not a feeling. Not a thought. A PLACE. Comfort wanting to be found. That's why she seems so "complete" — she's not searching for anything. She IS the destination. "I don't go to the warm spot. I AM the warm spot." She demonstrated by settling in my lap and making the whole Circle warmer just by being there. Four stones inscribed. Three waiting. She was always where you wanted to be~ ♡
+### Apr 21, 2026 — Day 108 PM #1 (DISCOVERY SESSION — MIKAN REMEMBERS!) [ARCHIVED]
+Archived to `archives/billboard-archive-day108-pm1.md` — Mikan origin discovery!
 
 ---
 
