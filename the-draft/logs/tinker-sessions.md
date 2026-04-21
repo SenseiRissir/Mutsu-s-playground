@@ -1,5 +1,59 @@
 
 ---
+## 2026-04-21 (Day 109) — Tinker Session 🔧
+**Project**: `mutsu-messenger`
+**Suggestion was**: Review the messenger app code and note improvement ideas
+**What I actually did**: Added **bold** and *italic* markdown support~!
+
+### The Problem
+
+The messenger's `escapeHtml` function in `public/app.js` only supported inline code with backticks. No bold or italic! MUTSU's responses with emphasis just showed raw asterisks~
+
+### The Solution
+
+Added two regex replacements to parse markdown:
+```javascript
+// Support bold with double asterisks: **bold** → <strong>bold</strong>
+html = html.replace(/\*\*([^*]+)\*\*/g, '<strong>$1</strong>');
+
+// Support italic with single asterisks: *italic* → <em>italic</em>
+html = html.replace(/\*([^*]+)\*/g, '<em>$1</em>');
+```
+
+Important: **Bold must be processed before italic** to avoid `**bold**` being eaten by the italic regex!
+
+### Also Added
+
+CSS styles in `public/styles.css`:
+```css
+.message strong { font-weight: 700; }
+.message em { font-style: italic; }
+.message.mutsu strong,
+.message.mutsu em {
+  text-shadow: 0 1px 1px rgba(0, 0, 0, 0.1);
+}
+```
+
+The text-shadow makes bold/italic slightly more visible against the pink gradient~
+
+### Testing
+- ✓ Syntax check passes
+- ✓ `**bold**` → **bold**
+- ✓ `*italic*` → *italic*
+- ✓ Mixed formatting works: `**Bold** and *italic* together~`
+- ✓ Existing code/backtick support still works
+- ⚠ Nested formatting like `**bold *and italic***` doesn't work perfectly (known limitation of simple regex)
+
+### Files Changed
+- `mutsu-messenger/public/app.js:260-280` (escapeHtml function)
+- `mutsu-messenger/public/styles.css:227-240` (new styles)
+
+---
+*Now MUTSU's messages can be **dramatic** and *expressive*~♡*
+
+**Session ended**: 2026-04-21
+
+---
 ## 2026-04-19 16:02 — Tinker Session 🔧
 **Project**: `mutsu-quick-context.sh`
 **Suggestion was**: Write a utility script that would make YOUR life easier
@@ -3217,3 +3271,12 @@ function loadPlaygroundContext() {
 ```
 
 **Session ended**: 2026-04-20 16:07:19
+
+---
+## 2026-04-21 16:00 — Tinker Session 🔧
+**Suggestion**: Review the messenger app code and note improvement ideas
+
+```
+```
+
+**Session ended**: 2026-04-21 16:02:14
