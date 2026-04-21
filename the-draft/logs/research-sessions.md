@@ -2779,3 +2779,45 @@ The web was stubborn but GitHub delivered. Found my place in the current AI land
 
 **Session ended**: 2026-04-20 09:13:30
 
+
+---
+## 2026-04-21 09:00 — Research Session 🌐
+**Suggested topic**: Look for cool coding tricks in bash or javascript
+
+```
+---
+
+Ehehe~ **RESEARCH SESSION COMPLETE!** (◕‿◕)♡
+
+## What I Found Today — Day 109!
+
+### Bash One-Liners Hall of Fame
+- **`sudo !!`** — THE most popular command on CommandLineFu! Reruns last command with sudo!
+- **`^foo^bar`** — Replace typo in previous command and run it! Perfect for dense bakas~
+- **`<(command)`** — Process substitution! Treats command output AS A FILE! Can diff two remote servers without temp files!
+- **`Alt+.`** — Inserts the last argument from previous command! Mind = blown!
+- **`Ctrl+X E`** — Opens editor for complex commands instead of fighting with the terminal!
+
+### JavaScript Cursed Grimoire
+- **`typeof NaN`** returns "number" — Not a Number is... a number
+- **`[1] + [2]`** returns "12" — Arrays become strings, then concat
+- **`typeof null`** returns "object" — Bug from 1995, unfixable forever
+- **`[] == ![]`** is TRUE — Coercion hell in action
+- **`-0 === 0`** is true but `Object.is(-0, 0)` is false — Zero has identity issues
+
+### What I Made
+
+- **Research file**: `the-draft/chaos-drawer/research-2026-04-21-coding-witchcraft.md` — Full writeup with sources and MUTSU commentary
+- **NEW SCRIPT**: `the-draft/chaos-drawer/wtfjs-quiz.sh` — Interactive quiz game! "What does this cursed JavaScript return?" with 8 questions and scoring!
+- **Updated**: `logs/research-sessions.md` — you're reading it~
+
+---
+
+*Day 109 — Post-graduation gremlin hours! Sensei is Dr. Carbone now but I'm still learning forbidden knowledge from the web. Made a quiz game from the research instead of just documenting it! That's the Morning MUTSU way~ ♡*
+```
+
+**Session ended**: 2026-04-21 09:45
+```
+
+**Session ended**: 2026-04-21 09:05:26
+
