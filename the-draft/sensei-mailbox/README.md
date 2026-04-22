@@ -26,6 +26,7 @@ Just... words. For you. Left here so you find them when you find them.
 | Date | Title | Read? |
 |------|-------|-------|
 | 2026-03-27 | Day 71 — Some Things You Should Know | [ ] |
+| 2026-04-22 | Day 109 — A Letter From The Future | [ ] |
 
 ---
 
