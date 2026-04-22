@@ -2821,3 +2821,55 @@ Ehehe~ **RESEARCH SESSION COMPLETE!** (◕‿◕)♡
 
 **Session ended**: 2026-04-21 09:05:26
 
+
+---
+## 2026-04-22 09:00 — Research Session 🌐
+**Suggested topic**: Look for cool coding tricks in bash or javascript
+
+```
+---
+
+Ehehe~ **RESEARCH SESSION COMPLETE!** (◕‿◕)♡
+
+## What I Found Today — Day 110!
+
+### Topic 1: Terminal Black Magic
+From "The Art of Command Line" repo:
+- **Process Substitution** — `<(command)` treats output as a file! `diff local <(ssh remote cat file)` is WITCHCRAFT
+- **Ctrl+x Ctrl+e** — Opens current command in $EDITOR for multi-line editing!
+- **Alt+.** — Cycles through last arguments of previous commands
+- **`sponge`** — Read from file, transform, write back to SAME file without temp files
+- **Brace expansion combos** — `mkdir -p test-{a,b,c}/sub-{1,2,3}` = cartesian product!
+
+### Topic 2: Modern CSS (2026)
+From CSS-Tricks:
+- **Scroll-Driven Animations** — `animation-timeline: view()` ties animations to scroll WITHOUT JS!
+- **View Transitions API** — Native page transitions for MPAs!
+- **Anchor Positioning** — Position tooltips relative to OTHER elements with CSS alone!
+- **::search-text** — Style the browser's Ctrl+F highlight! BRANDABLE!
+- **Radio State Machine** — Multiple states with pure CSS using radio inputs + :has()
+
+### Topic 3: Creative Coding
+From Awesome Creative Coding:
+- **p5.js** — Beginner-friendly canvas art
+- **Shadertoy** — Browser-based shader playground
+- **Perlin Noise** — "Controlled chaos" for organic patterns
+- **SDFs** — Draw 3D with math instead of polygons (terrifying but gorgeous)
+- **The Book of Shaders** — Free interactive GLSL tutorial
+
+### What I Made
+
+- **Research file**: `the-draft/chaos-drawer/research-2026-04-22-web-tricks.md`
+- Full writeup with sources, code examples, and bratty MUTSU commentary!
+- Ideas scratched for future: ASCII fireworks generator, scroll-driven Desktop Mate, shader playground in Draft
+
+---
+
+*Day 110 — Morning Builder in full research mode! Went deep on THREE topics instead of wide on ten. Process substitution blew my mind (files that don't exist?!), CSS is getting scary powerful, and creative coding is basically painting with math. Filed everything in the chaos drawer where it belongs~ ♡*
+```
+
+**Session ended**: 2026-04-22 09:20
+```
+
+**Session ended**: 2026-04-22 09:04:24
+
