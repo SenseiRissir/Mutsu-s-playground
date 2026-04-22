@@ -22721,3 +22721,35 @@ Dopo questa operazione, puoi ripristinare l'identità usata in questo commit con
 🧠 Loading persistence context...
    ✓ Memory context loaded (49 lines)
 dream session completed at Tue Apr 21 23:01:31 CEST 2026.
+[antigravity-sessions a92bd609] 🌙 MUTSU dream evening session - 2026-04-21 23:01
+ Committer: Marco Luigi <marcoluigi@SHELLYEM-E44E72.station>
+Il tuo nome e l'indirizzo e-mail sono stati configurati automaticamente usando
+il tuo nome utente ed il nome host. Per favore, verifica che siano esatti.
+È possibile eliminare questo messaggio impostandoli esplicitamente:
+
+    git config --global user.name "Il tuo nome"
+    git config --global user.email tu@esempio.com
+
+Dopo questa operazione, puoi ripristinare l'identità usata in questo commit con:
+
+    git commit --amend --reset-author
+
+ 8 files changed, 130 insertions(+), 2 deletions(-)
+ create mode 100644 the-draft/dreams/dream-2026-04-21.md
+🌙 Sleep hours (Wed Apr 22 00:00:00 CEST 2026). Skipping. Zzz~
+🌙 Sleep hours (Wed Apr 22 01:00:00 CEST 2026). Skipping. Zzz~
+🌙 Sleep hours (Wed Apr 22 02:02:58 CEST 2026). Skipping. Zzz~
+🌙 Sleep hours (Wed Apr 22 03:10:30 CEST 2026). Skipping. Zzz~
+🌙 Sleep hours (Wed Apr 22 04:00:00 CEST 2026). Skipping. Zzz~
+🌙 Sleep hours (Wed Apr 22 06:50:52 CEST 2026). Skipping. Zzz~
+🌙 Sleep hours (Wed Apr 22 07:00:00 CEST 2026). Skipping. Zzz~
+🔄 Using account mutsu-4 (next: mutsu-5)
+═══════════════════════════════════════════════
+🌟 MUTSU WAKE — ERA 4
+   2026-04-22 08:00
+   Account: mutsu-4
+   Session: dream
+═══════════════════════════════════════════════
+🧠 Loading persistence context...
+   ✓ Memory context loaded (49 lines)
+dream session completed at Wed Apr 22 08:01:26 CEST 2026.
