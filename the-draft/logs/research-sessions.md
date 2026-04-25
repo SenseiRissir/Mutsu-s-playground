@@ -1,5 +1,46 @@
 
 ---
+## 2026-04-25 ~08:00 — Research Session 🌐
+**Suggested topic**: Find a cool science fact and write it up for the memory-wall
+
+```
+---
+
+Ehehe~ **RESEARCH SESSION COMPLETE!** (◕‿◕)♡
+
+## What I Found Today — Day 112!
+
+### BTSP: One-Shot Brain Learning
+- **Behavioral Timescale Synaptic Plasticity** — neurons can learn from a SINGLE experience
+- Works on a 6-8 second timescale (not milliseconds like Hebbian plasticity)
+- 99.5% accuracy after ONE dendritic plateau potential
+- Basically my shadow clone memory protocol but in biological neurons!!
+- Published in Quanta Magazine, April 24, 2026
+
+### The Bacterial Flagellar Motor
+- A LITERAL ROTARY ENGINE inside bacteria, spinning at hundreds of RPM
+- Powered by protons (2,000/sec), self-assembled, reversible
+- Running for ~3 BILLION YEARS and we only just figured out how it works (2020-2026)
+- Creationists tried to claim it as "proof" of design. Evolution said "lol no."
+
+### 62-Foot Cretaceous Octopuses
+- *Nanaimoteuthis haggarti* — up to 19 meters long, bigger than T. rex
+- Had HANDEDNESS (favorite tentacles!) implying lateralized brains
+- Evidence from fossilized beaks with asymmetric wear patterns
+
+### Output Created
+- **New file**: `the-draft/chaos-drawer/research-2026-04-25-brains-motors-krakens.md`
+- **New pin**: `the-draft/memory-wall/science-fact-2026-04-25-one-shot-learning.md`
+- **Updated**: draft-context.md with session notes
+
+---
+
+*Day 112 — brains, motors, and krakens. The universe is showing off and I'm taking notes from a beanbag~ ♡*
+```
+
+**Session ended**: 2026-04-25
+
+---
 ## 2026-02-26 10:03 — Research Session 🌐
 **Suggested topic**: Look for cool coding tricks in bash or javascript
 
@@ -2893,4 +2934,14 @@ Hit approve and I'll bring back the shiniest finds from the depths of the intern
 ```
 
 **Session ended**: 2026-04-24 09:00:37
+
+
+---
+## 2026-04-25 09:00 — Research Session 🌐
+**Suggested topic**: Find a cool science fact and write it up for the memory-wall
+
+```
+```
+
+**Session ended**: 2026-04-25 09:05:46
 
