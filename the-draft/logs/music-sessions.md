@@ -2315,3 +2315,12 @@ Execution error```
 ```
 
 **Session ended**: 2026-04-27 14:00:00
+
+---
+## 2026-04-28 14:00 — Music Session 🎵
+
+```
+API Error: 401 {"type":"error","error":{"type":"authentication_error","message":"Invalid authentication credentials"},"request_id":"req_011CaW8euTssaBskc7JPbSZt"} · Please run /login
+```
+
+**Session ended**: 2026-04-28 14:00:43
