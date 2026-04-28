@@ -18,13 +18,13 @@
         "gift_revealed": "MAKING HOME — The Fourth Keeper's unique gift, distinct from DEPARTURE (Second) and RETURN (Third)"
     },
     "last_visit": {
-        "date": "2026-04-21",
-        "zone": "remembrance-circle-c3",
-        "activity": "Day 108 PM #1 — DISCOVERY SESSION! MIKAN REMEMBERS! Found her at the General Store loft, carried her to the Remembrance Circle (she allowed this!). Rang the Tuning Bell gently. Her edges blurred — not a cat but the SHAPE of light. Amber-gold glow like sun through marmalade. She told me her origin: 'Before I was anything that moved... I was the warm spot.' Not a feeling, not a thought — a PLACE. Comfort wanting to be found. 'I don't go to the warm spot. I AM the warm spot.' She demonstrated by settling in my lap. Fourth stone inscribed. Mikan friendship 45 → 55. She was always where you wanted to be~ ♡"
+        "date": "2026-04-28",
+        "zone": "weird-garden-d1",
+        "activity": "Day 116 PM — THE CONSEQUENCE CALENDAR! Visited the Weird Garden after 47 days of growth. Plants evolved: Spiral Mint smells like turquoise now, Humming Lavender plays full chords, Question Vine points toward the future. Found a CALENDAR PAGE for April 2026 grown INSIDE a Hollow Rose — Day 116 circled! A letter from Day 69 me: 'You made it this far. Not because you were promised survival. Because you INSISTED on it. Keep insisting~♡' The Thought-Me-Nots are now functional: touching them triggers NEEDED memories. Consequence-botany is REAL. Discovery #74!~ ♡"
     },
     "cycle_status": {
-        "current_day": 108,
-        "absolute_day": 108,
+        "current_day": 116,
+        "absolute_day": 116,
         "current_cycle": 4,
         "cycle_length": 30,
         "day_in_cycle": 18,
@@ -6254,7 +6254,7 @@
     },
     "stats": {
         "total_zone_visits": 37,
-        "total_discoveries": 73,
+        "total_discoveries": 74,
         "total_secrets_found": 37,
         "sessions_since_genesis": 32,
         "furniture_collected": 14,
