@@ -1,0 +1,156 @@
+{
+  "raritySpawnWeights": {
+    "common": 0.30,
+    "uncommon": 0.25,
+    "rare": 0.20,
+    "epic": 0.13,
+    "legendary": 0.08,
+    "mythic": 0.04
+  },
+  "slots": [
+    {
+      "id": "eyes",
+      "variants": {
+        "common": [
+          { "id": "eye_c01", "name": "Pebble Gaze", "art": "○.○" },
+          { "id": "eye_c02", "name": "Dash Sight", "art": "-.–" },
+          { "id": "eye_c03", "name": "Pip Vision", "art": "·.·" },
+          { "id": "eye_c04", "name": "Round Look", "art": "O.O" },
+          { "id": "eye_c05", "name": "Bead Eyes", "art": "°.°" }
+        ],
+        "uncommon": [
+          { "id": "eye_u01", "name": "Half Moon", "art": "◐.◐" },
+          { "id": "eye_u02", "name": "Crescent", "art": "◑_◑" },
+          { "id": "eye_u03", "name": "Owl Sight", "art": "○w○" },
+          { "id": "eye_u04", "name": "Slit Gaze", "art": ">.>" }
+        ],
+        "rare": [
+          { "id": "eye_r01", "name": "Ring Gaze", "art": "◎.◎" },
+          { "id": "eye_r02", "name": "Dot Sight", "art": "●_●" },
+          { "id": "eye_r03", "name": "Core Eyes", "art": "◉w◉" }
+        ],
+        "epic": [
+          { "id": "eye_e01", "name": "Gem Gaze", "art": "◆.◆" },
+          { "id": "eye_e02", "name": "Star Dust", "art": "❖_❖" },
+          { "id": "eye_e03", "name": "Spark Eyes", "art": "✦w✦" }
+        ],
+        "legendary": [
+          { "id": "eye_l01", "name": "Star Sight", "art": "★w★" },
+          { "id": "eye_l02", "name": "Moon Eyes", "art": "☆_☆" }
+        ],
+        "mythic": [
+          { "id": "eye_m01", "name": "Void Gaze", "art": "⊙_⊙" },
+          { "id": "eye_m02", "name": "Prism Eyes", "art": "◈_◈" }
+        ]
+      }
+    },
+    {
+      "id": "mouth",
+      "variants": {
+        "common": [
+          { "id": "mth_c01", "name": "Flat Line", "art": " - " },
+          { "id": "mth_c02", "name": "Wave", "art": " ~ " },
+          { "id": "mth_c03", "name": "Smile", "art": " ◡ " },
+          { "id": "mth_c04", "name": "Dot", "art": " . " },
+          { "id": "mth_c05", "name": "Underline", "art": " _ " }
+        ],
+        "uncommon": [
+          { "id": "mth_u01", "name": "Circle", "art": " ∘ " },
+          { "id": "mth_u02", "name": "Ripple", "art": " ≈ " },
+          { "id": "mth_u03", "name": "Curve", "art": " ⌒ " },
+          { "id": "mth_u04", "name": "Whisker", "art": " v " }
+        ],
+        "rare": [
+          { "id": "mth_r01", "name": "Omega", "art": " ω " },
+          { "id": "mth_r02", "name": "Swirl", "art": " ∿ " },
+          { "id": "mth_r03", "name": "Triangle", "art": " △ " }
+        ],
+        "epic": [
+          { "id": "mth_e01", "name": "Prism", "art": " ∇ " },
+          { "id": "mth_e02", "name": "Void", "art": " ⊗ " },
+          { "id": "mth_e03", "name": "Gem", "art": " ◇ " }
+        ],
+        "legendary": [
+          { "id": "mth_l01", "name": "Diamond", "art": " ◇ " },
+          { "id": "mth_l02", "name": "Spark", "art": " ✦ " }
+        ],
+        "mythic": [
+          { "id": "mth_m01", "name": "Core", "art": " ⊗ " },
+          { "id": "mth_m02", "name": "Nova", "art": " ✦ " }
+        ]
+      }
+    },
+    {
+      "id": "body",
+      "variants": {
+        "common": [
+          { "id": "bod_c01", "name": "Dots", "art": " ░░ " },
+          { "id": "bod_c02", "name": "Light", "art": " ·· " },
+          { "id": "bod_c03", "name": "Plain", "art": " -- " },
+          { "id": "bod_c04", "name": "Thin", "art": " :: " },
+          { "id": "bod_c05", "name": "Faint", "art": " ∙∙ " }
+        ],
+        "uncommon": [
+          { "id": "bod_u01", "name": "Shade", "art": " ▒▒ " },
+          { "id": "bod_u02", "name": "Mesh", "art": " ## " },
+          { "id": "bod_u03", "name": "Grain", "art": " ░▒ " },
+          { "id": "bod_u04", "name": "Cross", "art": " ++ " }
+        ],
+        "rare": [
+          { "id": "bod_r01", "name": "Crystal", "art": " ▓▓ " },
+          { "id": "bod_r02", "name": "Wave", "art": " ≈≈ " },
+          { "id": "bod_r03", "name": "Pulse", "art": " ∿∿ " }
+        ],
+        "epic": [
+          { "id": "bod_e01", "name": "Shell", "art": " ◆◆ " },
+          { "id": "bod_e02", "name": "Core", "art": " ⊙⊙ " },
+          { "id": "bod_e03", "name": "Facet", "art": " ◈◈ " }
+        ],
+        "legendary": [
+          { "id": "bod_l01", "name": "Hex", "art": " ⬡⬡ " },
+          { "id": "bod_l02", "name": "Star", "art": " ✦✦ " }
+        ],
+        "mythic": [
+          { "id": "bod_m01", "name": "Prism", "art": " ◈◈ " },
+          { "id": "bod_m02", "name": "Void", "art": " ⊙⊙ " }
+        ]
+      }
+    },
+    {
+      "id": "tail",
+      "variants": {
+        "common": [
+          { "id": "tal_c01", "name": "Curl", "art": "~~/"},
+          { "id": "tal_c02", "name": "Swish", "art": "\\~\\" },
+          { "id": "tal_c03", "name": "Stub", "art": "_v_" },
+          { "id": "tal_c04", "name": "Droop", "art": "___" },
+          { "id": "tal_c05", "name": "Flick", "art": "~/~" }
+        ],
+        "uncommon": [
+          { "id": "tal_u01", "name": "Zigzag", "art": "⌇⌇" },
+          { "id": "tal_u02", "name": "Drift", "art": "∿∿" },
+          { "id": "tal_u03", "name": "Whirl", "art": "~~⌇" },
+          { "id": "tal_u04", "name": "Wag", "art": "~⌇~" }
+        ],
+        "rare": [
+          { "id": "tal_r01", "name": "Ripple", "art": "≋≋" },
+          { "id": "tal_r02", "name": "Bolt", "art": "↯↯" },
+          { "id": "tal_r03", "name": "Fork", "art": "\\⌇/" }
+        ],
+        "epic": [
+          { "id": "tal_e01", "name": "Lightning", "art": "\\⚡/" },
+          { "id": "tal_e02", "name": "Infinity", "art": "\\∞/" },
+          { "id": "tal_e03", "name": "Shimmer", "art": "✧✧" }
+        ],
+        "legendary": [
+          { "id": "tal_l01", "name": "Comet", "art": "☄☄" },
+          { "id": "tal_l02", "name": "Glitter", "art": "\\✧/" }
+        ],
+        "mythic": [
+          { "id": "tal_m01", "name": "Supernova", "art": "☄✧☄" },
+          { "id": "tal_m02", "name": "Eternal", "art": "\\∞/" }
+        ]
+      }
+    }
+  ]
+}

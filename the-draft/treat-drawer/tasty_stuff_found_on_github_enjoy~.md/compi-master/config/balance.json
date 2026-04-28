@@ -1,0 +1,187 @@
+{
+  "colors": {
+    "grey": 0.28,
+    "white": 0.22,
+    "green": 0.18,
+    "cyan": 0.14,
+    "blue": 0.08,
+    "magenta": 0.05,
+    "yellow": 0.03,
+    "red": 0.02
+  },
+  "batch": {
+    "spawnIntervalMs": 1800000,
+    "batchLingerMs": 1800000,
+    "sharedAttempts": 3,
+    "timeOfDay": {
+      "morning": [6, 12],
+      "afternoon": [12, 17],
+      "evening": [17, 21],
+      "night": [21, 6]
+    }
+  },
+  "catching": {
+    "baseCatchRate": 0.90,
+    "minCatchRate": 0.15,
+    "maxCatchRate": 0.90,
+    "failPenaltyPerMiss": 0.10,
+    "maxTraitSpawnRate": 0.12,
+    "difficultyScale": 0.50,
+    "xpBase": 10,
+    "xpRarityMultiplier": 5
+  },
+  "energy": {
+    "gainIntervalMs": 1800000,
+    "maxEnergy": 30,
+    "startingEnergy": 15,
+    "sessionBonus": 5,
+    "costPerRarity": {
+      "common": 1,
+      "uncommon": 1,
+      "rare": 2,
+      "epic": 3,
+      "legendary": 4,
+      "mythic": 5
+    },
+    "baseMergeCost": 3,
+    "maxMergeCost": 8,
+    "rareThreashold": 0.05
+  },
+  "breed": {
+    "baseChance": 0.50,
+    "rankDiffScale": 0.065,
+    "maxAdvantage": 0.35,
+    "synergyBonus": 0.05,
+    "downgradeChance": 0.30,
+    "rarityTiers": [
+      { "name": "common", "minSpawnRate": 0.08 },
+      { "name": "uncommon", "minSpawnRate": 0.04 },
+      { "name": "rare", "minSpawnRate": 0.02 },
+      { "name": "epic", "minSpawnRate": 0.01 },
+      { "name": "legendary", "minSpawnRate": 0.0 }
+    ],
+    "baseCost": 3,
+    "maxBreedCost": 11,
+    "sameTraitUpgradeChance": 0.35,
+    "sameTraitHigherParentUpgradeChance": 0.15,
+    "diffTraitSameSpeciesUpgradeChance": 0.10,
+    "diffTraitCrossSpeciesUpgradeChance": 0.05,
+    "maxBreedsPerSession": 3,
+    "cooldownMs": 3600000
+  },
+  "merge": {
+    "slotWeightBase": 1.0,
+    "slotWeightPerTier": 2.5
+  },
+  "progression": {
+    "xpPerLevel": 100,
+    "sessionGapMs": 900000,
+    "tickPruneCount": 500
+  },
+  "rewards": {
+    "milestones": [
+      {
+        "id": "first_catch",
+        "description": "First catch!",
+        "condition": { "type": "totalCatches", "threshold": 1 },
+        "reward": [{ "energy": 3 }],
+        "oneTime": true
+      },
+      {
+        "id": "catch_10",
+        "description": "10 catches!",
+        "condition": { "type": "totalCatches", "threshold": 10 },
+        "reward": [{ "energy": 5 }],
+        "oneTime": true
+      },
+      {
+        "id": "catch_50",
+        "description": "50 catches!",
+        "condition": { "type": "totalCatches", "threshold": 50 },
+        "reward": [{ "energy": 10 }],
+        "oneTime": true
+      },
+      {
+        "id": "streak_3",
+        "description": "3-day streak!",
+        "condition": { "type": "currentStreak", "threshold": 3 },
+        "reward": [{ "energy": 3 }],
+        "oneTime": true
+      },
+      {
+        "id": "streak_7",
+        "description": "7-day streak!",
+        "condition": { "type": "currentStreak", "threshold": 7 },
+        "reward": [{ "energy": 7 }],
+        "oneTime": true
+      },
+      {
+        "id": "streak_30",
+        "description": "30-day streak!",
+        "condition": { "type": "currentStreak", "threshold": 30 },
+        "reward": [{ "energy": 15 }],
+        "oneTime": true
+      }
+    ]
+  },
+  "messages": {
+    "scan": {
+      "empty": "No signals detected — nothing nearby right now.",
+      "header": "NEARBY SIGNALS — {count} detected",
+      "energy": "Energy: {energy}/{maxEnergy}",
+      "footer": "Use /catch [number] to attempt capture"
+    },
+    "catch": {
+      "successHeader": "✦ CAUGHT! ✦",
+      "captured": "{name} joined your collection!",
+      "xpGained": "+{xp} XP",
+      "energySpent": "-{energy} Energy",
+      "fledHeader": "✦ FLED ✦",
+      "fledMessage": "{name} fled into the void!",
+      "escapedHeader": "✦ ESCAPED ✦",
+      "escapedMessage": "{name} slipped away!",
+      "escapedHint": "{attempts} attempts remaining"
+    },
+    "collection": {
+      "empty": "Your collection is empty. Use /scan to find creatures nearby.",
+      "header": "Your creatures ({count})"
+    },
+    "merge": {
+      "previewHeader": "Merge Preview",
+      "confirmHint": "/merge confirm to proceed",
+      "successHeader": "✦ MERGE SUCCESS ✦",
+      "upgraded": "{name} — {slot} upgraded!",
+      "consumed": "{name} was consumed."
+    },
+    "status": {
+      "header": "Player Status",
+      "level": "Level {level}",
+      "xp": "XP: {bar} {xp}/{nextXp}",
+      "catches": "Catches: {count}",
+      "merges": "Merges: {count}",
+      "collection": "Collection: {count} creatures",
+      "streak": "Streak: {streak} days (best: {best})",
+      "nearby": "Nearby: {count} creatures",
+      "ticks": "Ticks: {count}",
+      "energy": "Energy: {energy}/{maxEnergy}"
+    },
+    "notifications": {
+      "despawn": "Creatures slipped away...",
+      "rareSpawn": "Rare signal detected!",
+      "normalSpawn": "Something flickering nearby...",
+      "milestone": "Milestone reached! +{energy} energy"
+    }
+  },
+  "leveling": {
+    "thresholds": [30, 50, 80, 120, 170, 240, 340, 480, 680, 960, 1350, 1900, 2700],
+    "traitRankCaps": [1, 2, 2, 3, 3, 4, 4, 5, 5, 6, 6, 7, 7, 8],
+    "xpPerCatch": 10,
+    "xpPerMerge": 25,
+    "xpPerHybrid": 50,
+    "xpDiscoveryBonus": 20,
+    "rarityBreedCaps": [1, 2, 2, 3, 3, 4, 4, 5, 5, 6, 6, 7, 7, 8]
+  },
+  "discovery": {
+    "speciesUnlockLevels": {}
+  }
+}

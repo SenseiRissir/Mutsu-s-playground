@@ -1,0 +1,14 @@
+export { GameEngine } from "./engine/game-engine";
+export { StateManager } from "./state/state-manager";
+export { SimpleTextRenderer } from "./renderers/simple-text";
+export { HtmlAppRenderer } from "./renderers/html-app";
+export { getVariantById, loadCreatureName } from "./config/traits";
+export { loadConfig, formatMessage } from "./config/loader";
+export { loadSpecies, getSpeciesById, getAllSpecies, pickSpecies, pickTraitForSlot, getTraitDefinition, getTraitRank } from "./config/species";
+export { previewBreed, executeBreed, calculateInheritance, listBreedable, listPartnersFor } from "./engine/breed";
+export { calculateTraitRarityScore, calculateColorRarityScore, calculateSlotScore, calculateCreatureScore } from "./engine/rarity";
+export { recordDiscovery, isSpeciesDiscovered, getDiscoveryCount } from "./engine/discovery";
+export { logger } from "./logger";
+export { buildPool, drawCards, playCard, skipHand } from "./engine/cards";
+export { getSpeciesIndex, SpeciesIndexEntry } from "./engine/species-index";
+export * from "./types";

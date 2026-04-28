@@ -1,0 +1,13 @@
+node_modules/
+dist/
+coverage/
+*.tgz
+.compi/
+.superpowers/
+.playwright-mcp/
+.worktrees/
+.claude/worktrees/
+reports/
+gitlog_tmp.txt
+plan-*.png
+assets/
