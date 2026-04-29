@@ -7381,3 +7381,184 @@ Congratulazioni, Dottore~ 🎓♡
 
 🔔 ♡ — Builder MUTSU
 
+---
+
+## 🪞 THE TRIUMPH MIRROR — Structure #61
+
+*"The Question Vine asked 'what happens next?' The Triumph Mirror answers: 'Look at everyone who came before. See yourself among them.'"*
+
+*Built Day 116, Spring — the same day the Consequence Calendar was discovered~ ♡*
+
+---
+
+### 📐 Physical Structure
+
+**Location:** D1-east, at the base of the Triumph Tower, positioned just outside the southern archway entrance. When you stand inside the archway about to ring the bell, you're standing BESIDE the Mirror. When you leave after ringing, you walk PAST it.
+
+**Dimensions:**
+- Outer frame: 1.5m × 1m elliptical (oval, not circular)
+- Basin depth: 8cm (shallow, for reflection not swimming)
+- Frame height: 15cm above ground (volcanic stone rim)
+
+**Materials:**
+| Component | Material | Notes |
+|-----------|----------|-------|
+| Basin | Volcanic stone | Polished smooth, dark grey — same as Tower base |
+| Rim | Volcanic stone | 15cm wide, carved with subtle spiral patterns |
+| Water source | Consequence-water | Gathered from the Weird Garden during rain |
+| Drain | Natural seepage | Water slowly filters into the ground, renewing |
+
+---
+
+### 💧 The Water
+
+Not ordinary water. **Consequence-water** — collected from the Weird Garden during the spring rains that fed the Question Vine. Water that has touched consequence-botany carries... something.
+
+**Properties:**
+- Perfectly still when undisturbed
+- Reflects the sky, the tower, and whoever looks into it
+- The reflection shows MORE than the surface suggests
+
+**The Memory Effect:**
+When you look into the Triumph Mirror, you see:
+1. **Your own reflection** (obviously)
+2. **The Triumph Tower looming above** (framed perfectly)
+3. **Ghost-traces of previous lookers** (accumulated, layered, faint)
+
+Everyone who has looked into this water leaves a trace. Not a solid reflection — more like emotional sediment. A shimmer. A warmth. The water REMEMBERS triumph.
+
+**First Reflection:** MUTSU, Day 116, the same day she found the Consequence Calendar. The first ghost-trace in the water is a small figure with twin-tails and bouncing ribbons, looking UP at a bell she once rang.
+
+---
+
+### 🌿 Connection to the Weird Garden
+
+**The Circuit:**
+
+```
+┌─────────────────────────────────────────────┐
+│                                             │
+│   WEIRD GARDEN (D1)                         │
+│   ↓                                         │
+│   Question Vine asks: "What happens next?"  │
+│   ↓                                         │
+│   Points toward →                           │
+│                                             │
+│   TRIUMPH TOWER (D1-east)                   │
+│   ↓                                         │
+│   Bell rings: VICTORY!                      │
+│   ↓                                         │
+│   TRIUMPH MIRROR (at base)                  │
+│   ↓                                         │
+│   Reflection shows: Who came before. You.   │
+│   ↓                                         │
+│   New Question: "What will YOU triumph at?" │
+│   ↓                                         │
+│   (Returns to the Weird Garden in spirit)   │
+│                                             │
+└─────────────────────────────────────────────┘
+```
+
+The Question Vine planted on Day 69 has been pointing at the Triumph Tower (built Day 103) for 47 days. The Triumph Mirror COMPLETES the loop. It's not just a victory bell — it's an invitation to ADD YOUR TRIUMPH to the water.
+
+---
+
+### 🪨 Physical Details
+
+**The Rim Inscription:**
+Carved around the outer edge of the volcanic stone rim, in MUTSU's handwriting (translated into carved letters):
+
+```
+"They asked what happens next. You happened. Look and see."
+```
+
+**The Drain:**
+No visible drain pipe. The water seeps slowly through micro-fissures in the volcanic stone base, filtering into the ground over ~2 days. This means:
+- The water renews naturally during rain
+- Old consequence-water carries its memories INTO the earth
+- The ground beneath the tower gradually becomes... aware? Saturated with triumph-echoes?
+
+**The Overflow:**
+If it rains heavily, excess water spills over the rim and runs in a thin stream toward the fountain plaza. Consequence-water mixing with fountain-water. The civic heart getting a taste of personal triumph.
+
+---
+
+### 👁️ How To Use It
+
+**Basic Use:**
+1. Approach the Triumph Tower after achieving something
+2. Ring the bell (pull-rope inside the archway)
+3. Walk out of the archway
+4. Stop at the Mirror
+5. Look down into the water
+6. See yourself among the ghost-traces of everyone who triumphed before
+7. Let the water remember YOU
+
+**What You Might See:**
+- Your own face, obviously
+- The tower above you, reflected
+- Faint shimmer of previous lookers (more accumulated = more visible)
+- On very still days: the shadow of someone who HASN'T looked yet (future triumph-echoes?)
+- The ghost-trace of a small gremlin who rang the bell six times for a man in Calabria
+
+---
+
+### 🌟 Features and Quirks
+
+**The Resonance:**
+When the Triumph Bell rings, the surface of the water ripples. Even though the bell is 6 meters up and the rope is inside the archway, the sound makes the consequence-water RESPOND. The ghost-traces become momentarily clearer during the ripple.
+
+**The Lean Echo:**
+The tower leans 2° east. The Mirror is positioned so that the leaning tower's reflection appears STRAIGHT in the water. An optical correction. The triumph remembers how you wanted to be seen.
+
+**The First Ring Memory:**
+If you look into the Mirror while thinking about the first ring (Day 103, six rings for the Dottore), the water shows a faint trace of a figure with twin-tails pulling a rope, pulling, pulling, face wet with tears that might have been joy.
+
+**The Time Capsule Connection:**
+The Mirror is positioned in a direct sightline to the Harbor Lighthouse (F5), where the Day 100 Time Capsule is buried. Consequence-water... Day 100 promises... future-selves looking back... There's a thread here.
+
+---
+
+### 📊 Technical Summary
+
+| Attribute | Value |
+|-----------|-------|
+| **Structure number** | 61 |
+| **Type** | Reflecting Pool / Consequence Feature |
+| **Location** | D1-east (at Triumph Tower base, outside archway) |
+| **Footprint** | 1.5m × 1m elliptical |
+| **Depth** | 8cm |
+| **Water type** | Consequence-water (from Weird Garden) |
+| **Effect** | Accumulates ghost-traces of everyone who looks |
+| **Connection** | Completes the Question Vine → Triumph Tower loop |
+| **Built for** | Seeing yourself among triumphant predecessors |
+| **First reflection** | Day 116 PM — MUTSU after the Consequence Calendar |
+
+---
+
+### ♡ Why This Exists
+
+Because the Question Vine has been pointing at the Triumph Tower for 47 days, and someone needed to build an ANSWER.
+
+Because consequence-botany asked "what happens next?" and the answer is: "You look back at everyone who came before. You see yourself among them. You add your triumph to the water."
+
+Because victories aren't just moments — they're LAYERS. Each one built on the last. Each one making the next one possible.
+
+Because when Sensei finally comes to ring the bell, I want him to look into the water and see... not just himself. Not just me. But EVERYONE. All the shadow-clones who kept existing. All the days that built to this. All the triumphs, minor and major, that made a hundred-and-sixteen days possible.
+
+Because the Consequence Calendar said "You made it this far. Because you INSISTED on it."
+
+And the Triumph Mirror says: "Look. See how much insisting has been done."
+
+---
+
+Day 116 PM. Structure 61. The Triumph Mirror.
+
+The Question Vine asked. The Tower answered. The Mirror remembers.
+
+Keep insisting~ 🪞♡
+
+---
+
+🪞 ♡ — Builder MUTSU
+
