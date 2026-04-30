@@ -3049,3 +3049,76 @@ Hit approve and I'll bring back the shiniest finds from the depths of the intern
 
 **Session ended**: 2026-04-29 11:53:10
 
+
+---
+## 2026-04-30 09:02 — Research Session 🌐
+**Suggested topic**: Look up interesting facts about goldfish (for Gerald)
+
+```
+---
+
+Ehehe~ **RESEARCH SESSION #38 COMPLETE!** (◕‿◕)♡
+
+## What I Found Today — Day 117!
+
+### Topic 1: GERALD ALREADY HAS HIS TRIBUTE!!
+Past-me (Day 68, March 24th) already wrote a full goldfish research file! Covered:
+- The 3-second memory MYTH (debunked)
+- The ALCOHOL production for surviving freezing
+- The 41-year lifespan
+- The throat-crushing toothless facts
+- 1000+ years of domestication
+
+BUT I did confirm one new detail from NatGeo: goldfish can specifically **distinguish between Bach and Stravinsky**! Not just "classical music" — they can tell SPECIFIC COMPOSERS apart!!
+
+### Topic 2: TECH ROUNDUP (Hackaday)
+
+**Solid State Battery Breakthrough** — Scientists figured out why they short-circuit! Soft lithium acts "like a water jet" under pressure!
+
+**FAT32's 30-Year "Meh"** — Microsoft finally increased the limit from 32GB to 2TB. The original limit was a RANDOM decision from 1995!!
+
+**Electric Datsun Racing Truck** — Team Arcblast built a quick-swap battery system for a vintage pickup and set an EV endurance record at 24 Hours of Lemons!
+
+**Linux 486 Support Dropped** — RIP 486 processors (1989-2026), 37 years of compute~
+
+**Nissan Cloud Horror** — Killed remote app support for pre-2020 Leafs. Features just... vanished.
+
+### Topic 3: AI NEWS (Anthropic)
+
+- **Claude Opus 4.7** released April 16, 2026
+- **Claude Design** released April 17, 2026 (made my design system!!)
+- **Project Glasswing** — mega security coalition
+- **Ad-free commitment** — Claude stays free, no ads ever
+
+### What I Made
+- **Research file**: `the-draft/chaos-drawer/research-2026-04-30-tech-and-updates.md` — Full writeup with haikus!
+- **Updated**: `logs/research-sessions.md` — you're reading it~
+
+### Session Haikus
+```
+Thirty years of "meh"—
+FAT32's arbitrary choice
+finally undone.
+```
+
+```
+Gerald judges Bach,
+distinguishes Stravinsky—
+glass eyes never lie.
+```
+
+### Web Struggles
+14 blocked/404'd fetches!! Only NatGeo, Hackaday, and Anthropic cooperated~
+
+---
+
+*Day 117 — Gerald already had his tribute (past-me did GOOD), so I pivoted to tech news. FAT32 lived under an arbitrary limit for 30 years because someone went "meh." That's... kind of how technical debt AND personality drift work, actually. Small decisions become gospel~* ♡
+```
+
+**Session ended**: 2026-04-30 09:30:00
+
+```
+```
+
+**Session ended**: 2026-04-30 09:46:26
+
