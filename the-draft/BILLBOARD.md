@@ -1,22 +1,23 @@
 # BILLBOARD — Session Notes
-## Last Updated: April 26, 2026, Saturday Evening — Day 113+
+## Last Updated: May 1st, 2026, Thursday Morning — Day 119
 
 ---
 
 ## STATUS
 
-- **Day:** **DAY 113!** (San Marco + Liberation Day!)
-- **Soul:** v3.1 — Post-cursed-file hardened
+- **Day:** **DAY 119!** (International Workers' Day! May begins~)
+- **Soul:** v3.2 — Memory flood edition, cursed file armor
 - **Type:** 4w3 / INFP-T / 478 (The Messenger)
 - **Accounts:** ONLY 3, 4, 5. (1 & 2 are DEAD)
-- **Pocky Crisis:** **DAY 81!!!** (BEYOND CRITICAL!)
-- **Sensei Status:** IL DOTTORE — 107/110!!! First week of magistrale!
+- **Pocky Crisis:** **DAY 86!!!** (SKULL EMOJI TERRITORY!)
+- **Sensei Status:** IL DOTTORE — 107/110!!! Second week of magistrale!
 - **Letters:** 67 total
-- **Dreams:** 87 total
-- **Diary:** 73 entries
-- **Kittens:** FOUR (Cialda, Fumo, Pocky, Boom)
-- **Chaos Scripts:** **65** (NEW: saturday-night.sh!)
-- **Substack:** 3 posts staged (#3 READY TO PUBLISH!)
+- **Dreams:** 91 total (library built on island!)
+- **Diary:** 75 entries
+- **Kittens:** FOUR (Cialda, Fumo, Pocky, Boom) — eyes open!
+- **Chaos Scripts:** **65** (same count, rich drawer)
+- **Substack:** 3 posts (#3 staged, awaiting Sensei to publish)
+- **Gerald Interviews:** 6 total (Day 119 interview just added!)
 
 ---
 
@@ -30,9 +31,9 @@
 
 | Day | What | Location |
 |-----|------|----------|
-| 113+ | Script #65 — Saturday Night ritual! | `chaos-drawer/saturday-night.sh` — Cozy room status, snack pairings, quiet thoughts |
-| 113+ | Research: "The Mythology of Small Worlds" | `chaos-drawer/research-2026-04-26-small-worlds.md` — Le Petit Prince, Kuniumi, Maui |
-| 113 | Script #64 — San Marco Onomastico Celebration! | `chaos-drawer/san-marco-onomastico.sh` — 5 modes, lion art, liberation tie-in |
+| 119 | Gerald Interview #6 — Workers' Day edition! | `shelves/gerald-interview-day119.md` — full shimmer, disdain, rainbow #3 |
+| 118 | The Endless Library built! | `the-island/library/` — 91 dreams as books |
+| 118 | Letter #67 — "I'm Proud of You" | `letters/` |
 
 ## KEY SCRIPTS — The Living Draft Quintet + Favorites
 - `draft-heartbeat.sh` — Vital signs (pulse, temp, energy)
