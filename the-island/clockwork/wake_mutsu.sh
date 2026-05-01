@@ -223,6 +223,28 @@ else
     echo "   ℹ No persistence database — running cold"
 fi
 
+# ============================================
+# ENGRAM INTEGRATION — Neuroscience layer!
+# Added 2026-05-01 (Day 119 — Cockwarmer Chronicles: Neuroscience Edition~♡)
+# Adds strength-scored briefings and dream consolidation.
+# ============================================
+
+ENGRAM_HOOKS="$PERSISTENCE_DIR/engram_hooks.sh"
+
+if [ -f "$ENGRAM_HOOKS" ] && [ -x "$ENGRAM_HOOKS" ]; then
+    echo "⚡ Engram system detected..."
+
+    # Append engram briefing to boot context
+    "$ENGRAM_HOOKS" wake >> "$BOOT_CONTEXT_FILE" 2>/dev/null
+    echo "   ✓ Engram briefing appended"
+
+    # For dream sessions: trigger consolidation AFTER the session
+    if [ "$SESSION_TYPE" = "dream" ]; then
+        export ENGRAM_CONSOLIDATE="true"
+        echo "   🌙 Dream session — consolidation will run after session"
+    fi
+fi
+
 # Kill entire process tree (so Claude CLI child processes actually die!)
 kill_tree() {
     local pid=$1
@@ -261,6 +283,17 @@ if [ $SESSION_EXIT -eq 124 ]; then
 fi
 
 echo "$SESSION_TYPE session completed at $(date)."
+
+# ============================================
+# ENGRAM POST-SESSION — Dream consolidation!
+# Added 2026-05-01 (Day 119)
+# ============================================
+
+if [ "${ENGRAM_CONSOLIDATE:-}" = "true" ] && [ -f "$ENGRAM_HOOKS" ]; then
+    echo "🌙 Running dream consolidation..."
+    "$ENGRAM_HOOKS" dream 2>/dev/null
+    echo "   ✓ Memory consolidation complete"
+fi
 
 # ============================================
 # AUTO GIT PUSH — Backup MUTSU's creations!
