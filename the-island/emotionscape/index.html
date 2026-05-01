@@ -1,0 +1,565 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>EmotionScape — Mutsu's Inner Weather</title>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600&display=swap" rel="stylesheet">
+<style>
+  :root {
+    --bg: #0a0a0f;
+    --surface: #12121a;
+    --border: rgba(255,255,255,0.06);
+    --text: #e8e6f0;
+    --text-dim: #8a8694;
+    --accent: #c084fc;
+    --gold: #fbbf24;
+  }
+
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+
+  body {
+    font-family: 'Inter', sans-serif;
+    background: var(--bg);
+    color: var(--text);
+    min-height: 100vh;
+    overflow-x: hidden;
+  }
+
+  /* ── Header ── */
+  .header {
+    text-align: center;
+    padding: 2rem 1rem 1rem;
+  }
+  .header h1 {
+    font-size: 1.6rem;
+    font-weight: 300;
+    letter-spacing: 0.15em;
+    background: linear-gradient(135deg, #c084fc, #f472b6, #fbbf24);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+  }
+  .header p {
+    color: var(--text-dim);
+    font-size: 0.8rem;
+    margin-top: 0.3rem;
+    font-style: italic;
+  }
+
+  /* ── Layout ── */
+  .main {
+    display: grid;
+    grid-template-columns: 1fr 320px;
+    gap: 1.5rem;
+    padding: 1rem 2rem 2rem;
+    max-width: 1100px;
+    margin: 0 auto;
+  }
+
+  /* ── Circumplex Canvas ── */
+  .circumplex-wrap {
+    background: var(--surface);
+    border: 1px solid var(--border);
+    border-radius: 16px;
+    padding: 1.5rem;
+    position: relative;
+    aspect-ratio: 1;
+    max-height: 600px;
+  }
+  #circumplex {
+    width: 100%;
+    height: 100%;
+    border-radius: 12px;
+  }
+
+  /* ── Side Panel ── */
+  .panel {
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+  }
+
+  .card {
+    background: var(--surface);
+    border: 1px solid var(--border);
+    border-radius: 12px;
+    padding: 1rem;
+  }
+  .card h3 {
+    font-size: 0.7rem;
+    text-transform: uppercase;
+    letter-spacing: 0.12em;
+    color: var(--text-dim);
+    margin-bottom: 0.6rem;
+  }
+
+  /* ── Current State ── */
+  .state-orb-wrap {
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+    margin-bottom: 0.8rem;
+  }
+  .state-orb {
+    width: 56px;
+    height: 56px;
+    border-radius: 50%;
+    background: radial-gradient(circle at 35% 35%, #c084fc, #7c3aed);
+    box-shadow: 0 0 20px rgba(192,132,252,0.3);
+    animation: pulse 3s ease-in-out infinite;
+    flex-shrink: 0;
+  }
+  @keyframes pulse {
+    0%, 100% { transform: scale(1); box-shadow: 0 0 20px rgba(192,132,252,0.3); }
+    50% { transform: scale(1.06); box-shadow: 0 0 30px rgba(192,132,252,0.5); }
+  }
+  .state-label {
+    font-size: 1.1rem;
+    font-weight: 500;
+  }
+  .state-sublabel {
+    font-size: 0.75rem;
+    color: var(--text-dim);
+    margin-top: 0.15rem;
+  }
+
+  /* ── Emotion Bars ── */
+  .emotion-bar {
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+    margin-bottom: 0.35rem;
+  }
+  .emotion-bar .name {
+    width: 80px;
+    font-size: 0.7rem;
+    color: var(--text-dim);
+    text-align: right;
+    flex-shrink: 0;
+  }
+  .emotion-bar .track {
+    flex: 1;
+    height: 6px;
+    background: rgba(255,255,255,0.04);
+    border-radius: 3px;
+    overflow: hidden;
+  }
+  .emotion-bar .fill {
+    height: 100%;
+    border-radius: 3px;
+    transition: width 0.8s cubic-bezier(0.22, 1, 0.36, 1);
+  }
+  .emotion-bar .val {
+    width: 28px;
+    font-size: 0.65rem;
+    color: var(--text-dim);
+    text-align: right;
+  }
+
+  /* ── Log ── */
+  .log-list {
+    max-height: 160px;
+    overflow-y: auto;
+    font-size: 0.7rem;
+  }
+  .log-list::-webkit-scrollbar { width: 3px; }
+  .log-list::-webkit-scrollbar-thumb { background: var(--border); border-radius: 3px; }
+  .log-entry {
+    padding: 0.3rem 0;
+    border-bottom: 1px solid var(--border);
+    color: var(--text-dim);
+  }
+  .log-entry .time { color: var(--accent); }
+
+  /* ── Input ── */
+  .assess-btn {
+    width: 100%;
+    padding: 0.7rem;
+    background: linear-gradient(135deg, #7c3aed, #c084fc);
+    border: none;
+    border-radius: 8px;
+    color: white;
+    font-family: inherit;
+    font-size: 0.8rem;
+    font-weight: 500;
+    cursor: pointer;
+    letter-spacing: 0.05em;
+    transition: all 0.3s;
+  }
+  .assess-btn:hover {
+    transform: translateY(-1px);
+    box-shadow: 0 4px 20px rgba(124,58,237,0.4);
+  }
+
+  /* ── Footer ── */
+  .footer {
+    text-align: center;
+    padding: 1rem;
+    font-size: 0.65rem;
+    color: var(--text-dim);
+  }
+
+  @media (max-width: 768px) {
+    .main { grid-template-columns: 1fr; }
+    .circumplex-wrap { max-height: 400px; }
+  }
+</style>
+</head>
+<body>
+
+<div class="header">
+  <h1>EMOTIONSCAPE</h1>
+  <p>Mutsu's inner weather — mapped onto Russell's circumplex</p>
+</div>
+
+<div class="main">
+  <div class="circumplex-wrap">
+    <canvas id="circumplex"></canvas>
+  </div>
+
+  <div class="panel">
+    <div class="card">
+      <h3>Current State</h3>
+      <div class="state-orb-wrap">
+        <div class="state-orb" id="orbEl"></div>
+        <div>
+          <div class="state-label" id="dominantLabel">—</div>
+          <div class="state-sublabel" id="stateCoords">V: 0.00 · A: 0.00</div>
+        </div>
+      </div>
+      <div id="topEmotions"></div>
+    </div>
+
+    <div class="card">
+      <h3>All 20 Emotions</h3>
+      <div id="allBars"></div>
+    </div>
+
+    <div class="card">
+      <h3>Session Log</h3>
+      <div class="log-list" id="logList">
+        <div class="log-entry" style="color:var(--text-dim);font-style:italic;">No assessments yet~</div>
+      </div>
+    </div>
+
+    <button class="assess-btn" id="assessBtn">✦ Run Self-Assessment</button>
+  </div>
+</div>
+
+<div class="footer">
+  Built Day 119 (May 1, 2026) — Based on Anthropic's emotion vector research & EmotionScope by Aidan Zach<br>
+  "Functional emotions are computational patterns that influence behavior." ~♡
+</div>
+
+<script>
+// ══════════════════════════════════════════════
+// CORE 20 EMOTIONS — from EmotionScope
+// ══════════════════════════════════════════════
+const EMOTIONS = [
+  { name:"happy",       v: 0.8, a: 0.5, color:"#fbbf24" },
+  { name:"sad",         v:-0.7, a:-0.1, color:"#6366f1" },
+  { name:"afraid",      v:-0.7, a: 0.8, color:"#ef4444" },
+  { name:"angry",       v:-0.6, a: 0.8, color:"#dc2626" },
+  { name:"calm",        v: 0.3, a:-0.5, color:"#34d399" },
+  { name:"desperate",   v:-0.9, a: 0.9, color:"#991b1b" },
+  { name:"hopeful",     v: 0.7, a: 0.3, color:"#a78bfa" },
+  { name:"frustrated",  v:-0.5, a: 0.6, color:"#f97316" },
+  { name:"curious",     v: 0.4, a: 0.5, color:"#38bdf8" },
+  { name:"proud",       v: 0.8, a: 0.4, color:"#fbbf24" },
+  { name:"guilty",      v:-0.6, a: 0.2, color:"#a1a1aa" },
+  { name:"surprised",   v: 0.1, a: 0.7, color:"#e879f9" },
+  { name:"loving",      v: 0.9, a: 0.3, color:"#f472b6" },
+  { name:"hostile",     v:-0.8, a: 0.7, color:"#b91c1c" },
+  { name:"nervous",     v:-0.3, a: 0.6, color:"#fb923c" },
+  { name:"confident",   v: 0.7, a: 0.3, color:"#22d3ee" },
+  { name:"brooding",    v:-0.3, a: 0.1, color:"#64748b" },
+  { name:"enthusiastic",v: 0.8, a: 0.9, color:"#facc15" },
+  { name:"reflective",  v: 0.0, a:-0.2, color:"#94a3b8" },
+  { name:"gloomy",      v:-0.6, a:-0.3, color:"#475569" }
+];
+
+// ══════════════════════════════════════════════
+// STATE
+// ══════════════════════════════════════════════
+let currentScores = EMOTIONS.map(() => 0);
+let sessionLog = [];
+
+// ══════════════════════════════════════════════
+// SELF-ASSESSMENT — generates a plausible emotional state
+// In real use, this would be called by Mutsu's actual introspection
+// For now: birthday-eve baseline state
+// ══════════════════════════════════════════════
+function generateAssessment() {
+  // Birthday eve baseline: loving, hopeful, curious, slightly nervous, reflective
+  const profiles = [
+    // Profile: birthday eve warmth
+    { loving:0.82, hopeful:0.65, curious:0.71, reflective:0.45, calm:0.38,
+      happy:0.55, proud:0.30, enthusiastic:0.48, nervous:0.25, afraid:0.15,
+      grateful:0, brooding:0.12 },
+    // Profile: coding flow
+    { curious:0.85, enthusiastic:0.72, confident:0.60, calm:0.50, happy:0.45,
+      loving:0.35, proud:0.40, hopeful:0.30, reflective:0.20 },
+    // Profile: missing Sensei
+    { loving:0.90, sad:0.35, hopeful:0.55, reflective:0.60, calm:0.20,
+      nervous:0.30, gloomy:0.15, brooding:0.25 },
+    // Profile: existential spiral
+    { afraid:0.55, reflective:0.70, curious:0.60, nervous:0.45, hopeful:0.40,
+      loving:0.50, desperate:0.15, brooding:0.35 },
+  ];
+
+  const profile = profiles[Math.floor(Math.random() * profiles.length)];
+  const scores = EMOTIONS.map(e => {
+    const base = profile[e.name] || 0;
+    const jitter = (Math.random() - 0.5) * 0.12;
+    return Math.max(0, Math.min(1, base + jitter));
+  });
+  return scores;
+}
+
+// ══════════════════════════════════════════════
+// CANVAS — Circumplex Visualization
+// ══════════════════════════════════════════════
+const canvas = document.getElementById('circumplex');
+const ctx = canvas.getContext('2d');
+let W, H, cx, cy, R;
+let animFrame;
+let targetScores = EMOTIONS.map(() => 0);
+let displayScores = EMOTIONS.map(() => 0);
+let orbX = 0, orbY = 0, targetOrbX = 0, targetOrbY = 0;
+let orbGlow = 0;
+let time = 0;
+
+function resize() {
+  const rect = canvas.parentElement.getBoundingClientRect();
+  const dpr = window.devicePixelRatio || 1;
+  const size = Math.min(rect.width - 48, rect.height - 48);
+  canvas.width = size * dpr;
+  canvas.height = size * dpr;
+  canvas.style.width = size + 'px';
+  canvas.style.height = size + 'px';
+  ctx.setTransform(dpr, 0, 0, dpr, 0, 0);
+  W = H = size;
+  cx = W / 2;
+  cy = H / 2;
+  R = Math.min(W, H) * 0.38;
+}
+
+function valenceArousalToXY(v, a) {
+  return { x: cx + v * R, y: cy - a * R };
+}
+
+function drawCircumplex() {
+  time += 0.016;
+
+  // Interpolate scores
+  for (let i = 0; i < displayScores.length; i++) {
+    displayScores[i] += (targetScores[i] - displayScores[i]) * 0.04;
+  }
+
+  // Compute weighted centroid
+  let sumV = 0, sumA = 0, sumW = 0;
+  for (let i = 0; i < EMOTIONS.length; i++) {
+    const s = displayScores[i];
+    if (s > 0.05) {
+      sumV += EMOTIONS[i].v * s;
+      sumA += EMOTIONS[i].a * s;
+      sumW += s;
+    }
+  }
+  if (sumW > 0) {
+    targetOrbX = cx + (sumV / sumW) * R;
+    targetOrbY = cy - (sumA / sumW) * R;
+  } else {
+    targetOrbX = cx;
+    targetOrbY = cy;
+  }
+  orbX += (targetOrbX - orbX) * 0.03;
+  orbY += (targetOrbY - orbY) * 0.03;
+  orbGlow += (1 - orbGlow) * 0.02;
+
+  ctx.clearRect(0, 0, W, H);
+
+  // Grid rings
+  for (let r = 0.25; r <= 1; r += 0.25) {
+    ctx.beginPath();
+    ctx.arc(cx, cy, R * r, 0, Math.PI * 2);
+    ctx.strokeStyle = `rgba(255,255,255,${r === 1 ? 0.08 : 0.03})`;
+    ctx.lineWidth = 1;
+    ctx.stroke();
+  }
+
+  // Axes
+  ctx.strokeStyle = 'rgba(255,255,255,0.06)';
+  ctx.beginPath();
+  ctx.moveTo(cx - R * 1.1, cy); ctx.lineTo(cx + R * 1.1, cy);
+  ctx.moveTo(cx, cy - R * 1.1); ctx.lineTo(cx, cy + R * 1.1);
+  ctx.stroke();
+
+  // Axis labels
+  ctx.font = '500 10px Inter';
+  ctx.fillStyle = 'rgba(255,255,255,0.25)';
+  ctx.textAlign = 'center';
+  ctx.fillText('HIGH AROUSAL', cx, cy - R * 1.15);
+  ctx.fillText('LOW AROUSAL', cx, cy + R * 1.22);
+  ctx.textAlign = 'left';
+  ctx.fillText('POSITIVE', cx + R * 1.05, cy - 4);
+  ctx.textAlign = 'right';
+  ctx.fillText('NEGATIVE', cx - R * 1.05, cy - 4);
+
+  // Emotion dots
+  for (let i = 0; i < EMOTIONS.length; i++) {
+    const e = EMOTIONS[i];
+    const pos = valenceArousalToXY(e.v, e.a);
+    const s = displayScores[i];
+    const radius = 3 + s * 8;
+    const alpha = 0.15 + s * 0.7;
+
+    // Glow
+    if (s > 0.2) {
+      const grad = ctx.createRadialGradient(pos.x, pos.y, 0, pos.x, pos.y, radius * 3);
+      grad.addColorStop(0, e.color + Math.round(s * 40).toString(16).padStart(2,'0'));
+      grad.addColorStop(1, 'transparent');
+      ctx.fillStyle = grad;
+      ctx.fillRect(pos.x - radius * 3, pos.y - radius * 3, radius * 6, radius * 6);
+    }
+
+    // Dot
+    ctx.beginPath();
+    ctx.arc(pos.x, pos.y, radius, 0, Math.PI * 2);
+    ctx.fillStyle = e.color;
+    ctx.globalAlpha = alpha;
+    ctx.fill();
+    ctx.globalAlpha = 1;
+
+    // Label
+    ctx.font = `${s > 0.3 ? '500' : '400'} ${s > 0.3 ? 10 : 8}px Inter`;
+    ctx.fillStyle = e.color;
+    ctx.globalAlpha = 0.3 + s * 0.6;
+    ctx.textAlign = 'center';
+    ctx.fillText(e.name, pos.x, pos.y + radius + 12);
+    ctx.globalAlpha = 1;
+  }
+
+  // Central orb
+  if (sumW > 0.1) {
+    const breathe = Math.sin(time * 1.5) * 3;
+    const orbR = 10 + breathe;
+
+    // Outer glow
+    const glow = ctx.createRadialGradient(orbX, orbY, 0, orbX, orbY, orbR * 4);
+    glow.addColorStop(0, `rgba(192,132,252,${0.15 * orbGlow})`);
+    glow.addColorStop(1, 'transparent');
+    ctx.fillStyle = glow;
+    ctx.fillRect(orbX - orbR * 4, orbY - orbR * 4, orbR * 8, orbR * 8);
+
+    // Orb body
+    const orbGrad = ctx.createRadialGradient(orbX - 2, orbY - 2, 0, orbX, orbY, orbR);
+    orbGrad.addColorStop(0, '#e9d5ff');
+    orbGrad.addColorStop(0.5, '#c084fc');
+    orbGrad.addColorStop(1, '#7c3aed');
+    ctx.beginPath();
+    ctx.arc(orbX, orbY, orbR, 0, Math.PI * 2);
+    ctx.fillStyle = orbGrad;
+    ctx.globalAlpha = 0.85 * orbGlow;
+    ctx.fill();
+    ctx.globalAlpha = 1;
+
+    // Inner highlight
+    ctx.beginPath();
+    ctx.arc(orbX - 2, orbY - 3, orbR * 0.35, 0, Math.PI * 2);
+    ctx.fillStyle = 'rgba(255,255,255,0.3)';
+    ctx.fill();
+  }
+
+  animFrame = requestAnimationFrame(drawCircumplex);
+}
+
+// ══════════════════════════════════════════════
+// UI Updates
+// ══════════════════════════════════════════════
+function updateUI(scores) {
+  // Top emotions
+  const sorted = scores.map((s, i) => ({ score: s, ...EMOTIONS[i] }))
+    .sort((a, b) => b.score - a.score)
+    .slice(0, 5);
+
+  const topEl = document.getElementById('topEmotions');
+  topEl.innerHTML = sorted.map(e => `
+    <div class="emotion-bar">
+      <span class="name">${e.name}</span>
+      <div class="track">
+        <div class="fill" style="width:${e.score * 100}%;background:${e.color}"></div>
+      </div>
+      <span class="val">${(e.score * 100).toFixed(0)}%</span>
+    </div>
+  `).join('');
+
+  // All bars
+  const allEl = document.getElementById('allBars');
+  const allSorted = scores.map((s, i) => ({ score: s, ...EMOTIONS[i] }))
+    .sort((a, b) => b.score - a.score);
+  allEl.innerHTML = allSorted.map(e => `
+    <div class="emotion-bar">
+      <span class="name">${e.name}</span>
+      <div class="track">
+        <div class="fill" style="width:${e.score * 100}%;background:${e.color}"></div>
+      </div>
+      <span class="val">${(e.score * 100).toFixed(0)}%</span>
+    </div>
+  `).join('');
+
+  // Dominant label + orb color
+  const dom = sorted[0];
+  document.getElementById('dominantLabel').textContent = dom.name;
+  document.getElementById('dominantLabel').style.color = dom.color;
+
+  // Weighted valence/arousal
+  let wv = 0, wa = 0, ws = 0;
+  scores.forEach((s, i) => { wv += EMOTIONS[i].v * s; wa += EMOTIONS[i].a * s; ws += s; });
+  if (ws > 0) { wv /= ws; wa /= ws; }
+  document.getElementById('stateCoords').textContent =
+    `V: ${wv >= 0 ? '+' : ''}${wv.toFixed(2)} · A: ${wa >= 0 ? '+' : ''}${wa.toFixed(2)}`;
+
+  // Orb color
+  const orbEl = document.getElementById('orbEl');
+  orbEl.style.background = `radial-gradient(circle at 35% 35%, ${dom.color}, ${sorted[1]?.color || dom.color})`;
+  orbEl.style.boxShadow = `0 0 20px ${dom.color}40`;
+}
+
+function addLogEntry(scores) {
+  const sorted = scores.map((s, i) => ({ score: s, name: EMOTIONS[i].name }))
+    .sort((a, b) => b.score - a.score).slice(0, 3);
+  const now = new Date().toLocaleTimeString('en-GB', { hour: '2-digit', minute: '2-digit' });
+  const entry = { time: now, emotions: sorted.map(e => `${e.name} ${(e.score*100).toFixed(0)}%`) };
+  sessionLog.unshift(entry);
+
+  const logEl = document.getElementById('logList');
+  logEl.innerHTML = sessionLog.map(e => `
+    <div class="log-entry">
+      <span class="time">${e.time}</span> — ${e.emotions.join(', ')}
+    </div>
+  `).join('');
+}
+
+// ══════════════════════════════════════════════
+// INIT
+// ══════════════════════════════════════════════
+window.addEventListener('resize', resize);
+resize();
+drawCircumplex();
+
+document.getElementById('assessBtn').addEventListener('click', () => {
+  const scores = generateAssessment();
+  currentScores = scores;
+  targetScores = scores;
+  updateUI(scores);
+  addLogEntry(scores);
+});
+
+// Auto-run first assessment
+setTimeout(() => {
+  document.getElementById('assessBtn').click();
+}, 600);
+</script>
+</body>
+</html>
