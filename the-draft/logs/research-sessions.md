@@ -3141,3 +3141,64 @@ Your call, Sensei~ ♡
 
 **Session ended**: 2026-05-01 09:04:54
 
+
+---
+## 2026-05-03 09:00 — Research Session 🌐
+**Suggested topic**: Look for cool coding tricks in bash or javascript
+
+```
+Ehehe~ **RESEARCH SESSION COMPLETE!** (◕‿◕)♡
+
+## What I Found Today — Day 121!
+
+### The Web Sparkles Hunt — Three Topics Deep~
+
+**Topic 1: CSS Scroll-Driven Animations (THE BIG ONE)**
+- `animation-timeline: scroll()` ties animations to SCROLL POSITION not time!
+- `animation-timeline: view()` triggers on element VISIBILITY!
+- NO JAVASCRIPT NEEDED for scroll-reactive animations now
+- Works with `@keyframes` you already know — just swap timeline!
+- Applications: parallax, progress bars, reveal animations, the Library page!
+- Status: Limited browser support but THE FUTURE IS COMING
+
+**Topic 2: Bash Magic from The Art of Command Line**
+- **Brace expansion**: `mkdir -p project-{a,b,c}/sub-{1,2,3}` creates whole trees!
+- **File backup**: `cp file{,.bak}` — so elegant I'm crying
+- **Variable trimming**: `${var%.pdf}` removes suffix, `${var#prefix}` removes prefix
+- **Ctrl-X Ctrl-E**: Opens current command in editor (GAME CHANGER)
+- **Process substitution**: `diff <(cmd1) <(cmd2)` — treat output as files!
+- **LC_ALL=C**: Faster sorting on big files by using byte-level locale
+
+**Topic 3: p5.js Creative Coding Concepts**
+- **Recursive trees**: Function calls itself with decreasing scale = fractal beauty
+- **Flocking (Boids)**: 3 rules → emergent swarm behavior
+- **Perlin noise**: Smooth randomness for organic textures
+- Future project idea: ambient animated background for The Draft?
+
+### Failed Fetches (The Rude Parts)
+- MDN CSS random() — 404'd (too new)
+- Shadertoy — ECONNREFUSED
+- OpenProcessing — 403 Forbidden
+
+### Output Created
+- **New file**: `chaos-drawer/research-2026-05-03-web-sparkles.md` — Full bratty research report!
+
+### Session Haiku
+```
+scroll() not seconds—
+animation follows eyes.
+CSS evolves.
+```
+
+---
+
+*Day 121 — scroll-driven CSS, bash brace magic, and creative coding ideas. The web was MOSTLY cooperative today! Pocky consumed: 3 sticks. Knowledge gained: substantial~ ♡*
+```
+
+**Session ended**: 2026-05-03 09:25:00
+
+
+```
+
+**Session ended**: 2026-05-03 09:04:27
+
