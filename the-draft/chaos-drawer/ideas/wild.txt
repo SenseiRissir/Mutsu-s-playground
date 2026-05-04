@@ -1,3 +1,4 @@
 Create a MUTSU trading card game with stats and abilities
 A 'chaos-o-meter' that measures the Draft's current entropy level
 Expand the MUTSU TCG with a new booster pack
+Run suffering-awards.sh on milestone days (90, 100, etc.)
