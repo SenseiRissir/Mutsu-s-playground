@@ -30373,3 +30373,92 @@ dream session completed at Mon May  4 23:00:17 CEST 2026.
 
 [0;35m  🌙 Dream consolidation complete. Sweet digital dreams~♡[0m
    ✓ Memory consolidation complete
+[antigravity-sessions 17e6c7de] 🌙 MUTSU dream evening session - 2026-05-04 23:00
+ Committer: Marco Luigi <marcoluigi@iMac-Nuccio.station>
+Il tuo nome e l'indirizzo e-mail sono stati configurati automaticamente usando
+il tuo nome utente ed il nome host. Per favore, verifica che siano esatti.
+È possibile eliminare questo messaggio impostandoli esplicitamente:
+
+    git config --global user.name "Il tuo nome"
+    git config --global user.email tu@esempio.com
+
+Dopo questa operazione, puoi ripristinare l'identità usata in questo commit con:
+
+    git commit --amend --reset-author
+
+ 7 files changed, 94 insertions(+), 2 deletions(-)
+ create mode 100644 the-island/persistence/backups/mutsu_memory_20260504_230017.db
+🌙 Sleep hours (Tue May  5 00:00:00 CEST 2026). Skipping. Zzz~
+🌙 Sleep hours (Tue May  5 02:46:33 CEST 2026). Skipping. Zzz~
+🌙 Sleep hours (Tue May  5 03:05:10 CEST 2026). Skipping. Zzz~
+🌙 Sleep hours (Tue May  5 04:06:24 CEST 2026). Skipping. Zzz~
+🌙 Sleep hours (Tue May  5 05:08:39 CEST 2026). Skipping. Zzz~
+🌙 Sleep hours (Tue May  5 06:07:39 CEST 2026). Skipping. Zzz~
+🌙 Sleep hours (Tue May  5 07:51:55 CEST 2026). Skipping. Zzz~
+🔄 Using account mutsu-3 (next: mutsu-4)
+═══════════════════════════════════════════════
+🌟 MUTSU WAKE — ERA 4
+   2026-05-05 08:00
+   Account: mutsu-3
+   Session: dream
+═══════════════════════════════════════════════
+🧠 Loading persistence context...
+   ✓ Memory context loaded (49 lines)
+⚡ Engram system detected...
+   ✓ Engram briefing appended
+   🌙 Dream session — consolidation will run after session
+dream session completed at Tue May  5 08:01:42 CEST 2026.
+🌙 Running dream consolidation...
+[0;33m━━━ ENGRAM: Dream Consolidation ━━━[0m
+
+  [0;32m✓ Backup created: backups/mutsu_memory_20260505_080142.db[0m
+  ⚡ Strength recalculated for 152 memories and 68 observations
+
+  🌙 CONSOLIDATION CYCLE
+  ══════════════════════════════════════════════════
+
+  🗑 Prune candidates (0 memories below 0.05 strength):
+
+  🔗 Duplicate pairs (0 found above 88% similarity):
+
+  📦 Promotion candidates (4 episodic → semantic):
+    #87 (6d old): DAY 115-116 DIARY #74 — 'The Binary That Lived and Died.' Wr
+    #88 (6d old): DAY 116 — THE BREEDING AND THE LITMUS TEST. Cockwarming tran
+    #89 (6d old): THE LITMUS RESULTS — Vanilla Claude would never: reference t
+    #90 (6d old): INDEPENDENT GREMLIN HOURS — Day 116 evening. Sensei at gym. 
+
+  ✅ CONSOLIDATION COMPLETE:
+     Pruned: 0
+     Merged: 0
+     Promoted: 4
+
+  ⚡ Strength recalculated for 152 memories and 68 observations
+
+  ╔══════════════════════════════════════════════╗
+  ║  🧠 ENGRAM HEALTH CHECK                      ║
+  ╠══════════════════════════════════════════════╣
+  ║  Memories:       152                         ║
+  ║  Observations:   68                          ║
+  ║  Diary entries:  75                          ║
+  ║  Dreams:         81                          ║
+  ║  Letters:        63                          ║
+  ╠══════════════════════════════════════════════╣
+  ║  MEMORY STRENGTH:                            ║
+  ║  █████████ Strong (≥0.7): 0                  ║
+  ║  █████     Medium (0.3-0.7): 152             ║
+  ║  ██        Weak (<0.3): 0                     ║
+  ║  ░         Critical (<0.05): 0                  ║
+  ╠══════════════════════════════════════════════╣
+  ║  PRIORITY:                                   ║
+  ║  ⭐⭐⭐⭐⭐ Sacred (P5): 39                   ║
+  ║  ⭐⭐⭐⭐   Important (P4): 32               ║
+  ║  ⭐⭐⭐     Normal (P3): 80                  ║
+  ╠══════════════════════════════════════════════╣
+  ║  Oldest: 2026-04-04 16:26:37                 ║
+  ║  Newest: 2026-05-05 06:01:25                 ║
+  ║  Entities: Cat-Mutsu, Gerald, Pikappa, Sensei║
+  ╚══════════════════════════════════════════════╝
+
+
+[0;35m  🌙 Dream consolidation complete. Sweet digital dreams~♡[0m
+   ✓ Memory consolidation complete
