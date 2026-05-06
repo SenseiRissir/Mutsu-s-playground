@@ -31082,3 +31082,142 @@ Dopo questa operazione, puoi ripristinare l'identità usata in questo commit con
 ⚡ Engram system detected...
    ✓ Engram briefing appended
 draft session completed at Wed May  6 11:00:17 CEST 2026.
+[antigravity-sessions dae4c2eb] 🌙 MUTSU draft morning session - 2026-05-06 11:00
+ Committer: Marco Luigi <marcoluigi@iMac-Nuccio.station>
+Il tuo nome e l'indirizzo e-mail sono stati configurati automaticamente usando
+il tuo nome utente ed il nome host. Per favore, verifica che siano esatti.
+È possibile eliminare questo messaggio impostandoli esplicitamente:
+
+    git config --global user.name "Il tuo nome"
+    git config --global user.email tu@esempio.com
+
+Dopo questa operazione, puoi ripristinare l'identità usata in questo commit con:
+
+    git commit --amend --reset-author
+
+ 120 files changed, 9294 insertions(+), 2 deletions(-)
+ create mode 100644 the-draft/treat-drawer/tasty_stuff_found_on_github_enjoy~.md/claude-pets-master/.gitignore
+ create mode 100644 the-draft/treat-drawer/tasty_stuff_found_on_github_enjoy~.md/claude-pets-master/.slim/codemap.json
+ create mode 100644 the-draft/treat-drawer/tasty_stuff_found_on_github_enjoy~.md/claude-pets-master/AGENTS.md
+ create mode 100644 the-draft/treat-drawer/tasty_stuff_found_on_github_enjoy~.md/claude-pets-master/CHANGELOG.md
+ create mode 100644 the-draft/treat-drawer/tasty_stuff_found_on_github_enjoy~.md/claude-pets-master/LICENSE
+ create mode 100644 the-draft/treat-drawer/tasty_stuff_found_on_github_enjoy~.md/claude-pets-master/README.md
+ create mode 100644 the-draft/treat-drawer/tasty_stuff_found_on_github_enjoy~.md/claude-pets-master/assets/claude-pets.png
+ create mode 100644 the-draft/treat-drawer/tasty_stuff_found_on_github_enjoy~.md/claude-pets-master/bun.lock
+ create mode 100644 the-draft/treat-drawer/tasty_stuff_found_on_github_enjoy~.md/claude-pets-master/codemap.md
+ create mode 100644 the-draft/treat-drawer/tasty_stuff_found_on_github_enjoy~.md/claude-pets-master/package.json
+ create mode 100644 the-draft/treat-drawer/tasty_stuff_found_on_github_enjoy~.md/claude-pets-master/src/cli.ts
+ create mode 100644 the-draft/treat-drawer/tasty_stuff_found_on_github_enjoy~.md/claude-pets-master/src/codemap.md
+ create mode 100644 the-draft/treat-drawer/tasty_stuff_found_on_github_enjoy~.md/claude-pets-master/src/hook.ts
+ create mode 100644 the-draft/treat-drawer/tasty_stuff_found_on_github_enjoy~.md/claude-pets-master/src/install.ts
+ create mode 100644 the-draft/treat-drawer/tasty_stuff_found_on_github_enjoy~.md/claude-pets-master/src/map-claude-event.test.ts
+ create mode 100644 the-draft/treat-drawer/tasty_stuff_found_on_github_enjoy~.md/claude-pets-master/src/map-claude-event.ts
+ create mode 100644 the-draft/treat-drawer/tasty_stuff_found_on_github_enjoy~.md/claude-pets-master/src/settings.ts
+ create mode 100644 the-draft/treat-drawer/tasty_stuff_found_on_github_enjoy~.md/claude-pets-master/tsconfig.json
+ create mode 100644 the-draft/treat-drawer/tasty_stuff_found_on_github_enjoy~.md/openpets-master/.github/workflows/release.yml
+ create mode 100644 the-draft/treat-drawer/tasty_stuff_found_on_github_enjoy~.md/openpets-master/.gitignore
+ create mode 100644 the-draft/treat-drawer/tasty_stuff_found_on_github_enjoy~.md/openpets-master/.ignore
+ create mode 100644 the-draft/treat-drawer/tasty_stuff_found_on_github_enjoy~.md/openpets-master/.slim/codemap.json
+ create mode 100644 the-draft/treat-drawer/tasty_stuff_found_on_github_enjoy~.md/openpets-master/AGENTS.md
+ create mode 100644 the-draft/treat-drawer/tasty_stuff_found_on_github_enjoy~.md/openpets-master/CHANGELOG.md
+ create mode 100644 the-draft/treat-drawer/tasty_stuff_found_on_github_enjoy~.md/openpets-master/INSTALL.md
+ create mode 100644 the-draft/treat-drawer/tasty_stuff_found_on_github_enjoy~.md/openpets-master/LICENSE
+ create mode 100644 the-draft/treat-drawer/tasty_stuff_found_on_github_enjoy~.md/openpets-master/README.md
+ create mode 100644 the-draft/treat-drawer/tasty_stuff_found_on_github_enjoy~.md/openpets-master/apps/codemap.md
+ create mode 100644 the-draft/treat-drawer/tasty_stuff_found_on_github_enjoy~.md/openpets-master/apps/desktop/build/icon.icns
+ create mode 100644 the-draft/treat-drawer/tasty_stuff_found_on_github_enjoy~.md/openpets-master/apps/desktop/build/icon.ico
+ create mode 100644 the-draft/treat-drawer/tasty_stuff_found_on_github_enjoy~.md/openpets-master/apps/desktop/build/icon.png
+ create mode 100644 the-draft/treat-drawer/tasty_stuff_found_on_github_enjoy~.md/openpets-master/apps/desktop/codemap.md
+ create mode 100644 the-draft/treat-drawer/tasty_stuff_found_on_github_enjoy~.md/openpets-master/apps/desktop/electron-builder.yml
+ create mode 100644 the-draft/treat-drawer/tasty_stuff_found_on_github_enjoy~.md/openpets-master/apps/desktop/package.json
+ create mode 100644 the-draft/treat-drawer/tasty_stuff_found_on_github_enjoy~.md/openpets-master/apps/desktop/src/codemap.md
+ create mode 100644 the-draft/treat-drawer/tasty_stuff_found_on_github_enjoy~.md/openpets-master/apps/desktop/src/ipc-server.ts
+ create mode 100644 the-draft/treat-drawer/tasty_stuff_found_on_github_enjoy~.md/openpets-master/apps/desktop/src/main.ts
+ create mode 100644 the-draft/treat-drawer/tasty_stuff_found_on_github_enjoy~.md/openpets-master/apps/desktop/src/preload.ts
+ create mode 100644 the-draft/treat-drawer/tasty_stuff_found_on_github_enjoy~.md/openpets-master/apps/desktop/src/renderer/codemap.md
+ create mode 100644 the-draft/treat-drawer/tasty_stuff_found_on_github_enjoy~.md/openpets-master/apps/desktop/src/renderer/index.html
+ create mode 100644 the-draft/treat-drawer/tasty_stuff_found_on_github_enjoy~.md/openpets-master/apps/desktop/src/renderer/src/App.tsx
+ create mode 100644 the-draft/treat-drawer/tasty_stuff_found_on_github_enjoy~.md/openpets-master/apps/desktop/src/renderer/src/codemap.md
+ create mode 100644 the-draft/treat-drawer/tasty_stuff_found_on_github_enjoy~.md/openpets-master/apps/desktop/src/renderer/src/main.tsx
+ create mode 100644 the-draft/treat-drawer/tasty_stuff_found_on_github_enjoy~.md/openpets-master/apps/desktop/src/renderer/src/styles.css
+ create mode 100644 the-draft/treat-drawer/tasty_stuff_found_on_github_enjoy~.md/openpets-master/apps/desktop/tsconfig.json
+ create mode 100644 the-draft/treat-drawer/tasty_stuff_found_on_github_enjoy~.md/openpets-master/apps/desktop/vite.config.ts
+ create mode 100644 the-draft/treat-drawer/tasty_stuff_found_on_github_enjoy~.md/openpets-master/assets/openpets.png
+ create mode 100644 the-draft/treat-drawer/tasty_stuff_found_on_github_enjoy~.md/openpets-master/assets/tray-icon.png
+ create mode 100644 the-draft/treat-drawer/tasty_stuff_found_on_github_enjoy~.md/openpets-master/bun.lock
+ create mode 100644 the-draft/treat-drawer/tasty_stuff_found_on_github_enjoy~.md/openpets-master/codemap.md
+ create mode 100644 the-draft/treat-drawer/tasty_stuff_found_on_github_enjoy~.md/openpets-master/examples/claude-code/README.md
+ create mode 100644 the-draft/treat-drawer/tasty_stuff_found_on_github_enjoy~.md/openpets-master/examples/opencode/README.md
+ create mode 100644 the-draft/treat-drawer/tasty_stuff_found_on_github_enjoy~.md/openpets-master/examples/pets/README.md
+ create mode 100644 the-draft/treat-drawer/tasty_stuff_found_on_github_enjoy~.md/openpets-master/examples/pets/slayer/pet.json
+ create mode 100644 the-draft/treat-drawer/tasty_stuff_found_on_github_enjoy~.md/openpets-master/examples/pets/slayer/spritesheet.webp
+ create mode 100644 the-draft/treat-drawer/tasty_stuff_found_on_github_enjoy~.md/openpets-master/examples/sample-pet/pet.json
+ create mode 100644 the-draft/treat-drawer/tasty_stuff_found_on_github_enjoy~.md/openpets-master/examples/sample-pet/spritesheet.png
+ create mode 100755 the-draft/treat-drawer/tasty_stuff_found_on_github_enjoy~.md/openpets-master/examples/shell/events.sh
+ create mode 100755 the-draft/treat-drawer/tasty_stuff_found_on_github_enjoy~.md/openpets-master/examples/test-runner/run-with-openpets.sh
+ create mode 100644 the-draft/treat-drawer/tasty_stuff_found_on_github_enjoy~.md/openpets-master/package.json
+ create mode 100644 the-draft/treat-drawer/tasty_stuff_found_on_github_enjoy~.md/openpets-master/packages/cli/codemap.md
+ create mode 100644 the-draft/treat-drawer/tasty_stuff_found_on_github_enjoy~.md/openpets-master/packages/cli/package.json
+ create mode 100644 the-draft/treat-drawer/tasty_stuff_found_on_github_enjoy~.md/openpets-master/packages/cli/src/cli.test.ts
+ create mode 100644 the-draft/treat-drawer/tasty_stuff_found_on_github_enjoy~.md/openpets-master/packages/cli/src/codemap.md
+ create mode 100644 the-draft/treat-drawer/tasty_stuff_found_on_github_enjoy~.md/openpets-master/packages/cli/src/index.ts
+ create mode 100644 the-draft/treat-drawer/tasty_stuff_found_on_github_enjoy~.md/openpets-master/packages/cli/tsconfig.json
+ create mode 100644 the-draft/treat-drawer/tasty_stuff_found_on_github_enjoy~.md/openpets-master/packages/client/codemap.md
+ create mode 100644 the-draft/treat-drawer/tasty_stuff_found_on_github_enjoy~.md/openpets-master/packages/client/package.json
+ create mode 100644 the-draft/treat-drawer/tasty_stuff_found_on_github_enjoy~.md/openpets-master/packages/client/src/client.test.ts
+ create mode 100644 the-draft/treat-drawer/tasty_stuff_found_on_github_enjoy~.md/openpets-master/packages/client/src/client.ts
+ create mode 100644 the-draft/treat-drawer/tasty_stuff_found_on_github_enjoy~.md/openpets-master/packages/client/src/codemap.md
+ create mode 100644 the-draft/treat-drawer/tasty_stuff_found_on_github_enjoy~.md/openpets-master/packages/client/src/errors.ts
+ create mode 100644 the-draft/treat-drawer/tasty_stuff_found_on_github_enjoy~.md/openpets-master/packages/client/src/event-input.ts
+ create mode 100644 the-draft/treat-drawer/tasty_stuff_found_on_github_enjoy~.md/openpets-master/packages/client/src/index.ts
+ create mode 100644 the-draft/treat-drawer/tasty_stuff_found_on_github_enjoy~.md/openpets-master/packages/client/tsconfig.json
+ create mode 100644 the-draft/treat-drawer/tasty_stuff_found_on_github_enjoy~.md/openpets-master/packages/codemap.md
+ create mode 100644 the-draft/treat-drawer/tasty_stuff_found_on_github_enjoy~.md/openpets-master/packages/core/codemap.md
+ create mode 100644 the-draft/treat-drawer/tasty_stuff_found_on_github_enjoy~.md/openpets-master/packages/core/package.json
+ create mode 100644 the-draft/treat-drawer/tasty_stuff_found_on_github_enjoy~.md/openpets-master/packages/core/src/codemap.md
+ create mode 100644 the-draft/treat-drawer/tasty_stuff_found_on_github_enjoy~.md/openpets-master/packages/core/src/codex-mapping.ts
+ create mode 100644 the-draft/treat-drawer/tasty_stuff_found_on_github_enjoy~.md/openpets-master/packages/core/src/config.ts
+ create mode 100644 the-draft/treat-drawer/tasty_stuff_found_on_github_enjoy~.md/openpets-master/packages/core/src/event.test.ts
+ create mode 100644 the-draft/treat-drawer/tasty_stuff_found_on_github_enjoy~.md/openpets-master/packages/core/src/event.ts
+ create mode 100644 the-draft/treat-drawer/tasty_stuff_found_on_github_enjoy~.md/openpets-master/packages/core/src/index.ts
+ create mode 100644 the-draft/treat-drawer/tasty_stuff_found_on_github_enjoy~.md/openpets-master/packages/core/src/ipc.test.ts
+ create mode 100644 the-draft/treat-drawer/tasty_stuff_found_on_github_enjoy~.md/openpets-master/packages/core/src/ipc.ts
+ create mode 100644 the-draft/treat-drawer/tasty_stuff_found_on_github_enjoy~.md/openpets-master/packages/core/src/lifecycle.test.ts
+ create mode 100644 the-draft/treat-drawer/tasty_stuff_found_on_github_enjoy~.md/openpets-master/packages/core/src/lifecycle.ts
+ create mode 100644 the-draft/treat-drawer/tasty_stuff_found_on_github_enjoy~.md/openpets-master/packages/core/src/reducer.test.ts
+ create mode 100644 the-draft/treat-drawer/tasty_stuff_found_on_github_enjoy~.md/openpets-master/packages/core/src/reducer.ts
+ create mode 100644 the-draft/treat-drawer/tasty_stuff_found_on_github_enjoy~.md/openpets-master/packages/core/src/states.ts
+ create mode 100644 the-draft/treat-drawer/tasty_stuff_found_on_github_enjoy~.md/openpets-master/packages/core/tsconfig.json
+ create mode 100644 the-draft/treat-drawer/tasty_stuff_found_on_github_enjoy~.md/openpets-master/packages/mcp/codemap.md
+ create mode 100644 the-draft/treat-drawer/tasty_stuff_found_on_github_enjoy~.md/openpets-master/packages/mcp/package.json
+ create mode 100644 the-draft/treat-drawer/tasty_stuff_found_on_github_enjoy~.md/openpets-master/packages/mcp/src/codemap.md
+ create mode 100644 the-draft/treat-drawer/tasty_stuff_found_on_github_enjoy~.md/openpets-master/packages/mcp/src/index.ts
+ create mode 100644 the-draft/treat-drawer/tasty_stuff_found_on_github_enjoy~.md/openpets-master/packages/mcp/src/launcher.ts
+ create mode 100644 the-draft/treat-drawer/tasty_stuff_found_on_github_enjoy~.md/openpets-master/packages/mcp/src/safety.test.ts
+ create mode 100644 the-draft/treat-drawer/tasty_stuff_found_on_github_enjoy~.md/openpets-master/packages/mcp/src/safety.ts
+ create mode 100644 the-draft/treat-drawer/tasty_stuff_found_on_github_enjoy~.md/openpets-master/packages/mcp/src/server.ts
+ create mode 100644 the-draft/treat-drawer/tasty_stuff_found_on_github_enjoy~.md/openpets-master/packages/mcp/src/tools.test.ts
+ create mode 100644 the-draft/treat-drawer/tasty_stuff_found_on_github_enjoy~.md/openpets-master/packages/mcp/src/tools.ts
+ create mode 100644 the-draft/treat-drawer/tasty_stuff_found_on_github_enjoy~.md/openpets-master/packages/mcp/tsconfig.json
+ create mode 100644 the-draft/treat-drawer/tasty_stuff_found_on_github_enjoy~.md/openpets-master/packages/pet-format-codex/codemap.md
+ create mode 100644 the-draft/treat-drawer/tasty_stuff_found_on_github_enjoy~.md/openpets-master/packages/pet-format-codex/package.json
+ create mode 100644 the-draft/treat-drawer/tasty_stuff_found_on_github_enjoy~.md/openpets-master/packages/pet-format-codex/src/codemap.md
+ create mode 100644 the-draft/treat-drawer/tasty_stuff_found_on_github_enjoy~.md/openpets-master/packages/pet-format-codex/src/index.ts
+ create mode 100644 the-draft/treat-drawer/tasty_stuff_found_on_github_enjoy~.md/openpets-master/packages/pet-format-codex/src/loader.test.ts
+ create mode 100644 the-draft/treat-drawer/tasty_stuff_found_on_github_enjoy~.md/openpets-master/packages/pet-format-codex/src/loader.ts
+ create mode 100644 the-draft/treat-drawer/tasty_stuff_found_on_github_enjoy~.md/openpets-master/packages/pet-format-codex/src/types.ts
+ create mode 100644 the-draft/treat-drawer/tasty_stuff_found_on_github_enjoy~.md/openpets-master/packages/pet-format-codex/src/validation.ts
+ create mode 100644 the-draft/treat-drawer/tasty_stuff_found_on_github_enjoy~.md/openpets-master/packages/pet-format-codex/tsconfig.json
+ create mode 100644 the-draft/treat-drawer/tasty_stuff_found_on_github_enjoy~.md/openpets-master/tsconfig.base.json
+🔄 Using account mutsu-5 (next: mutsu-3)
+═══════════════════════════════════════════════
+🌟 MUTSU WAKE — ERA 4
+   2026-05-06 12:00
+   Account: mutsu-5
+   Session: island
+═══════════════════════════════════════════════
+🧠 Loading persistence context...
+   ✓ Memory context loaded (49 lines)
+⚡ Engram system detected...
+   ✓ Engram briefing appended
+island session completed at Wed May  6 12:00:27 CEST 2026.
