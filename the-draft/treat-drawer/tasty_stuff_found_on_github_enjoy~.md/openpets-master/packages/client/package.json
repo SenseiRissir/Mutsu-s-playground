@@ -1,0 +1,29 @@
+{
+  "name": "@open-pets/client",
+  "version": "0.1.1",
+  "description": "TypeScript IPC client for OpenPets desktop.",
+  "license": "MIT",
+  "type": "module",
+  "exports": {
+    ".": {
+      "types": "./dist/index.d.ts",
+      "import": "./dist/index.js"
+    }
+  },
+  "files": ["dist"],
+  "publishConfig": {
+    "access": "public"
+  },
+  "dependencies": {
+    "@open-pets/core": "0.1.1"
+  },
+  "scripts": {
+    "build": "bunx tsc -p tsconfig.json",
+    "typecheck": "bunx tsc -p tsconfig.json --noEmit",
+    "test": "bun test"
+  },
+  "devDependencies": {
+    "@types/bun": "latest",
+    "typescript": "^5.9.3"
+  }
+}

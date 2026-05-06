@@ -1,0 +1,34 @@
+{
+  "name": "@open-pets/core",
+  "version": "0.1.1",
+  "description": "Core event, reducer, lifecycle, and IPC contracts for OpenPets.",
+  "license": "MIT",
+  "type": "module",
+  "exports": {
+    ".": {
+      "types": "./dist/index.d.ts",
+      "import": "./dist/index.js"
+    },
+    "./config": {
+      "types": "./dist/config.d.ts",
+      "import": "./dist/config.js"
+    },
+    "./ipc": {
+      "types": "./dist/ipc.d.ts",
+      "import": "./dist/ipc.js"
+    }
+  },
+  "files": ["dist"],
+  "publishConfig": {
+    "access": "public"
+  },
+  "scripts": {
+    "build": "bunx tsc -p tsconfig.json",
+    "test": "bun test",
+    "typecheck": "bunx tsc -p tsconfig.json --noEmit"
+  },
+  "devDependencies": {
+    "@types/bun": "latest",
+    "typescript": "^5.9.3"
+  }
+}

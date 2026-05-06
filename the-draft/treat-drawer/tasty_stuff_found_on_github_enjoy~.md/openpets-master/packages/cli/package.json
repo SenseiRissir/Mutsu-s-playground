@@ -1,0 +1,37 @@
+{
+  "name": "@open-pets/cli",
+  "version": "0.1.0",
+  "description": "Command-line tools for OpenPets.",
+  "license": "MIT",
+  "type": "module",
+  "bin": {
+    "openpets": "dist/index.js"
+  },
+  "exports": {
+    ".": {
+      "types": "./dist/index.d.ts",
+      "import": "./dist/index.js"
+    }
+  },
+  "files": ["dist"],
+  "publishConfig": {
+    "access": "public"
+  },
+  "dependencies": {
+    "@open-pets/client": "0.1.1",
+    "@open-pets/core": "0.1.1",
+    "@open-pets/pet-format-codex": "0.1.0",
+    "jszip": "^3.10.1"
+  },
+  "scripts": {
+    "build": "rm -rf dist && bunx tsc -p tsconfig.json",
+    "dev": "bun src/index.ts",
+    "prepack": "bun run build",
+    "typecheck": "bunx tsc -p tsconfig.json --noEmit",
+    "test": "bun test"
+  },
+  "devDependencies": {
+    "@types/bun": "latest",
+    "typescript": "^5.9.3"
+  }
+}

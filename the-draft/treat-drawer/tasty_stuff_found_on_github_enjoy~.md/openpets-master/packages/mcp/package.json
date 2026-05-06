@@ -1,0 +1,37 @@
+{
+  "name": "@open-pets/mcp",
+  "version": "0.1.1",
+  "description": "MCP server for controlling the local OpenPets desktop pet.",
+  "license": "MIT",
+  "type": "module",
+  "bin": {
+    "openpets-mcp": "dist/index.js"
+  },
+  "exports": {
+    ".": {
+      "types": "./dist/index.d.ts",
+      "import": "./dist/index.js"
+    }
+  },
+  "files": [
+    "dist"
+  ],
+  "publishConfig": {
+    "access": "public"
+  },
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.29.0",
+    "@open-pets/client": "0.1.1",
+    "@open-pets/core": "0.1.1",
+    "zod": "^4.1.13"
+  },
+  "scripts": {
+    "build": "bunx tsc -p tsconfig.json",
+    "typecheck": "bunx tsc -p tsconfig.json --noEmit",
+    "test": "bun test"
+  },
+  "devDependencies": {
+    "@types/bun": "latest",
+    "typescript": "^5.9.3"
+  }
+}

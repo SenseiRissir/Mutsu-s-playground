@@ -1,0 +1,146 @@
+html,
+body,
+#root {
+  width: 100%;
+  height: 100%;
+  margin: 0;
+  overflow: hidden;
+  background: transparent;
+  font-family: "Courier New", Courier, "Lucida Sans Typewriter", "Lucida Typewriter", monospace;
+  user-select: none;
+}
+
+.overlay-shell {
+  position: relative;
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  align-items: flex-end;
+  justify-content: center;
+  background: transparent;
+}
+
+.pet-container {
+  position: relative;
+  width: 100%;
+  height: 100%;
+  display: grid;
+  grid-template-rows: 72px 1fr;
+  justify-items: center;
+  align-items: end;
+}
+
+.pet-hitbox {
+  grid-row: 2;
+  padding: 8px 12px 16px;
+  cursor: grab;
+  touch-action: none;
+  -webkit-app-region: no-drag;
+}
+
+.pet-hitbox:active {
+  cursor: grabbing;
+}
+
+.pet-sprite-frame {
+  --pet-scale: 0.5;
+  width: calc(192px * var(--pet-scale));
+  height: calc(208px * var(--pet-scale));
+  overflow: visible;
+  position: relative;
+  z-index: 1;
+  -webkit-app-region: no-drag;
+}
+
+.pet-sprite {
+  --sprite-row: 0;
+  --sprite-frames: 6;
+  --sprite-duration: 1100ms;
+  --sprite-y: calc(var(--sprite-row) * -208px);
+  --sprite-end-x: calc(var(--sprite-frames) * -192px);
+  width: 192px;
+  height: 208px;
+  background-image: var(--sprite-url);
+  background-repeat: no-repeat;
+  background-size: 1536px 1872px;
+  image-rendering: pixelated;
+  transform: scale(var(--pet-scale));
+  transform-origin: top left;
+  animation: pet-state var(--sprite-duration) steps(var(--sprite-frames)) infinite;
+}
+
+.fallback-pet {
+  font-size: 92px;
+  line-height: 1;
+  filter: drop-shadow(0 8px 18px rgb(0 0 0 / 0.25));
+  transform: scale(var(--pet-scale, 0.5));
+}
+
+.speech-bubble {
+  grid-row: 1;
+  position: relative;
+  z-index: 2;
+  box-sizing: border-box;
+  align-self: end;
+  max-width: min(140px, calc(100vw - 8px));
+  max-height: 64px;
+  padding: 6px 8px;
+  background: #fff;
+  color: #000;
+  font-size: 11px;
+  line-height: 13px;
+  font-weight: bold;
+  text-align: center;
+  border: 2px solid #000;
+  border-radius: 4px;
+  box-shadow: 2px 2px 0px #000;
+  white-space: normal;
+  word-wrap: break-word;
+  overflow: hidden;
+  pointer-events: none;
+  -webkit-app-region: no-drag;
+}
+
+.speech-bubble::after {
+  content: '';
+  position: absolute;
+  top: 100%;
+  left: 50%;
+  margin-left: -5px;
+  width: 0;
+  height: 0;
+  border-top: 6px solid #000;
+  border-left: 5px solid transparent;
+  border-right: 5px solid transparent;
+}
+
+.speech-bubble::before {
+  content: '';
+  position: absolute;
+  top: 100%;
+  left: 50%;
+  margin-left: -3px;
+  margin-top: -2px;
+  width: 0;
+  height: 0;
+  border-top: 4px solid #fff;
+  border-left: 3px solid transparent;
+  border-right: 3px solid transparent;
+  z-index: 1;
+}
+
+@keyframes pet-state {
+  from {
+    background-position: 0 var(--sprite-y);
+  }
+
+  to {
+    background-position: var(--sprite-end-x) var(--sprite-y);
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .pet-sprite {
+    animation: none;
+  }
+}

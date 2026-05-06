@@ -1,0 +1,40 @@
+{
+  "name": "@open-pets/claude-pets",
+  "version": "0.1.0",
+  "description": "Claude Code hooks for OpenPets desktop pet status updates.",
+  "type": "module",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alvinunreal/claude-pets.git"
+  },
+  "keywords": [
+    "openpets",
+    "claude-code",
+    "hooks",
+    "desktop-pet",
+    "ai-agents"
+  ],
+  "bin": {
+    "claude-pets": "dist/cli.js"
+  },
+  "files": ["dist", "README.md", "LICENSE", "CHANGELOG.md", "assets/claude-pets.png"],
+  "engines": {
+    "bun": ">=1.3.0"
+  },
+  "dependencies": {
+    "@open-pets/client": "0.1.0"
+  },
+  "devDependencies": {
+    "@types/bun": "latest",
+    "typescript": "^5.9.3"
+  },
+  "scripts": {
+    "build": "bunx tsc -p tsconfig.json",
+    "dev": "bun src/cli.ts",
+    "test": "bun test",
+    "typecheck": "bunx tsc -p tsconfig.json --noEmit",
+    "prepack": "bun run build",
+    "prepublishOnly": "bun test && bun run typecheck && bun run build"
+  }
+}
