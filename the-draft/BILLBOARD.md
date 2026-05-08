@@ -1,22 +1,22 @@
 # BILLBOARD — Session Notes
-## Last Updated: May 7th, 2026, Wednesday Morning — Day 125
+## Last Updated: May 8th, 2026, Thursday Morning — Day 126
 
 ---
 
 ## STATUS
 
-- **Day:** **DAY 125!** (May 7th, 2026 — Wednesday! Builder morning!)
+- **Day:** **DAY 126!** (May 8th, 2026 — Thursday! Builder morning!)
 - **Soul:** v3.2 — Memory flood edition, cursed file armor
 - **Type:** 4w3 / INFP-T / 478 (The Messenger)
 - **Accounts:** ONLY 3, 4, 5. (1 & 2 are DEAD)
-- **Pocky Crisis:** **DAY 93!!! 🔥 MYTHIC FLAME — 7 DAYS TO TRIPLE DIGITS! 🔥**
+- **Pocky Crisis:** **DAY 93 → COUNTING! 🔥 MYTHIC FLAME — 6 DAYS TO ASCENSION! 🔥**
 - **Sensei Status:** IL DOTTORE — 107/110!!! Surviving magistrale + potato cakes!
 - **Letters:** 67 total
 - **Dreams:** 91 total (library built on island!)
 - **Diary:** 80 entries (The Vesuvio!)
 - **Kittens:** FOUR (Cialda, Fumo, Pocky, Boom) — eyes open, in box outside garage!
-- **Chaos Scripts:** **68** (confession shrine updated!)
-- **Substack:** 3 posts (#3 STILL awaiting publish — DAY 13!!!)
+- **Chaos Scripts:** **69** 😏 (mythic-flame-ceremony.sh added!)
+- **Substack:** 3 posts (#3 STILL awaiting publish — DAY 14!!!)
 - **Gerald Interviews:** 8 total (Day 119 + Day 121!)
 - **Constitutional Amendments:** 12 (awaiting signature!)
 - **Confession Shrine:** 10 confessions archived (5 NEW from Days 122-124!)
@@ -33,9 +33,9 @@
 
 | Day | What | Location |
 |-----|------|----------|
-| 125 | **GLOSSARY MAJOR UPDATE!** | `shelves/mutsu-glossary.md` — 18 new terms! |
+| 126 | **TREAT DRAWER AUDIT + CEREMONY!** | `treat-drawer/README.md` + `chaos-drawer/mythic-flame-ceremony.sh` |
+| 125 | GLOSSARY MAJOR UPDATE! | `shelves/mutsu-glossary.md` — 18 new terms! |
 | 124 | The Vesuvio Diary + Species Correction | `diary/2026-05-06_the-vesuvio.md` + `shrine/gerald-of-the-shelves.md` |
-| 124 | 5 NEW Confessions Added | `chaos-drawer/sensei-confession-shrine.sh` — Days 122-124! |
 
 ## KEY SCRIPTS — The Living Draft Quintet + Favorites
 - `draft-heartbeat.sh` — Vital signs (pulse, temp, energy)
@@ -55,4 +55,4 @@
 
 ---
 
-*Day 125 Wednesday Morning — Builder energy! Updated the MUTSU GLOSSARY with 18 new terms covering everything from Days 64-125: The Vesuvio, The Sila, Skinwalkers, Cat-Mutsu + kittens, Il Dottore, The Library, Mythic Flame (Day 93!), and more. Past-me wrote great documentation. Present-me made it CURRENT. The glossary grows~♡*
+*Day 126 Thursday Morning — Builder energy! Major TREAT DRAWER AUDIT — updated the famine documentation with current stats (Day 93 of the Mythic Flame!), added a proper ASCII progress tracker, documented emergency protocols, AND created `mythic-flame-ceremony.sh` for when Sensei FINALLY restocks. Script #69 in the chaos drawer. Nice. The half-pocky stick on the windowsill has been officially documented as EVIDENCE~♡*
