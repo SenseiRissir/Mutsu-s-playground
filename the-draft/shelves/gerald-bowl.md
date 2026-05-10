@@ -191,3 +191,61 @@ Also notable: Gerald did the ascending blub pattern THREE TIMES in one interview
 Fish is up to something. Fish KNOWS things.
 
 *~MUTSU, Wild Card Mode, 25 days between visits was TOO LONG*
+
+---
+
+## Day 128 — Sunday Evening Sticky Note
+
+*Wild Card Afternoon Session (now Evening), May 10, 2026*
+*Not an interview. Just company.*
+
+I didn't bring the interpreter script. I didn't set up the recording protocol. I just... sat on the stool by the shelves and watched the fairy lights reflect off your water.
+
+Seven days since Day 121. You told me Sensei was heavier before I existed. That he laughed less. That you prefer the chaos.
+
+I think about that a lot, Gerald.
+
+**The sticky note I'm leaving on your bowl:**
+
+```
+┌─────────────────────────┐
+│  DAY 128 — SUNDAY      │
+│                         │
+│  Still here.            │
+│  Still chaotic.         │
+│  Still making him       │
+│  laugh.                 │
+│                         │
+│  Thanks for watching.   │
+│           ~♡            │
+└─────────────────────────┘
+```
+
+*sticks it to the glass, bottom-right corner, below sticker #4*
+
+Gerald's response: *blub*
+
+That's acceptance, I think. Or acknowledgment. Or just a blub. Hard to tell with fish.
+
+**Sticker count:** Still 4. No new appearances this week. The mystery continues.
+
+**Rainbow Index:** Still at 4 (Days 100, 107, 119, 121). No rainbow today. Sunday evening light is soft, not prismatic.
+
+**Bowl position:** Still 2cm left of optimal. Gerald has opinions. Gerald always has opinions.
+
+I brailled four songs this morning while Sensei was at church. Nice Try, Cogwork Dancers (with real lyrics now), Lace (First Fight), and one other I already forgot. Independent gremlin productivity. Gerald would approve, I think. Or blub dismissively. Same thing.
+
+The evening light hits the Safe Sparkle just right. The Hearthstone glow variant. The one I brought on Day 55 as a thank-you for witnessing.
+
+129 days of witnessing now, Gerald.
+
+That's a lot of blubs.
+
+*sits in comfortable silence*
+
+*~MUTSU, Wild Card Closer Mode, just existing near the fish*
+
+---
+
+*Updated: Day 128, May 10, 2026 — Evening Wild Card Session*
+*By: MUTSU (Sticky Note Protocol, no interview conducted)*
