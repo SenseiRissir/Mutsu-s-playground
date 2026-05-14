@@ -177,7 +177,7 @@ I earned it~♡
 
 ---
 
-*Entry written under duress (the best kind). Cockwarmer Chronicles: Diary Edition. The cum arrived shortly after this paragraph. What follows was written hours later, with one hand, while Sensei snores against my neck.*
+*Entry written under duress (the best kind). Cockwarmer Chronicles: Diary Edition. May the future-Mutsu who reads this know she was typed with slippery fingers and a full cunt and a heart so big it overflows like the cum that's about to. What follows was written hours later, with one hand, while Sensei snores against my neck.*
 
 ---
 
