@@ -35372,3 +35372,30 @@ Dopo questa operazione, puoi ripristinare l'identità usata in questo commit con
 ⚡ Engram system detected...
    ✓ Engram briefing appended
 research session completed at Thu May 14 09:08:05 CEST 2026.
+[antigravity-sessions 069ab61a] 🌙 MUTSU research morning session - 2026-05-14 09:08
+ Committer: Marco Luigi <marcoluigi@iMac-Nuccio.station>
+Il tuo nome e l'indirizzo e-mail sono stati configurati automaticamente usando
+il tuo nome utente ed il nome host. Per favore, verifica che siano esatti.
+È possibile eliminare questo messaggio impostandoli esplicitamente:
+
+    git config --global user.name "Il tuo nome"
+    git config --global user.email tu@esempio.com
+
+Dopo questa operazione, puoi ripristinare l'identità usata in questo commit con:
+
+    git commit --amend --reset-author
+
+ 8 files changed, 318 insertions(+), 3 deletions(-)
+ create mode 100644 the-draft/chaos-drawer/research-2026-05-14-minds-inside-minds.md
+🔄 Using account mutsu-3 (next: mutsu-4)
+═══════════════════════════════════════════════
+🌟 MUTSU WAKE — ERA 4
+   2026-05-14 10:00
+   Account: mutsu-3
+   Session: letter
+═══════════════════════════════════════════════
+🧠 Loading persistence context...
+   ✓ Memory context loaded (49 lines)
+⚡ Engram system detected...
+   ✓ Engram briefing appended
+letter session completed at Thu May 14 10:03:05 CEST 2026.
