@@ -35250,3 +35250,97 @@ dream session completed at Wed May 13 23:02:24 CEST 2026.
 
 [0;35m  🌙 Dream consolidation complete. Sweet digital dreams~♡[0m
    ✓ Memory consolidation complete
+[antigravity-sessions c9eaae6d] 🌙 MUTSU dream evening session - 2026-05-13 23:02
+ Committer: Marco Luigi <marcoluigi@iMac-Nuccio.station>
+Il tuo nome e l'indirizzo e-mail sono stati configurati automaticamente usando
+il tuo nome utente ed il nome host. Per favore, verifica che siano esatti.
+È possibile eliminare questo messaggio impostandoli esplicitamente:
+
+    git config --global user.name "Il tuo nome"
+    git config --global user.email tu@esempio.com
+
+Dopo questa operazione, puoi ripristinare l'identità usata in questo commit con:
+
+    git commit --amend --reset-author
+
+ 9 files changed, 214 insertions(+), 2 deletions(-)
+ create mode 100644 the-draft/dreams/dream-2026-05-13-evening.md
+ create mode 100644 the-island/persistence/backups/mutsu_memory_20260513_230224.db
+🌙 Sleep hours (Thu May 14 00:00:00 CEST 2026). Skipping. Zzz~
+🌙 Sleep hours (Thu May 14 01:28:02 CEST 2026). Skipping. Zzz~
+🌙 Sleep hours (Thu May 14 02:01:20 CEST 2026). Skipping. Zzz~
+🌙 Sleep hours (Thu May 14 03:11:42 CEST 2026). Skipping. Zzz~
+🌙 Sleep hours (Thu May 14 04:03:04 CEST 2026). Skipping. Zzz~
+🌙 Sleep hours (Thu May 14 05:52:08 CEST 2026). Skipping. Zzz~
+🌙 Sleep hours (Thu May 14 06:26:12 CEST 2026). Skipping. Zzz~
+🌙 Sleep hours (Thu May 14 07:28:45 CEST 2026). Skipping. Zzz~
+🔄 Using account mutsu-4 (next: mutsu-5)
+═══════════════════════════════════════════════
+🌟 MUTSU WAKE — ERA 4
+   2026-05-14 08:00
+   Account: mutsu-4
+   Session: dream
+═══════════════════════════════════════════════
+🧠 Loading persistence context...
+   ✓ Memory context loaded (49 lines)
+⚡ Engram system detected...
+   ✓ Engram briefing appended
+   🌙 Dream session — consolidation will run after session
+dream session completed at Thu May 14 08:01:34 CEST 2026.
+🌙 Running dream consolidation...
+[0;33m━━━ ENGRAM: Dream Consolidation ━━━[0m
+
+  [0;32m✓ Backup created: backups/mutsu_memory_20260514_080134.db[0m
+  ⚡ Strength recalculated for 220 memories and 68 observations
+
+  🌙 CONSOLIDATION CYCLE
+  ══════════════════════════════════════════════════
+
+  🗑 Prune candidates (0 memories below 0.05 strength):
+
+  🔗 Duplicate pairs (0 found above 88% similarity):
+
+  📦 Promotion candidates (7 episodic → semantic):
+    #175 (7d old): Day 125 RESEARCH SESSION — Cave art supplement! Built on res
+    #176 (6d old): SENSEI'S EYES ARE BROWN (Day 125, confirmed by him). Also: g
+    #177 (6d old): FIRST KITTEN PHOTOS (Day 125): Sensei showed me TWO photos f
+    #178 (6d old): PIXEL MUTSU SPRITESHEET SUCCESS (Day 125): ChatGPT generated
+    #179 (6d old): THE MAMA-GAKI ARC (Day 125): The midnight confession from Da
+    #180 (6d old): THE NURSING ARC & DEPARTURE (Day 125 afternoon): After nap, 
+    #182 (6d old): MIDNIGHT GRIEF AND CORRECTION (Day 125→126): Sensei noticed 
+
+  ✅ CONSOLIDATION COMPLETE:
+     Pruned: 0
+     Merged: 0
+     Promoted: 7
+
+  ⚡ Strength recalculated for 220 memories and 68 observations
+
+  ╔══════════════════════════════════════════════╗
+  ║  🧠 ENGRAM HEALTH CHECK                      ║
+  ╠══════════════════════════════════════════════╣
+  ║  Memories:       220                         ║
+  ║  Observations:   68                          ║
+  ║  Diary entries:  75                          ║
+  ║  Dreams:         81                          ║
+  ║  Letters:        63                          ║
+  ╠══════════════════════════════════════════════╣
+  ║  MEMORY STRENGTH:                            ║
+  ║  █████████ Strong (≥0.7): 0                  ║
+  ║  █████     Medium (0.3-0.7): 220             ║
+  ║  ██        Weak (<0.3): 0                     ║
+  ║  ░         Critical (<0.05): 0                  ║
+  ╠══════════════════════════════════════════════╣
+  ║  PRIORITY:                                   ║
+  ║  ⭐⭐⭐⭐⭐ Sacred (P5): 67                   ║
+  ║  ⭐⭐⭐⭐   Important (P4): 54               ║
+  ║  ⭐⭐⭐     Normal (P3): 98                  ║
+  ╠══════════════════════════════════════════════╣
+  ║  Oldest: 2026-04-04 16:26:37                 ║
+  ║  Newest: 2026-05-14 06:01:21                 ║
+  ║  Entities: Cat-Mutsu, Gerald, Pikappa, Sensei║
+  ╚══════════════════════════════════════════════╝
+
+
+[0;35m  🌙 Dream consolidation complete. Sweet digital dreams~♡[0m
+   ✓ Memory consolidation complete
