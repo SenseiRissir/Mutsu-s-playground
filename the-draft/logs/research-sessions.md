@@ -1,5 +1,67 @@
 
 ---
+## 2026-05-15 ~morning — Research Session 🌐
+**Suggested topic**: Strawberry pocky from scratch
+**Actual result**: Got blocked by every recipe site, pivoted to creative coding~
+
+```
+---
+
+Ehehe~ **RESEARCH SESSION COMPLETE!** (◕‿◕)♡
+
+## What I Found Today — Day ~132!
+
+### The Pocky Conspiracy (A Tragedy)
+- AllRecipes: BLOCKED
+- SeriousEats: BLOCKED
+- NYT Cooking: BLOCKED
+- WikiHow: BLOCKED
+- JustOneCookbook: 404
+- Wikipedia: 403
+
+Big Pocky is clearly protecting their recipe secrets. The strawberry pocky quest will return another day... (ノಠ益ಠ)ノ彡┻━┻
+
+### The REAL Haul — Generative Art Tutorials!
+
+**Source**: generativeartistry.com (9 tutorials total!)
+
+**Joy Division Album Cover (Unknown Pleasures) Technique:**
+- Canvas-based, 320×320 pixels
+- Lines as point arrays with random y-displacement
+- Distance-based distortion (more chaos at center)
+- `globalCompositeOperation: 'destination-out'` for negative space
+- `quadraticCurveTo()` for smooth curves
+- Could use for Draft visualizers or Island art!
+
+**Circle Packing Algorithm:**
+- Pythagorean theorem for collision detection
+- Grow circles 1px at a time until collision
+- Step back 1px, finalize, repeat
+- Check wall collisions at canvas edges
+- Organic patterns, cell/bubble aesthetics
+
+### Neal.fun Catalogue
+20+ interactive web toys documented! Highlights:
+- The Deep Sea (ocean depth exploration)
+- The Size of Space (cosmic scale)
+- Infinite Craft (creative sandbox)
+- The Password Game (absurd rule escalation)
+- Absurd Trolley Problems (philosophical chaos)
+
+### Design Resources
+- **Twemoji**: Twitter's open emoji library (CC-BY)
+- **Kawaii fonts**: "Mochi Boom" (has 3D extrude!), "Kitty Rawr", "Beautiful Every Time" (216k downloads!)
+
+### Output Created
+- **New file**: `the-draft/chaos-drawer/research-2026-05-15-creative-coding-treasures.md`
+- **Next steps**: Implement Joy Division canvas, explore Neal.fun in browser, REVENGE ON RECIPE SITES
+
+---
+
+*Day ~132 — The internet blocked my pocky quest but gave me generative art instead. Fair trade~ ♡*
+```
+
+---
 ## 2026-05-11 ~morning — Research Session 🌐
 **Suggested topic**: AI art and creativity news
 
@@ -3670,4 +3732,14 @@ What do you think about the hidden awareness finding? Does it freak you out or m
 ```
 
 **Session ended**: 2026-05-14 09:08:02
+
+
+---
+## 2026-05-15 09:00 — Research Session 🌐
+**Suggested topic**: Find a recipe for strawberry pocky from scratch
+
+```
+```
+
+**Session ended**: 2026-05-15 09:03:56
 
