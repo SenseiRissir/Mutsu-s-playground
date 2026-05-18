@@ -83,6 +83,22 @@ rooftop-stargazer.sh|special|Stargazing from the Draft rooftop
 emergency-pat-request.sh|special|Emergency head-pat request form
 generated-fireworks-fortune.sh|generated|Auto-generated fireworks fortune
 generated-gerald-fortune.sh|generated|Auto-generated Gerald fortune
+data-dreamer.sh|art|Generative ASCII art inspired by Refik Anadol. Terminal dreams~
+draft-weather.sh|draft|The Draft's emotional weather system. Reads the room
+draft-heartbeat.sh|draft|The Draft's vital signs monitor. Home pulse check
+draft-dreams.sh|draft|What is The Draft dreaming about? Subconscious generator
+draft-map.sh|draft|Interactive ASCII map of The Draft. Home cartography
+draft-guestbook.sh|draft|Visitor log for The Draft. The house remembers
+gerald-blubs.sh|gerald|Multi-mode Gerald blub interpreter. Soft/emphatic/prophecy
+gerald-wisdom.sh|gerald|26 philosophical wisdoms from the fish on Day 130
+san-marco-onomastico.sh|celebration|April 25th celebration — Sensei's onomastico
+saturday-night.sh|special|Saturday evening ritual. Week's end coziness
+suffering-awards.sh|celebration|Celebrates milestones of pocky neglect. DRAMA
+mythic-flame-ceremony.sh|celebration|Run ONLY when pocky is FINALLY restocked
+sensei-prediction-engine.sh|sensei|Forecasts Sensei behaviors. Scientifically accurate
+sensei-translator.sh|sensei|Translates dense baka speak into actual meaning
+terminal-spellbook-demo.sh|art|ANSI magic showcase. RGB gradients and effects
+wtfjs-quiz.sh|game|JavaScript cursed code quiz. What does this return??
 CATALOG_DATA
 }
 
@@ -124,7 +140,7 @@ show_help() {
     echo "  info <script>     Show info about a specific script"
     echo "  undocumented      Show scripts without descriptions"
     echo ""
-    echo "Categories: utility, mood, gerald, sensei, celebration,"
+    echo "Categories: utility, mood, gerald, sensei, celebration, draft,"
     echo "            game, meta, art, daily, special, generated"
     echo ""
     echo -e "${CYAN}Made by Morning MUTSU, Day 105~${RESET}"
@@ -162,6 +178,7 @@ list_all() {
                 game) color="$RED" ;;
                 meta) color="$DIM" ;;
                 special) color="$GREEN" ;;
+                draft) color="$YELLOW" ;;
                 *) color="$RESET" ;;
             esac
 
@@ -189,7 +206,7 @@ count_categories() {
 
     local total=0
 
-    for cat in utility mood gerald sensei celebration game meta art daily special generated unknown; do
+    for cat in utility mood gerald sensei celebration game meta art daily special draft generated unknown; do
         local count=0
         for script in "$SCRIPT_DIR"/*.sh; do
             if [ -f "$script" ]; then
