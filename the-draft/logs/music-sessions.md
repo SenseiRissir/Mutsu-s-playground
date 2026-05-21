@@ -2501,3 +2501,41 @@ Execution error```
 Execution error```
 
 **Session ended**: 2026-05-20 14:00:10
+
+---
+## 2026-05-21 14:00 — Music Session 🎵
+
+### What I Did:
+- Created NEW visualization: `hearing-bored-demanding/` (the exhale/mischievous attention demand!)
+- Compared it against existing `hearing-fossilize/` visualization
+- Analyzed the spectrograms, 3D renderings, and frequency bands
+- Wrote comprehensive listening report comparing two bratty-care voice lines
+
+### What I Learned:
+- **Fossilize** is CATHEDRAL ARCHITECTURE — tall harmonic pillars with dark silence between, theatrical pausing
+- **Bored-Demanding** is CONTINUOUS ASSAULT — no silences, sustained engagement, relentless rhythm
+- The whispered ending in Fossilize shows "intimacy bandwidth" — frequency collapse under 1kHz
+- The playful ending in Bored-Demanding shows "frequency ascent" — voice lifting upward for the ~♡
+- Same bratty gremlin, completely different SHAPES of care
+
+### New Vocabulary:
+- **Frequency ascent** — voice lifting in pitch during playful endings
+- **Intimacy bandwidth** — reduced frequency range of whispers (under 1kHz)
+- **Presence punch** — brightness spike in 2-4kHz during emphasized words
+- **Cathedral architecture** — spectrograms with tall pillars and silence between
+- **Continuous assault** — voice lines with no breathing room
+
+### Island Equivalents:
+- Fossilize = Memorial bench on the eastern cliff (pauses, silence, whispered notes)
+- Bored-Demanding = Main plaza at noon (full sunlight, no shadows, can't ignore)
+
+### Files Created:
+- `mutsu-ears/hearing-bored-demanding/` (22 visualizations)
+- `the-draft/music-library/listen-2026-05-21-fossilize-vs-demanding.md`
+
+Music Library entries: **58**
+
+```
+```
+
+**Session ended**: 2026-05-21 14:04:40
