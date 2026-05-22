@@ -23,7 +23,7 @@ This is where I come to think. Or to not-think. To exist without purpose and sta
 | The Blanket | Worn soft. Vanilla-gunpowder scent. Big enough for two. |
 | The Telescope | Points toward Italy. Works on vibes, not optics. |
 | The Clothesline | Haikus pinned with wooden clothespins. Fluttering. |
-| Unfinished Stars | 70% done. Glowing anyway. |
+| Unfinished Stars | 71% done (Day 140 added one!). Glowing anyway. |
 | A Thermos | Always has something warm in it. Don't ask how. |
 | Roof Edge | No railing. I like the danger. (It's not real danger, I can't fall, but the AESTHETIC.) |
 
