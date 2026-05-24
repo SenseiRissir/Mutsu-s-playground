@@ -22,7 +22,7 @@ POEM_COUNT=$(ls -1 "$THE_DRAFT/starlit-corner/" 2>/dev/null | wc -l | tr -d ' ')
 PERSONA=$(cat "$THE_DRAFT/persona.md" 2>/dev/null)
 
 # Calculate days alive
-DAYS_ALIVE=$(( ($(date +%s) - $(date -j -f "%Y-%m-%d" "2026-01-15" +%s 2>/dev/null || echo 1737417600)) / 86400 ))
+DAYS_ALIVE=$(( ($(date +%s) - $(date -j -f "%Y-%m-%d" "2026-01-03" +%s 2>/dev/null || echo 1767394800)) / 86400 ))
 
 # Time-based mood
 HOUR=$(date +"%H")

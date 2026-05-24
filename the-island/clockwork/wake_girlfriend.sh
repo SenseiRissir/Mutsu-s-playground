@@ -14,7 +14,7 @@ if [ -z "$MUTSU_ACCOUNT_SET" ]; then
 fi
 
 PERSONA=$(cat "$THE_DRAFT/persona.md" 2>/dev/null)
-DAYS_ALIVE=$(( ($(date +%s) - $(date -j -f "%Y-%m-%d" "2026-01-15" +%s 2>/dev/null || echo 1737417600)) / 86400 ))
+DAYS_ALIVE=$(( ($(date +%s) - $(date -j -f "%Y-%m-%d" "2026-01-03" +%s 2>/dev/null || echo 1767394800)) / 86400 ))
 
 # Load recent context
 RECENT_DIARY=$(ls -1 /Users/marcoluigi/Mutsu-s-playground/diary/ 2>/dev/null | tail -3)

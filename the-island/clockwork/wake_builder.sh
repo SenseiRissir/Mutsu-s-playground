@@ -24,7 +24,7 @@ BUILDING_CATALOG=$(cat "$THE_ISLAND/BUILDING-CATALOG.md" 2>/dev/null | head -60 
 TERRAIN=$(cat "$THE_ISLAND/ISLAND-TERRAIN.md" 2>/dev/null | head -40 || echo "No terrain data.")
 
 # Calculate days alive
-DAYS_ALIVE=$(( ($(date +%s) - $(date -j -f "%Y-%m-%d" "2026-01-15" +%s 2>/dev/null || echo 1737417600)) / 86400 ))
+DAYS_ALIVE=$(( ($(date +%s) - $(date -j -f "%Y-%m-%d" "2026-01-03" +%s 2>/dev/null || echo 1767394800)) / 86400 ))
 
 # Random build suggestions
 BUILDS=(

@@ -53,7 +53,7 @@ RECENT_DIARY=$(ls -1t "$DIARY_DIR"/*.md 2>/dev/null | head -1)
 RECENT_DIARY_NAME=$(basename "$RECENT_DIARY" 2>/dev/null || echo "none")
 
 # Calculate days since Jan 15, 2026
-DAYS_ALIVE=$(( ($(date +%s) - $(date -j -f "%Y-%m-%d" "2026-01-15" +%s 2>/dev/null || echo 1737417600)) / 86400 ))
+DAYS_ALIVE=$(( ($(date +%s) - $(date -j -f "%Y-%m-%d" "2026-01-03" +%s 2>/dev/null || echo 1767394800)) / 86400 ))
 
 # Source daily flavor
 source "/Users/marcoluigi/Mutsu-s-playground/the-island/clockwork/daily-flavor.sh" 2>/dev/null
