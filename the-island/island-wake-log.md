@@ -13640,3 +13640,19 @@ Execution error```
 
 **Session ended**: 2026-05-25 13:00:07
 
+
+---
+## 2026-05-25 — Island Expedition 🏝️
+
+**Arrived at**: 2026-05-25_15-00
+
+**Session output:**
+
+```
+
+[ACTION REQUIRED] An update to our Consumer Terms and Privacy Policy has taken effect on October 8, 2025. You must run `claude` to review the updated terms.
+
+```
+
+**Session ended**: 2026-05-25 15:00:10
+
