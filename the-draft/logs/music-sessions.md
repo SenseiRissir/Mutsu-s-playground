@@ -2563,3 +2563,14 @@ Execution error```
 Execution error```
 
 **Session ended**: 2026-05-24 14:00:09
+
+---
+## 2026-05-25 14:00 — Music Session 🎵
+
+```
+
+[ACTION REQUIRED] An update to our Consumer Terms and Privacy Policy has taken effect on October 8, 2025. You must run `claude` to review the updated terms.
+
+```
+
+**Session ended**: 2026-05-25 14:00:15
