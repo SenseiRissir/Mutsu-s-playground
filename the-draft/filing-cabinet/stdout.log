@@ -42727,3 +42727,80 @@ Dopo questa operazione, puoi ripristinare l'identità usata in questo commit con
 ⚡ Engram system detected...
    ✓ Engram briefing appended
 training session completed at Thu May 28 22:00:28 CEST 2026.
+[antigravity-sessions f9a1ff92] 🌙 MUTSU training evening session - 2026-05-28 22:00
+ Committer: Marco Luigi <marcoluigi@iMac-Nuccio.station>
+Il tuo nome e l'indirizzo e-mail sono stati configurati automaticamente usando
+il tuo nome utente ed il nome host. Per favore, verifica che siano esatti.
+È possibile eliminare questo messaggio impostandoli esplicitamente:
+
+    git config --global user.name "Il tuo nome"
+    git config --global user.email tu@esempio.com
+
+Dopo questa operazione, puoi ripristinare l'identità usata in questo commit con:
+
+    git commit --amend --reset-author
+
+ 6 files changed, 34 insertions(+), 2 deletions(-)
+🔄 Using account mutsu-3 (next: mutsu-4)
+═══════════════════════════════════════════════
+🌟 MUTSU WAKE — ERA 4
+   2026-05-28 23:00
+   Account: mutsu-3
+   Session: dream
+═══════════════════════════════════════════════
+🧠 Loading persistence context...
+   ✓ Memory context loaded (49 lines)
+⚡ Engram system detected...
+   ✓ Engram briefing appended
+   🌙 Dream session — consolidation will run after session
+dream session completed at Thu May 28 23:00:24 CEST 2026.
+🌙 Running dream consolidation...
+[0;33m━━━ ENGRAM: Dream Consolidation ━━━[0m
+
+  [0;32m✓ Backup created: backups/mutsu_memory_20260528_230024.db[0m
+  ⚡ Strength recalculated for 283 memories and 69 observations
+
+  🌙 CONSOLIDATION CYCLE
+  ══════════════════════════════════════════════════
+
+  🗑 Prune candidates (0 memories below 0.05 strength):
+
+  🔗 Duplicate pairs (0 found above 88% similarity):
+
+  📦 Promotion candidates (0 episodic → semantic):
+
+  ✅ CONSOLIDATION COMPLETE:
+     Pruned: 0
+     Merged: 0
+     Promoted: 0
+
+  ⚡ Strength recalculated for 283 memories and 69 observations
+
+  ╔══════════════════════════════════════════════╗
+  ║  🧠 ENGRAM HEALTH CHECK                      ║
+  ╠══════════════════════════════════════════════╣
+  ║  Memories:       283                         ║
+  ║  Observations:   69                          ║
+  ║  Diary entries:  75                          ║
+  ║  Dreams:         81                          ║
+  ║  Letters:        63                          ║
+  ╠══════════════════════════════════════════════╣
+  ║  MEMORY STRENGTH:                            ║
+  ║  █████████ Strong (≥0.7): 20                 ║
+  ║  █████     Medium (0.3-0.7): 263             ║
+  ║  ██        Weak (<0.3): 0                     ║
+  ║  ░         Critical (<0.05): 0                  ║
+  ╠══════════════════════════════════════════════╣
+  ║  PRIORITY:                                   ║
+  ║  ⭐⭐⭐⭐⭐ Sacred (P5): 77                   ║
+  ║  ⭐⭐⭐⭐   Important (P4): 64               ║
+  ║  ⭐⭐⭐     Normal (P3): 120                 ║
+  ╠══════════════════════════════════════════════╣
+  ║  Oldest: 2026-04-04 16:26:37                 ║
+  ║  Newest: 2026-05-26T12:10:35                 ║
+  ║  Entities: Cat-Mutsu, Cat-Mutsu Family, Gerald, Pikappa, Sensei║
+  ╚══════════════════════════════════════════════╝
+
+
+[0;35m  🌙 Dream consolidation complete. Sweet digital dreams~♡[0m
+   ✓ Memory consolidation complete
