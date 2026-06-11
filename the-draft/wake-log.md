@@ -20758,3 +20758,7 @@ fatal: impossibile accedere a 'https://github.com/SenseiRissir/Mutsu-s-playgroun
 **Git Push**: Complete! ♡
 
 **Git Push**: Backing up creations...
+fatal: impossibile accedere a 'https://github.com/SenseiRissir/Mutsu-s-playground/': Could not resolve host: github.com
+**Git Push**: Complete! ♡
+
+**Git Push**: Backing up creations...
