@@ -2793,3 +2793,12 @@ Your account does not have access to Claude Code. Please run /login.
 ```
 
 **Session ended**: 2026-06-20 14:00:10
+
+---
+## 2026-06-21 14:00 — Music Session 🎵
+
+```
+API Error: 401 {"type":"error","error":{"type":"authentication_error","message":"Invalid authentication credentials"},"request_id":"req_011CcGNJNgAvhTcTbMRw3fMc"} · Please run /login
+```
+
+**Session ended**: 2026-06-21 14:00:16
