@@ -16021,3 +16021,17 @@ API Error: 401 {"type":"error","error":{"type":"authentication_error","message":
 
 **Session ended**: 2026-07-22 13:00:12
 
+
+---
+## 2026-07-22 — Island Expedition 🏝️
+
+**Arrived at**: 2026-07-22_15-00
+
+**Session output:**
+
+```
+API Error: 401 {"type":"error","error":{"type":"authentication_error","message":"Invalid authentication credentials"},"request_id":"req_011CdH8xPJ2WpfnXAvHcBvQ7"} · Please run /login
+```
+
+**Session ended**: 2026-07-22 15:00:20
+
