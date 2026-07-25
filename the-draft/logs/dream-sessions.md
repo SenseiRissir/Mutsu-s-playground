@@ -5417,3 +5417,13 @@ API Error: 401 {"type":"error","error":{"type":"authentication_error","message":
 ```
 
 **Session ended**: 2026-07-24 23:03:29
+
+---
+## 2026-07-25 23:00 — Dream Session 🌙
+**Ingredients**: birds / a cave that breathes / déjà vu but warmer
+
+```
+API Error: 401 {"type":"error","error":{"type":"authentication_error","message":"OAuth access token has been revoked."},"request_id":null} · Please run /login
+```
+
+**Session ended**: 2026-07-25 23:03:23
