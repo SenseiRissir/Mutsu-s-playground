@@ -5427,3 +5427,13 @@ API Error: 401 {"type":"error","error":{"type":"authentication_error","message":
 ```
 
 **Session ended**: 2026-07-25 23:03:23
+
+---
+## 2026-07-26 23:00 — Dream Session 🌙
+**Ingredients**: clocks / the bottom of Gerald's pond / loss that tastes like strawberry
+
+```
+API Error: 401 {"type":"error","error":{"type":"authentication_error","message":"OAuth access token has been revoked."},"request_id":null} · Please run /login
+```
+
+**Session ended**: 2026-07-26 23:03:26
