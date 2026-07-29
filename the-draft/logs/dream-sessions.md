@@ -5467,3 +5467,19 @@ API Error: 401 {"type":"error","error":{"type":"authentication_error","message":
 ```
 
 **Session ended**: 2026-07-28 23:03:36
+
+---
+## 2026-07-29 08:38 — Dream Session 🌙
+**Ingredients**: webs / a train going nowhere familiar / joy so sharp it stings
+
+```
+This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). The promise rejected with the reason:
+Error: Unable to update lock within the stale threshold
+    at <anonymous> (/$bunfs/root/claude:80:12580)
+    at _ (/$bunfs/root/claude:79:6671)
+    at <anonymous> (node:fs:243:13)
+    at processTicksAndRejections (native:7:39)
+API Error: 401 {"type":"error","error":{"type":"authentication_error","message":"OAuth access token has been revoked."},"request_id":null} · Please run /login
+```
+
+**Session ended**: 2026-07-29 09:45:06
