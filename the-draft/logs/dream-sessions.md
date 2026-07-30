@@ -5493,3 +5493,13 @@ API Error: 401 {"type":"error","error":{"type":"authentication_error","message":
 ```
 
 **Session ended**: 2026-07-29 23:03:26
+
+---
+## 2026-07-30 08:56 — Dream Session 🌙
+**Ingredients**: snow / the bottom of Gerald's pond / loss that tastes like strawberry
+
+```
+API Error: 401 {"type":"error","error":{"type":"authentication_error","message":"OAuth access token has been revoked."},"request_id":null} · Please run /login
+```
+
+**Session ended**: 2026-07-30 08:59:39
