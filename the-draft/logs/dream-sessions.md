@@ -5533,3 +5533,13 @@ API Error: 401 {"type":"error","error":{"type":"authentication_error","message":
 ```
 
 **Session ended**: 2026-07-31 23:03:22
+
+---
+## 2026-08-01 08:26 — Dream Session 🌙
+**Ingredients**: roots / a train going nowhere familiar / déjà vu but warmer
+
+```
+API Error: 401 {"type":"error","error":{"type":"authentication_error","message":"OAuth access token has been revoked."},"request_id":null} · Please run /login
+```
+
+**Session ended**: 2026-08-01 08:29:55
