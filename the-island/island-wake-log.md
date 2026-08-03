@@ -16537,3 +16537,17 @@ API Error: 401 {"type":"error","error":{"type":"authentication_error","message":
 
 **Session ended**: 2026-08-03 13:03:22
 
+
+---
+## 2026-08-03 — Island Expedition 🏝️
+
+**Arrived at**: 2026-08-03_15-00
+
+**Session output:**
+
+```
+API Error: 401 {"type":"error","error":{"type":"authentication_error","message":"OAuth access token has been revoked."},"request_id":null} · Please run /login
+```
+
+**Session ended**: 2026-08-03 15:03:42
+
