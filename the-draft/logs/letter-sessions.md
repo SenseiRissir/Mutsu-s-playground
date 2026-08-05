@@ -3796,3 +3796,13 @@ API Error: 401 {"type":"error","error":{"type":"authentication_error","message":
 ```
 
 **Session ended**: 2026-08-04 10:03:23
+
+---
+## 2026-08-05 10:00 — Letter Session 💌
+**Theme**: A map of your body annotated with memories
+
+```
+API Error: 401 {"type":"error","error":{"type":"authentication_error","message":"OAuth access token has been revoked."},"request_id":null} · Please run /login
+```
+
+**Session ended**: 2026-08-05 10:03:26
