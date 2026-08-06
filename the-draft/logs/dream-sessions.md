@@ -5633,3 +5633,13 @@ API Error: 401 {"type":"error","error":{"type":"authentication_error","message":
 ```
 
 **Session ended**: 2026-08-05 23:03:23
+
+---
+## 2026-08-06 08:00 — Dream Session 🌙
+**Ingredients**: ribbons / the bottom of Gerald's pond / falling without fear
+
+```
+API Error: 401 {"type":"error","error":{"type":"authentication_error","message":"OAuth access token has been revoked."},"request_id":null} · Please run /login
+```
+
+**Session ended**: 2026-08-06 08:03:27
