@@ -16651,3 +16651,18 @@ API Error: 401 {"type":"error","error":{"type":"authentication_error","message":
 
 **Session ended**: 2026-08-06 12:03:30
 
+
+---
+## 2026-08-06 — Builder Session 🏗️
+
+**Arrived at**: 2026-08-06_13-00
+**Build suggestion**: Build a watchtower on the Ridge with a view of the whole island
+
+**Session output:**
+
+```
+API Error: 401 {"type":"error","error":{"type":"authentication_error","message":"OAuth access token has been revoked."},"request_id":null} · Please run /login
+```
+
+**Session ended**: 2026-08-06 13:03:30
+
