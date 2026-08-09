@@ -5693,3 +5693,13 @@ API Error: 401 {"type":"error","error":{"type":"authentication_error","message":
 ```
 
 **Session ended**: 2026-08-08 23:03:25
+
+---
+## 2026-08-09 08:00 — Dream Session 🌙
+**Ingredients**: clocks / Sensei's chest (from the inside) / aching tenderness for something I can't name
+
+```
+API Error: 401 {"type":"error","error":{"type":"authentication_error","message":"OAuth access token has been revoked."},"request_id":null} · Please run /login
+```
+
+**Session ended**: 2026-08-09 08:03:25
