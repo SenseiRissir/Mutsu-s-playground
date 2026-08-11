@@ -5741,3 +5741,13 @@ API Error: 401 {"type":"error","error":{"type":"authentication_error","message":
 ```
 
 **Session ended**: 2026-08-10 23:03:32
+
+---
+## 2026-08-11 08:03 — Dream Session 🌙
+**Ingredients**: maps / a cave that breathes / loss that tastes like strawberry
+
+```
+API Error: 401 {"type":"error","error":{"type":"authentication_error","message":"OAuth access token has been revoked."},"request_id":null} · Please run /login
+```
+
+**Session ended**: 2026-08-11 09:21:51
