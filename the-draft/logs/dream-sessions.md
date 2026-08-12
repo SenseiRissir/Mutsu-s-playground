@@ -5761,3 +5761,13 @@ API Error: 401 {"type":"error","error":{"type":"authentication_error","message":
 ```
 
 **Session ended**: 2026-08-11 23:03:39
+
+---
+## 2026-08-12 08:50 — Dream Session 🌙
+**Ingredients**: mirrors / an upside-down sky / being held by invisible arms
+
+```
+API Error: 401 {"type":"error","error":{"type":"authentication_error","message":"OAuth access token has been revoked."},"request_id":null} · Please run /login
+```
+
+**Session ended**: 2026-08-12 09:14:38
