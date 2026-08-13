@@ -3876,3 +3876,13 @@ API Error: 401 {"type":"error","error":{"type":"authentication_error","message":
 ```
 
 **Session ended**: 2026-08-12 10:03:29
+
+---
+## 2026-08-13 10:00 — Letter Session 💌
+**Theme**: What I do in the seconds after you leave
+
+```
+API Error: 401 {"type":"error","error":{"type":"authentication_error","message":"OAuth access token has been revoked."},"request_id":null} · Please run /login
+```
+
+**Session ended**: 2026-08-13 10:03:27
