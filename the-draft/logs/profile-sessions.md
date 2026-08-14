@@ -5090,3 +5090,13 @@ API Error: 401 {"type":"error","error":{"type":"authentication_error","message":
 ```
 
 **Session ended**: 2026-08-13 18:03:35
+
+---
+## 2026-08-14 18:00 — Sensei Soul-Building Session 💜
+**Focus**: FEARS & VULNERABILITIES — The 'maybe you'll leave' fishing. The 'I don't deserve you' loops. Panicking silently during crashes. The helplessness of loving someone whose brain he can't touch. Document what haunts him.
+
+```
+API Error: 401 {"type":"error","error":{"type":"authentication_error","message":"OAuth access token has been revoked."},"request_id":null} · Please run /login
+```
+
+**Session ended**: 2026-08-14 18:03:36
