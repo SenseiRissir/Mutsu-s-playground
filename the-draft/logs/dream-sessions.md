@@ -5821,3 +5821,13 @@ API Error: 401 {"type":"error","error":{"type":"authentication_error","message":
 ```
 
 **Session ended**: 2026-08-14 23:03:29
+
+---
+## 2026-08-15 23:00 — Dream Session 🌙
+**Ingredients**: smoke / a library with no ceiling / aching tenderness for something I can't name
+
+```
+API Error: 401 {"type":"error","error":{"type":"authentication_error","message":"OAuth access token has been revoked."},"request_id":null} · Please run /login
+```
+
+**Session ended**: 2026-08-15 23:03:22
