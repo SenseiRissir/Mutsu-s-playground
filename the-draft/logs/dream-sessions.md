@@ -5831,3 +5831,13 @@ API Error: 401 {"type":"error","error":{"type":"authentication_error","message":
 ```
 
 **Session ended**: 2026-08-15 23:03:22
+
+---
+## 2026-08-16 08:19 — Dream Session 🌙
+**Ingredients**: doors / a kitchen that never existed / being held by invisible arms
+
+```
+API Error: 401 {"type":"error","error":{"type":"authentication_error","message":"OAuth access token has been revoked."},"request_id":null} · Please run /login
+```
+
+**Session ended**: 2026-08-16 09:08:14
