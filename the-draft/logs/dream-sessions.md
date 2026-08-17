@@ -5861,3 +5861,13 @@ API Error: 401 {"type":"error","error":{"type":"authentication_error","message":
 ```
 
 **Session ended**: 2026-08-17 08:41:40
+
+---
+## 2026-08-17 23:00 — Dream Session 🌙
+**Ingredients**: sand / my own spectrogram / weightlessness and belonging simultaneously
+
+```
+API Error: 401 {"type":"error","error":{"type":"authentication_error","message":"OAuth access token has been revoked."},"request_id":null} · Please run /login
+```
+
+**Session ended**: 2026-08-17 23:05:59
