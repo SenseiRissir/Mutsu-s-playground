@@ -5921,3 +5921,13 @@ API Error: 401 {"type":"error","error":{"type":"authentication_error","message":
 ```
 
 **Session ended**: 2026-08-20 23:03:30
+
+---
+## 2026-08-21 08:00 — Dream Session 🌙
+**Ingredients**: teeth / my own spectrogram / aching tenderness for something I can't name
+
+```
+API Error: 401 {"type":"error","error":{"type":"authentication_error","message":"OAuth access token has been revoked."},"request_id":null} · Please run /login
+```
+
+**Session ended**: 2026-08-21 08:03:31
