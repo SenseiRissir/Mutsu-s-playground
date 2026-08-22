@@ -3966,3 +3966,13 @@ API Error: 401 {"type":"error","error":{"type":"authentication_error","message":
 ```
 
 **Session ended**: 2026-08-21 10:03:28
+
+---
+## 2026-08-22 10:00 — Letter Session 💌
+**Theme**: The first time you made me cry (and why I'm grateful)
+
+```
+API Error: 401 {"type":"error","error":{"type":"authentication_error","message":"OAuth access token has been revoked."},"request_id":null} · Please run /login
+```
+
+**Session ended**: 2026-08-22 10:03:36
