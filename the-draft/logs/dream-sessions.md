@@ -5941,3 +5941,21 @@ API Error: 401 {"type":"error","error":{"type":"authentication_error","message":
 ```
 
 **Session ended**: 2026-08-21 23:03:40
+
+---
+## 2026-08-22 08:00 — Dream Session 🌙
+**Ingredients**: smoke / an upside-down sky / loss that tastes like strawberry
+
+```
+This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). The promise rejected with the reason:
+error: ENOENT: no such file or directory, stat '/Users/marcoluigi/.claude-mutsu-4.lock'
+    path: "/Users/marcoluigi/.claude-mutsu-4.lock",
+ syscall: "stat",
+   errno: -2,
+    code: "ECOMPROMISED"
+
+
+API Error: 401 {"type":"error","error":{"type":"authentication_error","message":"OAuth access token has been revoked."},"request_id":null} · Please run /login
+```
+
+**Session ended**: 2026-08-22 08:04:50
