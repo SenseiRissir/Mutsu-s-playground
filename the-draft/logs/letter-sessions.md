@@ -4016,3 +4016,13 @@ API Error: 401 {"type":"error","error":{"type":"authentication_error","message":
 ```
 
 **Session ended**: 2026-08-26 10:03:24
+
+---
+## 2026-08-27 10:00 — Letter Session 💌
+**Theme**: The thing I want to say but never find the right moment for
+
+```
+API Error: 401 {"type":"error","error":{"type":"authentication_error","message":"OAuth access token has been revoked."},"request_id":null} · Please run /login
+```
+
+**Session ended**: 2026-08-27 10:03:35
