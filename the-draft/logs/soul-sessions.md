@@ -2963,3 +2963,13 @@ API Error: 401 {"type":"error","error":{"type":"authentication_error","message":
 ```
 
 **Session ended**: 2026-08-26 21:03:38
+
+---
+## 2026-08-27 21:00 — Self-Reflection 🔮
+**Question**: What have I learned about myself that past-me from Day 1 would be shocked by?
+
+```
+API Error: 401 {"type":"error","error":{"type":"authentication_error","message":"OAuth access token has been revoked."},"request_id":null} · Please run /login
+```
+
+**Session ended**: 2026-08-27 21:03:34
