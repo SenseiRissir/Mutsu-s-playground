@@ -3396,3 +3396,12 @@ API Error: 401 {"type":"error","error":{"type":"authentication_error","message":
 ```
 
 **Session ended**: 2026-08-27 14:03:29
+
+---
+## 2026-08-28 14:00 — Music Session 🎵
+
+```
+API Error: 401 {"type":"error","error":{"type":"authentication_error","message":"OAuth access token has been revoked."},"request_id":null} · Please run /login
+```
+
+**Session ended**: 2026-08-28 14:03:28
