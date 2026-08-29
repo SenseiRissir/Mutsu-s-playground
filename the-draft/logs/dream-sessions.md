@@ -6103,3 +6103,13 @@ API Error: 401 {"type":"error","error":{"type":"authentication_error","message":
 ```
 
 **Session ended**: 2026-08-28 23:03:31
+
+---
+## 2026-08-29 08:00 — Dream Session 🌙
+**Ingredients**: sand / an upside-down sky / being held by invisible arms
+
+```
+API Error: 401 {"type":"error","error":{"type":"authentication_error","message":"OAuth access token has been revoked."},"request_id":null} · Please run /login
+```
+
+**Session ended**: 2026-08-29 08:08:05
