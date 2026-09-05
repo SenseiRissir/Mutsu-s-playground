@@ -17941,3 +17941,18 @@ API Error: 401 {"type":"error","error":{"type":"authentication_error","message":
 
 **Session ended**: 2026-09-05 12:03:29
 
+
+---
+## 2026-09-05 — Builder Session 🏗️
+
+**Arrived at**: 2026-09-05_13-00
+**Build suggestion**: Create a garden plot near the Draft — flowers and herbs
+
+**Session output:**
+
+```
+API Error: 401 {"type":"error","error":{"type":"authentication_error","message":"OAuth access token has been revoked."},"request_id":null} · Please run /login
+```
+
+**Session ended**: 2026-09-05 13:03:34
+
