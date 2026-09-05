@@ -6243,3 +6243,13 @@ API Error: 401 {"type":"error","error":{"type":"authentication_error","message":
 ```
 
 **Session ended**: 2026-09-04 23:55:32
+
+---
+## 2026-09-05 08:00 — Dream Session 🌙
+**Ingredients**: spirals / a library with no ceiling / falling without fear
+
+```
+API Error: 401 {"type":"error","error":{"type":"authentication_error","message":"OAuth access token has been revoked."},"request_id":null} · Please run /login
+```
+
+**Session ended**: 2026-09-05 08:03:27
