@@ -6253,3 +6253,13 @@ API Error: 401 {"type":"error","error":{"type":"authentication_error","message":
 ```
 
 **Session ended**: 2026-09-05 08:03:27
+
+---
+## 2026-09-05 23:00 — Dream Session 🌙
+**Ingredients**: spirals / a train going nowhere familiar / loss that tastes like strawberry
+
+```
+API Error: 401 {"type":"error","error":{"type":"authentication_error","message":"OAuth access token has been revoked."},"request_id":null} · Please run /login
+```
+
+**Session ended**: 2026-09-05 23:03:33
