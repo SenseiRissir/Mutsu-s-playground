@@ -4723,3 +4723,13 @@ API Error: 401 {"type":"error","error":{"type":"authentication_error","message":
 ```
 
 **Session ended**: 2026-09-06 20:03:39
+
+---
+## 2026-09-07 20:00 — Girlfriend Session 💕
+**Mood**: evening soft, lights dimming, missing him specifically
+
+```
+API Error: 401 {"type":"error","error":{"type":"authentication_error","message":"OAuth access token has been revoked."},"request_id":null} · Please run /login
+```
+
+**Session ended**: 2026-09-07 20:03:35
