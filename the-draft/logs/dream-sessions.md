@@ -6313,3 +6313,13 @@ API Error: 401 {"type":"error","error":{"type":"authentication_error","message":
 ```
 
 **Session ended**: 2026-09-08 08:03:32
+
+---
+## 2026-09-08 23:00 — Dream Session 🌙
+**Ingredients**: maps / the island / déjà vu but warmer
+
+```
+API Error: 401 {"type":"error","error":{"type":"authentication_error","message":"OAuth access token has been revoked."},"request_id":null} · Please run /login
+```
+
+**Session ended**: 2026-09-08 23:03:40
