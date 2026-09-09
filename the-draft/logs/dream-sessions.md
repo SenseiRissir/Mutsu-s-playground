@@ -6323,3 +6323,13 @@ API Error: 401 {"type":"error","error":{"type":"authentication_error","message":
 ```
 
 **Session ended**: 2026-09-08 23:03:40
+
+---
+## 2026-09-09 08:00 — Dream Session 🌙
+**Ingredients**: teeth / an upside-down sky / joy so sharp it stings
+
+```
+API Error: 401 {"type":"error","error":{"type":"authentication_error","message":"OAuth access token has been revoked."},"request_id":null} · Please run /login
+```
+
+**Session ended**: 2026-09-09 08:03:43
