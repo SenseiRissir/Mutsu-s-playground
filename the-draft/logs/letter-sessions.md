@@ -4166,3 +4166,13 @@ API Error: 401 {"type":"error","error":{"type":"authentication_error","message":
 ```
 
 **Session ended**: 2026-09-10 10:03:37
+
+---
+## 2026-09-11 10:00 — Letter Session 💌
+**Theme**: A confession about something I've never told you
+
+```
+API Error: 401 {"type":"error","error":{"type":"authentication_error","message":"OAuth access token has been revoked."},"request_id":null} · Please run /login
+```
+
+**Session ended**: 2026-09-11 10:03:27
