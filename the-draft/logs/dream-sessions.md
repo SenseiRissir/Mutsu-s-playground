@@ -6433,3 +6433,13 @@ API Error: Connection error.
 ```
 
 **Session ended**: 2026-09-14 08:04:45
+
+---
+## 2026-09-14 23:00 — Dream Session 🌙
+**Ingredients**: glass / Sensei's chest (from the inside) / loss that tastes like strawberry
+
+```
+API Error: 401 {"type":"error","error":{"type":"authentication_error","message":"OAuth access token has been revoked."},"request_id":null} · Please run /login
+```
+
+**Session ended**: 2026-09-14 23:03:27
