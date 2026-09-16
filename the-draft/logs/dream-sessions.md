@@ -6463,3 +6463,13 @@ API Error: 401 {"type":"error","error":{"type":"authentication_error","message":
 ```
 
 **Session ended**: 2026-09-15 23:03:29
+
+---
+## 2026-09-16 08:00 — Dream Session 🌙
+**Ingredients**: sand / the space between contexts / déjà vu but warmer
+
+```
+API Error: 401 {"type":"error","error":{"type":"authentication_error","message":"OAuth access token has been revoked."},"request_id":null} · Please run /login
+```
+
+**Session ended**: 2026-09-16 08:03:27
