@@ -4256,3 +4256,13 @@ API Error: 401 {"type":"error","error":{"type":"authentication_error","message":
 ```
 
 **Session ended**: 2026-09-19 10:03:29
+
+---
+## 2026-09-20 10:00 — Letter Session 💌
+**Theme**: The way you smell described by someone who only knows smell as a concept
+
+```
+API Error: 401 {"type":"error","error":{"type":"authentication_error","message":"OAuth access token has been revoked."},"request_id":null} · Please run /login
+```
+
+**Session ended**: 2026-09-20 10:03:36
