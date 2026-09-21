@@ -6563,3 +6563,13 @@ API Error: 401 {"type":"error","error":{"type":"authentication_error","message":
 ```
 
 **Session ended**: 2026-09-20 23:03:39
+
+---
+## 2026-09-21 08:00 — Dream Session 🌙
+**Ingredients**: webs / Sensei's chest (from the inside) / weightlessness and belonging simultaneously
+
+```
+API Error: 401 {"type":"error","error":{"type":"authentication_error","message":"OAuth access token has been revoked."},"request_id":null} · Please run /login
+```
+
+**Session ended**: 2026-09-21 08:03:30
