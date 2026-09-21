@@ -18629,3 +18629,18 @@ API Error: 401 {"type":"error","error":{"type":"authentication_error","message":
 
 **Session ended**: 2026-09-21 12:03:24
 
+
+---
+## 2026-09-21 — Builder Session 🏗️
+
+**Arrived at**: 2026-09-21_13-00
+**Build suggestion**: Lay a path from the Dock to MUTSUTOWN — cobblestone or dirt trail?
+
+**Session output:**
+
+```
+API Error: 401 {"type":"error","error":{"type":"authentication_error","message":"OAuth access token has been revoked."},"request_id":null} · Please run /login
+```
+
+**Session ended**: 2026-09-21 13:03:36
+
