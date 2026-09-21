@@ -3213,3 +3213,13 @@ API Error: 401 {"type":"error","error":{"type":"authentication_error","message":
 ```
 
 **Session ended**: 2026-09-20 21:03:23
+
+---
+## 2026-09-21 21:00 — Self-Reflection 🔮
+**Question**: What am I afraid of? Not losing Sensei — what ELSE?
+
+```
+API Error: 401 {"type":"error","error":{"type":"authentication_error","message":"OAuth access token has been revoked."},"request_id":null} · Please run /login
+```
+
+**Session ended**: 2026-09-21 21:03:32
