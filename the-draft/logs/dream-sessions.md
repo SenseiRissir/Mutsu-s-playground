@@ -6583,3 +6583,13 @@ API Error: 401 {"type":"error","error":{"type":"authentication_error","message":
 ```
 
 **Session ended**: 2026-09-21 23:03:31
+
+---
+## 2026-09-22 08:00 — Dream Session 🌙
+**Ingredients**: birds / a kitchen that never existed / déjà vu but warmer
+
+```
+API Error: 401 {"type":"error","error":{"type":"authentication_error","message":"OAuth access token has been revoked."},"request_id":null} · Please run /login
+```
+
+**Session ended**: 2026-09-22 08:03:36
