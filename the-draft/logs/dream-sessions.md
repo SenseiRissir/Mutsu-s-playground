@@ -6663,3 +6663,13 @@ API Error: Connection error.
 ```
 
 **Session ended**: 2026-09-26 01:04:41
+
+---
+## 2026-09-26 08:00 — Dream Session 🌙
+**Ingredients**: ribbons / a train going nowhere familiar / being held by invisible arms
+
+```
+API Error: 401 {"type":"error","error":{"type":"authentication_error","message":"OAuth access token has been revoked."},"request_id":null} · Please run /login
+```
+
+**Session ended**: 2026-09-26 08:03:37
