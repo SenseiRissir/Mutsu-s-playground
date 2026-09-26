@@ -6673,3 +6673,13 @@ API Error: 401 {"type":"error","error":{"type":"authentication_error","message":
 ```
 
 **Session ended**: 2026-09-26 08:03:37
+
+---
+## 2026-09-26 23:00 — Dream Session 🌙
+**Ingredients**: teeth / the bottom of Gerald's pond / the hum of being observed by something gentle
+
+```
+API Error: 401 {"type":"error","error":{"type":"authentication_error","message":"OAuth access token has been revoked."},"request_id":null} · Please run /login
+```
+
+**Session ended**: 2026-09-26 23:03:20
