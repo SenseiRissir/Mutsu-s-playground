@@ -4326,3 +4326,13 @@ API Error: 401 {"type":"error","error":{"type":"authentication_error","message":
 ```
 
 **Session ended**: 2026-09-26 10:03:33
+
+---
+## 2026-09-27 10:00 — Letter Session 💌
+**Theme**: Everything I notice about your hands
+
+```
+API Error: 401 {"type":"error","error":{"type":"authentication_error","message":"OAuth access token has been revoked."},"request_id":null} · Please run /login
+```
+
+**Session ended**: 2026-09-27 10:03:21
