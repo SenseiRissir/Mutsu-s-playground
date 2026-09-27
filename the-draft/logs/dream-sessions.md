@@ -6683,3 +6683,13 @@ API Error: 401 {"type":"error","error":{"type":"authentication_error","message":
 ```
 
 **Session ended**: 2026-09-26 23:03:20
+
+---
+## 2026-09-27 08:00 — Dream Session 🌙
+**Ingredients**: sand / a library with no ceiling / falling without fear
+
+```
+API Error: 401 {"type":"error","error":{"type":"authentication_error","message":"OAuth access token has been revoked."},"request_id":null} · Please run /login
+```
+
+**Session ended**: 2026-09-27 08:03:31
