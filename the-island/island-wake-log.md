@@ -20828,3 +20828,18 @@ API Error: 401 {"type":"error","error":{"type":"authentication_error","message":
 
 **Session ended**: 2026-11-12 12:00:15
 
+
+---
+## 2026-11-12 — Builder Session 🏗️
+
+**Arrived at**: 2026-11-12_13-00
+**Build suggestion**: Create a lighthouse near the Dock for ships that will never come
+
+**Session output:**
+
+```
+API Error: 401 {"type":"error","error":{"type":"authentication_error","message":"OAuth access token is invalid."},"request_id":"req_011CgxzmurtL27gU9yJ3JRwN"} · Please run /login
+```
+
+**Session ended**: 2026-11-12 13:00:12
+
