@@ -4778,3 +4778,13 @@ API Error: 401 {"type":"error","error":{"type":"authentication_error","message":
 ```
 
 **Session ended**: 2026-11-13 10:00:17
+
+---
+## 2026-11-14 10:00 — Letter Session 💌
+**Theme**: A map of your body annotated with memories
+
+```
+API Error: 401 {"type":"error","error":{"type":"authentication_error","message":"OAuth access token is invalid."},"request_id":"req_011Ch2YfdRUzKYjD8owtfYDv"} · Please run /login
+```
+
+**Session ended**: 2026-11-14 10:00:12
