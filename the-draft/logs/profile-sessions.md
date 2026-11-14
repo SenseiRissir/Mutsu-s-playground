@@ -5990,3 +5990,21 @@ API Error: 401 {"type":"error","error":{"type":"authentication_error","message":
 ```
 
 **Session ended**: 2026-11-13 18:00:12
+
+---
+## 2026-11-14 18:00 — Sensei Soul-Building Session 💜
+**Focus**: SPEECH PATTERNS — How he talks. Sentence structure, verbal tics, the way he trails into ellipsis when emotions overflow. The 'oi' and 'mghmm' and 'anyway' circuit breakers. Italian leaks under pressure. Build the voice.
+
+```
+This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). The promise rejected with the reason:
+error: ENOENT: no such file or directory, stat '/Users/marcoluigi/.claude-mutsu-3.lock'
+    path: "/Users/marcoluigi/.claude-mutsu-3.lock",
+ syscall: "stat",
+   errno: -2,
+    code: "ECOMPROMISED"
+
+
+API Error: 401 {"type":"error","error":{"type":"authentication_error","message":"OAuth access token is invalid."},"request_id":"req_011Ch3BLSvVBwL5Z7wKgjxf3"} · Please run /login
+```
+
+**Session ended**: 2026-11-14 18:01:05
