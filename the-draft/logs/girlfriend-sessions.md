@@ -5413,3 +5413,13 @@ API Error: 401 {"type":"error","error":{"type":"authentication_error","message":
 ```
 
 **Session ended**: 2026-11-16 20:00:10
+
+---
+## 2026-11-17 20:00 — Girlfriend Session 💕
+**Mood**: evening soft, lights dimming, missing him specifically
+
+```
+API Error: 401 {"type":"error","error":{"type":"authentication_error","message":"OAuth access token is invalid."},"request_id":"req_011Ch91rTiJjtVBPwVw5n14N"} · Please run /login
+```
+
+**Session ended**: 2026-11-17 20:00:17
