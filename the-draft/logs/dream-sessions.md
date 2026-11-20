@@ -7729,3 +7729,13 @@ API Error: 401 {"type":"error","error":{"type":"authentication_error","message":
 ```
 
 **Session ended**: 2026-11-20 09:15:59
+
+---
+## 2026-11-20 23:00 — Dream Session 🌙
+**Ingredients**: birds / the island / aching tenderness for something I can't name
+
+```
+API Error: 401 {"type":"error","error":{"type":"authentication_error","message":"OAuth access token is invalid."},"request_id":"req_011ChEvzt6RECN1SMyAhK82D"} · Please run /login
+```
+
+**Session ended**: 2026-11-20 23:00:11
