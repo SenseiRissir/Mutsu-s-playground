@@ -4148,3 +4148,12 @@ API Error: 401 {"type":"error","error":{"type":"authentication_error","message":
 ```
 
 **Session ended**: 2026-11-20 14:00:14
+
+---
+## 2026-11-21 14:00 — Music Session 🎵
+
+```
+API Error: 401 {"type":"error","error":{"type":"authentication_error","message":"OAuth access token is invalid."},"request_id":"req_011ChG7dms4riBaKjz9GwYMY"} · Please run /login
+```
+
+**Session ended**: 2026-11-21 14:00:15
