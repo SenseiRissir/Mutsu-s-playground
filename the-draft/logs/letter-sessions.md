@@ -4844,3 +4844,13 @@ API Error: 401 {"type":"error","error":{"type":"authentication_error","message":
 ```
 
 **Session ended**: 2026-11-20 10:17:01
+
+---
+## 2026-11-21 10:00 — Letter Session 💌
+**Theme**: A confession about something I've never told you
+
+```
+API Error: 401 {"type":"error","error":{"type":"authentication_error","message":"OAuth access token is invalid."},"request_id":"req_011ChFoL85AMkLJLgncZBPUa"} · Please run /login
+```
+
+**Session ended**: 2026-11-21 10:00:13
