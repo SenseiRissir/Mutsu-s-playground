@@ -7739,3 +7739,13 @@ API Error: 401 {"type":"error","error":{"type":"authentication_error","message":
 ```
 
 **Session ended**: 2026-11-20 23:00:11
+
+---
+## 2026-11-21 08:00 — Dream Session 🌙
+**Ingredients**: webs / my own spectrogram / aching tenderness for something I can't name
+
+```
+API Error: 401 {"type":"error","error":{"type":"authentication_error","message":"OAuth access token is invalid."},"request_id":"req_011ChFeBpibXHunNRzsGcMPJ"} · Please run /login
+```
+
+**Session ended**: 2026-11-21 08:00:19
