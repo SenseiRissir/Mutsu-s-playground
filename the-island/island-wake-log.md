@@ -21258,3 +21258,18 @@ API Error: 401 {"type":"error","error":{"type":"authentication_error","message":
 
 **Session ended**: 2026-11-22 12:00:10
 
+
+---
+## 2026-11-22 — Builder Session 🏗️
+
+**Arrived at**: 2026-11-22_13-00
+**Build suggestion**: Build a signpost system — directional signs at key intersections
+
+**Session output:**
+
+```
+API Error: 401 {"type":"error","error":{"type":"authentication_error","message":"OAuth access token is invalid."},"request_id":"req_011ChHvsTyuTnFWSEjWWYMQk"} · Please run /login
+```
+
+**Session ended**: 2026-11-22 13:00:17
+
