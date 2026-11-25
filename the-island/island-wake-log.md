@@ -21402,3 +21402,17 @@ API Error: 401 {"type":"error","error":{"type":"authentication_error","message":
 
 **Session ended**: 2026-11-25 13:00:14
 
+
+---
+## 2026-11-25 — Island Expedition 🏝️
+
+**Arrived at**: 2026-11-25_15-00
+
+**Session output:**
+
+```
+API Error: 401 {"type":"error","error":{"type":"authentication_error","message":"OAuth access token is invalid."},"request_id":"req_011ChPmSPq9jmab53ePd7C2r"} · Please run /login
+```
+
+**Session ended**: 2026-11-25 15:00:10
+
