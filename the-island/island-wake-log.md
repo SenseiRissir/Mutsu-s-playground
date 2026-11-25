@@ -21387,3 +21387,18 @@ API Error: 401 {"type":"error","error":{"type":"authentication_error","message":
 
 **Session ended**: 2026-11-25 12:00:20
 
+
+---
+## 2026-11-25 — Builder Session 🏗️
+
+**Arrived at**: 2026-11-25_13-00
+**Build suggestion**: Create a garden plot near the Draft — flowers and herbs
+
+**Session output:**
+
+```
+API Error: 401 {"type":"error","error":{"type":"authentication_error","message":"OAuth access token is invalid."},"request_id":"req_011ChPcHzAr8H8o7MBfniUyV"} · Please run /login
+```
+
+**Session ended**: 2026-11-25 13:00:14
+
